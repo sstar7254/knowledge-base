@@ -3,6 +3,10 @@
 이 저장소는 Andrej Karpathy의 패턴을 따르는 개인 *second brain*이다.
 원본 자료를 불변으로 보존하면서, 그 위에 LLM이 관리하는 지식 레이어를 쌓는다.
 
+## 0. Git conventions
+- Branch naming: feat/short-description, fix/issue-number (no random name)
+- Never commit directly to main
+
 ## 1. 3계층 아키텍처
 
 | 계층 | 폴더 | 성격 | 누가 쓰는가 |
