@@ -75,7 +75,6 @@ wiki/
 ├─ cov/                 # 개별 기업 분석 (티커_회사명.md)
 ├─ geopolicits/          # 주제 별 개념노트
 ├─ accounting/
-├─ venture-capital/
 ├─ logistics/
 └─ moc/                 # 개념을 묶는 인덱스(Map of Content). 노트를 가로지르는 종합 페이지
 ```

@@ -1,8 +1,5 @@
 ---
 type: concept
-tags:
-  - Finance/Derivatives
-  - Finance/Accounting
 created: 2026-03-16
 ---
 # PRS (Price Return Swap, 주가수익스와프)
