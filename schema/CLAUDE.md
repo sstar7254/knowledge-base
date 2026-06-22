@@ -7,8 +7,8 @@
 
 | 계층 | 폴더 | 성격 | 누가 쓰는가 |
 | --- | --- | --- | --- |
-| **raw** | `raw/` | 불변(immutable) 원본 소스 + 인덱스(MOC) | 사람이 추가/이동, LLM은 **읽기 전용** |
-| **wiki** | `wiki/` | 개념 노트 · 기업 분석(cov) · 종합 페이지 | **LLM이 유지·관리** |
+| **raw** | `raw/` | 불변(immutable) 원본 소스 | 사람이 추가/이동, LLM은 **읽기 전용** |
+| **wiki** | `wiki/` | 개념 노트 · 기업 분석(cov) · 종합 페이지(moc) | **LLM이 유지·관리** |
 | **schema** | `schema/` | 조직 규칙 (이 파일) | 사람 + LLM 합의 |
 
 핵심 원칙: **raw는 진실의 원천(source of truth), wiki는 그 위에서 파생된 합성물(derived).**
@@ -21,19 +21,17 @@
 
 ```
 raw/
-├─ news-scrap/          # 뉴스 스크랩 (날짜순, 한 폴더에 평탄하게)
-├─ strategic-thinking/  # 거시·지정학 장문 에세이 (1-x, 2-x 시리즈)
-├─ startup-innovation/  # 스타트업·VC 실무 자료
-├─ stock-market/        # 섹터별 산업 리서치 (섹터 폴더만 유지, 기업 노트는 wiki/cov로)
-│  ├─ Macro/
-│  ├─ AI_Semiconductor_Robotics/
-│  ├─ Cosmetics/
-│  ├─ Medical_Pharma/
-│  ├─ Energy/
-│  ├─ Auto_Ship_Buildings/
-│  ├─ Aerospace_Defense/
-│  └─ Finance/
-└─ moc/                 # 여러 개념을 묶는 인덱스/지도 (Map of Content)
+├─ news-scrap/          # 뉴스 스크랩 ((날짜)_(제목).md)
+├─ startup-innovation/  # 스타트업·VC 관련 자료
+├─ stock-market/        # 섹터별 산업 리서치 (Macro, Energy, Finance ...)
+|  ├─ AI_semiconductor_robotics/
+|  ├─ aerospace_defense/
+|  ├─ auto_ship_buildings/
+|  ├─ cosmetics/
+|  ├─ energy/
+|  ├─ macro/
+|  └─ medical_pharma/
+└─ strategic-thinking/  # 거시·지정학 에세이
 ```
 
 ### raw 명명 규칙
@@ -42,7 +40,6 @@ raw/
   출처(URL·매체명)는 본문 frontmatter의 `source:` 필드로 보존한다 (폴더로 분류하지 않는다).
 - **stock-market 섹터 폴더**: 섹터 번호·점·공백 없이 클린한 이름을 쓴다 (예: `09. Finance` → `Finance`).
   섹터 자체의 산업 리서치만 여기 두고, 개별 기업 노트는 `wiki/cov/`로 보낸다.
-- **moc**: 개념을 가로지르는 인덱스 페이지를 둔다 (예: `미중 패권 경쟁.md`, `중동 분쟁의 역사.md`).
 
 ### raw 노트의 frontmatter 관습 (관찰된 것)
 
@@ -62,25 +59,24 @@ tags:
 
 ```
 wiki/
-├─ cov/                 # 개별 기업 분석 노트 (티커_회사명.md), 섹터 인덱스는 cov/README.md
-├─ Geopolitics/         # 지정학 개념 노트
-├─ Economics/           # 경제 개념 노트
-├─ Accounting/          # 회계·금융상품 개념 노트
-├─ Venture Capital/     # 스타트업·VC 개념 노트
-├─ README.md            # 허브
-└─ *.md                 # 노트를 가로지르는 종합(synthesis) 페이지
+├─ cov/                 # 개별 기업 분석 (티커_회사명.md)
+├─ geopolicits/          # 주제 별 개념노트
+├─ accounting/
+├─ venture-capital/
+└─ moc/                 # 개념을 묶는 인덱스(Map of Content). 노트를 가로지르는 종합 페이지
 ```
 
 규칙:
 
-1. **개념 노트는 `wiki/(하위 분류)` 아래에 둔다** (Geopolitics / Economics / Accounting / Venture Capital).
+1. **개념 노트는 `wiki/(하위 분류)` 아래에 둔다** (Geopolitics / Accounting / Venture Capital).
    작성 시 참조한 외부 URL을 확인할 수 있는 경우 `sources` 필드에 명시한다.
    참조한 `raw/` 파일은 반드시 위키링크(`[[노트 제목]]`)로 연결한다.
-2. **기업 분석 노트(cov)는 `wiki/cov/`에 평탄하게 둔다.** 파일명은 `티커_회사명.md`.
+   하위 분류는 노트의 내용에 따라 가장 밀접한 폴더를 새롭게 생성할 수 있다. 단, 가장 밀접한 하나의 분류에만 포함한다.
+3. **기업 분석 노트(cov)는 `wiki/cov/`에 평탄하게 둔다.** 파일명은 `티커_회사명.md`.
    섹터 분류는 `wiki/cov/README.md` 인덱스로 유지한다.
-3. **모든 사실 진술은 raw로 거슬러 올라갈 수 있어야 한다.** 출처가 되는 raw 노트를 위키링크로 연결한다.
+4. **모든 사실 진술은 raw로 거슬러 올라갈 수 있어야 한다.** 출처가 되는 raw 노트를 위키링크로 연결한다.
    위키링크는 파일명 기준으로 해소되므로 폴더 위치와 무관하게 작동한다.
-4. **종합(synthesis) 페이지**는 `wiki/` 루트에 두고 `wiki/README.md` 허브에서 링크한다.
+5. **종합(moc) 페이지**는 `wiki/` 루트에 두고 `wiki/README.md` 허브에서 링크한다.
    상단에 최소 frontmatter를 둔다:
    ```yaml
    ---
@@ -90,7 +86,7 @@ wiki/
    - raw/...        # 종합·참조한 raw 노트
    ---
    ```
-5. raw가 바뀌면(노트 추가·이동) 관련 wiki 페이지의 링크와 `updated`를 갱신한다. 깨진 링크는 고친다.
+6. raw가 바뀌면(노트 추가·이동) 관련 wiki 페이지의 링크와 `updated`를 갱신한다. 깨진 링크는 고친다.
 
 ## 4. 작업 흐름 (LLM이 호출됐을 때)
 
