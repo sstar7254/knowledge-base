@@ -31,6 +31,7 @@ raw/
 |  ├─ energy/
 |  ├─ macro/
 |  └─ medical_pharma/
+├─ logistics-tech-startup/
 └─ strategic-thinking/  # 거시·지정학 에세이
 ```
 
@@ -74,6 +75,7 @@ wiki/
 ├─ geopolicits/          # 주제 별 개념노트
 ├─ accounting/
 ├─ venture-capital/
+├─ logistics/
 └─ moc/                 # 개념을 묶는 인덱스(Map of Content). 노트를 가로지르는 종합 페이지
 ```
 
