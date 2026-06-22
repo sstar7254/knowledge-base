@@ -29,8 +29,7 @@ wiki/
 ├─ geopolicits/          # 주제 별 개념노트
 ├─ accounting/
 ├─ venture-capital/
-├─ moc/                 # 개념을 묶는 인덱스(Map of Content)
-└─ *.md                 # 노트를 가로지르는 종합 페이지
+└─ moc/                 # 개념을 묶는 인덱스(Map of Content). 노트를 가로지르는 종합 페이지.
 ```
 
 자세한 운영 규칙은 [`schema/CLAUDE.md`](schema/CLAUDE.md)를 참고한다.
