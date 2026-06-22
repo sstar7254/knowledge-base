@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────────────────────
+# Obsidian / MakeMD cache & work-state (not part of the knowledge base)
+# ─────────────────────────────────────────────────────────────
+.obsidian/
+.space/
+*.mdb
+
+# Google Drive sync state for the desktop app (not the .gdoc pointers,
+# which are kept as raw source references)
+.tmp.driveupload/
+.tmp.drivedownload/
+
+# Obsidian trash
+.trash/
+
+# ─────────────────────────────────────────────────────────────
+# OS / editor noise
+# ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+
+# ─────────────────────────────────────────────────────────────
+# Agent / tooling scratch
+# ─────────────────────────────────────────────────────────────
+.claude/
+node_modules/
