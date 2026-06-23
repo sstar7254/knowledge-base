@@ -80,7 +80,8 @@ wiki/
 ├─ cov/                 # 개별 기업 분석 (티커_회사명.md)
 ├─ geopolitics/         # 주제 별 개념노트
 ├─ accounting/
-└─ logistics/
+├─ logistics/
+└─ supply-chain/        # SCM/CPIM 개념노트
 ```
 
 규칙:
