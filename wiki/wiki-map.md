@@ -9,13 +9,10 @@ updated: 2026-06-22
 
 > 도메인 분류는 `wiki/`의 하위 폴더와 일치시킨다. 새 도메인 폴더를 만들면 여기에도 섹션을 추가하고, `schema/CLAUDE.md`·`README.md`의 트리도 함께 갱신한다.
 
-## accounting
-
-_아직 등록된 위키 없음 — 작성 시 여기에 추가_
 
 ## cov (기업 분석)
 
-섹터별 인덱스는 [`cov/sector-map.md`](cov/sector-map.md)에서 유지한다.
+- [`cov/sector-map.md`](_sector-map.md)
 
 ## geopolitics
 
