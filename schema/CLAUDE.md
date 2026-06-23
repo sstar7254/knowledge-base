@@ -56,8 +56,12 @@ source: https://...        # 출처 URL 또는 매체명
 date: YYYY-MM-DD
 tags:
 - 계층형/태그
+status: inbox | used        # 아래 참고
 ---
 ```
+
+**status 필드 로직**: 새 raw 노트는 기본값 `status: inbox`로 둔다(필드를 생략해도 inbox로 간주).
+이 raw 노트를 출처로 `/sc-letter` 글을 작성하면, 해당 raw 노트의 `status`를 `used`로 변경한다.
 
 ### LLM이 리서치를 raw에 저장할 때 (소스 다이제스트 원칙)
 

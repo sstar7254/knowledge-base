@@ -25,4 +25,4 @@ updated: 2026-06-22
 
 ## supply-chain
 
-- ['조달-공급망 통합과 TCO·채찍효과'](supply-chain/조달-공급망 통합과 TCO·채찍효과.md) : Kraft Heinz의 조달·공급망 조직 통합을 TCO·채찍효과 개념과 1980년 Eagle Claw 작전의 지휘체계 통합 사례로 풀어낸 노트
+- ['Kraft Heinz의 procurement-supply chain 통합과 TCO, 채찍효과'](supply-chain/Kraft Heinz의 procurement-supply chain 통합과 TCO, 채찍효과.md) : Kraft Heinz의 조달·공급망 조직 통합을 TCO·채찍효과 개념과 1980년 Eagle Claw 작전의 지휘체계 통합 사례로 풀어낸 노트

@@ -8,7 +8,7 @@ sources:
 updated: 2026-06-23
 ---
 
-# 조달-공급망 통합과 TCO·채찍효과
+# Kraft Heinz의 procurement-supply chain 통합과 TCO, 채찍효과
 
 Kraft Heinz가 2026년 7월 1일부로 조달(Procurement)과 공급망(Supply Chain) 기능을 단일 부서로 합치기로 한 결정([[0623 Kraft Heinz merges procurement and supply chain units]])은, 두 기능을 분리해서 운영할 때 구조적으로 발생하는 두 가지 문제 — **총소유비용(TCO) 책임의 분산**과 **채찍효과(Bullwhip Effect)로 인한 정보 왜곡** — 를 해소하려는 시도로 읽을 수 있다.
 
