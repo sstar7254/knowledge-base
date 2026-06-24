@@ -1,10 +1,8 @@
 ---
-Type: Report
-tags: Sector/AI
-Study Date: 2024-10-31
-Author: 미래에셋증권
-Memo.: CRWD, CRM, MSFT
-Last edited time: 2024-11-15T00:58
+type: report
+study date: 2024-10-31
+updated: 2024-10-31
+tag: AI-semicon-robotics
 ---
 ### I. 글로벌 소프트웨어 포트폴리오
 

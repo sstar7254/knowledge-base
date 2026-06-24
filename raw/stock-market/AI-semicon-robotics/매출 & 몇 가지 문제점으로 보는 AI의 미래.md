@@ -1,7 +1,8 @@
 ---
-tags: Sector/AI
-Study Date: 2024-04-23
-Last edited time: 2024-11-15T01:02
+type: report
+study date: 2024-04-23
+updated: 2024-11-15
+tag: AI-semicon-robotics
 ---
 **지난 주 낙폭에 대한 진단: 단기적 과대 낙폭으로 판단됨**
 

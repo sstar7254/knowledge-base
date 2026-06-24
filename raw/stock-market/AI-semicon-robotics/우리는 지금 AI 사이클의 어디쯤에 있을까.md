@@ -1,9 +1,9 @@
 ---
-tags: Sector/AI
-Study Date: 2024-06-22
-Last edited time: 2024-11-15T01:03
+type: report
+study date: 2024-06-22
+updated: 2024-06-22
+tag: AI-semicon-robotics
 ---
-[[반도체 산업#^SemiconBigCycle|과거 16~18년 클라우드 사이클]] - 엔비디아 주가 그 자체가 클라우드 사이클을 말해주던 시기
 
 **'16년 1월 ~ '18년 9월, 2년 7개월 간 3번의 상승 구간 존재**
 

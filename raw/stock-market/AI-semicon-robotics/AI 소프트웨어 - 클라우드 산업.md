@@ -1,7 +1,8 @@
 ---
-tags: Sector/AI
-Study Date: Invalid date
-Last edited time: 2024-12-01T21:59
+type: research
+study date: 2024-11-12
+updated: 2024-12-01
+tag: AI-semicon-robotics
 ---
 1. 개인화된 고객 경험 제공
     

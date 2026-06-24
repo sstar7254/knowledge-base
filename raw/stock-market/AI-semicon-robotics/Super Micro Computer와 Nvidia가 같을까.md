@@ -1,7 +1,8 @@
 ---
-tags: Sector/AI
-Study Date: 2024-04-21
-Last edited time: 2024-11-15T01:02
+type: report
+study date: 2024-04-21
+updated: 2024-11-15
+tag: AI-semicon-robotics
 ---
 **테크 섹터 부진 코멘트**
 

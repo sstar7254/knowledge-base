@@ -1,8 +1,8 @@
 ---
-tags:
-  - Sector/Cosmetics
-Study Date: 2024-09-04
-Last edited time: 2024-12-01T21:01
+type: report
+study date: 2024-09-04
+updated: 2024-09-04
+tag: cosmetics
 ---
 ![](https://cafeptthumb-phinf.pstatic.net/MjAyNDA5MDRfMTI2/MDAxNzI1NDQ2MzI0NjM5.Y1CqhrtxCqbjby3UhySuV2qkGQ1_3jQogpcDXEXb7rUg.QK0fHBV3rqO0FMDXaT4ULqwb8wYEcRC3fBRrWCRFGbkg.PNG/image.png?type=w1600)](https://cafeptthumb-phinf.pstatic.net/MjAyNDA5MDRfMTI2/MDAxNzI1NDQ2MzI0NjM5.Y1CqhrtxCqbjby3UhySuV2qkGQ1_3jQogpcDXEXb7rUg.QK0fHBV3rqO0FMDXaT4ULqwb8wYEcRC3fBRrWCRFGbkg.PNG/image.png?type=w1600)
 

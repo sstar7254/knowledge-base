@@ -1,7 +1,8 @@
 ---
-tags: Sector/AI
-Study Date: 2024-10-31
-Last edited time: 2024-11-15T00:59
+type: report
+study date: 2024-10-31
+updated: 2024-11-15
+tag: AI-semicon-robotics
 ---
 ### SW 강세 배경
 

@@ -1,7 +1,8 @@
 ---
-tags: Sector/Energy
-Study Date: 2025-08-12
-Last edited time: 2025-08-29T22:33
+type: research
+study date: 2025-08-12
+updated: 2025-08-29
+tag: energy
 ---
 - **왜 지금 에너지 산업을 공부해야 하는가?**
     
