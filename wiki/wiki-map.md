@@ -12,7 +12,8 @@ updated: 2026-06-24
 
 ## cov (기업 분석)
 
-- [`cov/sector-map.md`](_sector-map.md)
+- [`cov/sector-map.md`](_sector-map.md) : 전체 커버리지 기업 인덱스(섹터별)
+- [`cov/_semiconductor-industry-map.md`](_semiconductor-industry-map.md) : 반도체 밸류체인 분류(팹리스·파운드리·IDM·EDA/IP·장비·소재·OSAT)와 단계별 주요 상장기업(미국·한국)
 
 ## cross-border (도메인 교차 종합)
 
