@@ -14,19 +14,22 @@ Andrej Karpathy의 패턴을 따르는 개인 *second brain*. 3계층으로 구�
 raw/
 ├─ news-scrap/          # 뉴스 스크랩 ((날짜)_(제목).md)
 ├─ startup-innovation/  # 스타트업·VC 관련 자료
-├─ stock-market/        # 섹터별 산업 리서치 (Macro, Energy, Finance ...)
-|  ├─ AI_semiconductor_robotics/
-|  ├─ aerospace_defense/
-|  ├─ auto_ship_buildings/
+├─ stock-market/        # 섹터별 산업 리서치 + 개별 기업 overview 노트(티커_회사명.md)
+|  ├─ AI-semicon-robotics/
+|  ├─ aero-defense/
+|  ├─ auto-ship-building/
+|  ├─ consumables-retail/
 |  ├─ cosmetics/
 |  ├─ energy/
+|  ├─ entertainment-leisure/
+|  ├─ financial-fintech/
 |  ├─ macro/
-|  └─ medical_pharma/
+|  └─ medics-pharma/
 └─ strategic-thinking/  # 거시·지정학 에세이
 
 wiki/
 ├─ wiki-map.md          # 모든 위키를 잇는 허브 인덱스 (도메인별 링크)
-├─ cov/                 # 개별 기업 분석 (티커_회사명.md)
+├─ cov/                 # 기업 커버리지 인덱스·맵 (개별 기업 노트 본문은 raw/stock-market/<섹터>/)
 ├─ cross-border/        # 도메인을 가로지르는 종합(synthesis) 노트
 ├─ geopolitics/         # 주제 별 개념노트
 ├─ accounting/

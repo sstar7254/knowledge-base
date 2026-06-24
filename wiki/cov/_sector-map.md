@@ -1,12 +1,13 @@
 ---
 type: index
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
 # Company Overview (cov)
 
 - 파일명 규칙: `티커_회사명.md` (예: `NVO_Novo Nordisk.md`, `000660_SK 하이닉스.md`)
-- 섹터 산업 자체에 대한 리서치는 `raw/stock-market/<섹터>/`에 남아 있다.
+- 섹터 산업 자체에 대한 리서치와 개별 기업 overview 노트 본문은 `raw/stock-market/<섹터>/`에 있다
+  (`schema/CLAUDE.md` §2 예외). 위키링크는 파일명 기준으로 해소되므로 이 인덱스의 링크는 그대로 유효하다.
 
 ## AI-semicon-robotics
 
