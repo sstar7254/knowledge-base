@@ -27,6 +27,7 @@ raw/
 wiki/
 ├─ wiki-map.md          # 모든 위키를 잇는 허브 인덱스 (도메인별 링크)
 ├─ cov/                 # 개별 기업 분석 (티커_회사명.md)
+├─ cross-border/        # 도메인을 가로지르는 종합(synthesis) 노트
 ├─ geopolitics/         # 주제 별 개념노트
 ├─ accounting/
 ├─ logistics/
