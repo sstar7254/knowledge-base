@@ -105,12 +105,13 @@ description: "흩어진 노트 사이에 의미 있는 위키링크를 엮어 �
 - 구성: 맨 위에 **High-level idea**를 한 문단으로 요약하고, 이어 2~4개 섹션으로 논지를 전개한다.
 - **모든 핵심 진술은 출처 노트로 위키링크**한다. 사실의 근거는 `raw/`로, 사례 기업은 `wiki/cov/`로,
   개념은 `wiki/geopolitics/` 등으로 잇는다(`schema/CLAUDE.md` §3.4).
-- cross-border 노트가 2개 이상 모이면 허브 맵 `wiki/cross-border/_cross-border-map.md`에
-  새 노트를 등록한다(없으면 만든다).
+- 별도의 허브 맵 노트(`_cross-border-map` 등)는 만들지 않는다. cross-border 노트들의 인덱스 역할은
+  `wiki/wiki-map.md`가 직접 맡는다(아래 2-3).
 
 ### 2-3. 인덱스·트리 갱신 (누락 금지)
 
-1. **wiki-map** — `wiki/wiki-map.md`의 `cross-border` 섹션에 새 노트를 링크하고 `updated`를 갱신한다.
+1. **wiki-map** — `wiki/wiki-map.md`의 `cross-border` 섹션에 새 노트를 **직접** 한 줄 링크로
+   추가하고 `updated`를 갱신한다.
 2. **파일트리** — `wiki/cross-border/`가 처음 생겼거나 구조가 바뀌면 `schema/CLAUDE.md`와 `README.md`의
    파일 트리에 모두 반영한다.
 3. **메모리** — memory.md `## cross-border 아이디어`에 새 노트 제목과 한 줄 논지를 기록한다.
