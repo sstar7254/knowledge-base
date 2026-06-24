@@ -1,13 +1,10 @@
 ---
-Type: Study
-tags: Sector/Bio
-Study Date: 2025-08-02
-Author: 밸류파인더
-Attachments:
-  - "[[핵심쏙쏙_50_Novo_Nordisk_(NVO).pptx]]"
-  - "[[밸류파인더_50_위고비의_위기와_Novo_Nordisk_(NVO).docx]]"
-Last edited time: 2025-08-03T09:59
+type: overview
+study date: 2025-08-02
+updated: 2025-08-03T09:59
+tag: medics-pharma
 ---
+
 ### 자료
 
 - **JPM (July 29) - NVO 가이던스 하향 조정**

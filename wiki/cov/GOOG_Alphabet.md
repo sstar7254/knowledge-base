@@ -1,8 +1,10 @@
 ---
-tags: Sector/AI
-Study Date: 2025-07-05
-Last edited time: 2025-08-08T06:45
+type: overview
+study date: 2025-07-05
+updated: 2025-08-08T06:45
+tag: AI-semicon-robotics
 ---
+
 > [!important]
 > 
 > **Catalyst & Drive Force**

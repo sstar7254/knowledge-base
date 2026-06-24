@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Staples_Retail
-  - ValueFinder
-Study Date: 2025-08-31
-Last edited time: 2025-09-06T23:31
+type: overview
+study date: 2025-08-31
+updated: 2025-09-06T23:31
+tag: financial-fintech
 ---
+
 ## 자료
 
 ### **BNPL - Buy Now Pay Later**

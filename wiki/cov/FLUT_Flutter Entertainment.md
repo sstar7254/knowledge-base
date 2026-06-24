@@ -1,6 +1,9 @@
 ---
-Study Date: 2024-10-25
+type: overview
+study date: 2024-10-25
+tag: entertainment-leisure
 ---
+
 ## STUDY
 ### 스포츠 도박에 열광하는 미국
 

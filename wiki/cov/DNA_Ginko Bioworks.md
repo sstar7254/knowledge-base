@@ -1,10 +1,10 @@
 ---
-Type: Study
-tags: Sector/Bio
-Study Date: 2025-04-18
-Author: 밸류파인더
-Last edited time: 2025-04-24T23:29
+type: overview
+study date: 2025-04-18
+updated: 2025-04-24T23:29
+tag: medics-pharma
 ---
+
 밸류파인더 이슈분석 #35 – 바이오 파운드리 산업과 Ginkgo Bioworks
 
 바이오 파운드리 산업에 주목하는 이유

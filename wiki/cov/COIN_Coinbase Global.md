@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/AI
-  - ValueFinder
-Study Date: 2025-06-21
-Last edited time: 2025-08-28T05:14
+type: overview
+study date: 2025-06-21
+updated: 2025-08-28T05:14
+tag: financial-fintech
 ---
+
 ### Follow-ups
 
 [[COIN_2Q25 Earnings]]

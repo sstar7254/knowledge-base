@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Auto
-  - ValueFinder
-Study Date: 2025-02-07
-Last edited time: 2025-02-24T21:20
+type: overview
+study date: 2025-02-07
+updated: 2025-02-24T21:20
+tag: auto-ship-building
 ---
+
 ## 자료
 
 ### 올해 1~10월 글로벌 전기차 판매 1356만대… 43%가 중국차 (2024.12, 연합뉴스)

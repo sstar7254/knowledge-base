@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/AI
-  - ValueFinder
-Study Date: 2024-12-27
-Last edited time: 2025-02-11T15:18
+type: overview
+study date: 2024-12-27
+updated: 2025-02-11T15:18
+tag: AI-semicon-robotics
 ---
+
 ## 자료
 
 ### 바바리안 양자 컴퓨터 1편: 들어가기 전 준비물(IonQ 투자자 필독!) (바바리안 2023-10)

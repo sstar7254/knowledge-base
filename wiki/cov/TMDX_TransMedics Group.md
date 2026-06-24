@@ -1,10 +1,10 @@
 ---
-Type: Study
-tags: Sector/Bio
-Study Date: 2025-09-28
-Author: 밸류파인더
-Last edited time: 2025-09-28T08:42
+type: overview
+study date: 2025-09-28
+updated: 2025-09-28T08:42
+tag: medics-pharma
 ---
+
 ### 기업 분석
 
 - **Business Model Canvas**

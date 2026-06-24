@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Bio
-  - ValueFinder
-Study Date: 2024-11-21
-Last edited time: 2025-01-09T23:17
+type: overview
+study date: 2024-11-21
+updated: 2025-01-09T23:17
+tag: medics-pharma
 ---
+
 ## RESEARCH
 
 ### 📝 합병으로 1위 AI 신약개발기업 (DB투자증권, 24.09.03)

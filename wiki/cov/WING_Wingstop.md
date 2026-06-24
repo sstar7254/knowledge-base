@@ -1,8 +1,10 @@
 ---
-tags: Sector/Staples_Retail
-Study Date: 2024-08-22
-Last edited time: 2025-01-17T00:36
+type: overview
+study date: 2024-08-22
+updated: 2025-01-17T00:36
+tag: consumables-retail
 ---
+
 ### Company Overview
 
 Wingstop Inc., together with its subsidiaries, franchises and operates restaurants under the Wingstop brand name. Its restaurants offer classic wings, boneless wings, and tenders that are cooked-to-order, and hand sauced-and-tossed in various flavors. As of December 26, 2020, the company had 1,506 franchised restaurants and 32 company-owned restaurants in 44 states and 10 countries worldwide. Wingstop Inc. was founded in 1994 and is based in Dallas, Texas.

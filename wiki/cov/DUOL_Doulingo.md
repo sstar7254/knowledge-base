@@ -1,8 +1,10 @@
 ---
-tags: Sector/Leisure
-Study Date: 2025-01-03
-Last edited time: 2025-02-11T15:18
+type: overview
+study date: 2025-01-03
+updated: 2025-02-11T15:18
+tag: entertainment-leisure
 ---
+
 ## 자료
 
 ### 언어학습 앱 듀오링고 주가가 오르는 이유

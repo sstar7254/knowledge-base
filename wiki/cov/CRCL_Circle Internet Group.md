@@ -1,8 +1,10 @@
 ---
-tags: Sector/AI
-Study Date: 2025-06-29
-Last edited time: 2025-07-13T22:07
+type: overview
+study date: 2025-06-29
+updated: 2025-07-13T22:07
+tag: financial-fintech
 ---
+
 ### 자료
 
 - **[“블록체인” 탄소배출권 거래의 혁신 (2024.12.23 투데이피플)](https://www.todaypeople.co.kr/news/articleView.html?idxno=8627)**

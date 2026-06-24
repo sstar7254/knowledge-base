@@ -1,6 +1,9 @@
 ---
-Study Date: 2025-02-21
+type: overview
+study date: 2025-02-21
+tag: consumables-retail
 ---
+
 ## STUDY
 ### 도어대시 기업분석: 우버이츠가 패배 선언한 진짜 이유 (올바른)
 **“해자를 증명하고 시작된 레버리지” - 핵심사업&신사업 점유율 상승으로 외연확장 지속**

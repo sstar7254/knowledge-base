@@ -1,8 +1,10 @@
 ---
-tags: Sector/AI
-Study Date: 2025-05-02
-Last edited time: 2025-05-04T00:32
+type: overview
+study date: 2025-05-02
+updated: 2025-05-04T00:32
+tag: consumables-retail
 ---
+
 ## 이슈 분석
 
 - **미국 내 AI 인프라 투자가 가속화**되면서, 데이터 전송 및 처리 기반인 **5G, FWA, 엣지 컴퓨팅 인프라**의 전략적 가치가 급부상하고 있다.

@@ -1,6 +1,9 @@
 ---
-Study Date: 2025-03-28
+type: overview
+study date: 2025-03-28
+tag: energy
 ---
+
 ## 이슈 분석
 
 ### 커지는 위험 회피 심리와 금 가격 상승

@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Cosmetics
-  - ValueFinder
-Study Date: 2024-11-29
-Last edited time: 2025-01-09T23:16
+type: overview
+study date: 2024-11-29
+updated: 2025-01-09T23:16
+tag: medics-pharma
 ---
+
 ## 자료
 
 인구 고령화와 만성질병 증가로 의료수요는 증가했으나, 근무 환경 악화로 의사들의 퇴직률은 급증하며 의료인력 공급난은 심화되고 있음. 미국에서는 향후 5년간 12.4만명의 의료 쇼티지 발생이 전망.

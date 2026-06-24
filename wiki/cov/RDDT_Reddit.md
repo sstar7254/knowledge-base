@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/AI
-  - ValueFinder
-Study Date: 2025-02-14
-Last edited time: 2025-02-24T21:15
+type: overview
+study date: 2025-02-14
+updated: 2025-02-24T21:15
+tag: entertainment-leisure
 ---
+
 ## 이슈 분석
 
 ### 데이터 홍수 시대, 데이터가 부족하다?

@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Auto
-  - ValueFinder
-Study Date: 2025-03-14
-Last edited time: 2025-03-14T16:22
+type: overview
+study date: 2025-03-14
+updated: 2025-03-14T16:22
+tag: auto-ship-building
 ---
+
 ## 이슈 분석
 
 ### 산업 개요

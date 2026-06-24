@@ -1,6 +1,9 @@
 ---
-Study Date: 2024-09-13
+type: overview
+study date: 2024-09-13
+tag: energy
 ---
+
 ## STUDY
 
 [[정유, 석유화학 산업]]

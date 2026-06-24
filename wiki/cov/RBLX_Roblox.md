@@ -1,8 +1,10 @@
 ---
-tags: Sector/Leisure
-Study Date: 2025-04-25
-Last edited time: 2025-04-25T12:03
+type: overview
+study date: 2025-04-25
+updated: 2025-04-25T12:03
+tag: entertainment-leisure
 ---
+
 ## 이슈 분석
 
 컨텐츠/IP 시장의 강세, 개인화 된 취향의 반영

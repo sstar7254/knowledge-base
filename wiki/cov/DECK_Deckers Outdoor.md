@@ -1,6 +1,9 @@
 ---
-Study Date: 2024-08-02
+type: overview
+study date: 2024-08-02
+tag: consumables-retail
 ---
+
 ## 이슈분석
 
 최근 달리기를 취미로 삼은 사람들의 수가 부쩍 늘었는데요, 이런 '러닝족'의 증가에 따라 신발업계에서 러닝화 품절 대란이 일어나고 있습니다.

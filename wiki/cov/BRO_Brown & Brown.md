@@ -1,8 +1,10 @@
 ---
-tags:
-Study Date: 2025-04-04
-Last edited time: 2025-04-11T16:28
+type: overview
+study date: 2025-04-04
+updated: 2025-04-11T16:28
+tag: financial-fintech
 ---
+
 ### 자료
 
 - **[Climate crisis on track to destroy capitalism, warns top insurer (The Guardian)](https://www.theguardian.com/environment/2025/apr/03/climate-crisis-on-track-to-destroy-capitalism-warns-allianz-insurer)**

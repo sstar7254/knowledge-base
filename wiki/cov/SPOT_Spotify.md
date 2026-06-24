@@ -1,6 +1,9 @@
 ---
-Study Date: 2024-12-11
+type: overview
+study date: 2024-12-11
+tag: entertainment-leisure
 ---
+
 ## STUDY
 
 ### 음악시장 게임체인저가 돈을 벌기 시작했다

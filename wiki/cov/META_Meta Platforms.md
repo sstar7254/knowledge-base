@@ -1,10 +1,10 @@
 ---
-Type: Study
-tags: Sector/AI
-Study Date: 2025-07-12
-Author: 밸류파인더
-Last edited time: 2025-07-13T22:07
+type: overview
+study date: 2025-07-12
+updated: 2025-07-13T22:07
+tag: AI-semicon-robotics
 ---
+
 ### 자료
 
 - **MSL (Meta Superintelligence Lab)**

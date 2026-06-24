@@ -1,10 +1,10 @@
 ---
-Type: Study
-tags: Sector/AI
-Study Date: 2025-08-23
-Author: 밸류파인더
-Last edited time: 2025-09-06T23:30
+type: overview
+study date: 2025-08-23
+updated: 2025-09-06T23:30
+tag: AI-semicon-robotics
 ---
+
   
 
 - [[#자료]]

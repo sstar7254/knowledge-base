@@ -1,7 +1,8 @@
 ---
-tags: Sector/AI
-Study Date: 2025-09-05
-Last edited time: 2025-09-07T08:09
+type: overview
+study date: 2025-09-05
+updated: 2025-09-07T08:09
+tag: AI-semicon-robotics
 ---
 
 ### 이슈 분석

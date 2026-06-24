@@ -1,8 +1,10 @@
 ---
-tags: Sector/Staples_Retail
-Study Date: 2024-08-23
-Last edited time: 2025-01-17T00:36
+type: overview
+study date: 2024-08-23
+updated: 2025-01-17T00:36
+tag: consumables-retail
 ---
+
 ### 자료
 
 - ==📝 스윗그린: 샐러드 투 더 문 (24.06.28, 바바리안 리서치)==

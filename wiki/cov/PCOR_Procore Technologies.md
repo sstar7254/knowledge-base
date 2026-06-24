@@ -1,8 +1,10 @@
 ---
-tags: Sector/AI
-Study Date: 2025-01-28
-Last edited time: 2025-04-01T18:47
+type: overview
+study date: 2025-01-28
+updated: 2025-04-01T18:47
+tag: AI-semicon-robotics
 ---
+
 - What to show? How to show in the slide?
     
     - should not be overwhelming - don’t try to overwhelm people

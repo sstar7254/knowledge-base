@@ -1,9 +1,8 @@
 ---
-Type: Study
-tags: Sector/Energy
-Study Date: 2024-08-16
-Author: 밸류파인더
-Last edited time: 2025-01-09T23:23
+type: overview
+study date: 2024-08-16
+updated: 2025-01-09T23:23
+tag: energy
 ---
 
 ## 관련 노트

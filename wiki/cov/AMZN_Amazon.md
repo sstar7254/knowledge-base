@@ -1,8 +1,10 @@
 ---
-tags: Sector/AI
-Study Date: 2025-08-10
-Last edited time: 2025-08-31T00:58
+type: overview
+study date: 2025-08-10
+updated: 2025-08-31T00:58
+tag: AI-semicon-robotics
 ---
+
 ### 자료
 
 - 국민연금 아마존 투자 비중 증가

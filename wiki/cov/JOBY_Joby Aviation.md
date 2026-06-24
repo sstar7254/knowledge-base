@@ -1,6 +1,9 @@
 ---
-Study Date: 2025-03-21
+type: overview
+study date: 2025-03-21
+tag: aero-defense
 ---
+
 ## Follow Up
 
 **25.05.09 UAM 상용화 연기**

@@ -1,7 +1,8 @@
 ---
-tags: Sector/AI
-Study Date: 2025-10-12
-Last edited time: 2025-10-19T07:41
+type: overview
+study date: 2025-10-12
+updated: 2025-10-19T07:41
+tag: aero-defense
 ---
 
   * **위성-단말 직접 통신 (D2D)**: AST SpaceMobile은 세계 최초의 위성 기반 셀룰러 광대역 네트워크 구축을 목표로 이동통신사와의 B2B 사업을 전개하며 Verizon과 상용 계약을 체결하였다.

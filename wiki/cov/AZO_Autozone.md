@@ -1,8 +1,10 @@
 ---
-tags: Sector/Auto
-Study Date: 2025-04-11
-Last edited time: 2025-04-11T19:17
+type: overview
+study date: 2025-04-11
+updated: 2025-04-11T19:17
+tag: auto-ship-building
 ---
+
 ### 자료
 
 - **[Study finds Trump's 25% auto tariffs could cost US automakers $108 billion](https://www.reuters.com/business/autos-transportation/study-finds-trumps-25-auto-tariffs-could-cost-us-automakers-108-billion-2025-04-10/?utm_source=chatgpt.com)**

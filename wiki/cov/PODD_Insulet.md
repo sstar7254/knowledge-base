@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Bio
-  - ValueFinder
-Study Date: 2025-05-16
-Last edited time: 2025-05-17T16:24
+type: overview
+study date: 2025-05-16
+updated: 2025-05-17T16:24
+tag: medics-pharma
 ---
+
 ## 자료
 
 ### Omnipod 5 (자동 인슐린 투여 시스템)

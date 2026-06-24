@@ -1,6 +1,9 @@
 ---
-Study Date: 2025-01-24
+type: overview
+study date: 2025-01-24
+tag: entertainment-leisure
 ---
+
 ## STUDY
 
 ### 로얄 캐리비안 주가 상승, 분석가는 크루즈 주식을 $2조 휴가 산업의 ‘상승 주식’으로 분류

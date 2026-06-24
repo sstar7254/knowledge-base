@@ -1,10 +1,10 @@
 ---
-Type: Study
-tags: Sector/Staples_Retail
-Study Date: 2025-02-28
-Author: 밸류파인더
-Last edited time: 2025-02-28T17:43
+type: overview
+study date: 2025-02-28
+updated: 2025-02-28T17:43
+tag: consumables-retail
 ---
+
 ### 자료
 
 - **"100% 한국에 들어옵니다"... 잇몸으로 담배 피운다는 미국 Z세대 근황 (스브스뉴스) / 요즘 담배회사가 돈 버는 방법 (슈카월드)**

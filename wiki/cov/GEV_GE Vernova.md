@@ -1,8 +1,10 @@
 ---
-tags: Sector/Energy
-Study Date: 2025-07-28
-Last edited time: 2025-08-02T09:00
+type: overview
+study date: 2025-07-28
+updated: 2025-08-02T09:00
+tag: energy
 ---
+
 ## 이슈 분석
 
 ### 2Q25 실적발표

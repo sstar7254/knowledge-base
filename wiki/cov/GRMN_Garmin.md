@@ -1,8 +1,10 @@
 ---
-tags: Sector/Staples_Retail
-Study Date: 2025-05-09
-Last edited time: 2025-05-10T16:18
+type: overview
+study date: 2025-05-09
+updated: 2025-05-10T16:18
+tag: entertainment-leisure
 ---
+
 ## 이슈 분석
 
 **GPS, 바다와 하늘에서 손목 위로**

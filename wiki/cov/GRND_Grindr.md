@@ -1,6 +1,9 @@
 ---
-Study Date: 2025-05-24
+type: overview
+study date: 2025-05-24
+tag: entertainment-leisure
 ---
+
 ## STUDY
 ### MUST have LOVE (SMIC)
 

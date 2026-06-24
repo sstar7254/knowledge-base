@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Leisure
-  - ValueFinder
-Study Date: 2024-10-04
-Last edited time: 2025-01-09T23:20
+type: overview
+study date: 2024-10-04
+updated: 2025-01-09T23:20
+tag: entertainment-leisure
 ---
+
 ## 자료
 
 ### 📝 넷플릭스: 왜 계속 신고가일까? 업황 및 광고 사업 전력 중간 점검 (24.09.14, 바바리안 리서치)

@@ -1,8 +1,10 @@
 ---
-tags: Sector/AI
-Study Date: 2025-09-21
-Last edited time: 2025-09-21T21:39
+type: overview
+study date: 2025-09-21
+updated: 2025-09-21T21:39
+tag: AI-semicon-robotics
 ---
+
 ### 아스테라랩스, 모두가 Scale-up을 필요로 하는 시대의 핵심 기업
 
 - **NVLink Vs UALink: AMD 임원이 바라보는 아스테라랩스의 경쟁력**

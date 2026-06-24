@@ -1,8 +1,10 @@
 ---
-tags: Sector/Leisure
-Study Date: 2025-05-30
-Last edited time: 2025-06-08T01:37
+type: overview
+study date: 2025-05-30
+updated: 2025-06-08T01:37
+tag: entertainment-leisure
 ---
+
 ## 이슈 분석
 
 광고계의 떠오르는 신성 Pinterest

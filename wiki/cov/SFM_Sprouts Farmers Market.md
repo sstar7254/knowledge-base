@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Staples_Retail
-  - ValueFinder
-Study Date: 2024-12-06
-Last edited time: 2025-01-17T00:36
+type: overview
+study date: 2024-12-06
+updated: 2025-01-17T00:36
+tag: consumables-retail
 ---
+
 ## 이슈 분석
 
 ### MZ세대는 건강이 중요해

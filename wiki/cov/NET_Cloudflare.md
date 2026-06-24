@@ -1,6 +1,9 @@
 ---
-Study Date: 2025-03-07
+type: overview
+study date: 2025-03-07
+tag: AI-semicon-robotics
 ---
+
 ## STUDY
 
 ### 2025년 전망  AI 혁신과 제로 트러스트, 그리고 보안의 미래

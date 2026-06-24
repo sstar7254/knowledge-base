@@ -1,8 +1,10 @@
 ---
-tags: Sector/AI
-Study Date: 2024-04-17
-Last edited time: 2024-11-15T00:21
+type: overview
+study date: 2024-04-17
+updated: 2024-11-15T00:21
+tag: AI-semicon-robotics
 ---
+
 🗓️ 24.04.17 바바리안 리서치
 
 Rosenblatt 증권에서 '매도'보고서 발행

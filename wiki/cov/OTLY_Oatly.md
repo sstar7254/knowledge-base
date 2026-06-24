@@ -1,8 +1,10 @@
 ---
-tags: Sector/Staples_Retail
-Study Date: 2025-06-08
-Last edited time: 2025-08-08T06:19
+type: overview
+study date: 2025-06-08
+updated: 2025-08-08T06:19
+tag: consumables-retail
 ---
+
 ### 자료
 
 - **Increasing popularity of oat milk**

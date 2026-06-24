@@ -1,8 +1,10 @@
 ---
-tags: Sector/Cosmetics
-Study Date: 2024-09-27
-Last edited time: 2025-01-09T23:20
+type: overview
+study date: 2024-09-27
+updated: 2025-01-09T23:20
+tag: cosmetics
 ---
+
 ### 📝 에볼루스로 살펴보는 미국 톡신 시장 점검: GLP-1 붐은 온다 (24.08.17, 바바리안 리서치)
 
 GLP-1비만치료제의 수혜가 미용시장으로 이어짐 - 큰 부작용 중 하나가 살 처짐이기 때문

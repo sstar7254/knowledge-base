@@ -1,6 +1,9 @@
 ---
-Study Date: 2024-08-30
+type: overview
+study date: 2024-08-30
+tag: aero-defense
 ---
+
 ## STUDY
 ### 📝 Look, My Triumph (24.01.30, RFS)
 

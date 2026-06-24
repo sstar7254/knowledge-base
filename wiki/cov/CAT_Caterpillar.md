@@ -1,9 +1,10 @@
 ---
-tags:
-  - ValueFinder
-Study Date: 2024-11-17
-Last edited time: 2025-02-24T21:20
+type: overview
+study date: 2024-11-17
+updated: 2025-02-24T21:20
+tag: auto-ship-building
 ---
+
 ### IIJA (Infrastructure Investment and Jobs Act, 인프라 투자 및 일자리법)
 
 - 도로, 철도, 상수도, 전력망 등 사회적 생산기반에 향후 10년간 총 1.2조 달러를 투자하는 법안

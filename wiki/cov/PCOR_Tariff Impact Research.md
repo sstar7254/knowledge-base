@@ -1,3 +1,8 @@
+---
+type: overview
+tag: AI-semicon-robotics
+---
+
 ### Impact of Post‑April 2025 Tariffs on Construction Industry and Procore
 
 In early April 2025, a new wave of tariffs dramatically altered the construction landscape. The United States imposed a **10% baseline tariff on all imports**, with **steeper rates for key trading partners** (e.g. **34% on Chinese imports, 20% on EU imports**) ([Trump installs 10% baseline tariff, country-specific duties | Supply Chain Dive](https://www.supplychaindive.com/news/trump-reciprocal-tariffs-china-japan-eu-vietnam/744301/#:~:text=For%20example%2C%20the%20U,Vietnam%20will%20be%20charged%2046)). These measures (combined with reinstated **25% steel and 10% aluminum duties**) ([Market Watch: How Policy Shifts Are Reshaping Steel Supply  

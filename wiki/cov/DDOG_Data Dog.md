@@ -1,10 +1,10 @@
 ---
-aliases:
-  - Data Dog
-tags: Sector/AI
-Study Date: 2024-11-14
-Last edited time: 2024-11-15T00:51
+type: overview
+study date: 2024-11-14
+updated: 2024-11-15T00:51
+tag: AI-semicon-robotics
 ---
+
 ![[DDOG_2024_Investor_Day_.pdf]]
 
 Datadog: 클라우드 애플리케이션을 위한 모니터링 및 보안 플랫폼 제공

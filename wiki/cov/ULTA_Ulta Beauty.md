@@ -1,6 +1,9 @@
 ---
-Study Date: 2024-09-06
+type: overview
+study date: 2024-09-06
+tag: cosmetics
 ---
+
 ## STUDY
 
 ### 📝 미국 화장품 - 금리 인하, 색조 소비 트렌드 개선 (2024.08.28, 유안타증권)

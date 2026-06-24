@@ -1,8 +1,10 @@
 ---
-tags: Sector/Defense
-Study Date: 2025-09-14
-Last edited time: 2025-09-13T23:12
+type: overview
+study date: 2025-09-14
+updated: 2025-09-13T23:12
+tag: aero-defense
 ---
+
 ### **2024년, 보잉의 위기**
 
 - **제조 결함 사고 발생**: 2024년 1월, 볼트 누락이라는 '제조 과정의 중대 과실'로 알래스카 항공 737 MAX 9의 도어 플러그가 이탈하는 사고가 발생했습니다.

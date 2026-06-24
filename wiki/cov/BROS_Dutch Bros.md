@@ -1,10 +1,10 @@
 ---
-Type: Study
-tags: Sector/Staples_Retail
-Study Date: 2024-10-18
-Author: 밸류파인더
-Last edited time: 2025-01-17T00:36
+type: overview
+study date: 2024-10-18
+updated: 2025-01-17T00:36
+tag: consumables-retail
 ---
+
 ### 자료
 
 - **[미국 MZ는 스타벅스 대신 이 곳에 갑니다, 더치브로스](https://masism.kr/9737)**

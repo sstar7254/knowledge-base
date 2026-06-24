@@ -1,10 +1,10 @@
 ---
-Type: Study
-tags: Sector/Energy
-Study Date: 2025-07-20
-Author: 밸류파인더
-Last edited time: 2025-07-20T05:28
+type: overview
+study date: 2025-07-20
+updated: 2025-07-20T05:28
+tag: energy
 ---
+
 원자력 발전량 1위 미국도 추가 원자력 발전 역량 확보 필요
 
 → 늘어나는 전력 수용에 대응하는 동시에 탄소 중립 목표 달성

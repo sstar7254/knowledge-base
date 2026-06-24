@@ -1,10 +1,10 @@
 ---
-tags:
-  - Sector/Staples_Retail
-  - ValueFinder
-Study Date: 2025-01-17
-Last edited time: 2025-05-17T16:26
+type: overview
+study date: 2025-01-17
+updated: 2025-05-17T16:26
+tag: consumables-retail
 ---
+
 ## 자료
 
 ### Sea Limited(SE): 글로벌 이커머스 기업들의 기업가치 회복, 이번에는 Sea의 차례? (바바리안 리서치, 2024.10)
