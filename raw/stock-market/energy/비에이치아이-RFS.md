@@ -1,0 +1,391 @@
+---
+type: overview
+study date: 2025-07-21
+updated: 2025-08-08
+tag: energy
+---
+
+## HRSG (Heat Recovery System Generator, 폐열회수 보일러)
+
+가스터빈을 돌리고 나오는 배기가스의 열에너지를 회수해서 다시 고온, 고압의 증기로 만들어 스팀터빈을 돌리는 LNG 복합화력발전의 핵심 설비
+
+**LNG 복합화력발전(CCPP)**: 가스터빈과 스팀터빈을 통해 이중으로 전력 생산. LNG를 연소시켜 가스터빈을 통해 1차 발전-배출되는 폐열을 통해 증기 생산 및 스팀터빈 2차 발전
+
+단일 사이클 발전은 빠른 전기 생산과 출력 조정에서 강점. 복합 사이클은 열효율성과 운영 유연성에서 강정
+
+긴급한 경우 복합사이클은 증기 터빈 가동 없이 가스터빈 단일로 발전 가능
+
+복합발전소는 24-36개월의 건설 기간 소요 (단일은 12-24개월), KW당 건설 비용도 복합 사이블 발전소가 단일 바대 2배 가까이 높음.
+
+배터리 가격 하락으로 긴급한 전기 수요는 ESS로 대응, 에너지 효율이 높은 복합화력발전소 채택이 높음
+
+HRSG는 2차 발전(폐열을 이용한 스팀터빈 발전)에 필요, 천연가스 발전의 3대 주기기 가스터빈 HRSG 스팀터빈
+
+**LNG 복합화력발전의 고효율성을 실현, 에너지 이용 효율을 높이고 탄소 배출량 감소에 기여**
+
+**HRSG 리드타임 통상 2년, 천연가스 발전 건설 기간 4-5년 감안 2-2.5년이면 매출 인식 대부분 완료**
+
+**마진은 미드~하이 싱글, 프로젝트 단위로 매출이 인식되어 분기보다는 연간으로 보는 것이 적절**
+
+**6개월 (2분기) 후부터 매출 인식 시작, 1.5~2년간 매출인식**
+
+중국 여러 업체가 HRSG 제작 경험을 보유해 직접 CAPEX 투자를 통한 증설보다 효율적이라고 판단. 자체 제작보다 저렴한 품목들을 아웃소싱
+
+국내 연간 5-6기의 HRSG를 수주하기 위해 20-30개 견적 제출
+
+HRSG 산업은 '13년을 정점으로 지난 10년간 장기 저유가와 '20년 팬데믹까지 겹치며 장기 침체기
+
+미국 셰일가스 혁명에 따른 저유가 타격 - 해외 발전플랜트 수요 급감 - 국내 저가 덤핑수주 심화
+
+전세계적 탈탄소정책, 신재생에너지 위주 정책으로 발전플랜트 수요 급감
+
+21년부터 글로벌 경기 회복세에 힘입어 수주/매출액 증가세
+
+**글로벌 시장에서 CCPP 대형(200-400MW) HRSG 공급 가능 업체 - 동사, Nooter Eriksen, GEV, 미츠비시파워, 지멘스**
+
+터빈이 주력인 GEV, 미츠비시, 지멘스는 이미 풀캐파로 HRSG는 동사에 아웃소싱할 가능성이 높음
+
+### 국내 경쟁력
+
+**동사는 국내 유일 HRSG 원천기술 보유업체, '21년/'24년 글로벌 시장 점유율 1위**
+
+20년 글로벌 4대 원천기술 Amec FW사의 기술을 인수
+
+원천기술 획득을 통해 로열티 지불이라는 고정비를 줄이고 신속한 기술 대응 가능
+
+삼성물산, 현대엔지니어링, 두산에너빌리티 등 국내 대형 EPC 수주 증가
+
+EPC: 설계Engineering, 조달Procurement, 시공Construction을 원스톱으로 제공하는 형태의 사업. 일괄수주를 의미하는 턴키(Turn-key)와 유사한 개념
+
+광양 Retrofit EPC 포항제철 Retrofit EPC 이스라엘 소규모 열병항 Retrofit 등의 프로젝트 수행
+
+24년 2400억 규모 열병합 EPC 수주
+
+타깃 EPC 시장은 2천~4천억 규모
+
+고온, 고압이 필요한 400MW 이상의 대형 HRSG 설계에 독보적 기술력, 국내 유일 500MW 이상의 대형 HRSG 상업운전 실적 보유
+
+국내 HRSG 시장 점유율 78% ('21-'24 평균)
+
+26년 준공 예정 발전소 7개 중 4개 수주 확보
+
+1000MW이상 초대형 발전용량 복합화력발전소가 '30년까지 3건 존재
+
+**팹리스 기업으로 매출 1조까지 신속한 CAPA 대응 가능**
+
+**두산에너빌리티 - '15년 HRSG 사업을 GE에 이전 -> 두산에너빌리티의 수주 증가에 대한 수혜 가능**
+
+### 국내 사업 현황
+
+표준 가스복합발전 사업 본격 착수. 국내 28기 노후화 석탄발전를 CCPP로 교체. 규모 1.4조원
+
+한국 11자 전력수급기본계획 - LNG 설비 용량 '23년 43.3GW -> '38년 59.5GW
+
+![[083650_비에이치아이-1.png|image 44.png]]
+### 해외 경쟁력
+
+**HRSG 아시아 50%, '24년 기준 발전 용량 글로벌 점유율 1위 (M/S 25%)**
+
+가스를 통한 전력 생산량과 상관없이 전 지역에서 가스발전소 설치량 증가 예상
+
+효율적인 발전소의 필요성 증가: 러우전쟁 이후 가스의 수급과 가격 변동성 확대
+
+재생에너지 투자 증가로 인한 백업 발전소 역할
+
+석탄 발전소의 전환 수요
+
+해외 주력 시장은 동남아시아와 중동, 최근 일본/중동 수출 급성장
+
+폭발적으로 증가하는 전력 수요에 대한 빠른 대응, 친환경 및 에너지 포트폴리오 다각화를 위한 복합화력발전 비중 증가에 대한 내용을 담은 에너지 기본계획 발표
+
+- 동남아시아
+    태국 2022-2037 전력개발계획: 3.0GW 규모 CCPP 건설 계획
+    말레이시아 2021-2039 전력개발계획: 4.2GW 규모 CCPP 건설 계획
+    베트남 8차 국가전력개발계획(PDP8): LNG 발전 비중 10% -> '30년 25%
+
+- 중동
+    중동/동유럽 재건 등에서 기저전력 구축, 대규모 인프라 구축을 위한 기저전력 필요. 상대적으로 공사기간이 짧은 CCPP 수요 전망
+
+- 일본
+    일본은 기존 화력발전소 효율 향상 및 환경 영향 최소화를 위한 노후 HRSG 교체/업그레이드 수요 지속 전망
+    일본 7차 전력수급기본계획 - LNG 발전 설비 용량 '23년 79GW -> '33년 83GW
+
+- 북미
+    AI로 인한 전기수요 증가 및 미국 내 제조업 건설로 '22-24년 가스발전 전기 생산량 증가 (100TWh/yr)
+    25년부터는 가스발전 전기 생산 감소 (50TWh), 가동률 감소로 전체 가스발전소 설치량 증가
+    과거 CALPINE 등에 HRSG 납품 이력. 미국 현지 법인으로 현지 에너지 정책 변화에 빠르게 대응 가능
+
+- 유럽
+    러-우 전쟁 이후 전기 생산량 감소 - 신규 가스 발전소 설치량 증가 예상
+    재생에너지 적극 투자 - 백업전원으로써 가스발전소의 역할 부각
+
+포스코, 삼성 등 국내 EPC 기업의 해외 프로젝트 증가
+
+GE, 지멘스, MHPS 등 기존 고객과의 프로젝트 지속 기대
+
+---
+
+### 글로벌 가스터빈 수요 (LNG수요)
+
+글로벌 가스터빈 업체들은 최근 실적 발표에서 발전용 가스터빈 수요가 여정히 강력하다는 점을 강조
+
+러-우 전쟁 이후 가스 사용의 효율성 개선에 대한 필요성 증가
+
+재생에너지 투자 증가로 인한 부하 대응을 위한 백업 전원
+
+석탄발전소 -> 가스발전소 전환
+
+HRSG 수주 역시 과거 대비 높은 수준으로 지속될 것
+
+GEV 가스터빈 신규수주는 '23년 9.6GW -> '24년 20.2GW, '28년까지 매년 최소 20GW의 가스 장비 수주 지속 전망
+
+지금 GEV가 받아놓은 신규수주에 HRSG를 추가로 수주할 수 있나? 아니면 지금부터 시작되는 신규수주에 집중해야하나?
+
+---
+
+### EPC - 설비업체 계약 절차
+
+1. 프로젝트 발주 및 EPC 선정
+
+2. EPC사의 조달 계획 수립
+
+3. 공급사 사전 자격 선정
+
+4. RFQ(입찰의뢰서)/RFP(제안서요청) 발송
+
+5. 기술 및 상업 평가
+
+6. 최종 협상 및 계약 체결
+
+7. 상세설계, 생산, 품질검증
+
+8. 물류 및 현장 납품
+
+9. 현장 설치 및 시운전
+
+10. 최종 시운전, 인수 및 하자 보수
+
+---
+
+## 중동
+
+- **자푸라 4단계 확장 프로젝트 입찰마감일 연기(MEED 6.10)** `**인프라협력센터 6월 2-3주**`
+    
+    아람코는 자푸라 가스 프로젝트 4단계 확장 프로젝트에 대한 EPC 입찰 기한을 9월 말까지 연장했음
+    
+    - 동 프로젝트의 공사 범위는 동부 지역에 각각 최대 처리용량 2억 cf/d  
+        의 **가스 컴프레션 플랜트 3기 EPC를 포함**하며, 추정 금액은 20~25억  
+        불 규모로 예상됨
+        
+        - 천연가스, 셰일가스, 석유화학 원료가 파이프라인 또는 저장소로 이송되기 전에 **가스 압력을 높여주는 플랜트**. 주로 가스 생산 현장, 중간 집하장, 가스 처리공장 등에 건설.
+        
+        - 가스 이송/공정 자체를 위해 압축 공정에 집중 - HRSG와는 관련X
+        
+    
+    - MEED는 계약업체들이 동 프로젝트에 대한 제안서를 1.15일까지 제출했다고 보도한 바 있는데, 프로젝트 관련 소식통은 입찰서 제출 후에 아람코가 기업들에게 제안서 평가에 더 많은 시간이 필요하다며 9월 말까지 입찰 기한을 연장했다고 전했음
+    
+    - 동 프로젝트에 입찰한 것으로 알려진 기업은 JGC Corporation (일본) · Larsen & Toubro Energy Hydrocarbon (인도) · 삼성 E&A (한국) · Tecnicas Reunidas (스페인) / Sinopec Group (중국)
+    
+
+- **아람코, 사우디 14군데 유전 및 천연가스전 발견(MEED 4.10)** `**인프라협력센터 4월 3-4주**`
+    
+    - 사우디 에너지부 장관은 아람코가 사우디 동부 및 엠프티 쿼터 (Empty Quarter) 지역에서 총 14개의 석유 및 천연 가스전과 저류층(Reservoirs)을 신규로 발견했다고 발표함
+    
+    - SPA (Saudi Press Agency)는 이번 발견에 유전 6개소 및 석유 저류층 2개소, 천연가스 유전 2개소 및 가스 저류층 4개소가 포함됐다고 보도
+        
+        - (Jabu 유전) Jabu-1 유정에서 초경질유(Extra Light oil) 800b/d씩 유출
+        
+        - (Sayahid 유전) Sayahid-2 유정에서 초경질유 630b/d씩 유출
+        
+        - (Ayfan 유전) Ayfan-2 유정에서 초경질유 2,840b/d 및 가스 44만cf/d 유출
+        
+        - (Jubaila 저류층) Berri-907 유정에서 경질유(Light oil) 520b/d 및  
+            20만cf/d의 가스 유출
+        
+        - (Unayzah-A 저류층) Mazalij-64 유정에서 슈퍼 라이트유(Super Light oil) 1,011b/d 및 92만cf/d의 가스 유출
+        
+        - (Nuwayr 유전) Nuwayr-1 유정에서 중질유(Medium oil) 1,800b/d  
+            및 55만cf/d의 가스 유출
+        
+        - (Damda 유전) Mishrif-C 저류층에서 중질유 200b/d, Mishrif-D 저류층에서 초경질유가 115b/d씩 유출
+        
+        - (Qurqas 유전) Qurqas-1 유정에서 중질유 210b/d 유출
+        
+        - (Ghizlan 가스전) Unayzah B/C 저류층에서 3,200만cf/d의 가스 및  
+            2,525b/d의 콘덴세이트(condensates) 유출
+        
+    
+
+- ==**Qurayyah IPP**== **확장 프로젝트 EPC 계약 체결(MEED 3.24)** `**인프라협력센터 4월 1-2주**`
+    
+    - 이집트의 Orascom Construction과 스페인의 Tecnicas Reunidas JV가26억불 규모의 사우디 동부의 **Qurayyah IPP** 확장 프로젝트 EPC를수주함
+    
+    - 계약은 Acwa Power, Saudi Electricity Company (SEC), Haji Abdullah  
+        Alireza & Company (Haaco)로 구성된 디벨로퍼 컨소시엄인 Hajr Two  
+        Electricity Company와 체결하였음
+    
+    - 이집트의 Orascom Construction는 이집트에 건설한 4.8GW 복합 사이클가스 발전소 2개소를 포함하여 발전 포트폴리오가 총 30GW를  
+        초과함
+    
+    - SEC와 Acwa Power는 올해 2월 동 프로젝트를 위해 주 구매자인  
+        Saudi Power Procurement Company (SPPC)와 전력 구매 계약을  
+        체결하였는데, 지난 2.20일 Acwa Power와 SEC는 동 프로젝트의  
+        발전 용량이 3,010㎿이며 탄소 포집이 가능할 것으로 예상된다고  
+        증권 거래소 제출 서류에 밝힌 바 있음
+    
+    - 동 프로젝트에서 SEC와 Acwa Power는 약 35.7억불 규모인 40%씩지분을 보유하고 Haaco가 나머지 20%를 보유할 예정임
+    
+    - 동 프로젝트는 380kV 변전소 개발, 자금 조달, 건설 및 이전도  
+        포함되며 운영 기간은 25년임
+    
+
+- **두산에너빌리티, 15억불 규모 IPP 프로젝트 EPC 수주(MEED 3.14)** `**인프라협력센터 3월 3-4주**` **→** ==**Rumah 1 및 Nairiyah 1 IPP**==
+    
+    - **두산에너빌리티**가 약 15억불 규모의 **Rumah 1 및 Nairiyah 1 IPP**에 대한EPC 계약을 수주함
+    
+    - 지난해 11월, MEED는 두산에너빌리티와 중국의 Sepco 3가 동 프로젝트의 EPC 계약을 수행할 것이라 보도했으며, 일본의 Mitsubishi Power가 발전소에 사용할 가스터빈을 공급할 예정이라고 단독 보도하였음
+    
+    - 동 프로젝트는 SPPC가 국제입찰로 발주했으며, 한전, 사우디전력회사(SEC), 사우디 최대 민자발전사(ACWA Power)로 구성된 컨소시움이디벨로퍼로 참여해 향후 25년간 운영할 예정임
+    
+    - Rumah 1과 Nairiyah 1 IPP는 각각 1,800㎿의 용량을 갖추고 있으며, 총 투자규모는 약 40억불에 달할 것으로 예상됨
+    
+
+- **자푸라 코젠 플랜트 확장 프로젝트 논의 시작(MEED 2.14)** `**인프라협력센터 2월 3-4주**`
+    
+    - 아람코와 한국전력공사가 자푸라 코젠 ISPP의 확장을 위한논의를 진행 중인 것으로 알려짐
+    
+    - 현재 동 시설의 건설이 거의 완료된 상태이며, 프로젝트 소식통에 따르면 2단계 확장 공사에 대한 협상이 시작됨
+    
+    - 자푸라 발전소 1단계는 270~320㎿의 발전 용량을 갖추고, 2023년까지 시간당 77~166 klb/hr의 저압(LP) 증기 수요와 29~126 klb/hr의고압(HP) 증기 수요를 충족할 예정이었음
+    
+    - 자푸라 발전소 2단계는 2027년까지 LP 및 HP 증기 수요는 각각 283~373 klb/hr 및 66~321 klb/hr로 증가할 전망임
+    
+    - 아람코는 2022.7월, 자푸라 ISPP 개발 계약에 대해 한국전력공사에낙찰 통보서를 발행했으며, 한국전력공사는 동 계약에서 ACWA Power와 Al-Jomaih를 제치고 수주에 성공함
+    
+    - 이후 한국전력공사는 두산에너빌리티와 EPC 계약을 체결한 바 있음
+    
+
+- **자푸라 4차 확장 프로젝트 입찰 마감(MEED 2.14)** `**인프라협력센터 2월 3-4주**`
+    
+    - 아람코가 자푸라 가스 개발 4차 확장 단계에 대한 EPC 입찰을 접수함
+    
+    - 동 프로젝트의 공사범위는 동부 지역 가스전에 3개의 가스 압축 플랜트의 EPC 공사이며, 각 플랜트는 하루 최대 2억 cf/d의 가스 처리 용량을 갖출 전망임
+    
+    - 소식통에 따르면, 약 20억~25억불 규모로 추정되는 자푸라 4차 확장 프로젝트에 대한 입찰은 지난 해 7월 공고되었으며, 1.15일 마감한 것으로 확인됨
+    
+    - 한편, 동 프로젝트에는 다음과 같은 기업이 참여한 것으로 예상됨 · JGC Corporation (일본) · Larsen & Toubro Energy Hydrocarbon (인도) · 삼성E&A (한국) · Tecnicas Reunidas (스페인) / Sinopec Group (중국)
+    
+
+- **Shoaiba, Shuqaiq IPP 입찰 동향(MEED 1.30)** `**인프라협력센터 2월 1-2주**` **→** ==**AI-Rais IPP, Riyadh 16 IPP 언급 (negative)**==
+    
+    - 기업들은 주재국의 Shoaiba와 Al-Shuqaiq IPP프로젝트 입찰을 대기중임
+    
+    - SPPC는 MEED가 11월에 보고한 바와 같이 **2,400㎿ Al-Rais IPP와 3,600㎿ Riyadh 16 IPP인 다음 가스 연료 IPP의 초기 거래 자문 입찰을 취소**했는데, 업계 소식통은 MEED 측에게 **SPPC가 Al-Rais와 Riyadh 16 발전소 조달 대신 Shoaiba와 Al-Shuqaiq에 두 개의 신규 가스 연료 발전소를 조달할 계획이라고 언급**했음
+    
+    - 업계 소식통에 따르면, 1월 현재 SPPC는 Shoaiba와 Al-Shuqaiq IPP에 대해 각각 2,600㎿로 추정되는 두 발전소의 최종 용량을 결정할 거래 자문팀을 아직 임명하기 전이며, 이는 유틸리티 개발자 입찰이 2026년 이전에 준비되지 않을 가능성을 보인다고함
+    
+    - 한 소식통은 MEED에 사우디의 전기 수요 증가와 공급에 대한 검토가 진행 중이며, 완료될 때까지 Shoaiba와 Al-Shuqaiq IPP에 대한 조달 절차를 시작하지 않을 수 있다고 언급한 바 있음
+    
+
+- **Al-Rais 및 Riyadh 16 IPP 컨설턴트 입찰 취소(MEED 11.5)** `**인프라협력센터 11월 3-4주**`
+    
+    - MEED는 지난 6월 Al-Rais 및 Riyadh 16 IPP 프로젝트에 대한자문컨설턴트 입찰을 실시했으나, 최근 계획 변경으로 입찰이 취소되었다고 보도함
+    
+    - **2,400㎿ 용량의 Al-Rais IPP와 3,600㎿ 용량의 Riyadh 16 IPP 대신향후 신규 CCGT(combined-cycle gas turbine) 발전소 건설 계획을발표함**
+    
+    - 신규 발전소는 **Shoaiba와 Al-Shuqaiq에 위치**할 예정이며 현재 토지인수 절차가 진행 중인데, 인수 후에 2건에 대한 재무, 기술, 법률자문 패키지를 입찰할 것으로 예상됨
+    
+    - 한편, 자문 컨설팅을 통해 발전소의 용량을 결정할 예정인데 잠정적으로 각각 2,600㎿ 용량으로 추정됨. 이는 동 프로젝트의 유틸리티 디벨로퍼 선정이 2026년 이후 입찰 진행될 가능성이 있음을 의미함
+    
+
+- **SEC, 3.6GW** ==**쿠라야 발전소 입찰 초청**== **(MEED 9.13)** `**인프라협력센터 9월 2-4주**`
+    
+    2024.07 SEC와 SPPC가 CCGT 발전소(건당 1,500~2,000MW 용량) 5건의 개발에 대해 논의(쿠라야가 그중 핵심)
+    
+    → **GE Vernova awarded Gas Turbines Contract for Qurayyah Power Plant in Saudi Arabia (2025.05.28)**
+    
+    EPC: Tecnicas Reunidas / GT: GEV
+    
+    - 사우디 전력공사(SEC:Saudi Electricity Company)는 사우디 동부 쿠라야 지역에 3.6GW 규모의 복합화력발전소 건설을 위해 EPC사들을 입찰에 초청함
+    
+    - MEED는 다음과 같은 기업들이 동 프로젝트 입찰에 참여할 것으로 예상함 ·Orascom Construction (이집트) ·Tecnicas Reunidas (스페인)·삼성물산(한국)
+    
+    - 지난 7월 MEED는 사우디 전력공사(SEC)와 오프테이커인 사우디 전력조달회사(SPPC)가 CCGT 발전소 개발 관련 협의를 진행 중이며, 업계를 인용해 건당 1,500~2,000㎿ 용량의 CCGT 발전소 5건이 대상이라고 보도함
+    
+    - 동 개발은 SEC가 총 30GW 규모의 가스발전을 사우디 내외에서개발하려는 계획과도 일치함 - 한편, SEC는 국내외 가스화력발전소 수요에 대비해 주요 OEM과 약 30GW의 가스터빈을 사전에 예약한 것으로 알려짐  
+        
+    
+
+- **SPPC, Remah 1&2, Al-Nairiyah 1&2 입찰 마감(MEED 8.21)** `**인프라협력센터 8월 5-9월 1주**`
+    
+    - 사우디 전력조달회사(SPPC)가 추진하는 4건의 복합화력 가스터빈(combined-cycle gas turbine) 발전 프로젝트의 디벨로퍼 입찰에서 최종적으로 다음 2개 컨소시엄이 참여함
+    
+    - Acwa Power (로컬) / 한국전력공사 (한국) / SEC (로컬) · Taqa (UAE) / Jera (일본) - 동 프로젝트는 BOO 모델로 추진되며, 4건의 발전소는 탄소포집 장치를 갖춘 천연가스 복합발전 기술 적용 예정
+    
+    - 동 프로젝트의 자문사로는 Synergy Consulting (미국/인도), Fichtner  
+        (독일), Baker McKenzie (미국)가 참여함
+    
+
+### Project
+
+==**⇒ 디벨로퍼 입찰 약 3개월 후 디벨로퍼 확정 (대부분 이 때 EPC와 설비 기업도 확정, 확정보도(수주)는 약 4-5개월 후)**==
+
+- **Rumah & Nairiyah**
+    
+    - 입찰 마감 2024-08, 확정 2024-11, EPC수주공시 2025-03/04
+        
+        - Rumah 2 & Nairiyah 2 BHI 수주공시 2025-02
+        
+    
+
+- **Qurayyah**
+    
+    - 입찰 초청 2024-09, 확정 ??, EPC 수주공시 2025-03
+    
+
+- **Shoaiba, AI-Shuqaiq**
+    
+    - 입찰 대기 2025-07, **입찰 초청 ??, 수주공시 ??+6M**
+    
+
+- **Rumah 1 & Nairiyah 1**
+    
+    - **디벨로퍼: ACWA Power(사우디 최대 발전사업자), 한국전력공사(KEPCO), Saudi Electricity Company(SEC) 3자 컨소시엄.**
+        
+        - 프로젝트 기획, 인허가, 사업성 검토, 자금 조달, 전반적 프로젝트 관리
+        
+        - **2024년 8월 입찰 마감, 2024년 11월 확정**
+            
+            MEED exclusively reported that the Japanese original equipment manufacturer had been selected to supply its gas turbines for the independent power project (IPP) in November last year.
+            
+            A consortium comprising the local Saudi Electricity Company (SEC) and Acwa Power and South Korea’s Korea Electric Power Corporation (Kepco) **won the contract to develop the Rumah 1 and Al-Nairiyah 1 IPP the same month.**
+            
+        
+        - 해당 컨소시엄이 사우디 전력조달회사(SPPC)와 25년 장기 전력구매계약(PPA) 체결
+        
+    
+    - EPC: **China’s Sepco 3 and South Korea's Doosan Enerbility** will undertake the engineering, procurement and construction (EPC) contract for the projects, as MEED reported.
+        
+        - **2024년 11월 보도 [Sepco 3 and Doosan to undertake Rumah 1 and Nairiyah 1](https://guest.meed.com/sepco-3-doosan-to-undertake-remah-1-and-nairiyah-1-epc/) (MEED 11.19)**
+        
+        - **2025년 3월 확정 (MEED 3.14) - 두에빌 수주공시 3.13**
+        
+    
+    - GT: **Mitsubishi Power**, part of Japan’s Mitsubishi Heavy Industries, has confirmed it has received two orders to supply six M501JAC gas turbines for the **[Rumah 1 and Al-Nairiyah 1 power generation projects](https://www.meed.com/mitsubishi-power-to-supply-rumah-1-and-nairiyah-1-turbines)** in Saudi Arabia.
+        
+        - **2024년 11월 보도 [Mitsubishi Power to supply Rumah 1 and Nairiyah 1 turbines](https://guest.meed.com/mitsubishi-power-to-supply-rumah-1-and-nairiyah-1-turbines/) (MEED 11.21)**
+        
+        - **2025년 4월 확정 [Mitsubishi Power confirms Rumah 1 and Nairiyah 1 deal](https://www.meed.com/mitsubishi-power-confirms-rumah-1-and-nairiyah-1-deal) (MEED 4.2)**
+        
+        - PPA 체결은 2024년 11월
+        
+    
+
+- **Rumah 2 & Nairiyah 2**:
+    
+    - UAE의 TAQA(Abu Dhabi National Energy), 일본 JERA, 사우디 Al Bawani 컨소시엄이 디벨로퍼.
+    
+    - 동일하게 SPPC와 PPA를 체결하고, Harbin Electric이 EPC(설계·조달·시공) 계약자
+## 관련 노트
+
+- 발전 기자재·원전 인접: [[SMR_Nuscale Power]] · [[GEV_GE Vernova]] · [[267260_HD현대일렉트릭]]

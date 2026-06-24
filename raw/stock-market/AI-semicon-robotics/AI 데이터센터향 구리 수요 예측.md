@@ -1,7 +1,8 @@
 ---
-tags: Sector/AI
-Study Date: 2024-04-12
-Last edited time: 2024-11-15T01:00
+type: report
+study date: 2024-04-12
+updated: 2024-11-15
+tag: AI-semicon-robotics
 ---
 **데이터센터 구리 수요와 구리 초과수요의 가격 효과**
 

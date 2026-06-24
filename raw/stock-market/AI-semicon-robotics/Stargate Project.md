@@ -1,10 +1,8 @@
 ---
-tags: Sector/AI
-Study Date: 2025-01-28
-Last edited time: 2025-01-28T12:04
----
-- [[#트럼프2.0 첫 작품 “스타게이트”: 오픈AI, 오라클, 엔비디아, 마이크로소프트 시사점 정리]]
-
+type: research
+study date: 2025-01-28
+updated: 2025-01-28
+tag: AI-semicon-robotics
 ---
 
 ### 트럼프2.0 첫 작품 “스타게이트”: 오픈AI, 오라클, 엔비디아, 마이크로소프트 시사점 정리

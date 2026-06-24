@@ -102,3 +102,6 @@ OPEC 전체가 이 관행을 따르면서 '페트로달러 체계'가 사실상 
 ## 💡 인사이트 / 패턴
 
  %%반복해서 스크랩을 읽으면서 보이는 것%%
+## 관련 기업 (cov)
+
+- [[CRCL_Circle Internet Group]] · [[COIN_Coinbase Global]] — 달러 연동 스테이블코인(USDC)을 통한 디지털 달러 패권의 연장선

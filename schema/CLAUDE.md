@@ -23,19 +23,26 @@
 - 파일을 지우거나 옮기는 일은 사람이 결정한다. LLM이 멋대로 재배치하지 않는다.
 - 새 소스는 아래 분류의 알맞은 하위 폴더에 넣는다. 필요하다면 새로운 디렉토리를 생성할 수 있다. 새로운 디렉토리를 생성한 경우 반드시 `CLAUDE.md`와 `README`의 파일 트리를 함께 수정한다.
 - LLM은 최초 파일의 생성까지 허용한다. 이때 포함되는 내용은 원본 소스를 보존하는 성격의 사실/자료 요약이다. 반드시 매체/출처/url을 병기한다.
+- **예외(개별 기업 overview 노트)**: 사람이 직접 작성한 종목 study/overview 노트(`type: overview`)는
+  사람이 명시적으로 지시한 경우 `raw/stock-market/<섹터>/`에 평탄하게 둔다(파일명 `티커_회사명.md`).
+  이 노트들은 투자의견·밸류에이션 등 해석을 담고 있어 위 "소스 다이제스트만" 원칙의 예외이지만,
+  raw의 다른 본문 수정 금지 원칙은 그대로 적용된다. 인덱스(`_sector-map.md`)는 `wiki/cov/`에 남는다.
 
 ```
 raw/
 ├─ news-scrap/          # 뉴스 스크랩 ((날짜)_(제목).md)
 ├─ startup-innovation/  # 스타트업·VC 관련 자료
-├─ stock-market/        # 섹터별 산업 리서치 (Macro, Energy, Finance ...)
-|  ├─ AI_semiconductor_robotics/
-|  ├─ aerospace_defense/
-|  ├─ auto_ship_buildings/
+├─ stock-market/        # 섹터별 산업 리서치 + 개별 기업 overview 노트
+|  ├─ AI-semicon-robotics/
+|  ├─ aero-defense/
+|  ├─ auto-ship-building/
+|  ├─ consumables-retail/
 |  ├─ cosmetics/
 |  ├─ energy/
+|  ├─ entertainment-leisure/
+|  ├─ financial-fintech/
 |  ├─ macro/
-|  └─ medical_pharma/
+|  └─ medics-pharma/
 ├─ logistics-tech-startup/
 └─ strategic-thinking/  # 거시·지정학 에세이
 ```
@@ -45,7 +52,9 @@ raw/
 - **news-scrap**: `(날짜)_(제목 또는 키워드).md` 형식. 제목/키워드가 없으면 날짜만 쓴다.
   출처(URL·매체명)는 본문 frontmatter의 `source:` 필드로 보존한다 (폴더로 분류하지 않는다).
 - **stock-market 섹터 폴더**: 섹터 번호·점·공백 없이 클린한 이름을 쓴다 (예: `09. Finance` → `Finance`).
-  섹터 자체의 산업 리서치만 여기 두고, 개별 기업 노트는 `wiki/cov/`로 보낸다.
+  섹터 자체의 산업 리서치는 여기 두고, 개별 기업 overview 노트도 위 예외에 따라 같은 섹터 폴더에 둔다
+  (파일명 `티커_회사명.md`). 인덱스·맵(`_sector-map.md`, `_semiconductor-industry-map.md`)은
+  `wiki/cov/`에 남는다.
 
 ### raw 노트의 frontmatter 관습 (관찰된 것)
 
@@ -81,7 +90,9 @@ status: inbox | used        # 아래 참고
 ```
 wiki/
 ├─ wiki-map.md          # 모든 위키를 잇는 허브 인덱스 (도메인별 인덱스 링크)
-├─ cov/                 # 개별 기업 분석 (티커_회사명.md)
+├─ cov/                 # 기업 커버리지 인덱스·맵 (_sector-map.md 등). 개별 기업 overview 노트 본문은
+│                       #   raw/stock-market/<섹터>/에 있다 (§2 예외)
+├─ cross-border/        # 도메인을 가로지르는 종합(synthesis) 노트 (에너지·물질·통화 lens)
 ├─ geopolitics/         # 주제 별 개념노트
 ├─ accounting/
 ├─ logistics/
@@ -94,8 +105,9 @@ wiki/
    작성 시 참조한 외부 URL을 확인할 수 있는 경우 `sources` 필드에 명시한다.
    참조한 `raw/` 파일은 반드시 위키링크(`[[노트 제목]]`)로 연결한다.
    하위 분류는 노트의 내용에 따라 가장 밀접한 폴더를 새롭게 생성할 수 있다. 단, 가장 밀접한 하나의 분류에만 포함한다.
-2. **상장 기업 커버리지(cov)는 `wiki/cov/`에 평탄하게 둔다.** 파일명은 `티커_회사명.md`.
-   섹터 분류는 `wiki/cov/README.md` 인덱스로 유지한다.
+2. **상장 기업 커버리지(cov) 인덱스·맵은 `wiki/cov/`에 평탄하게 둔다.** 개별 기업 overview 노트 본문은
+   §2 예외에 따라 `raw/stock-market/<섹터>/티커_회사명.md`에 둔다(위키링크는 파일명 기준이라 폴더
+   이동과 무관하게 동작). 섹터 분류는 `wiki/cov/_sector-map.md` 인덱스로 유지한다.
 3. **여러 개별 대상(스타트업·기업·인물 등)의 분석이 한 주제로 묶이면 `wiki/<주제>/` 폴더에 평탄하게
    둔다** (예: `wiki/logistics/`). 파일명은 `대상명 (구분).md`처럼 사람이 식별하기 쉽게 짓고, 각 노트는
    ① 대응하는 raw 소스 다이제스트로 위키링크하고 ② 사실 진술마다 인라인 출처를 병기한다.

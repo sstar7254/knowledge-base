@@ -1,7 +1,8 @@
 ---
-tags: Sector/Auto
-Study Date: 2024-06-13
-Last edited time: 2025-02-24T21:20
+type: report
+study date: 2024-06-13
+updated: 2024-06-13
+tag: financial-fintech
 ---
 리츠: 부동산의 매입과 임대로 굴러가는 산업. 기준금리 인하가 늦어지는 데서 큰 타격을 받음
 
