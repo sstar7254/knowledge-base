@@ -14,3 +14,7 @@ Wingstop's fiscal second quarter 2024 results display substantial growth in seve
 The chain opened a record 73 new restaurants during the quarter, reflecting strong franchise partner confidence and effective market penetration strategies.
 
 Internationally, Wingstop also sees robust growth opportunities, ==having experienced more than 82% growth in international average unit volumes (AUV) over two years.==
+## 관련 노트
+
+- 패스트 캐주얼·QSR 인접: [[BROS_Dutch Bros]] · [[SG_Sweetgreen]]
+- 배달 채널: [[DASH_Doordash]]

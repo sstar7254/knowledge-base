@@ -114,3 +114,9 @@ Last edited time: 2025-09-21T21:39
 15. X-series: GPU-GPU 간 고대역폭 통신 구현
 
 16. GPU 클러스터 내 데이터 병렬 처리와 고속 통신을 위한 스케일 업 역할
+
+## 관련 노트
+
+- 데이터센터 연결·병목: [[AVGO_Broadcom]] · [[ANET_Arista Networks]] · [[INTC_Intel]]
+- 메모리·고객: [[000660_SK 하이닉스]] · [[MSFT_Microsoft]] · [[AMZN_Amazon]]
+- 산업 맥락: [[1-4) 반도체와 전략산업]]

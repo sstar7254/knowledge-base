@@ -315,3 +315,7 @@ Last edited time: 2025-07-13T22:07
 ### 기업 지표
 
 ### 주주 환원
+## 관련 노트
+
+- 거래소·핀테크 인접: [[COIN_Coinbase Global]]
+- USDC와 달러 패권: [[페트로달러 (Petrodollar)]] · [[1-2) 기축통화와 미국]]

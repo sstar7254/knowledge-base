@@ -112,3 +112,6 @@ In a challenging environment with a softening consumer backdrop and incremental 
 ### 기업 지표
 
 ### 주주 환원
+## 관련 노트
+
+- 식물성·웰니스 채널: [[SFM_Sprouts Farmers Market]] · [[SG_Sweetgreen]]

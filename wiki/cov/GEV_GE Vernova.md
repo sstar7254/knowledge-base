@@ -21,3 +21,8 @@ Last edited time: 2025-08-02T09:00
     
     - 발전 및 전력사업부 EBITDA 마진과 FCF 전망을 상향조정
     
+## 관련 노트
+
+- 원전·발전 인접: [[SMR_Nuscale Power]] · [[083650_비에이치아이]]
+- 전력 기기: [[ETN_Eaton Corporation]] · [[267260_HD현대일렉트릭]]
+- AI 전력 수요: [[MSFT_Microsoft]] · [[AMZN_Amazon]]

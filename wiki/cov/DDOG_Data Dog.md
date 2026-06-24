@@ -22,3 +22,6 @@ _cf) Palo Alto Networks: 주로 네트워크 보안, 정보 보안 전문가, IT
     - 클라우드 컴퓨팅이 증가하면서 복잡한 인프라와 애플리케이션을 모니터링하고 관리할 필요성 증가
     
     - AI 기반 관찰 가능성 솔루션에 집중하고 있어, AI 애플리케이션 모니터링 수요 증가에 대응
+## 관련 노트
+
+- 기업용 클라우드 SW 인접: [[NET_Cloudflare]] · [[NOW_Service Now]] · [[MSFT_Microsoft]]

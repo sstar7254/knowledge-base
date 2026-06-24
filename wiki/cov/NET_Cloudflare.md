@@ -121,3 +121,7 @@ Paloalto Networks는 Deepseek로 누구나 쉽게 악성 콘텐츠를 만들 수
 - Zero-Trust 모델: 사용자와 디바이스의 신뢰를 가정하지 않고, 지속적으로 인증과 권한을 검증.
 
 - AI 기반 위협 탐지: AI와 머신러닝을 활용해 이상한 행동을 실시간으로 탐지하고 대응
+
+## 관련 노트
+
+- 클라우드 인프라·SW 인접: [[ANET_Arista Networks]] · [[DDOG_Data Dog]] · [[MSFT_Microsoft]]

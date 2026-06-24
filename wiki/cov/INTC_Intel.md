@@ -132,3 +132,7 @@ This investment signals a broader shift toward **“geopolitical capitalism,” 
 **인텔의 Catalyst**
 
 - Intel's progress on its 18A process node and construction timelines for Arizona and Ohio facilities.
+## 관련 노트
+
+- 반도체 밸류체인: [[000660_SK 하이닉스]] · [[AVGO_Broadcom]] · [[ALAB_Astera Labs]]
+- 산업 맥락: [[1-4) 반도체와 전략산업]]

@@ -294,3 +294,7 @@ Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 
 	- B2B 할부 결제 시장 포텐셜
 	- 임박한 금리 인하
     
+
+## 관련 노트
+
+- 핀테크 인접: [[COIN_Coinbase Global]] · [[CRCL_Circle Internet Group]]

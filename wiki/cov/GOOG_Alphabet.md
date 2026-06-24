@@ -310,3 +310,8 @@ _**긍정적이고 자신감 넘치는 분위기**가 지배적이었다. CEO는
 - JPMorgan: 2Q25는 “defining quarter(중요한 분기)”로 평가. Search, YouTube, Cloud 모두 강력한 성장. 다만, 법적 변수(antitrust 등)로 단기 변동성 불가피하나 장기적으론 구조적 성장세 확고
 - BoA: AI 전략 및 대규모 CapEx 확대를 “공격적 선점 전략”으로 평가하면서, Cloud/AI 주도 중장기 성장 기대를 재확인. 검색 광고 방어력과 YouTube 구독 성장도 강점으로 지목.
 - AI/Cloud의 높은 성장/영업마진 개선, 견고한 매출 다각화를 장점으로 지목. 단, CapEx(투자비용) 급증에 따른 단기 마진 부담, 경쟁사(OpenAI, MS)와의 기술 격차 유지에도 주목.
+## 관련 노트
+
+- CSP 경쟁: [[MSFT_Microsoft]] · [[AMZN_Amazon]] · [[META_Meta Platforms]]
+- AI 인프라 공급: [[000660_SK 하이닉스]] · [[AVGO_Broadcom]]
+- AI 전력 확보(원전): [[SMR_Nuscale Power]]
