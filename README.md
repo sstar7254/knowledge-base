@@ -29,7 +29,8 @@ wiki/
 ├─ cov/                 # 개별 기업 분석 (티커_회사명.md)
 ├─ geopolitics/         # 주제 별 개념노트
 ├─ accounting/
-└─ moc/                 # 개념을 묶는 인덱스(Map of Content). 노트를 가로지르는 종합 페이지.
+├─ logistics/
+└─ supply-chain/        # SCM/CPIM 개념노트
 ```
 
 자세한 운영 규칙은 [`schema/CLAUDE.md`](schema/CLAUDE.md)를 참고한다.
