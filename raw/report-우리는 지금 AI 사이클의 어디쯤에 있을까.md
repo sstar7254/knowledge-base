@@ -1,8 +1,10 @@
 ---
 type: report
-study date: 2024-06-22
+date: 2024-06-22
 updated: 2024-06-22
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
 
 **'16년 1월 ~ '18년 9월, 2년 7개월 간 3번의 상승 구간 존재**

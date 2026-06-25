@@ -1,9 +1,12 @@
 ---
 type: research
-study date: 2025-12-15
+date: 2025-12-15
 updated: 2025-12-15
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 1. **AI 다음 떡밥은 무엇일까? - 메르**
     
     [https://blog.naver.com/ranto28/224108446003](https://blog.naver.com/ranto28/224108446003)

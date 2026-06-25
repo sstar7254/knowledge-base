@@ -1,8 +1,10 @@
 ---
 type: research
-study date: 2024-04-17
-updated: 2024-11-15T
-tag: AI-semicon-robotics
+date: 2024-04-17
+updated: 2024-11-15
+tags:
+  - ai
+  - semiconductor
 ---
 
 🗓️ 24.04.17 바바리안 리서치

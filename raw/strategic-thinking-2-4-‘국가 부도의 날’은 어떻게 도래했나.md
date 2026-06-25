@@ -1,7 +1,11 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Investment/Macro
+  - macro
 ---
+
 ## 1. 서론
 
 **“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so. (곤경에 빠지는 건 뭔가를 몰라서가 아니다. 뭔가를 확실히 안다는 착각 때문이다.)” - Mark Twain.**

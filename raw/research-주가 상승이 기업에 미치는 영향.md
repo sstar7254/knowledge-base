@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-12-10
+date: 2024-12-10
 updated: 2024-12-10
-tag: macro
+tags:
+  - macro
 ---
+
 - 기업의 이미지 제고 (신뢰도 증가)
 
 - 자금조달의 용이성

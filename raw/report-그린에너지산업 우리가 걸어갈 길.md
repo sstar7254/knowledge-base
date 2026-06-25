@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-05-01
+date: 2024-05-01
 updated: 2024-05-01
-tag: energy
+tags:
+  - energy
 ---
+
 ### III. 미국이 다시 주도하는 선진 원자로 시장
 
 **1. 강조되는 원자력의 가치 (환경, 경제, 안보)**

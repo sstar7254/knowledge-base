@@ -1,8 +1,10 @@
 ---
 type: overview
-study date: 2025-09-21
+date: 2025-09-21
 updated: 2025-09-21
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
 
 ### 아스테라랩스, 모두가 Scale-up을 필요로 하는 시대의 핵심 기업

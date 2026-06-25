@@ -1,6 +1,9 @@
 ---
 type: research
-tag: macro
+date:
+updated:
+tags:
+  - macro
 ---
 
 ### Impact of Post‑April 2025 Tariffs on Construction Industry and Procore

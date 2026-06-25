@@ -1,3 +1,12 @@
+---
+type: note
+date:
+updated:
+tags:
+  - defense
+  - geopolitics/us
+---
+
 # 미국은 왜 전쟁을 멈추지 못하는가
 
 ## 1부 고장 난 전쟁기계

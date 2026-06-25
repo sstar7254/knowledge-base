@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2025-03-28
-tag: energy
+date: 2025-03-28
+updated: 2025-03-28
+tags:
+  - energy
 ---
 
 ## 이슈 분석

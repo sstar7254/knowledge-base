@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-01-03
+date: 2025-01-03
 updated: 2025-02-11
-tag: entertainment-leisure
+tags:
+  - entertainment
 ---
 
 ## 자료

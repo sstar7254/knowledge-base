@@ -1,10 +1,9 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/digital-freight-forwarding
-- raw/source-digest
+  - supply-chain/logistics
 ---
 
 # sennder — 참고자료 다이제스트
@@ -35,3 +34,6 @@ tags:
 - 카테고리: 디지털 도로화물 포워딩(유럽 1위).
 - 펀딩: 누적 ~$413M, 유니콘. ⚠️ 2024년 이후 신규 에쿼티 라운드는 미확인(최근 모멘텀은 M&A 중심).
 - 최근 뉴스: C.H. Robinson 유럽 EST 인수 완료(2025-02), 합산 매출 €1.4B.
+
+---
+출처: 다수 (아래 본문 인라인)

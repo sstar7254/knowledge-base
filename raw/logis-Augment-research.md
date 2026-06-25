@@ -1,10 +1,10 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/ai-agent
-- raw/source-digest
+  - supply-chain/logistics
+  - ai
 ---
 
 # Augment — 참고자료 다이제스트
@@ -40,3 +40,6 @@ tags:
 - 카테고리: AI 물류 운영 에이전트(화주·중개·운송사 워크플로우 자동화).
 - 단계/규모: Series A $85M(2025-09), 시드 $25M, 5개월 만 후속.
 - 트랙션: FUM $350억+, 인보이스 지연 -40%(고객 사례).
+
+---
+출처: 다수 (아래 본문 인라인)

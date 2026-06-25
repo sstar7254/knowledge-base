@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-04-20
+date: 2024-04-20
 updated: 2024-04-20
-tag: macro
+tags:
+  - macro
 ---
+
 **미국 경제의 3대 미스터리**
 
 1. 깨져버린 물가-실업률 반비례 공식

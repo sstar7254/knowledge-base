@@ -1,9 +1,12 @@
 ---
 type: report
-study date: 2024-04-12
+date: 2024-04-12
 updated: 2024-11-15
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 **데이터센터 구리 수요와 구리 초과수요의 가격 효과**
 
 데이터센터 전력 용량 1MW당 27톤의 구리 필요 BUT MSFT의 시카고 데이터센터에서 MW당 11톤의 구리 사용

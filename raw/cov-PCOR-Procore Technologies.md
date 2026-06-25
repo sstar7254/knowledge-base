@@ -1,8 +1,10 @@
 ---
 type: overview
-study date: 2025-01-28
-updated: 2025-04-01T18:47
-tag: AI-semicon-robotics
+date: 2025-01-28
+updated: 2025-04-01
+tags:
+  - ai
+  - semiconductor
 ---
 
 - What to show? How to show in the slide?

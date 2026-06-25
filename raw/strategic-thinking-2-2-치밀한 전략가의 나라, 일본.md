@@ -1,7 +1,11 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Geopolitics/Japan
+  - geopolitics/japan
 ---
+
 ## 1. 서론
 
 ![[2-2) 치밀한 전략가의 나라, 일본-1.png]]

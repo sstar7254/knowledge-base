@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-08-31
-updated: 2025-09-06T
-tag: financial-fintech
+date: 2025-08-31
+updated: 2025-09-06
+tags:
+  - finance
 ---
 
 ## 자료

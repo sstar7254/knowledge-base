@@ -1,8 +1,11 @@
 ---
+type: report
+date:
+updated:
 tags:
-  - Startup/VC
-  - Startup/IR
+  - vc
 ---
+
 - 미국 액셀러레이터 기업의 스타트업 평가요인 및 국내 창업초기기업 지원 사업 평가지표 분석
     - 창업교육경험 여부
     - 공동창업 여부

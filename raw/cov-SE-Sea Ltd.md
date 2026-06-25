@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-01-17
+date: 2025-01-17
 updated: 2025-05-17
-tag: consumables-retail
+tags:
+  - retail
 ---
 
 ## 자료

@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2024-08-30
-tag: aero-defense
+date: 2024-08-30
+updated: 2024-08-30
+tags:
+  - defense
 ---
 
 ## STUDY

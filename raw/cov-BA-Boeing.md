@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-09-14
-updated: 2025-09-13T23:12
-tag: aero-defense
+date: 2025-09-14
+updated: 2025-09-13
+tags:
+  - defense
 ---
 
 ### **2024년, 보잉의 위기**

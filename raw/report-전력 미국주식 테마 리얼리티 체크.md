@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-08-13
+date: 2024-08-13
 updated: 2024-08-13
-tag: energy
+tags:
+  - energy
 ---
+
 **전력 관련 테마 업데이트**
 
 **1. 전력 발전 사업자(유틸리티)**

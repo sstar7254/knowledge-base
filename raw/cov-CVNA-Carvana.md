@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-03-14
-updated: 2025-03-14T16:22
-tag: auto-ship-building
+date: 2025-03-14
+updated: 2025-03-14
+tags:
+  - shipbuilding
 ---
 
 ## 이슈 분석

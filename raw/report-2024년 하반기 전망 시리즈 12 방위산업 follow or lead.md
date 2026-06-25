@@ -1,10 +1,11 @@
 ---
-Type: Report
-tags: Sector/Defense
-Study Date: 2024-11-07
-Author: 메리츠증권
-Last edited time: 2024-11-15T01:04
+type: report
+date: 2024-11-07
+updated: 2024-11-15
+tags:
+  - defense
 ---
+
 ‘24년 상반기 국내 방산업종 내 주가 차별화는 ‘24년 연간 실적 성장에 대한 기대치 및 추가 수출 기대감
 
 글로벌 지역별 방산업종 수익률 차별화 - 국내/유럽 방산 > 북미
@@ -16,3 +17,6 @@ Last edited time: 2024-11-15T01:04
 국내 방산 - 유럽과 중동을 필두로 한 신규 무기 수요의 수혜를 받아 구조적 성장
 
 ![[2024년 하반기 전망 시리즈 12 방위산업 follow or lead-1.png|image 15.png]]
+
+---
+출처: 메리츠증권

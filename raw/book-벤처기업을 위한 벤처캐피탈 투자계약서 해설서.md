@@ -1,8 +1,12 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Investment/Valuation
-  - Startup/VC
+  - finance
+  - vc
 ---
+
 ## I. 기업의 자금 조달과 벤처캐피탈 투자계약서
 
 ### 사채 Vs 주식연계형 사채

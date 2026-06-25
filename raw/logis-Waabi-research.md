@@ -1,10 +1,9 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/autonomous-trucking
-- raw/source-digest
+  - supply-chain/logistics
 ---
 
 # Waabi — 참고자료 다이제스트
@@ -42,3 +41,6 @@ tags:
 - 카테고리: 자율주행 트럭(L4), 생성형 AI 시뮬레이션 기반.
 - 단계/규모: 2026-01 신규 라운드 $750M(+ Uber 마일스톤 $250M), Khosla/G2 주도.
 - 트랙션: 텍사스 상용 노선 운영(Uber Freight·Samsung), 2026말 무인 전환 목표.
+
+---
+출처: 다수 (아래 본문 인라인)

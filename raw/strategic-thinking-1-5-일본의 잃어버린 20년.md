@@ -1,8 +1,12 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Investment/Macro
-  - Geopolitics/Japan
+  - macro
+  - geopolitics/japan
 ---
+
 ### 1. 서론
 
 #1 “You understand guns? Finance is a gun. Politics, is knowing when to pull the trigger. (자네, 총에 대해서 잘 알고 있지 않은가? 금융도 비유하자면 총과 같네, 그리고 정치는 그 총의 방아쇠를 언제 당길지를 아는 것이고.)” 제가 가장 사랑하는 영화 《The GodFather(대부)》 3부작에서도 가장 좋아하는 대사입니다. 해당 대사는 마이클 콜레오네(알 파치노 役)의 정적인 돈 루체시가 마이클의 조카인 빈센트 콜레오네와 나눈 대화에서 등장합니다. 마이클은 빈센트에게 자신을 배신하는 척 하며 루체시 편에 설 것을 주문하고, 빈센트는 그의 전략을 따라 루체시를 만나 그의 친구가 되기를 청합니다. 이때 빈센트가 ‘나는 정치와 금융 같은 것들은 잘 모른다’라고 이야기하자, 그때 돈 루체시는 정치와 금융은 마치 총처럼 하나로 엮여있다는 것을 이야기하죠.

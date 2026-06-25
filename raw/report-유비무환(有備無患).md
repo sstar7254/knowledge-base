@@ -1,8 +1,11 @@
 ---
-tags: Sector/Defense
-Study Date: 2024-11-04
-Last edited time: 2024-12-10T23:06
+type: report
+date: 2024-11-04
+updated: 2024-12-10
+tags:
+  - defense
 ---
+
 ## VI. 러-우 전쟁, 그 이후는?
 
 ### 1. 러-우 전쟁 너머를 바라보다

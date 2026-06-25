@@ -1,9 +1,13 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Investment/Macro
-  - Business/ESG
-  - Geopolitics/Energy
+  - macro
+  - esg
+  - geopolitics/middle-east
 ---
+
 ## 1. 서론
 
 ![[2-7) 에너지의 관점에서 재구성한 세계질서 (1)-1.png]]

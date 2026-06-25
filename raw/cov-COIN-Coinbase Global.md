@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-06-21
+date: 2025-06-21
 updated: 2025-08-28
-tag: financial-fintech
+tags:
+  - finance
 ---
 
 ### Follow-ups

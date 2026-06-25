@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-06-15
+date: 2025-06-15
 updated: 2025-08-08
-tag: energy
+tags:
+  - energy
 ---
 
 > [!important]

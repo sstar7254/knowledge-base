@@ -1,9 +1,12 @@
 ---
 type: report
-study date: 2024-04-21
+date: 2024-04-21
 updated: 2024-11-15
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 **테크 섹터 부진 코멘트**
 
 - Super Micro Computer가 사전 실적 발표 생략이라는 악제에 테크가 크게 부진

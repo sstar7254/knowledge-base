@@ -1,11 +1,10 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인 URL)
 date: 2026-06-24
+updated: 2026-06-24
 tags:
-  - Sector/AI
-  - Sector/Semiconductor
-status: inbox
+  - ai
+  - semiconductor
 ---
 
 # 반도체 밸류체인 분류와 주요 상장기업 참고자료
@@ -109,3 +108,6 @@ Synopsys·Cadence·Siemens EDA 3사가 시장의 ~85% 과점. [heygotrade SNPS v
 - **리노공업 (058470)**: 테스트 핀·소켓(릴레이 소켓) 세계 강자. (커버리지 있음)
 - **ISC (095340)**: 실리콘러버 소켓 세계 1위, HBM 테스트 소켓.
 - **티에스이 (131290)**: 테스트 소켓·프로브카드.
+
+---
+출처: 다수 (아래 본문 인라인 URL)

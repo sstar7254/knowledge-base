@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2025-03-21
-tag: aero-defense
+date: 2025-03-21
+updated: 2025-03-21
+tags:
+  - defense
 ---
 
 ## Follow Up

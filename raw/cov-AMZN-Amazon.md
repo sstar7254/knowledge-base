@@ -1,8 +1,10 @@
 ---
 type: overview
-study date: 2025-08-10
+date: 2025-08-10
 updated: 2025-08-31
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
 
 ### 자료

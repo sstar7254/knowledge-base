@@ -1,9 +1,12 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Economy
-  - Investment/Macro
-  - Geopolitics/US
+  - macro
+  - geopolitics/us
 ---
+
 > [!important] **미국 패권 (Hegemony) 의 문화적 맥락**
 > 
 > 히어로 장르 콘텐츠는 왜 대부분 미국에서 만들어질까?

@@ -1,8 +1,10 @@
 ---
 type: overview
-study date: 2024-11-14
-updated: 2024-11-15T00:51
-tag: AI-semicon-robotics
+date: 2024-11-14
+updated: 2024-11-15
+tags:
+  - ai
+  - semiconductor
 ---
 
 ![[DDOG_2024_Investor_Day_.pdf]]

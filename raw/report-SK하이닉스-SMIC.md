@@ -1,6 +1,10 @@
 ---
 type: report
-tag: AI-semicon-robotics
+date:
+updated:
+tags:
+  - ai
+  - semiconductor
 ---
 
 # Every Winter has its Spring

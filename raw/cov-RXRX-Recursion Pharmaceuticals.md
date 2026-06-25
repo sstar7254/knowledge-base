@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2024-11-21
+date: 2024-11-21
 updated: 2025-01-09
-tag: medics-pharma
+tags:
+  - pharma
 ---
 
 ## RESEARCH

@@ -1,9 +1,12 @@
 ---
 type: research
-study date: 2024-11-12
+date: 2024-11-12
 updated: 2024-12-01
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 1. 개인화된 고객 경험 제공
     
     - AI, 빅데이터 등 고급 기술을 활용해 모바일, 웹, 소셜 미디어 등 다양한 채널을 통해 개인화된 콘텐츠와 서비스를 제공합니다[1](https://www.fortunebusinessinsights.com/ko/commerce-cloud-market-102802).

@@ -1,8 +1,12 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Sector/AI
-  - Investment/Macro
+  - ai
+  - macro
 ---
+
 ### 반도체 기본
 
 전반적으로 봤을 때 미국이 큰 점유율을 갖고 있긴 하지만, 미국이 하지 못하는 것 = 파운드리

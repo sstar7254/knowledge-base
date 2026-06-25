@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-10-26
+date: 2025-10-26
 updated: 2025-11-02
-tag: auto-ship-building
+tags:
+  - shipbuilding
 ---
 
   * **엔비디아와의 전략적 파트너십 체결**: 우버는 2025년 CES에서 발표한 AI 기반 자율주행 기술 가속화를 위해 엔비디아와 협력하며, 전 세계 실주행 데이터를 엔비디아의 Cosmos 플랫폼과 DGX Cloud에 제공해 AI 모델의 훈련 효율과 시뮬레이션 정확도를 높인다.

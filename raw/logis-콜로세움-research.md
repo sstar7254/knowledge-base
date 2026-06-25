@@ -1,10 +1,9 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/fulfillment
-- raw/source-digest
+  - supply-chain/logistics
 ---
 
 # 콜로세움(콜로세움코퍼레이션) — 참고자료 다이제스트
@@ -42,3 +41,6 @@ tags:
 - 카테고리: 무자산 분산형 풀필먼트(창고 네트워크 + COLO AI 통합 SW).
 - 단계/규모: 시리즈B 270억(2025-06), 효성벤처스/CJ인베스트먼트/산업은행 등.
 - 트랙션: 누적매출 1,000억·물동량 600만건, 53개 센터 네트워크, 2027 IPO 목표.
+
+---
+출처: 다수 (아래 본문 인라인)

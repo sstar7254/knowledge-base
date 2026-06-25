@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2025-02-21
-tag: consumables-retail
+date: 2025-02-21
+updated: 2025-02-21
+tags:
+  - retail
 ---
 
 ## STUDY

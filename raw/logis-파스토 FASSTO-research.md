@@ -1,10 +1,9 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/fulfillment
-- raw/source-digest
+  - supply-chain/logistics
 ---
 
 # 파스토(FASSTO) — 참고자료 다이제스트
@@ -40,3 +39,6 @@ tags:
 - 카테고리: 자산형(직영센터) AI 풀필먼트, 네이버 NFA 파트너.
 - 단계/규모: 시리즈C 총 950억(800억 + 150억).
 - 트랙션: 전국 21개 센터·17만㎡(2025), 미국 진출(2025-12).
+
+---
+출처: 다수 (아래 본문 인라인)

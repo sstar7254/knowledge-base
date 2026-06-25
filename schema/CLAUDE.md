@@ -30,33 +30,37 @@
 
 ### raw 노트의 frontmatter 규칙
 
+frontmatter는 아래 **4개 필드만** 둔다(type / date / updated / tags). `source`, `status`, `aliases`, `author` 같은 필드는 frontmatter에 두지 않는다.
+
 ```yaml
 ---
 type: news-scrap | overview | research | report | note
 date: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags:
-- 계층형/태그
+  - 태그
 ---
 ```
 
-* date: 최초 작성일. 새 노트를 최초로 생성할 때 그 날의 날짜를 기록한다.
-* updated: 마지막 수정일. 노트를 업데이트 하는 경우 그 날의 날짜를 기록한다.
-* tags: 본문에서 가장 중요한 키워드 2~3개. tags 필드에서 사용하는 태그는 아래 리스트 중 하나를 우선한다. 필요한 경우 태그를 추가할 수 있으나, 이 경우 반드시 schema 리스트를 업데이트한다.
-      - macro
-      - vc
-      - finance
-      - business: business/strategy
-      - geopolitics: geopolitics/china, japan, us 등 지정학적 메인 국가
-      * supply-chain: supply-chain/logistics
+* date: 최초 작성일. 기존 `study date`/`date`에서 가져오며, 새 노트를 최초로 생성할 때 그 날의 날짜를 기록한다. 메타데이터가 전혀 없으면 비워둔다(임의로 지어내지 않는다).
+* updated: 마지막 수정일(시간 제외). 기존 `Last edited time`/`updated`에서 가져오며, 노트를 업데이트 하는 경우 그 날의 날짜를 기록한다.
+* 출처(매체명·URL·일자)는 frontmatter가 아니라 **본문 최하단**에 `---` 구분선 아래 `출처:` 라인으로 둔다.
+* tags: 본문에서 가장 중요한 키워드 2~3개. 아래 리스트의 태그를 **우선**한다. 필요하면 태그를 추가할 수 있으나, 이 경우 반드시 이 리스트를 함께 업데이트한다.
+  - **macro** — Investment/Macro·Economy·Investment/Bonds 류를 통합
+  - **vc** — Startup/* (Startup/VC·Startup/IR 등) 류를 통합
+  - **finance** — Investment/Valuation·Finance/Biz·Finance/Deriv·Finance/RealEstate·fintech 류를 통합
+  - **strategy**
+  - **geopolitics/\<국가·지역\>** — china, japan, us, middle-east 등 지정학적 메인 대상 (대상이 불명확하면 `geopolitics`)
+  - **supply-chain**, **supply-chain/logistics**
+  - 섹터 키워드(필요시 사용·확장): **ai**, **semiconductor**, **robotics**, **energy**, **shipbuilding**, **defense**, **cosmetics**, **retail**, **pharma**, **entertainment**, **esg**, **demographics**, **evtol**
 
 ### LLM이 리서치를 raw에 저장할 때 (source-digest 원칙)
 
 기본은 §1대로 raw는 사람이 추가하는 영역이다. **사람이 명시적으로 "raw에 저장"을 지시한 경우에 한해** LLM이 raw에 파일을 만든다. 이때 다음을 지킨다.
 
-- raw에는 **참고한 기사·자료의 요약(소스 다이제스트)만** 둔다. 항목마다 **매체명·URL·일자**를 병기한다.
+- raw에는 **참고한 기사·자료의 요약(소스 다이제스트)만** 둔다. 항목마다 **매체명·URL·일자**를 병기하고, 전체 출처는 본문 최하단 `출처:` 라인에 둔다(frontmatter에는 두지 않는다).
 - **해석·비교·결론·전략 분석 같은 파생물은 raw에 쓰지 않는다.** 그것은 wiki의 몫이다(§1 derived).
-- frontmatter `date`와 `update`에는 모두 **노트 생성일**을 기록한다.
+- frontmatter `date`와 `updated`에는 모두 **노트 생성일**을 기록한다.
 - 헤더 및 frontmatter는 위 규칙을 따른다.
 
 

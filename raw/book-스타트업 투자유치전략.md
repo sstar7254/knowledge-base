@@ -1,8 +1,10 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Startup/IR
-  - Investment/Valuation
-  - Startup/VC
+  - vc
+  - finance
 ---
 
 스타트업의 장기적 목표는 단순한 생존이 아니라, 고객에게 제대로 된 가치를 주면서 크게 성장하는 것. 시장 선점을 위해서는 이미 이익이 나고 있는 상태에서도 고객 확대를 위한 충분한 자금 확보를 목적으로 투자 유치가 필요할 수 있음

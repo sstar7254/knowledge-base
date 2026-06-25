@@ -1,7 +1,11 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Geopolitics
+  - geopolitics
 ---
+
 ## 1. 서론
 
 **#1** 제가 최근 주목하는 책이 있습니다. 그 책은 바로 영국 스카이뉴스(Skynews)의 경제 전문 기자인 에드 콘웨이(Ed Conway)가 집필한 『물질의 세계(원제: A Material World: A Substantial Story of Our Past and Future)』입니다. 영미권 언론계에서 다루는 콘텐츠의 난이도가 양대산맥처럼 여겨지는 《The Economist》와 《Financial Times》에서 ‘2023년 올해의 책’으로 선정할 정도로, 작년 서구 지식 사회서 큰 반향을 불러일으켰던 책입니다. 과연 어떤 주제의식과 내용을 다루고 있는 책이길래 그런 주목을 받을 수 있었을까요?

@@ -1,8 +1,12 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Investment/Macro
-  - Geopolitics/Japan
+  - macro
+  - geopolitics/japan
 ---
+
 ## 1. 서론
 
 

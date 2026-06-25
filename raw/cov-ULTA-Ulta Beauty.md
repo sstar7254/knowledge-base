@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2024-09-06
-tag: cosmetics
+date: 2024-09-06
+updated: 2024-09-06
+tags:
+  - cosmetics
 ---
 
 ## STUDY

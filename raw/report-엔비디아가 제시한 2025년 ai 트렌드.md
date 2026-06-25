@@ -1,9 +1,12 @@
 ---
 type: report
-study date: 2024-11-22
+date: 2024-11-22
 updated: 2024-11-22
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 > [!info] AI가 이끌 2025년 산업전망은 ...엔비디아 "에이전틱 AI, 혁신의 핵심 트렌드 지목"  
 > AI 컴퓨팅 기술 분야의 선두주자인 엔비디아가 다가오는 2025년 AI가 가져올 혁신적인 발전에 대한 전망을 22일 발표했다.  
 > [https://www.efnews.co.kr/news/articleView.html?idxno=116065](https://www.efnews.co.kr/news/articleView.html?idxno=116065)  

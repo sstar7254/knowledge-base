@@ -1,9 +1,12 @@
 ---
 type: report
-study date: 2024-10-31
+date: 2024-10-31
 updated: 2024-11-15
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 ### SW 강세 배경
 
 1. 금리 인하 + 매크로 불확실성 해소

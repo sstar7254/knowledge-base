@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-09-28
+date: 2025-09-28
 updated: 2025-09-28
-tag: medics-pharma
+tags:
+  - pharma
 ---
 
 ### 기업 분석

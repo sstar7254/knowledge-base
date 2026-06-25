@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-05-02
+date: 2025-05-02
 updated: 2025-05-04
-tag: consumables-retail
+tags:
+  - retail
 ---
 
 ## 이슈 분석

@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2024-10-04
+date: 2024-10-04
 updated: 2025-01-09
-tag: entertainment-leisure
+tags:
+  - entertainment
 ---
 
 ## 자료
@@ -47,7 +48,6 @@ CCO Bela Bejaria - 고급 치츠버거 전략 (대부분의 사람들에게 맛�
 ![[NFLX_Netflix-4.png|image 2 7.png]]
 
 ![[NFLX_Netflix VF9-1.jpg]]
-
 
 
 **2. 비밀번호 공유 단속** 효과는 큰 이탈률 없이 순조롭게 진행

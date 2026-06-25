@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-06-13
+date: 2024-06-13
 updated: 2024-06-13
-tag: financial-fintech
+tags:
+  - finance
 ---
+
 리츠: 부동산의 매입과 임대로 굴러가는 산업. 기준금리 인하가 늦어지는 데서 큰 타격을 받음
 
 Healthcare Facilities / Residential / Retail / Specialty / Mortgage / Hotel & Motel / Office / Diversified / Development

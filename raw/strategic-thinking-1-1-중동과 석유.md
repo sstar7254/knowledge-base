@@ -1,8 +1,13 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Economy
-  - Geopolitics/Energy
+  - macro
+  - geopolitics/middle-east
+  - energy
 ---
+
 ## 1주차 : 사우디아라비아를 중심으로 본 산유국의 위상
 
 ### 1) 사우디아라비아는 석유 시장에서 얼만큼의 비중을 차지하고 있을까?

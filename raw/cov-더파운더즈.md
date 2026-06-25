@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2024-12-04
+date: 2024-12-04
 updated: 2024-12-04
-tag: cosmetics
+tags:
+  - cosmetics
 ---
 
 ![[더파운더즈-1.jpg]]

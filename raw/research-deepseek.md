@@ -1,9 +1,12 @@
 ---
 type: research
-study date: 2025-01-28
+date: 2025-01-28
 updated: 2025-01-28
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 ### 딥시크 충격, 미국주식 대폭락 사태: 저는 본질을 이렇게 이해했습니다 (미국주식 사관학교)
 
 나스닥 종합지수 선물 -4%

@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2024-11-29
+date: 2024-11-29
 updated: 2025-01-09
-tag: medics-pharma
+tags:
+  - pharma
 ---
 
 ## 자료
