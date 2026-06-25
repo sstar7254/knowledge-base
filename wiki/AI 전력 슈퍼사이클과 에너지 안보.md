@@ -15,19 +15,19 @@ updated: 2026-06-24
 생성형 AI 경쟁은 국가 안보 프로젝트로 격상됐고([[research-Stargate Project]]에서 4년간 $500B 투자 선언),
 연산 수요는 곧 전력 수요로 직결된다. TSMC의 설비투자 목표를 역산하면 2027년 데이터센터 총
 전력 소비량은 2,247TWh로 추정된다([[report-AI 데이터센터향 구리 수요 예측]]). 우리가 사이클의 어디쯤
-있는지는 [[report-우리는 지금 AI 사이클의 어디쯤에 있을까]]·[[반도체 산업]]에서 다룬다.
+있는지는 [[report-우리는 지금 AI 사이클의 어디쯤에 있을까]]·반도체 산업에서 다룬다.
 
 - 전력을 사들이는 수요 주체(CSP): [[cov-MSFT-Microsoft]] · [[cov-AMZN-Amazon]] · [[cov-GOOG-Alphabet]]
-- 연산의 핵심 부품(메모리): [[000660_SK 하이닉스]]
+- 연산의 핵심 부품(메모리): [[report-SK하이닉스-SMIC|000660_SK 하이닉스]]
 
 ## 2. 병목은 전력 공급 — 수혜는 발전·송배전 밸류체인
 
 [[report-전력 미국주식 테마 리얼리티 체크]]는 전력 테마를 ① 유틸리티 ② 전력 인프라·기기
 ③ 신재생으로 나누고, 모든 모멘텀이 **전력 가격**이라는 단일 지표에 수렴한다고 본다. 미국의
-에너지 전환 경로는 [[report-그린에너지산업 우리가 걸어갈 길]]·[[Energy Industry Study Project]]에 정리돼 있다.
+에너지 전환 경로는 [[report-그린에너지산업 우리가 걸어갈 길]]·[[research-Energy Industry|Energy Industry Study Project]]에 정리돼 있다.
 
 - 원전(기저부하)과 핵연료: [[cov-SMR-Nuscale Power]] · [[cov-LEU-Centrus Energy]]
-- 발전 기자재·전력 기기: [[GEV_GE Vernova]] · [[ETN_Eaton Corporation]] · [[cov-267260-HD현대일렉트릭]]
+- 발전 기자재·전력 기기: GEV_GE Vernova · ETN_Eaton Corporation · [[cov-267260-HD현대일렉트릭]]
 
 ## 3. 전력 인프라의 정체는 결국 '물질'이다
 

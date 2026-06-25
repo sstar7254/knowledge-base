@@ -23,7 +23,7 @@ tags:
 
 ### Investment Thesis
 
-[[PCOR_Tariff Impact Research]]
+[[research-Tariff|PCOR_Tariff Impact Research]]
 
 1. **Value Proposition (Reason to use Procore-customers are satisfied with the service and keep using it)**
     

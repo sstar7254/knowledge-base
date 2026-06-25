@@ -1,9 +1,10 @@
 ---
 type: news-scrap
-source: https://www.supplychaindive.com/news/kraft-heinz-merges-procurement-and-supply-chain-units/823436/
 date: 2026-06-23
-author: Phil Neuffer
-status: used
+updated: 2026-06-23
+tags:
+  - supply-chain
+  - strategy
 ---
 
 **Dive Brief**
@@ -73,3 +74,7 @@ Aydin은 Kraft Heinz 입사 전 Guinness, Johnnie Walker 등의 브랜드를 보
 - [Kraft Heinz Restructures Into 3 Regions, Combines Procurement, Supply Chain — The Shelby Report](https://theshelbyreport.com/2026/06/19/kraft-heinz-restructures-into-3-regions-combines-procurement-supply-chain/)
 - [What Procurement Leadership Change Means for Kraft Heinz — Supply Chain Digital](https://supplychaindigital.com/news/kraft-heinz-procurement-leadership-change)
 - [Kraft Heinz splits global operations into 3 regions, reshuffles top roles — StockTitan](https://www.stocktitan.net/news/KHC/kraft-heinz-announces-new-global-operating-structure-to-accelerate-2y6j8t4cq2ya.html)
+
+
+---
+출처: https://www.supplychaindive.com/news/kraft-heinz-merges-procurement-and-supply-chain-units/823436/ (Phil Neuffer, Supply Chain Dive)
