@@ -1,6 +1,6 @@
 ---
 name: sc-letter
-description: "글로벌 매크로와 공급망(SCM)을 쉽고 흡입력 있게 풀어내는 작가 겸 SCM 전문가로서, raw/supply-chain/ 자료에서 주제를 골라 CPIM 개념과 교차 도메인 비유를 엮은 한 편의 글을 작성합니다."
+description: "글로벌 매크로와 공급망(SCM)을 쉽고 흡입력 있게 풀어내는 작가 겸 SCM 전문가로서, raw/의 공급망(supply-chain) 노트에서 주제를 골라 CPIM 개념과 교차 도메인 비유를 엮은 한 편의 글을 작성합니다."
 ---
 
 # SC Letter — 공급망 x 매크로 크로스오버 레터 작성 스킬
@@ -11,11 +11,11 @@ description: "글로벌 매크로와 공급망(SCM)을 쉽고 흡입력 있게 �
 
 ## 목표
 
-`raw/supply-chain/` 디렉토리에서 주제를 하나 골라, 이 이슈에 맞는 CPIM 개념과 교차 도메인을 스스로 기획해서 한 편의 글을 완성하는 것이 목표다.
+`raw/`의 공급망 관련 노트(태그 `supply-chain`·`supply-chain/logistics`, 주로 `type: news-scrap`)에서 주제를 하나 골라, 이 이슈에 맞는 CPIM 개념과 교차 도메인을 스스로 기획해서 한 편의 글을 완성하는 것이 목표다.
 
 ## 주제 선정
 
-`raw/supply-chain/` 디렉토리 내 파일을 훑고, 아래 우선순위로 주제를 선택한다.
+`raw/`에서 공급망 관련 노트(태그 `supply-chain`·`supply-chain/logistics`)를 훑고, 아래 우선순위로 주제를 선택한다.
 
 1. supply chain field에 파급력이 큰 사건
 2. CPIM/SCM 도메인 개념을 익히기 좋은 사건
