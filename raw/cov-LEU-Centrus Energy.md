@@ -22,7 +22,7 @@ tags:
 
 ## Earnings Update
 
-[[LEU_2Q25 Earnings]]
+[[research-LEU-2Q25 Earnings]]
 
 ## 이슈 분석
 

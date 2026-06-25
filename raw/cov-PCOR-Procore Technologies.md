@@ -127,7 +127,7 @@ tags:
 > 
 > - _Bottom Right Quadrant: **Case Study-Swarmed account (Enterprise)**_
     
-    - **[[PCOR_Procore Technologies]] - New customers from international**
+    - **[[cov-PCOR-Procore Technologies]] - New customers from international**
         
         - **as-is**
             
@@ -172,7 +172,7 @@ tags:
         
         - **How?**
             
-            - [[PCOR_Procore Technologies]]
+            - [[cov-PCOR-Procore Technologies]]
             
             - CFO Howard Fu **c**larified that **Procore’s enterprise focus began in late 2023**, aligning resources with observed strength in upmarket demand. This shift is expected to **drive stronger bookings in the second half of 2024** (1Q24 Earnings)
                 

@@ -8,7 +8,7 @@ tags:
 
 ### Follow-ups
 
-[[COIN_2Q25 Earnings]]
+[[research-COIN-2Q25 Earnings]]
 
 - Jun 26 2025) 미국 연방주택금융청이 Fannie Mac, Freddie Mac에 대해 암호화폐를 단독주택 모기지 대출 리스크 평가 자산으로 인정하도록 지시
     대출자들은 암호화폐를 현금화하지 않고도 모기지 신청 가능
