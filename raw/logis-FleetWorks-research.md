@@ -1,10 +1,9 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/freight-brokerage
-- raw/source-digest
+  - supply-chain/logistics
 ---
 
 # FleetWorks — 참고자료 다이제스트
@@ -33,3 +32,6 @@ tags:
 - 카테고리: AI 네이티브 화물 중개/배차(음성 AI 에이전트).
 - 단계/규모: Series A $15M(총 $17M, 2025-10), First Round Capital 주도.
 - 과금: 사용량 기반 $6/load. 트랙션: 운송사 10,000+, 상위 100대 중개사 15곳+.
+
+---
+출처: 다수 (아래 본문 인라인)

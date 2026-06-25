@@ -1,8 +1,10 @@
 ---
 type: overview
-study date: 2025-09-21
+date: 2025-09-21
 updated: 2025-09-21
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
 
 ### 아스테라랩스, 모두가 Scale-up을 필요로 하는 시대의 핵심 기업
@@ -77,7 +79,6 @@ tag: AI-semicon-robotics
 
 3. 아스테라랩스 CTO 출신이 입을 열다: GB200 NVL, HGX B200, AWS, Scorpio, AEC, UALink
 
-
 - **AI 인프라 2.0 시대 개막, ‘운용 비중 확대’ 신규 제시**
 
 1. **AI 인프라 2.0 시대, ‘표준화’로 승부**
@@ -92,19 +93,15 @@ tag: AI-semicon-robotics
 
 6. PCIe의 낮은 지연 시간과 이더넷의 빠른 데이터 속도를 결합한 **UALink 스케일업 연결 표준**에 큰 기대를 걸고 있음
 
-
 7. ==UALink는 AI 가속기 공급업체에게 최적화된 스케일업 전략을 제시. UALink는 AI 가속기(GPU) 간 고성능, 저지연 직접 연결을 목적으로 하는 개방형 인터커넥트 표준으로 주요 클라우드 및 반도체 기업들이 참여해 개발한 오픈 사양 방식의 Die to Die 직렬 버스 형태.==
-
 
 8. **주요 제품 (1) Aries, 리타이머**
 
 9. 신호를 재창출해 PCIe, CXL 링크의 신호 무결성(Signal Intergrity)을 보장하고, 연결 가능한 거리를 최대 3배까지 확장.
 
-
 10. **주요 제품 (2) Taurus 이더넷 스마트 케이블 모듈**
 
 11. 데이터센터에서 Switch to Switch or Switch to Server 인터커넥트에 발생하는 성능 병목 현상을 해결하기 위해 개발된 스마트 전기 케이블 모듈.
-
 
 12. **주요 제품 (3) Scorpio 스마트 패브릭 스위치**
 
@@ -112,13 +109,6 @@ tag: AI-semicon-robotics
 
 14. 다양한 기기 간 데이터 유입 및 통합을 위한 스케일 아웃 역할
 
-
 15. X-series: GPU-GPU 간 고대역폭 통신 구현
 
 16. GPU 클러스터 내 데이터 병렬 처리와 고속 통신을 위한 스케일 업 역할
-
-## 관련 노트
-
-- 데이터센터 연결·병목: [[AVGO_Broadcom]] · [[ANET_Arista Networks]] · [[INTC_Intel]]
-- 메모리·고객: [[000660_SK 하이닉스]] · [[MSFT_Microsoft]] · [[AMZN_Amazon]]
-- 산업 맥락: [[1-4) 반도체와 전략산업]]

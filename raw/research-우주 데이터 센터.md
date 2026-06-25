@@ -1,9 +1,12 @@
 ---
 type: research
-study date: 2025-12-15
+date: 2025-12-15
 updated: 2025-12-15
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 1. **AI 다음 떡밥은 무엇일까? - 메르**
     
     [https://blog.naver.com/ranto28/224108446003](https://blog.naver.com/ranto28/224108446003)
@@ -34,7 +37,7 @@ tag: AI-semicon-robotics
 
 ### 관련 기업
 
-- [[ASTS_AST Spacemobile|ASTS]]
+- [[cov-ASTS-AST Spacemobile|ASTS]]
     - 스페이스X, 블루 오리진, ISRO와 같은 주요 발사 서비스 제공업체와 계약을 체결하여 위성 발사를 진행
     - 스페이스X의 스펙트럽 인수가 ASTS에 서비스 지연을 야기할 수 있음
 

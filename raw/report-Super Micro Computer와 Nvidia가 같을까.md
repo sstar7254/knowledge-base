@@ -1,9 +1,12 @@
 ---
 type: report
-study date: 2024-04-21
+date: 2024-04-21
 updated: 2024-11-15
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 **테크 섹터 부진 코멘트**
 
 - Super Micro Computer가 사전 실적 발표 생략이라는 악제에 테크가 크게 부진
@@ -75,7 +78,7 @@ TSMC 파운드리가 '26년까지 독주하는 것은 기정사실
 
 **미국 테크 업데이트**
 
-[[MSFT_Microsoft|MSFT]]
+[[cov-MSFT-Microsoft|MSFT]]
 
 Copilot으로 어닝 서프라이즈가 발생하는 것이 중요
 
@@ -97,7 +100,7 @@ FSD와 로보택시에 집중할 것으로 예상
 
 지속되는 모델 가격 인하 뉴스로 약세 가능성 증가
 
-[AMD]/[[INTC_Intel|INTC]]
+[AMD]/[[cov-INTC-Intel|INTC]]
 
 SMCI발 AI수요 둔화 우려로 급락
 

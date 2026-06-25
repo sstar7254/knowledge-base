@@ -1,17 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-31
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L2
-created: 2026-03-31
-edited: 2026-03-31
-aliases:
-- IRGC
-- Islamic Revolutionary Guard Corps
-- 혁명수비대
-- 이슬람혁명수비대
-
+  - geopolitics/middle-east
 ---
+
 # 이란 혁명수비대 (IRGC)
 
 > [!abstract] 한 줄 요약
@@ -24,7 +18,7 @@ aliases:
 
 | 날짜 | 출처 노트 | 핵심 포인트 |
 | --- | --- | --- |
-| 2026-03-31 | [[중동 분쟁의 역사]] | 이란 외교정책의 실질적 실행자·저항의 축 총괄 |
+| 2026-03-31 | [[middle-east-history|중동 분쟁의 역사]] | 이란 외교정책의 실질적 실행자·저항의 축 총괄 |
 
 ---
 

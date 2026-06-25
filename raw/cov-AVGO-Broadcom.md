@@ -1,8 +1,10 @@
 ---
 type: overview
-study date: 2025-09-05
+date: 2025-09-05
 updated: 2025-09-07
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
 
 ### 이슈 분석
@@ -123,8 +125,3 @@ AI 모델의 거대화와 분산 학습의 보편화
         - **Mainframe software**
         
         - **Private Cloud**: `**VMware 인수**`를 통해 강화
-## 관련 노트
-
-- AI 데이터센터 반도체: [[ALAB_Astera Labs]] · [[ANET_Arista Networks]] · [[INTC_Intel]] · [[000660_SK 하이닉스]]
-- 고객(CSP): [[MSFT_Microsoft]] · [[AMZN_Amazon]] · [[GOOG_Alphabet]] · [[META_Meta Platforms]]
-- 산업 맥락: [[1-4) 반도체와 전략산업]]

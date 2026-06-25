@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-08-31
-updated: 2025-09-06T
-tag: financial-fintech
+date: 2025-08-31
+updated: 2025-09-06
+tags:
+  - finance
 ---
 
 ## 자료
@@ -30,7 +31,6 @@ Affirm은 파트너 은행에 $1000+은행 파트너십 수수료를 송금하�
 소비자는 Affirm에 $1000+이자를 상환
 
 Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 BNPL 서비스 (대출) 제공
-
 
 - **Revenue Analysis**
     
@@ -293,8 +293,3 @@ Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 
 	- 확장 가능성
 	- B2B 할부 결제 시장 포텐셜
 	- 임박한 금리 인하
-    
-
-## 관련 노트
-
-- 핀테크 인접: [[COIN_Coinbase Global]] · [[CRCL_Circle Internet Group]]

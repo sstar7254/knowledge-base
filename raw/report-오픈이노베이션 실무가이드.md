@@ -1,8 +1,12 @@
 ---
+type: report
+date:
+updated:
 tags:
-  - Startup/VC
-  - Investment/Valuation
+  - vc
+  - finance
 ---
+
 [Fetching Data#ay52](https://brunch.co.kr/@redmoeye/70)
 
 ---

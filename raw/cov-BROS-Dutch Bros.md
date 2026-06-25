@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2024-10-18
+date: 2024-10-18
 updated: 2025-01-17
-tag: consumables-retail
+tags:
+  - retail
 ---
 
 ### 자료
@@ -76,7 +77,3 @@ tag: consumables-retail
 ### 기업 분석
 
 https://investors.dutchbros.com/news/news-details/2024/Dutch-Bros-Inc.-Reports-Second-Quarter-2024-Financial-Results/
-## 관련 노트
-
-- 패스트 캐주얼·QSR 인접: [[SG_Sweetgreen]] · [[WING_Wingstop]]
-- 배달 채널: [[DASH_Doordash]]

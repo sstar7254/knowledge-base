@@ -1,12 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-30
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L2
-created: 2026-03-30
-edited: 2026-03-31
-
+  - geopolitics/middle-east
 ---
+
 # 가자 지구 (Gaza Strip)
 
 > [!abstract] 한 줄 요약
@@ -19,7 +18,7 @@ edited: 2026-03-31
 
 | 날짜 | 출처 노트 | 핵심 포인트 |
 | --- | --- | --- |
-| 2026-03-31 | [[중동 분쟁의 역사]] | Layer 2 — 봉쇄·인도적 위기·하마스 통치의 현장 |
+| 2026-03-31 | [[middle-east-history|중동 분쟁의 역사]] | Layer 2 — 봉쇄·인도적 위기·하마스 통치의 현장 |
 
 ---
 

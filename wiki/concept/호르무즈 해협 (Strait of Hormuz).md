@@ -1,15 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-03
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L3
-created: 2026-03-03
-edited: 2026-03-31
-aliases:
-- Strait of Hormuz
-- 호르무즈 해협
-
+  - geopolitics/middle-east
 ---
+
 # 호르무즈 해협 (Strait of Hormuz)
 
 > [!abstract] 한 줄 요약
@@ -22,8 +18,8 @@ aliases:
 
 | 날짜 | 출처 노트 | 핵심 포인트 |
 | --- | --- | --- |
-| 2026-03-03 | [[1-1) 중동과 석유]] | 한국 원유 72%·천연가스 35% 통과, 동아시아 4국 수출 집중 구조 소개 |
-| 2026-03-31 | [[중동 분쟁의 역사]] | 이란의 최후 카드로 명시, 에너지 지정학 구조 노트로 분류 |
+| 2026-03-03 | [[strategic-thinking-1-1-중동과 석유]] | 한국 원유 72%·천연가스 35% 통과, 동아시아 4국 수출 집중 구조 소개 |
+| 2026-03-31 | [[middle-east-history|중동 분쟁의 역사]] | 이란의 최후 카드로 명시, 에너지 지정학 구조 노트로 분류 |
 
 ---
 
@@ -128,4 +124,4 @@ aliases:
 %%반복해서 스크랩을 읽으면서 보이는 것%%
 ## 관련 기업 (cov)
 
-- [[OXY_Occidental Petroleum]] · [[018670_SK가스]] — 원유·LPG 가격과 해상 수송 리스크에 직접 노출
+- [[cov-OXY-Occidental Petroleum]] · [[cov-018670-SK가스]] — 원유·LPG 가격과 해상 수송 리스크에 직접 노출

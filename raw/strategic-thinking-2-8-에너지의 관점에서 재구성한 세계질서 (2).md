@@ -1,8 +1,13 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Geopolitics/Energy
-  - Geopolitics/AI
+  - geopolitics/middle-east
+  - energy
+  - geopolitics/us
 ---
+
 ## Ⅰ. 서론
 
 ![[2-8) 에너지의 관점에서 재구성한 세계질서 (2)-1.png]]

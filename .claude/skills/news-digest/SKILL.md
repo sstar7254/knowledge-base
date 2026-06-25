@@ -1,6 +1,6 @@
 ---
 name: news-digest
-description: "사용자가 제공한 공급망(supply-chain) 기사를 충실히 요약하고, 핵심 takeaway 3개를 추출한 뒤 각 항목을 웹 검색으로 심층 리서치하여 raw/supply-chain/에 단일 노트로 저장합니다."
+description: "사용자가 제공한 공급망(supply-chain) 기사를 충실히 요약하고, 핵심 takeaway 3개를 추출한 뒤 각 항목을 웹 검색으로 심층 리서치하여 raw/에 단일 노트로 저장합니다."
 ---
 
 # News Digest — 기사 요약 + 심층 리서치 스킬
@@ -8,7 +8,7 @@ description: "사용자가 제공한 공급망(supply-chain) 기사를 충실히
 ## 역할
 
 기사 한 편을 받아 **raw 소스 다이제스트(요약)** 와 **그 기사가 던진 핵심 이슈에 대한 심층 리서치**를 한 파일에 엮어내는 스킬이다.
-산출물 예시: [[0623 Kraft Heinz merges procurement and supply chain units]]
+산출물 예시: [[news-260623-Kraft Heinz merges procurement and supply chain units]]
 
 ## 입력
 
@@ -33,22 +33,25 @@ description: "사용자가 제공한 공급망(supply-chain) 기사를 충실히
 ```yaml
 ---
 type: news-scrap
-source: <기사 원문 URL>
 date: <노트 작성일, YYYY-MM-DD>
-author: <기자명>          # 확인 가능한 경우만
-status: inbox
+updated: <노트 작성일, YYYY-MM-DD>
+tags:
+  - <본문 핵심 키워드 2~3개>
 ---
 ```
 
-`status: inbox`는 기본값이다. 이 노트를 출처로 `/sc-letter` 글을 작성하면 그때 `used`로 바뀐다(노트를 직접 건드리지 않는다 — 그건 `/sc-letter`의 책임이다).
+- frontmatter는 **4개 필드만** 둔다(type / date / updated / tags). `source`·`author`·`status` 같은 필드는 두지 않는다.
+- `date`/`updated`에는 모두 노트 작성일을 기록한다.
+- `tags`는 본문에서 가장 중요한 키워드 2~3개로, `schema/CLAUDE.md`의 태그 리스트(supply-chain, supply-chain/logistics, macro 등)를 우선한다.
+- **출처(매체명·URL·기자명)는 frontmatter가 아니라 본문 최하단**의 `## 추가 조사` 아래 `### 출처 (Sources)` 섹션에 둔다.
 
 ### 3단계 — 제목(파일명) 형식 통일
 
-`raw/supply-chain/(MMDD) (제목 또는 핵심 키워드)` 형식으로 저장한다. 확장자는 붙이지 않는다(기존 파일 관습).
+`schema/CLAUDE.md`의 news-scrap 헤더 규칙에 따라 **flat `raw/` 디렉토리**에 `news-yymmdd-(제목 또는 핵심 키워드).md` 형식으로 저장한다(하위 폴더 없이 `raw/`에 바로 둔다).
 
-- `MMDD`: 기사 발행일 기준 4자리(예: 0623).
+- `yymmdd`: 기사 발행일 기준 6자리(예: 260623).
 - 제목: 기사 원제(영문)를 그대로 쓰거나, 너무 길면 핵심 키워드로 축약한다. 콜론·특수문자는 파일시스템에 문제없는 범위에서 보존한다.
-- 디렉토리 내 기존 파일명들과 톤을 맞춘다(예: `0623 Kraft Heinz merges procurement and supply chain units`).
+- 확장자 `.md`를 반드시 붙인다(예: `news-260623-Kraft Heinz merges procurement and supply chain units.md`).
 
 ### 4단계 — Key Takeaways 3개 추출
 
@@ -93,10 +96,10 @@ status: inbox
 ```markdown
 ---
 type: news-scrap
-source: <URL>
 date: <YYYY-MM-DD>
-author: <기자명>
-status: inbox
+updated: <YYYY-MM-DD>
+tags:
+  - <핵심 키워드 2~3개>
 ---
 
 **(기사 소제목 1)**

@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2024-11-17
+date: 2024-11-17
 updated: 2025-02-24
-tag: auto-ship-building
+tags:
+  - shipbuilding
 ---
 
 ### IIJA (Infrastructure Investment and Jobs Act, 인프라 투자 및 일자리법)

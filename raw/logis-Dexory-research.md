@@ -1,10 +1,10 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/warehouse-robotics
-- raw/source-digest
+  - supply-chain/logistics
+  - robotics
 ---
 
 # Dexory — 참고자료 다이제스트
@@ -35,3 +35,6 @@ tags:
 - 카테고리: 창고 자동화·디지털 트윈(자율 스캐닝 로봇 + 인텔리전스 SW).
 - 단계/규모: Series C $100M + 부채 $65M = $165M(2025-10), Eurazeo 주도.
 - 트랙션: 재고정확도 99.9%, 시간당 10,000+ 로케이션 스캔, 글로벌 대형 3PL 다수 도입.
+
+---
+출처: 다수 (아래 본문 인라인)

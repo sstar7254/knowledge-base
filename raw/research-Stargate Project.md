@@ -1,8 +1,10 @@
 ---
 type: research
-study date: 2025-01-28
+date: 2025-01-28
 updated: 2025-01-28
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
 
 ### 트럼프2.0 첫 작품 “스타게이트”: 오픈AI, 오라클, 엔비디아, 마이크로소프트 시사점 정리

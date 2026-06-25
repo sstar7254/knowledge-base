@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-04-11
+date: 2025-04-11
 updated: 2025-04-11
-tag: auto-ship-building
+tags:
+  - shipbuilding
 ---
 
 ### 자료

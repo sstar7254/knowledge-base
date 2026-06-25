@@ -1,9 +1,12 @@
 ---
 type: report
-study date: 2024-10-31
+date: 2024-10-31
 updated: 2024-10-31
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 ### I. 글로벌 소프트웨어 포트폴리오
 
 > **3Q 실적 시즌 시작: 보수적인 가이던스 주더라도, 지금은 매수 타이밍**

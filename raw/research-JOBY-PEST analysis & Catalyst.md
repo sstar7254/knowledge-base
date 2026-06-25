@@ -1,8 +1,12 @@
 ---
-aliases:
-  - Joby aviation
+type: research
 date: 2025-08-10
+updated: 2025-08-10
+tags:
+  - evtol
+  - strategy
 ---
+
 - Political
     
     - ==트럼프 행정부의 eVTOL 지원 정책: 6/6 Unleashing American Drone Dominance 행정명령 발표로 eVTOL 통합 파일럿 프로그램 시작==

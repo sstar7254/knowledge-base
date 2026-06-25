@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-04-15
+date: 2024-04-15
 updated: 2026-04-17
-tag: macro
+tags:
+  - macro
 ---
+
 **이스라엘의 최종 목표 : 하마스, 헤즈볼라, 이란을 처리하자**
 
 레바논, 시리아, 팔레스타인 VS 이스라엘

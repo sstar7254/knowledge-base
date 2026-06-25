@@ -1,12 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-31
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L2
-created: 03/31/2026
-edited: 03/31/2026
-
+  - geopolitics/middle-east
 ---
+
 # 헤즈볼라 (Hezbollah)
 
 > [!abstract] 한 줄 요약
@@ -19,7 +18,7 @@ edited: 03/31/2026
 
 | 날짜 | 출처 노트 | 핵심 포인트 |
 | --- | --- | --- |
-| 2026-03-31 | [[중동 분쟁의 역사]] | 이란 IRGC가 창설·지원, 레바논 내 준국가 조직 |
+| 2026-03-31 | [[middle-east-history|중동 분쟁의 역사]] | 이란 IRGC가 창설·지원, 레바논 내 준국가 조직 |
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-01-10
+date: 2025-01-10
 updated: 2025-07-01
-tag: entertainment-leisure
+tags:
+  - entertainment
 ---
 
 ### F/U

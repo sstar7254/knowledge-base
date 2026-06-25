@@ -1,8 +1,10 @@
 ---
 type: research
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
+  - supply-chain/logistics
+  - vc
 ---
 
 # 물류테크 시장 개요 — 참고자료 다이제스트 (2026-06)
@@ -49,3 +51,6 @@ tags:
 - 네이버 풀필먼트 얼라이언스(NFA): CJ대한통운·한진 등 전통 물류와 함께 아워박스·아르고(테크타카)·
   파스토·위킵·품고(두핸즈) 등 스타트업 참여.
   [중소기업신문, https://www.smedaily.co.kr/news/articleView.html?idxno=320369]
+
+---
+출처: 다수 (아래 본문 인라인)

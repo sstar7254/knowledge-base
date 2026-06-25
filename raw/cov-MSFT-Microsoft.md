@@ -1,8 +1,10 @@
 ---
 type: overview
-study date: 2024-08-09
+date: 2024-08-09
 updated: 2025-01-09
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
 
 ### 이슈분석
@@ -41,8 +43,3 @@ tag: AI-semicon-robotics
 
 3. Amazon Web Service
 	유통 사업에서 클라우드까지 진출한 아마존은 기업 고객들이 AI 모델을 구축함에 있어 필요한 인프라들을 종합 혹은 맞춤형으로 공급하는 데 집중하고 있습니다. 2Q24 아마존의 기존 사업 부문은 전반적으로 성장 둔화를 피하지 못하는 모습이나, 클라우드 고성장에 힘입어 당장의 수익성 방어에는 성공했습니다. 고객의 AI 워크로드 증가에 따라 향후에도 AWS의 고성장은 지속될 것으로 예상됩니다. 다만 아마존의 주가는 이러한 클라우드 성장 가속화에도 불구하고 경기 침체에 영향을 받을 수밖에 없는 비즈니스 구조와 보수적인 가이던스로 인해 실적발표 이후 -6.8%의 하락을 보인 바 있습니다. AI 모멘텀이 되어줄 프로젝트 메티스가 9월에 에정되어 있어, 그 전까지는 매크로 이슈에 연동되는 흐름을 보여줄 것으로 예상됩니다.
-## 관련 노트
-
-- CSP 경쟁: [[AMZN_Amazon]] · [[GOOG_Alphabet]] · [[META_Meta Platforms]]
-- AI 인프라 공급: [[000660_SK 하이닉스]] · [[AVGO_Broadcom]] · [[ANET_Arista Networks]]
-- AI 전력 확보(원전): [[SMR_Nuscale Power]] · [[GEV_GE Vernova]]

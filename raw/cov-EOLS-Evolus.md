@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2024-09-27
+date: 2024-09-27
 updated: 2025-01-09
-tag: cosmetics
+tags:
+  - cosmetics
 ---
 
 ### 📝 에볼루스로 살펴보는 미국 톡신 시장 점검: GLP-1 붐은 온다 (24.08.17, 바바리안 리서치)

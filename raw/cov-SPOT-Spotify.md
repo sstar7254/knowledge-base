@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2024-12-11
-tag: entertainment-leisure
+date: 2024-12-11
+updated: 2024-12-11
+tags:
+  - entertainment
 ---
 
 ## STUDY

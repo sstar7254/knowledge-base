@@ -1,10 +1,9 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/fulfillment
-- raw/source-digest
+  - supply-chain/logistics
 ---
 
 # 테크타카(아르고/ARGO) — 참고자료 다이제스트
@@ -39,3 +38,6 @@ tags:
 - 카테고리: SW/데이터 기반 AI 풀필먼트 플랫폼(ARGO), 글로벌 채널 연동.
 - 단계/규모: 시리즈B 126억(2024-02, 알토스벤처스), 2025-07 네이버 D2SF 후속.
 - 트랙션: 글로벌 600+ 채널, 2023 공헌이익 흑자, 2024 출고량 ~3배.
+
+---
+출처: 다수 (아래 본문 인라인)

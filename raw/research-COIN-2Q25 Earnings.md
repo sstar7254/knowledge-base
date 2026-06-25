@@ -1,9 +1,11 @@
 ---
 type: research
-study date: 2025-07-31
+date: 2025-07-31
 updated: 2025-08-28
-tag: financial-fintech
+tags:
+  - finance
 ---
+
 📝 w/ Perplexity
 
 _Coinbase(티커: COIN)는 **미국 최대의 상장 가상자산 거래소**이자, 디지털 자산 생태계의 인프라 사업자로 탈바꿈 중이다. 2Q25 실적은 **거래량 급감과 보안 이슈 부담**에도 불구하고 **스테이블코인 등 안정적 수익 다각화, 정책 환경 개선, 확장적 신사업 모멘텀**을 보여주었다._

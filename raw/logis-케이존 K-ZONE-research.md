@@ -1,10 +1,9 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/reverse-logistics
-- raw/source-digest
+  - supply-chain/logistics
 ---
 
 # 케이존(K-ZONE) — 참고자료 다이제스트
@@ -39,3 +38,6 @@ tags:
 - 카테고리: 글로벌 역물류(반품·과잉·악성재고 재유통).
 - 단계/규모: Series B 63억 원(2026-06), 타임웍스 등.
 - 트랙션: 3년 만 흑자, 연매출 ~120억, 핵심인력 ~10명.
+
+---
+출처: 다수 (아래 본문 인라인)

@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-08-20
+date: 2024-08-20
 updated: 2024-08-20
-tag: macro
+tags:
+  - macro
 ---
+
 코스피 2,674.36 (-0.85%)
 
 코스닥 777.47 (-1.13%)

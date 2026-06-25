@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2025-03-21
-tag: aero-defense
+date: 2025-03-21
+updated: 2025-03-21
+tags:
+  - defense
 ---
 
 ## Follow Up
@@ -11,8 +13,8 @@ tag: aero-defense
 
 UAM 상용화가 지연되다 보니 UAM 제조사의 적자는 눈덩이처럼 불어나고 있다. 블룸버그에 따르면, **조비에비에이션의 연간 순이익 적자 규모는 2021년 1억7260만 달러(약 2400억원)에서 지난해 6억80만 달러(약 8500억원)로 늘었다**. 조비에비에이션은 사업 자금을 마련하기 위해 지난해 보통주 4000만주를 공모해 투자자로부터 2억2000만 달러(약 3100억원)를 조달하기도 했다. 현대차그룹의 수퍼널도 영업손실이 2022년 1955억6700만원에서 지난해 6583억5900만원으로 2년 만에 236.6% 늘었다.
 
-[[JOBY_2Q25 Earnings]]
-[[JOBY_PEST analysis & Catalyst]]
+[[research-JOBY-2Q25 earnings]]
+[[research-JOBY-PEST analysis & Catalyst]]
 
 ## STUDY
 

@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2025-02-21
-tag: consumables-retail
+date: 2025-02-21
+updated: 2025-02-21
+tags:
+  - retail
 ---
 
 ## STUDY
@@ -73,7 +75,3 @@ HBO Max+ Ads, Lyft, Chase 혜택 등
 	The report found that DoorDash also dramatically outperformed its competitors in delivery time, with an average wait of 26 minutes and 24 seconds. Grubhub's average delivery time was 35 minutes and 49 seconds, while Uber Eats was 38 minutes and 4 seconds, per Intouch Insight.
 	While demand for [third-party delivery services](https://www.businessinsider.com/us-diners-splurge-food-delivery-doordash-grubhub-ubereats-convenience-rules-2024-11) remains high — DoorDash reported an 18% rise in orders year over year in its third quarter of 2024, with revenue growing 25% to $2.7 billion, BI previously reported —  criticism over the [fees charged by the apps](https://www.businessinsider.com/doordash-postmates-food-delivery-costs-twice-as-much-as-pickup-2024-1) isn't new. Customers may be charged as much as twice the cost of their meal for ordering using a [delivery app](https://www.businessinsider.com/restaurants-owner-chef-moving-off-food-delivery-apps-doordash-ubereats-2024-5) compared to menu prices, and some restaurant owners find the apps' fees cut into their margins too much to be sustainable, BI previously reported.
 	"We've increasingly heard complaints from restaurants that DoorDash's tactics are limiting that freedom and punishing them for seeking better options," Sarfraz Maredia, head of the Americas for delivery at Uber, said in a statement to Business Insider. "We hope this filing puts an end to those unfair practices so that restaurants can choose what's best for them without fear of penalty or retribution."
-## 관련 노트
-
-- 배달 입점 레스토랑: [[WING_Wingstop]] · [[SG_Sweetgreen]] · [[BROS_Dutch Bros]]
-- 모빌리티·배달 플랫폼 경쟁: [[UBER_Uber]]

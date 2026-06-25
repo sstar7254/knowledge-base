@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-09-04
+date: 2024-09-04
 updated: 2024-09-04
-tag: cosmetics
+tags:
+  - cosmetics
 ---
+
 ```cardlink
 url: https://blog.naver.com/royvalue/223546590458
 title: "로이의 무지개 세상 : 네이버 블로그"

@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2024-08-23
+date: 2024-08-23
 updated: 2025-01-17
-tag: consumables-retail
+tags:
+  - retail
 ---
 
 ### 자료
@@ -89,8 +90,3 @@ tag: consumables-retail
 ---
 
 ### 기업분석
-## 관련 노트
-
-- 패스트 캐주얼·QSR 인접: [[BROS_Dutch Bros]] · [[WING_Wingstop]]
-- 배달 채널: [[DASH_Doordash]]
-- 식자재·웰니스: [[SFM_Sprouts Farmers Market]] · [[OTLY_Oatly]]

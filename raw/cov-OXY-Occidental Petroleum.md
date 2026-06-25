@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2024-09-13
-tag: energy
+date: 2024-09-13
+updated: 2024-09-13
+tags:
+  - energy
 ---
 
 ## STUDY
@@ -49,7 +51,3 @@ CCS를 통해 포집한 CO2는 화학적/생물학적 반응을 통해 블루 �
 ![[OXY_Occidental Petroleum-4.png|image 6 3.png]]
 
 Direct air capture (DAC) technologies extract CO2 directly from the atmosphere at any location, unlike carbon capture which is generally carried out at the point of emissions, such as a steel plant. The CO2 can be permanently stored in deep geological formations or used for a variety of applications
-## 관련 노트
-
-- 국내 가스·에너지: [[018670_SK가스]]
-- 지정학·에너지 맥락: [[셰일혁명 (Shale Revolution)]] · [[호르무즈 해협 (Strait of Hormuz)]] · [[오일쇼크 (Oil Shock)]] · [[1-1) 중동과 석유]]

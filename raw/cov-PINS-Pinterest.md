@@ -1,8 +1,9 @@
 ---
 type: overview
-study date: 2025-05-30
+date: 2025-05-30
 updated: 2025-06-08
-tag: entertainment-leisure
+tags:
+  - entertainment
 ---
 
 ## 이슈 분석

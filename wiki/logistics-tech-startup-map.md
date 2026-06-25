@@ -1,18 +1,10 @@
 ---
-type: synthesis
+type: index
+date: 2026-06-22
 updated: 2026-06-22
-sources:
-- raw/logistics-tech-startup/_시장개요 참고자료.md
-- raw/logistics-tech-startup/Augment 참고자료.md
-- raw/logistics-tech-startup/sennder 참고자료.md
-- raw/logistics-tech-startup/Dexory 참고자료.md
-- raw/logistics-tech-startup/Waabi 참고자료.md
-- raw/logistics-tech-startup/FleetWorks 참고자료.md
-- raw/logistics-tech-startup/UniUni 참고자료.md
-- raw/logistics-tech-startup/케이존 K-ZONE 참고자료.md
-- raw/logistics-tech-startup/파스토 FASSTO 참고자료.md
-- raw/logistics-tech-startup/테크타카 아르고 참고자료.md
-- raw/logistics-tech-startup/콜로세움 참고자료.md
+tags:
+  - supply-chain/logistics
+  - vc
 ---
 
 # 물류테크 스타트업 지형도 (Logistics-Tech Startup Map)
@@ -24,39 +16,39 @@ sources:
 
 | 카테고리 | 기업 | 지역 | 핵심 자금조달 / 최근 뉴스 |
 | --- | --- | --- | --- |
-| AI 물류 에이전트 | [[Augment (AI 물류 에이전트)]] | 🇺🇸 | Series A $85M (2025-09) |
-| 디지털 화물 포워딩 | [[sennder (디지털 화물 포워딩)]] | 🇩🇪 | C.H. Robinson 유럽사업 인수 (2025-02), 누적 $413M |
-| AI 화물 중개·배차 | [[FleetWorks (AI 화물 중개)]] | 🇺🇸 | Series A $15M (2025-10) |
-| 창고 자동화·디지털 트윈 | [[Dexory (창고 디지털 트윈 로보틱스)]] | 🇬🇧 | Series C $100M + 부채 $65M (2025-10) |
-| 자율주행 트럭 | [[Waabi (자율주행 트럭)]] | 🇨🇦 | $750M + Uber 약정 $250M (2026-01) |
-| 라스트마일 배송 | [[UniUni (긱 라스트마일 배송)]] | 🇨🇦 | $85M (2026-03), SPAC 상장 추진 (2026-05) |
-| 역물류 | [[케이존 K-ZONE (역물류 플랫폼)]] | 🇰🇷 | Series B 63억 원 (2026-06) |
-| 풀필먼트(자산형) | [[파스토 FASSTO (풀필먼트)]] | 🇰🇷 | Series C 총 950억 원 |
-| 풀필먼트(SW/AI 플랫폼) | [[테크타카 아르고 (AI 풀필먼트)]] | 🇰🇷 | Series B 126억 원 (2024-02) + 후속 (2025-07) |
-| 풀필먼트(무자산 분산형) | [[콜로세움 (무자산 분산형 풀필먼트)]] | 🇰🇷 | Series B 270억 원 (2025-06) |
+| AI 물류 에이전트 | [[logis-Augment-research|Augment (AI 물류 에이전트)]] | 🇺🇸 | Series A $85M (2025-09) |
+| 디지털 화물 포워딩 | [[logis-sennder-research|sennder (디지털 화물 포워딩)]] | 🇩🇪 | C.H. Robinson 유럽사업 인수 (2025-02), 누적 $413M |
+| AI 화물 중개·배차 | [[logis-FleetWorks-research|FleetWorks (AI 화물 중개)]] | 🇺🇸 | Series A $15M (2025-10) |
+| 창고 자동화·디지털 트윈 | [[logis-Dexory-research|Dexory (창고 디지털 트윈 로보틱스)]] | 🇬🇧 | Series C $100M + 부채 $65M (2025-10) |
+| 자율주행 트럭 | [[logis-Waabi-research|Waabi (자율주행 트럭)]] | 🇨🇦 | $750M + Uber 약정 $250M (2026-01) |
+| 라스트마일 배송 | [[logis-UniUni-research|UniUni (긱 라스트마일 배송)]] | 🇨🇦 | $85M (2026-03), SPAC 상장 추진 (2026-05) |
+| 역물류 | [[logis-케이존 K-ZONE-research|케이존 K-ZONE (역물류 플랫폼)]] | 🇰🇷 | Series B 63억 원 (2026-06) |
+| 풀필먼트(자산형) | [[logis-파스토 FASSTO-research|파스토 FASSTO (풀필먼트)]] | 🇰🇷 | Series C 총 950억 원 |
+| 풀필먼트(SW/AI 플랫폼) | [[logis-테크타카 아르고-research|테크타카 아르고 (AI 풀필먼트)]] | 🇰🇷 | Series B 126억 원 (2024-02) + 후속 (2025-07) |
+| 풀필먼트(무자산 분산형) | [[logis-콜로세움-research|콜로세움 (무자산 분산형 풀필먼트)]] | 🇰🇷 | Series B 270억 원 (2025-06) |
 
 ## 2. 카테고리별 지형 — "어떤 문제를 푸는가"
 
 물류 가치사슬을 따라가면 각 카테고리가 서로 다른 병목을 공략한다.
 
-- **운영 자동화(미들오피스)** — [[Augment (AI 물류 에이전트)]], [[FleetWorks (AI 화물 중개)]].
+- **운영 자동화(미들오피스)** — [[logis-Augment-research|Augment (AI 물류 에이전트)]], [[logis-FleetWorks-research|FleetWorks (AI 화물 중개)]].
   견적·배차·추적·인보이스 등 전화·이메일·스프레드시트에 묶인 **수작업 운영**을 AI 에이전트로 대체.
   2026년 "AI가 정의하는 해" 흐름의 최전선 [[_시장개요 참고자료]].
-- **화물 거래·네트워크** — [[sennder (디지털 화물 포워딩)]]. 파편화된 유럽 트럭 운송을 디지털
+- **화물 거래·네트워크** — [[logis-sennder-research|sennder (디지털 화물 포워딩)]]. 파편화된 유럽 트럭 운송을 디지털
   마켓플레이스로 통합, 규모는 M&A로 점프.
-- **창고 인텔리전스** — [[Dexory (창고 디지털 트윈 로보틱스)]]. 노동집약·부정확한 재고 실사를
+- **창고 인텔리전스** — [[logis-Dexory-research|Dexory (창고 디지털 트윈 로보틱스)]]. 노동집약·부정확한 재고 실사를
   자율 로봇 + 디지털 트윈으로 해결(정확도 99.9%).
-- **간선 운송 자동화** — [[Waabi (자율주행 트럭)]]. 운전자 부족·인건비·안전 규제를 L4 자율주행으로.
-- **라스트마일** — [[UniUni (긱 라스트마일 배송)]]. 크로스보더 이커머스 폭증에 긱 네트워크로 저가·
+- **간선 운송 자동화** — [[logis-Waabi-research|Waabi (자율주행 트럭)]]. 운전자 부족·인건비·안전 규제를 L4 자율주행으로.
+- **라스트마일** — [[logis-UniUni-research|UniUni (긱 라스트마일 배송)]]. 크로스보더 이커머스 폭증에 긱 네트워크로 저가·
   유연 배송 대응.
-- **재고/역방향 흐름** — [[케이존 K-ZONE (역물류 플랫폼)]] (반품·악성재고 재유통) + 풀필먼트 3사
-  [[파스토 FASSTO (풀필먼트)]] / [[테크타카 아르고 (AI 풀필먼트)]] / [[콜로세움 (무자산 분산형 풀필먼트)]].
+- **재고/역방향 흐름** — [[logis-케이존 K-ZONE-research|케이존 K-ZONE (역물류 플랫폼)]] (반품·악성재고 재유통) + 풀필먼트 3사
+  [[logis-파스토 FASSTO-research|파스토 FASSTO (풀필먼트)]] / [[logis-테크타카 아르고-research|테크타카 아르고 (AI 풀필먼트)]] / [[logis-콜로세움-research|콜로세움 (무자산 분산형 풀필먼트)]].
   이커머스 셀러의 보관·출고·반품 흐름을 대행·자동화.
 
 ### 풀필먼트 3사 모델 대비 (한국)
 같은 풀필먼트라도 자산 전략이 갈린다 — PMF 경로 비교에 유용.
 
-| 구분 | [[파스토 FASSTO (풀필먼트)]] | [[테크타카 아르고 (AI 풀필먼트)]] | [[콜로세움 (무자산 분산형 풀필먼트)]] |
+| 구분 | [[logis-파스토 FASSTO-research|파스토 FASSTO (풀필먼트)]] | [[logis-테크타카 아르고-research|테크타카 아르고 (AI 풀필먼트)]] | [[logis-콜로세움-research|콜로세움 (무자산 분산형 풀필먼트)]] |
 | --- | --- | --- | --- |
 | 자산 전략 | 자산형(직영센터+AMR) | SW 중심 + 선택적 로봇 | 무자산(외부 창고 네트워크화) |
 | 핵심 무기 | 인프라 캐파 + 자동화 | ARGO 플랫폼 + 글로벌 채널 | COLO AI(OMS+WMS+TMS 통합) |
@@ -102,3 +94,17 @@ sources:
 변곡점은 **AI 에이전트**다 — 단순 가시성/SaaS를 넘어 협상·배차·거래를 자율 수행하는 에이전트가
 미들오피스(Augment·FleetWorks)부터 역물류(케이존)까지 확산되고 있다. 자본 강도가 높은 자율주행·창고
 로보틱스는 메가라운드로, 자산경량 SW·플랫폼은 빠른 후속 라운드로 양극화된 펀딩 구조를 보인다.
+
+## 출처
+
+- raw/logistics-tech-startup/_시장개요 참고자료.md
+- raw/logistics-tech-startup/Augment 참고자료.md
+- raw/logistics-tech-startup/sennder 참고자료.md
+- raw/logistics-tech-startup/Dexory 참고자료.md
+- raw/logistics-tech-startup/Waabi 참고자료.md
+- raw/logistics-tech-startup/FleetWorks 참고자료.md
+- raw/logistics-tech-startup/UniUni 참고자료.md
+- raw/logistics-tech-startup/케이존 K-ZONE 참고자료.md
+- raw/logistics-tech-startup/파스토 FASSTO 참고자료.md
+- raw/logistics-tech-startup/테크타카 아르고 참고자료.md
+- raw/logistics-tech-startup/콜로세움 참고자료.md

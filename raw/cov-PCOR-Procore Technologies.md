@@ -1,8 +1,10 @@
 ---
 type: overview
-study date: 2025-01-28
-updated: 2025-04-01T18:47
-tag: AI-semicon-robotics
+date: 2025-01-28
+updated: 2025-04-01
+tags:
+  - ai
+  - semiconductor
 ---
 
 - What to show? How to show in the slide?
@@ -21,7 +23,7 @@ tag: AI-semicon-robotics
 
 ### Investment Thesis
 
-[[PCOR_Tariff Impact Research]]
+[[research-Tariff|PCOR_Tariff Impact Research]]
 
 1. **Value Proposition (Reason to use Procore-customers are satisfied with the service and keep using it)**
     
@@ -125,7 +127,7 @@ tag: AI-semicon-robotics
 > 
 > - _Bottom Right Quadrant: **Case Study-Swarmed account (Enterprise)**_
     
-    - **[[PCOR_Procore Technologies]] - New customers from international**
+    - **[[cov-PCOR-Procore Technologies]] - New customers from international**
         
         - **as-is**
             
@@ -170,7 +172,7 @@ tag: AI-semicon-robotics
         
         - **How?**
             
-            - [[PCOR_Procore Technologies]]
+            - [[cov-PCOR-Procore Technologies]]
             
             - CFO Howard Fu **c**larified that **Procore’s enterprise focus began in late 2023**, aligning resources with observed strength in upmarket demand. This shift is expected to **drive stronger bookings in the second half of 2024** (1Q24 Earnings)
                 

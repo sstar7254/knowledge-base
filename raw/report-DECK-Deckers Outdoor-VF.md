@@ -1,7 +1,9 @@
 ---
 type: overview
-study date: 2024-08-02
-tag: consumables-retail
+date: 2024-08-02
+updated: 2024-08-02
+tags:
+  - retail
 ---
 
 ## 이슈분석

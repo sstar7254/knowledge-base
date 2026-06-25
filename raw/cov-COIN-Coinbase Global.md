@@ -1,13 +1,14 @@
 ---
 type: overview
-study date: 2025-06-21
+date: 2025-06-21
 updated: 2025-08-28
-tag: financial-fintech
+tags:
+  - finance
 ---
 
 ### Follow-ups
 
-[[COIN_2Q25 Earnings]]
+[[research-COIN-2Q25 Earnings]]
 
 - Jun 26 2025) 미국 연방주택금융청이 Fannie Mac, Freddie Mac에 대해 암호화폐를 단독주택 모기지 대출 리스크 평가 자산으로 인정하도록 지시
     대출자들은 암호화폐를 현금화하지 않고도 모기지 신청 가능
@@ -329,8 +330,3 @@ relatively poor
     - A major announcement was the acquisition of Deribit, the world's leading crypto options exchange, for approximately $2.9 billion. diversify trading revenues by integrating options with existing spot and futures businesses
     
     - Coinbase actively engages with regulators and policymakers, viewing emerging regulatory clarity as a crucial catalyst for broader crypto adoption. They aim to partner with new businesses entering the crypto space, offering "crypto-as-a-service" solutions (custody, trading, payments, wallet infrastructure) which represents a significant total addressable market (TAM) expansion
-
-## 관련 노트
-
-- 스테이블코인·핀테크 인접: [[CRCL_Circle Internet Group]] · [[AFRM_Affirm Holdings]]
-- 달러 패권 맥락: [[페트로달러 (Petrodollar)]] · [[1-2) 기축통화와 미국]]

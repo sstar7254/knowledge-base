@@ -1,12 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-31
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L3
-created: 2026-03-31
-edited: 2026-03-31
-
+  - geopolitics/middle-east
 ---
+
 # 유대교와 이슬람교 (Judaism & Islam)
 
 > [!abstract] 한 줄 요약
@@ -19,7 +18,7 @@ edited: 2026-03-31
 
 | 날짜 | 출처 노트 | 핵심 포인트 |
 | --- | --- | --- |
-| 2026-03-31 | [[중동 분쟁의 역사]] | 이슬람 내부 분열([[수니파와 시아파 (Sunni & Shia)]])과 함께 중동 분쟁의 이념적 기저로 명시 |
+| 2026-03-31 | [[middle-east-history|중동 분쟁의 역사]] | 이슬람 내부 분열([[수니파와 시아파 (Sunni & Shia)]])과 함께 중동 분쟁의 이념적 기저로 명시 |
 
 ---
 

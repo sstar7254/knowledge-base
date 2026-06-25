@@ -1,10 +1,9 @@
 ---
 type: report
-source: 다수 (아래 본문 인라인)
 date: 2026-06-22
+updated: 2026-06-22
 tags:
-- logistics-tech/last-mile
-- raw/source-digest
+  - supply-chain/logistics
 ---
 
 # UniUni — 참고자료 다이제스트
@@ -34,3 +33,6 @@ tags:
 - 카테고리: 긱 기반 이커머스 라스트마일 배송(북미).
 - 단계/규모: 2026-03 $85M(에쿼티 $30M + 크레딧 $55M), 누적 에쿼티 $230M.
 - 최근 뉴스: 2026-05 SPAC(MAK Acquisition) 상장 추진. 매출 2022~2025 +2,000%.
+
+---
+출처: 다수 (아래 본문 인라인)

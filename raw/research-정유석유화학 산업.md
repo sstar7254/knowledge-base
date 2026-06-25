@@ -1,9 +1,11 @@
 ---
 type: research
-study date: 2023-10-14
+date: 2023-10-14
 updated: 2023-10-14
-tag: auto-ship-building
+tags:
+  - shipbuilding
 ---
+
 최근 [[이스라엘-팔레스타인]] 전쟁 등으로 다시 한 번 유가가 변동.
 유가는 특히 세계 정세에 아주 기민하게 반응하는 상품 중 하나인데, 석유화학은 유가의 영향을 가장 직접적으로 받는 업계일 것이라고 생각하여 이-팔 전쟁, 러-우 전쟁 등의 사건이 실제 정유업계에 어떤 영향을 주었는지 알아보고자 했다.
 
@@ -39,7 +41,6 @@ tag: auto-ship-building
 - ‘일괄 조업 회사’ : 상류 ~ 하류의 모든 분야를 수행하는 회사 _EX. BP (British Petroleum), 엑손모빌 (Exxon Mobil), 쉘 (Shell), 토탈 (Total) 등_
 
 ![[정유, 석유화학 산업-1.png]] ![[정유, 석유화학 산업-2.jpg]]
-
 
 
 > [!info] 석유화학 산업의 이해 (1) - 에틸렌  

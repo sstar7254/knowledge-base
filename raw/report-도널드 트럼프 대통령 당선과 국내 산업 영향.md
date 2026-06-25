@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-11-17
+date: 2024-11-17
 updated: 2024-11-17
-tag: macro
+tags:
+  - macro
 ---
+
 - Trade and Tariffs - 미국 우선주의와 보호무역 강화
 
 - Risk take - 저금리/약달러 지향

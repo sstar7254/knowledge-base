@@ -1,7 +1,11 @@
 ---
+type: note
+date:
+updated:
 tags:
-  - Startup
+  - vc
 ---
+
 https://leansprint.kr/leansprint-blog-archive-past/
 
 ## 스타트업이란 무엇인가?

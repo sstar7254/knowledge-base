@@ -1,12 +1,11 @@
 ---
-
 type: concept
-tags: 
-- Geopolitics/ME
-created: 03/06/2026
-edited: 03/31/2026
-
+date: 2026-03-06
+updated: 2026-03-31
+tags:
+  - geopolitics/middle-east
 ---
+
 # 하마스 (Hamas)
 
 > [!abstract] 한 줄 요약
@@ -17,7 +16,7 @@ edited: 03/31/2026
 
 | 날짜 | 출처 노트 | 핵심 포인트 |
 | --- | --- | --- |
-| 2026-03-31 | [[중동 분쟁의 역사]] | 무슬림형제단 계열, 가자 통치 세력 |
+| 2026-03-31 | [[middle-east-history|중동 분쟁의 역사]] | 무슬림형제단 계열, 가자 통치 세력 |
 
 ---
 

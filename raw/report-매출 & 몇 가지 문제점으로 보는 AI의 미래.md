@@ -1,9 +1,12 @@
 ---
 type: report
-study date: 2024-04-23
+date: 2024-04-23
 updated: 2024-11-15
-tag: AI-semicon-robotics
+tags:
+  - ai
+  - semiconductor
 ---
+
 **지난 주 낙폭에 대한 진단: 단기적 과대 낙폭으로 판단됨**
 
 AI를 지향하는 반도체 수요는 아직 탄탄하다 판단하는 것이 타당함. 엔비디아의 독점은 빠른 시일 내에 깨지지 않을 것.

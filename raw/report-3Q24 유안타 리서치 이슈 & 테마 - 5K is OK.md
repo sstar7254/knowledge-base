@@ -1,9 +1,11 @@
 ---
 type: report
-study date: 2024-09-04
+date: 2024-09-04
 updated: 2024-09-04
-tag: cosmetics
+tags:
+  - cosmetics
 ---
+
 ![](https://cafeptthumb-phinf.pstatic.net/MjAyNDA5MDRfMTI2/MDAxNzI1NDQ2MzI0NjM5.Y1CqhrtxCqbjby3UhySuV2qkGQ1_3jQogpcDXEXb7rUg.QK0fHBV3rqO0FMDXaT4ULqwb8wYEcRC3fBRrWCRFGbkg.PNG/image.png?type=w1600)](https://cafeptthumb-phinf.pstatic.net/MjAyNDA5MDRfMTI2/MDAxNzI1NDQ2MzI0NjM5.Y1CqhrtxCqbjby3UhySuV2qkGQ1_3jQogpcDXEXb7rUg.QK0fHBV3rqO0FMDXaT4ULqwb8wYEcRC3fBRrWCRFGbkg.PNG/image.png?type=w1600)
 
 [![](https://cafeptthumb-phinf.pstatic.net/MjAyNDA5MDRfMzAg/MDAxNzI1NDQ2Mzg4NDk5.Wax7r_w81Zoj7k4hzuGyy9DCdY8Sb1vuh1WItrlgoh4g.UMcuCsExJUNtXGXk1ZzfQXDz89MLzLmoC38SLgySeSsg.PNG/image.png?type=w1600)](https://cafeptthumb-phinf.pstatic.net/MjAyNDA5MDRfMzAg/MDAxNzI1NDQ2Mzg4NDk5.Wax7r_w81Zoj7k4hzuGyy9DCdY8Sb1vuh1WItrlgoh4g.UMcuCsExJUNtXGXk1ZzfQXDz89MLzLmoC38SLgySeSsg.PNG/image.png?type=w1600)
