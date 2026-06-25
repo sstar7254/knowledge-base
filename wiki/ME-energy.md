@@ -1,19 +1,6 @@
 ---
 type: synthesis
 updated: 2026-06-22
-sources:
-- wiki/Geopolitics/호르무즈 해협 (Strait of Hormuz).md
-- wiki/Geopolitics/오일쇼크 (Oil Shock).md
-- wiki/Geopolitics/석유수출국기구 (OPEC).md
-- wiki/Geopolitics/페트로달러 (Petrodollar).md
-- wiki/Geopolitics/미국-이란.md
-- raw/strategic-thinking/1-1) 중동과 석유.md
-- raw/strategic-thinking/2-1) 국제 분쟁과 세계 경제.md
-- raw/news-scrap/2026-03-20_이란 호르무즈 해협 봉쇄.md
-- raw/news-scrap/2026-03-24_제 3차 오일쇼크 위기 고조.md
-- raw/stock-market/Auto_Ship_Buildings/정유, 석유화학 산업.md
-- raw/stock-market/Auto_Ship_Buildings/금리 인하 시대의 조선업.md
-- raw/stock-market/Aerospace_Defense/유비무환(有備無患).md
 ---
 
 # 중동 · 에너지 · 호르무즈

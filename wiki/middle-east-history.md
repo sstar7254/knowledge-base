@@ -1,7 +1,5 @@
 ---
 type: index
-tags: 
-- Geopolitics/ME
 created: 03/30/2026
 edited: 03/31/2026
 ---
