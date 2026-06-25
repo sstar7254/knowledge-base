@@ -1,10 +1,8 @@
 ---
-type: report
+type: research
 source: 다수 (아래 본문 인라인)
 date: 2026-06-22
 tags:
-- logistics-tech/market
-- raw/source-digest
 ---
 
 # 물류테크 시장 개요 — 참고자료 다이제스트 (2026-06)
