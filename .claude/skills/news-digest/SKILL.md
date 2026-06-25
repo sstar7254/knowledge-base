@@ -33,14 +33,17 @@ description: "사용자가 제공한 공급망(supply-chain) 기사를 충실히
 ```yaml
 ---
 type: news-scrap
-source: <기사 원문 URL>
 date: <노트 작성일, YYYY-MM-DD>
-author: <기자명>          # 확인 가능한 경우만
-status: inbox
+updated: <노트 작성일, YYYY-MM-DD>
+tags:
+  - <본문 핵심 키워드 2~3개>
 ---
 ```
 
-`status: inbox`는 기본값이다. 이 노트를 출처로 `/sc-letter` 글을 작성하면 그때 `used`로 바뀐다(노트를 직접 건드리지 않는다 — 그건 `/sc-letter`의 책임이다).
+- frontmatter는 **4개 필드만** 둔다(type / date / updated / tags). `source`·`author`·`status` 같은 필드는 두지 않는다.
+- `date`/`updated`에는 모두 노트 작성일을 기록한다.
+- `tags`는 본문에서 가장 중요한 키워드 2~3개로, `schema/CLAUDE.md`의 태그 리스트(supply-chain, supply-chain/logistics, macro 등)를 우선한다.
+- **출처(매체명·URL·기자명)는 frontmatter가 아니라 본문 최하단**의 `## 추가 조사` 아래 `### 출처 (Sources)` 섹션에 둔다.
 
 ### 3단계 — 제목(파일명) 형식 통일
 
@@ -93,10 +96,10 @@ status: inbox
 ```markdown
 ---
 type: news-scrap
-source: <URL>
 date: <YYYY-MM-DD>
-author: <기자명>
-status: inbox
+updated: <YYYY-MM-DD>
+tags:
+  - <핵심 키워드 2~3개>
 ---
 
 **(기사 소제목 1)**
