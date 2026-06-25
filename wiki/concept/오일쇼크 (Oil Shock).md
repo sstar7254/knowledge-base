@@ -1,16 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-03
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L3
-created: 2026-03-03
-edited: 2026-03-31
-aliases:
-- Oil Shock
-- 오일쇼크
-- 석유파동
-
+  - geopolitics/middle-east
 ---
+
 # 오일쇼크 (Oil Shock)
 
 > [!abstract] 한 줄 요약

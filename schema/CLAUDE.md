@@ -79,16 +79,22 @@ tags:
    한 주제에 대해 **인덱스(목록·링크)와 종합(지형도·분석)을 별도 파일로 쪼개지 말고 하나의 페이지로 병합**한다(별도 README/개념노트 남발 금지).
 4. **모든 사실 진술은 raw로 거슬러 올라갈 수 있어야 한다.** 
    출처가 되는 raw 노트를 위키링크로 연결한다. 위키링크는 파일명 기준으로 해소되므로 폴더 위치와 무관하게 작동한다.
-5. **상단에 최소 frontmatter를 둔다**
+5. **상단에 frontmatter를 둔다 — `raw/`와 동일하게 4개 필드(type / date / updated / tags)만 둔다.**
+   `source`·`sources`·`status`·`aliases`·`created`·`edited` 같은 필드는 두지 않는다(출처는 본문 인라인 위키링크 또는 최하단 `## 출처`로).
    ```yaml
    ---
-   type: map | index | concept
+   type: concept | index | idea
    date: YYYY-MM-DD
    updated: YYYY-MM-DD
-   tags: 
-      - 계층형/태그
+   tags:
+      - 태그
    ---
    ```
+   - **type 규칙**:
+      - `concept` — `wiki/concept/` 디렉토리 안의 노트.
+      - `index` — 그 외 노트 중 **파일명에 `map`이 들어간** 노트(지형도·인덱스 허브).
+      - `idea` — 그 외 모든 노트(cross-border high-level idea 등).
+   - `date`/`updated`/`tags` 규칙은 §2의 raw 규칙과 동일하다(태그 리스트 공유).
 6. raw가 바뀌면(노트 추가·이동) 관련 wiki 페이지의 링크와 `updated`를 갱신한다. 깨진 링크는 고친다.
 
 ## 4. 작업 흐름

@@ -1,12 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-03
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L3
-created: 2026-03-03
-edited: 2026-03-31
-
+  - geopolitics/middle-east
 ---
+
 # 셰일혁명 (Shale Revolution)
 
 > [!abstract] 한 줄 요약

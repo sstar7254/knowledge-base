@@ -1,15 +1,11 @@
 ---
-
-type: concept 
+type: concept
+date: 2026-03-31
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L3 
-created: 2026-03-31 
-edited: 2026-03-31 
-aliases:
-- Suez Canal
-- 수에즈
-
+  - geopolitics/middle-east
 ---
+
 # 수에즈 운하 (Suez Canal)
 
 > [!abstract] 한 줄 요약 아시아-유럽 해상 무역의 핵심 지름길로 전 세계 해상 물동량의 약 12%를 처리하는 전략적 수로 — 1956년 위기에서 중동 질서의 분기점이 됐고, 2023~2026년 후티 반군의 홍해 공격으로 선박이 절반 이하로 급감하며 글로벌 공급망 교란의 새로운 원형을 보여줬다.

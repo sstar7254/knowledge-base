@@ -1,12 +1,11 @@
 ---
-
 type: concept
-tags: 
-- Geopolitics/ME
-created: 03/06/2026
-edited: 03/31/2026
-
+date: 2026-03-06
+updated: 2026-03-31
+tags:
+  - geopolitics/middle-east
 ---
+
 # 하마스 (Hamas)
 
 > [!abstract] 한 줄 요약

@@ -1,6 +1,10 @@
 ---
-type: concept
+type: idea
+date: 2026-06-24
 updated: 2026-06-24
+tags:
+  - ai
+  - energy
 ---
 
 # AI 전력 슈퍼사이클과 에너지 안보

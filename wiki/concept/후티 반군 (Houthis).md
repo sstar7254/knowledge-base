@@ -1,15 +1,11 @@
 ---
 type: concept
+date: 2026-03-31
+updated: 2026-04-22
 tags:
-  - Geopolitics/ME/L2
-created: 2026-03-31
-edited: 2026-04-22
-aliases:
-  - Houthis
-  - Ansar Allah
-  - 후티
-  - 안사르 알라
+  - geopolitics/middle-east
 ---
+
 # 후티 반군 (Houthis / Ansar Allah)
 
 > [!abstract] 한 줄 요약

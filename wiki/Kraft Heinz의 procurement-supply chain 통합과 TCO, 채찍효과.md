@@ -1,11 +1,10 @@
 ---
-type: concept
-sources:
-- https://www.cnbc.com/2025/09/02/kraft-heinz-split.html
-- https://www.foxbusiness.com/markets/kraft-heinz-ceo-says-company-challenges-fixable-breakup-plans-get-scrapped-investment-strategy
-- https://en.wikipedia.org/wiki/Operation_Eagle_Claw
-- https://defense360.csis.org/goldwater-nichols-2016/
+type: idea
+date: 2026-06-23
 updated: 2026-06-23
+tags:
+  - supply-chain
+  - strategy
 ---
 
 # Kraft Heinz의 procurement-supply chain 통합과 TCO, 채찍효과
@@ -31,3 +30,10 @@ TCO는 구매 가격이 아니라, 구매부터 사용·폐기까지 발생하�
 ## 실무 함의 (B2C & B2B Warehousing)
 
 창고는 조달이 들여오는 입고와 공급망이 빼내는 출고가 매일 충돌하는 지점이라, TCO와 채찍효과가 동시에 드러난다. 조달이 단가만 보고 들인 저가 대량 구매는 창고의 보관 공간·로케이션·재고일수라는 숨은 비용으로 되돌아오고, B2B(소품종 대량·안정 수요)와 B2C(다품종 소량·변동 수요)는 같은 창고 안에서도 채찍효과의 진폭이 다르게 나타난다. 조달과 수요 정보가 한 시스템에서 통합 관리되면 B2C 변동분에는 빠른 회전을, B2B 안정분에는 효율 보관을 차등 적용할 수 있는 반면, 정보가 분리돼 있으면 창고는 최악의 변동을 가정해 안전재고와 공간을 과잉 확보하게 된다. 따라서 조직 차원의 조달·공급망 통합은 창고 현장에서 "입고 계획과 출고 수요를 같은 테이블에서 보는가"라는 질문으로 구체화된다.
+
+## 출처
+
+- https://www.cnbc.com/2025/09/02/kraft-heinz-split.html
+- https://www.foxbusiness.com/markets/kraft-heinz-ceo-says-company-challenges-fixable-breakup-plans-get-scrapped-investment-strategy
+- https://en.wikipedia.org/wiki/Operation_Eagle_Claw
+- https://defense360.csis.org/goldwater-nichols-2016/

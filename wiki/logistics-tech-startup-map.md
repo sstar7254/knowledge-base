@@ -1,18 +1,10 @@
 ---
-type: synthesis
+type: index
+date: 2026-06-22
 updated: 2026-06-22
-sources:
-- raw/logistics-tech-startup/_시장개요 참고자료.md
-- raw/logistics-tech-startup/Augment 참고자료.md
-- raw/logistics-tech-startup/sennder 참고자료.md
-- raw/logistics-tech-startup/Dexory 참고자료.md
-- raw/logistics-tech-startup/Waabi 참고자료.md
-- raw/logistics-tech-startup/FleetWorks 참고자료.md
-- raw/logistics-tech-startup/UniUni 참고자료.md
-- raw/logistics-tech-startup/케이존 K-ZONE 참고자료.md
-- raw/logistics-tech-startup/파스토 FASSTO 참고자료.md
-- raw/logistics-tech-startup/테크타카 아르고 참고자료.md
-- raw/logistics-tech-startup/콜로세움 참고자료.md
+tags:
+  - supply-chain/logistics
+  - vc
 ---
 
 # 물류테크 스타트업 지형도 (Logistics-Tech Startup Map)
@@ -102,3 +94,17 @@ sources:
 변곡점은 **AI 에이전트**다 — 단순 가시성/SaaS를 넘어 협상·배차·거래를 자율 수행하는 에이전트가
 미들오피스(Augment·FleetWorks)부터 역물류(케이존)까지 확산되고 있다. 자본 강도가 높은 자율주행·창고
 로보틱스는 메가라운드로, 자산경량 SW·플랫폼은 빠른 후속 라운드로 양극화된 펀딩 구조를 보인다.
+
+## 출처
+
+- raw/logistics-tech-startup/_시장개요 참고자료.md
+- raw/logistics-tech-startup/Augment 참고자료.md
+- raw/logistics-tech-startup/sennder 참고자료.md
+- raw/logistics-tech-startup/Dexory 참고자료.md
+- raw/logistics-tech-startup/Waabi 참고자료.md
+- raw/logistics-tech-startup/FleetWorks 참고자료.md
+- raw/logistics-tech-startup/UniUni 참고자료.md
+- raw/logistics-tech-startup/케이존 K-ZONE 참고자료.md
+- raw/logistics-tech-startup/파스토 FASSTO 참고자료.md
+- raw/logistics-tech-startup/테크타카 아르고 참고자료.md
+- raw/logistics-tech-startup/콜로세움 참고자료.md

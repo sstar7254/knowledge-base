@@ -1,6 +1,11 @@
 ---
-type: synthesis
+type: idea
+date: 2026-06-22
 updated: 2026-06-22
+tags:
+  - geopolitics/middle-east
+  - energy
+  - supply-chain
 ---
 
 # 중동 · 에너지 · 호르무즈

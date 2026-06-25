@@ -1,12 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-31
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L2
-created: 03/31/2026
-edited: 03/31/2026
-
+  - geopolitics/middle-east
 ---
+
 # 헤즈볼라 (Hezbollah)
 
 > [!abstract] 한 줄 요약

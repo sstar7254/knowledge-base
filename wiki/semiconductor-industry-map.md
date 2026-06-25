@@ -1,6 +1,10 @@
 ---
-type: map
+type: index
+date: 2026-06-24
 updated: 2026-06-24
+tags:
+  - semiconductor
+  - ai
 ---
 
 # semiconductor industry map

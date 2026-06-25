@@ -1,15 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-03
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L3
-created: 2026-03-03
-edited: 2026-03-31
-aliases:
-- Strait of Hormuz
-- 호르무즈 해협
-
+  - geopolitics/middle-east
 ---
+
 # 호르무즈 해협 (Strait of Hormuz)
 
 > [!abstract] 한 줄 요약

@@ -1,12 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-30
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L2
-created: 2026-03-30
-edited: 2026-03-31
-
+  - geopolitics/middle-east
 ---
+
 # 가자 지구 (Gaza Strip)
 
 > [!abstract] 한 줄 요약

@@ -1,12 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-31
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L3
-created: 2026-03-31
-edited: 2026-03-31
-
+  - geopolitics/middle-east
 ---
+
 # 유대교와 이슬람교 (Judaism & Islam)
 
 > [!abstract] 한 줄 요약

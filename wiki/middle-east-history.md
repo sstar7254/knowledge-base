@@ -1,8 +1,11 @@
 ---
-type: index
-created: 03/30/2026
-edited: 03/31/2026
+type: idea
+date: 2026-03-30
+updated: 2026-03-31
+tags:
+  - geopolitics/middle-east
 ---
+
 # 중동 분쟁의 역사
 
 ## Layer 1 — 갈등 축 (Conflict Axis)

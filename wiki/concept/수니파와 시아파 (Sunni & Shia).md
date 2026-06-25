@@ -1,12 +1,11 @@
 ---
-
 type: concept
+date: 2026-03-25
+updated: 2026-03-31
 tags:
-- Geopolitics/ME/L3
-created: 2026-03-25
-edited: 2026-03-31
-
+  - geopolitics/middle-east
 ---
+
 # 수니파와 시아파 (Sunni & Shia)
 
 > [!abstract] 한 줄 요약
