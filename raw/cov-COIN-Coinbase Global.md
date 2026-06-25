@@ -330,8 +330,3 @@ relatively poor
     - A major announcement was the acquisition of Deribit, the world's leading crypto options exchange, for approximately $2.9 billion. diversify trading revenues by integrating options with existing spot and futures businesses
     
     - Coinbase actively engages with regulators and policymakers, viewing emerging regulatory clarity as a crucial catalyst for broader crypto adoption. They aim to partner with new businesses entering the crypto space, offering "crypto-as-a-service" solutions (custody, trading, payments, wallet infrastructure) which represents a significant total addressable market (TAM) expansion
-
-## 관련 노트
-
-- 스테이블코인·핀테크 인접: [[CRCL_Circle Internet Group]] · [[AFRM_Affirm Holdings]]
-- 달러 패권 맥락: [[페트로달러 (Petrodollar)]] · [[1-2) 기축통화와 미국]]

@@ -120,7 +120,3 @@ tags:
 ### 기업 지표
 
 ### 주주 환원
-## 관련 노트
-
-- CSP 경쟁: [[MSFT_Microsoft]] · [[AMZN_Amazon]] · [[GOOG_Alphabet]]
-- AI 인프라 공급: [[ANET_Arista Networks]] · [[000660_SK 하이닉스]]

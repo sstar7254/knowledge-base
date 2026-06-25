@@ -93,7 +93,3 @@ Buffett favors companies with competitive advantages, good management teams, and
 	→ 2) **Shareholder returns**: $2bn stock buyback plan in March, **with $1.8bn still available as of early May. FCF exceeded $800mn in four of the past five years**
 	→ 3) **Large membership base**: cosmetics industry has relatively low entry barriers, ULTA has large membership base, which continues grow. **member spending accounts for over 95% of total sales.**
 	→ 4) Defensicenature amid economic weakness: despite concerns about economic weakness, **cosmetics are more resilient during economic downturns due to the 'lipstick effect'**. While cutting back on big-ticket items, the demand for luxury items could boost.
-## 관련 노트
-
-- 입점 브랜드·ODM: [[192820_코스맥스]] · [[018290_브이티]] · [[더파운더즈]] · [[ELOS_Evolus]]
-- 리테일 인접: [[DECK_Deckers Outdoor]] · [[SFM_Sprouts Farmers Market]]

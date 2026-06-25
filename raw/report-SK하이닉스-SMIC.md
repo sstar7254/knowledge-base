@@ -213,7 +213,6 @@ NAND 시장 역시 DRAM 3사의 과점 체제로 개편될 것이고, 이후 본
 	역사적으로 KOSPI 수익률에 선행해온 한국의 ‘출하-재고 지수’가 2Q23을 기점으로 빠르게 상승세에 접어들었다.
 	글로벌 제조업 업황과 강력히 동행하는 ISM-PMI 지수의 상승 시그널이 관측되고 있다.
 
-
 ### 교체수요
 
 - PC 시장 : 운영체제 전환에 따른 기기 교체 수요
@@ -352,11 +351,3 @@ image: https://cdn.bloter.net/news/thumbnail/202403/613188_218521_150_v150.jpg
 
 - 중국산 고품질 저가 반도체 유입
 ---
-
-## 관련 노트
-
-- [[1-4) 반도체와 전략산업]] — 반도체의 지정학적 중요성
-- 전방 AI 수요(CSP): [[MSFT_Microsoft]] · [[AMZN_Amazon]] · [[GOOG_Alphabet]] · [[META_Meta Platforms]] — HBM/DDR5를 사들이는 AI 데이터센터 투자 주체
-- 데이터센터 반도체 동행: [[AVGO_Broadcom]] · [[ALAB_Astera Labs]] · [[ANET_Arista Networks]] · [[INTC_Intel]]
-- 국내 반도체 후공정·소재: [[058470_리노공업]] · [[061970_LB세미콘]] · [[170920_엘티씨]]
-- AI 전력 수요 → 원전: [[SMR_Nuscale Power]] · [[GEV_GE Vernova]]

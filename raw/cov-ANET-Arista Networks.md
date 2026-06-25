@@ -52,7 +52,3 @@ RFS 보고서 참고
 ![[ANET_Arista Networks-2.png|image 2 4.png]]
 
 Arista의 AI사업은 현재의 가이던스를 무리 없이 상회하여 관련 가이던스와 컨센서스가 상향 조정될 것. 실적 추정치 상승, 선행PER 하락으로 주가가 상승하는 패턴 예상
-## 관련 노트
-
-- 데이터센터 네트워킹 인접: [[AVGO_Broadcom]] · [[ALAB_Astera Labs]] · [[NET_Cloudflare]]
-- 대형 고객(CSP): [[MSFT_Microsoft]] · [[AMZN_Amazon]] · [[META_Meta Platforms]]
