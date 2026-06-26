@@ -3,8 +3,8 @@ type: overview
 date: 2025-08-10
 updated: 2025-08-31
 tags:
-  - ai
-  - semiconductor
+  - ai/cloud
+  - retail
 ---
 
 ### 자료

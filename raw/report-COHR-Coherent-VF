@@ -1,9 +1,10 @@
 ---
 type: research
-study date: 2026-12-06
-tag: 
-- AI-semicon-robotics
-- valuefinder
+date: 2026-12-06
+updated: 2026-06-24
+tag:
+  - ai
+  - semiconductor
 ---
 
 # 광학 산업의 조용한 지배자, Coherent

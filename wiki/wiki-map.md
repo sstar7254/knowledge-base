@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-26
 tags:
 ---
 
@@ -12,12 +12,11 @@ tags:
 > 도메인 분류는 `wiki/`의 하위 폴더와 일치시킨다. 새 도메인 폴더를 만들면 여기에도 섹션을 추가하고, `schema/CLAUDE.md`·`README.md`의 트리도 함께 갱신한다.
 
 
-## cov (기업 분석)
+## stock-market
 
-- [[_sector-map]] : 전체 커버리지 기업 인덱스(섹터별)
 - [[semiconductor-industry-map]] : 반도체 밸류체인 분류(팹리스·파운드리·IDM·EDA/IP·장비·소재·OSAT)와 단계별 주요 상장기업(미국·한국)
 
-## cross-border (도메인 교차 종합)
+## cross-border
 
 `raw`·`wiki`를 가로질러 에너지·물질·통화 세 substrate로 세계질서를 읽는 종합 노트.
 

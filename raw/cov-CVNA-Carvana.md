@@ -3,7 +3,7 @@ type: overview
 date: 2025-03-14
 updated: 2025-03-14
 tags:
-  - shipbuilding
+  - automotive
 ---
 
 ## 이슈 분석

@@ -4,6 +4,7 @@ date: 2025-03-21
 updated: 2025-03-21
 tags:
   - defense
+  - aerospace
 ---
 
 ## Follow Up

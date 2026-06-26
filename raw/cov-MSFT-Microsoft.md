@@ -3,7 +3,7 @@ type: overview
 date: 2024-08-09
 updated: 2025-01-09
 tags:
-  - ai
+  - ai/cloud
   - semiconductor
 ---
 

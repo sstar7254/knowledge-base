@@ -3,7 +3,7 @@ type: overview
 date: 2025-06-21
 updated: 2025-08-28
 tags:
-  - finance
+  - finance/crypto
 ---
 
 ### Follow-ups

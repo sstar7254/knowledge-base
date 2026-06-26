@@ -3,7 +3,7 @@ type: overview
 date: 2024-11-17
 updated: 2025-02-24
 tags:
-  - shipbuilding
+  - building
 ---
 
 ### IIJA (Infrastructure Investment and Jobs Act, 인프라 투자 및 일자리법)

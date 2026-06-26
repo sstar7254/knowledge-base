@@ -5,6 +5,7 @@ updated:
 tags:
   - ai
   - macro
+  - semiconductor
 ---
 
 ### 반도체 기본

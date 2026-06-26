@@ -4,6 +4,7 @@ date: 2025-02-14
 updated: 2025-02-24
 tags:
   - entertainment
+  - ai
 ---
 
 ## 이슈 분석

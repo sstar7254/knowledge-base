@@ -3,7 +3,7 @@ type: overview
 date: 2025-04-18
 updated: 2025-04-24
 tags:
-  - pharma
+  - bio-pharma
 ---
 
 밸류파인더 이슈분석 #35 – 바이오 파운드리 산업과 Ginkgo Bioworks

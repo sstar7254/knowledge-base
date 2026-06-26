@@ -3,8 +3,7 @@ type: overview
 date: 2024-11-14
 updated: 2024-11-15
 tags:
-  - ai
-  - semiconductor
+  - ai/software
 ---
 
 ![[DDOG_2024_Investor_Day_.pdf]]

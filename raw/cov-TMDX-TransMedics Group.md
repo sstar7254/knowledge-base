@@ -3,7 +3,7 @@ type: overview
 date: 2025-09-28
 updated: 2025-09-28
 tags:
-  - pharma
+  - bio-pharma
 ---
 
 ### 기업 분석

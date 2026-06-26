@@ -3,7 +3,7 @@ type: overview
 date: 2025-05-16
 updated: 2025-05-17
 tags:
-  - pharma
+  - bio-pharma
 ---
 
 ## 자료

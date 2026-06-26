@@ -3,7 +3,7 @@ type: overview
 date: 2025-04-11
 updated: 2025-04-11
 tags:
-  - shipbuilding
+  - automotive
 ---
 
 ### 자료

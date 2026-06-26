@@ -3,8 +3,7 @@ type: overview
 date: 2025-07-12
 updated: 2025-07-13
 tags:
-  - ai
-  - semiconductor
+  - ai/cloud
 ---
 
 ### 자료

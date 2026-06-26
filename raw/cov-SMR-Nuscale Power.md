@@ -3,7 +3,7 @@ type: overview
 date: 2025-07-20
 updated: 2025-07-20
 tags:
-  - energy
+  - energy/smr
 ---
 
 원자력 발전량 1위 미국도 추가 원자력 발전 역량 확보 필요

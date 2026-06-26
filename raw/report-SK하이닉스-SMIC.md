@@ -1,7 +1,7 @@
 ---
 type: report
-date:
-updated:
+date: 2023-10-23
+updated: 2024-10-01
 tags:
   - ai
   - semiconductor
