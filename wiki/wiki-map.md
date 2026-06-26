@@ -14,6 +14,7 @@ tags:
 
 ## stock-market
 
+- [[sector-map]] : 전체 커버리지 기업(cov) 인덱스 — 현행 태그 기준 섹터별 분류
 - [[semiconductor-industry-map]] : 반도체 밸류체인 분류(팹리스·파운드리·IDM·EDA/IP·장비·소재·OSAT)와 단계별 주요 상장기업(미국·한국)
 
 ## cross-border
