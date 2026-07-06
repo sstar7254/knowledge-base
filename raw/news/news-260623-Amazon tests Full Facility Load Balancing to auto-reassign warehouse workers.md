@@ -1,9 +1,10 @@
 ---
 type: news-scrap
-source: Business Insider (기사 원문 URL 미확인)
 date: 2026-06-24
-author: Business Insider
-status: inbox
+updated: 2026-06-24
+tags:
+  - supply-chain/logistics
+  - ai
 ---
 
 **개요**
@@ -73,3 +74,6 @@ Amazon은 FFLB를 올해 안에 ARS(Amazon Robotics System)를 사용하는 북�
 - [Senate HELP Committee](https://www.help.senate.gov/)
 - [Bloomberg Law](https://news.bloomberglaw.com/)
 - [Benzinga](https://www.benzinga.com/)
+
+---
+출처: Business Insider (기사 원문 URL 미확인), 2026-06-24

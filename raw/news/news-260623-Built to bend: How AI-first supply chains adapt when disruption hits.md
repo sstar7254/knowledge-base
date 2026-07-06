@@ -1,8 +1,10 @@
 ---
 type: news-scrap
-source: https://www.supplychaindive.com/spons/built-to-bend-how-ai-first-supply-chains-adapt-when-disruption-hits/823237/
 date: 2026-06-23
-status: inbox
+updated: 2026-06-23
+tags:
+  - supply-chain
+  - ai
 ---
 
 A product goes viral on a Tuesday. By Friday, it’s sold out in three regions, overstocked in two others and gaining traction in places no one predicted. For planning teams tied to fixed schedules and calendar-driven cycles, that kind of speed has become the baseline.
@@ -51,3 +53,6 @@ A supply chain that bends under pressure keeps running on its usual systems and 
 “If you have to start spinning up war rooms and dedicated teams to handle problems, that’s a supply chain that is breaking,” Wegman said. “One that can bend is one that continues its normal process, using its normal tools, in times of disruption.”
 
 Getting there requires technology that can connect planning and execution before disruption forces teams into manual workarounds. Zebra Technologies helps supply chain organizations bridge that gap — connecting demand intelligence, AI-powered forecasting and frontline operations into a single, coherent system. With the Zebra Workcloud Demand Intelligence Suite, companies can move from insight to action faster, optimize decisions across stores, SKUs and locations, and build operations that adapt as conditions change.
+
+---
+출처: https://www.supplychaindive.com/spons/built-to-bend-how-ai-first-supply-chains-adapt-when-disruption-hits/823237/ (Supply Chain Dive, sponsored)

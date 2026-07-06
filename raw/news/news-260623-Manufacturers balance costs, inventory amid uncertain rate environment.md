@@ -1,9 +1,10 @@
 ---
 type: news-scrap
-source: https://www.supplychaindive.com/news/manufacturing-interest-rates-supply-chain-costs-2026/823516/
 date: 2026-06-23
-author: Keesa Schreane
-status: inbox
+updated: 2026-06-23
+tags:
+  - supply-chain
+  - macro
 ---
 
 **개요**
@@ -67,3 +68,6 @@ Neos by Argon & Co 선임 공급망 컨설턴트 Valencia Davis는, 많은 제�
 그럼에도 Davis는 불확실성이 많은 제조 조직에게 이미 익숙한 운영 조건이 됐다고 말했다.
 
 > "Most of our customers live in this chaotic space. They're just finding new creative ways to solve the problem."
+
+---
+출처: https://www.supplychaindive.com/news/manufacturing-interest-rates-supply-chain-costs-2026/823516/ (Keesa Schreane, Supply Chain Dive)
