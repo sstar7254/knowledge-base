@@ -33,7 +33,7 @@ tags:
 
 - **운영 자동화(미들오피스)** — [[logis-Augment-research|Augment (AI 물류 에이전트)]], [[logis-FleetWorks-research|FleetWorks (AI 화물 중개)]].
   견적·배차·추적·인보이스 등 전화·이메일·스프레드시트에 묶인 **수작업 운영**을 AI 에이전트로 대체.
-  2026년 "AI가 정의하는 해" 흐름의 최전선 [[_시장개요 참고자료]].
+  2026년 "AI가 정의하는 해" 흐름의 최전선 [[logis-tech-market-overview|시장개요 참고자료]].
 - **화물 거래·네트워크** — [[logis-sennder-research|sennder (디지털 화물 포워딩)]]. 파편화된 유럽 트럭 운송을 디지털
   마켓플레이스로 통합, 규모는 M&A로 점프.
 - **창고 인텔리전스** — [[logis-Dexory-research|Dexory (창고 디지털 트윈 로보틱스)]]. 노동집약·부정확한 재고 실사를
@@ -79,7 +79,7 @@ tags:
 ## 5. 교차 분석 ③ — 투자유치·펀딩 트렌드
 
 - **2026년 AI 중심 회복**: 공급망 펀딩 2025 3분기 약 30억 달러(+26% QoQ), 자율주행차 펀딩은 2026년
-  들어 전년比 3배 급반등 [[_시장개요 참고자료]].
+  들어 전년比 3배 급반등 [[logis-tech-market-overview|시장개요 참고자료]].
 - **메가라운드의 귀환**: 자율주행 트럭(Waabi $750M+)·창고 로보틱스(Dexory $165M) 등 하드웨어 집약
   분야에 대형 자본 + 부채 혼합.
 - **AI 네이티브 SaaS의 빠른 후속**: Augment(시드 후 5개월 만 $85M), FleetWorks($17M) — 작은 팀이
@@ -97,14 +97,14 @@ tags:
 
 ## 출처
 
-- raw/logistics-tech-startup/_시장개요 참고자료.md
-- raw/logistics-tech-startup/Augment 참고자료.md
-- raw/logistics-tech-startup/sennder 참고자료.md
-- raw/logistics-tech-startup/Dexory 참고자료.md
-- raw/logistics-tech-startup/Waabi 참고자료.md
-- raw/logistics-tech-startup/FleetWorks 참고자료.md
-- raw/logistics-tech-startup/UniUni 참고자료.md
-- raw/logistics-tech-startup/케이존 K-ZONE 참고자료.md
-- raw/logistics-tech-startup/파스토 FASSTO 참고자료.md
-- raw/logistics-tech-startup/테크타카 아르고 참고자료.md
-- raw/logistics-tech-startup/콜로세움 참고자료.md
+- [[logis-tech-market-overview]]
+- [[logis-Augment-research]]
+- [[logis-sennder-research]]
+- [[logis-Dexory-research]]
+- [[logis-Waabi-research]]
+- [[logis-FleetWorks-research]]
+- [[logis-UniUni-research]]
+- [[logis-케이존 K-ZONE-research]]
+- [[logis-파스토 FASSTO-research]]
+- [[logis-테크타카 아르고-research]]
+- [[logis-콜로세움-research]]
