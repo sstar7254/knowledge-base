@@ -15,7 +15,7 @@ description: "글로벌 매크로와 공급망(SCM)을 쉽고 흡입력 있게 �
 
 ## 주제 선정
 
-`raw/`에서 공급망 관련 노트(태그 `supply-chain`·`supply-chain/logistics`)를 훑고, 아래 우선순위로 주제를 선택한다.
+`raw/news/`를 중심으로 공급망 관련 노트(태그 `supply-chain`·`supply-chain/logistics`)를 훑고, 아래 우선순위로 주제를 선택한다. `wiki/raw-map.md` 카탈로그에서 태그로 후보를 빠르게 좁힐 수 있다.
 
 1. supply chain field에 파급력이 큰 사건
 2. CPIM/SCM 도메인 개념을 익히기 좋은 사건

@@ -47,7 +47,7 @@ tags:
 
 ### 3단계 — 제목(파일명) 형식 통일
 
-`schema/CLAUDE.md`의 news-scrap 헤더 규칙에 따라 **flat `raw/` 디렉토리**에 `news-yymmdd-(제목 또는 핵심 키워드).md` 형식으로 저장한다(하위 폴더 없이 `raw/`에 바로 둔다).
+`schema/CLAUDE.md`의 news-scrap 헤더 규칙에 따라 **`raw/news/` 폴더**에 `news-yymmdd-(제목 또는 핵심 키워드).md` 형식으로 저장하고, `wiki/raw-map.md` 카탈로그의 news 섹션에도 한 줄을 추가한다.
 
 - `yymmdd`: 기사 발행일 기준 6자리(예: 260623).
 - 제목: 기사 원제(영문)를 그대로 쓰거나, 너무 길면 핵심 키워드로 축약한다. 콜론·특수문자는 파일시스템에 문제없는 범위에서 보존한다.

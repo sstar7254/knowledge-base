@@ -1,5 +1,5 @@
 ---
-type: report
+type: note
 date: 2026-06-22
 updated: 2026-06-22
 tags:
