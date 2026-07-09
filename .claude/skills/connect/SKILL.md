@@ -12,7 +12,7 @@ description: "흩어진 노트 사이에 의미 있는 위키링크를 엮어 �
 연결은 두 방향으로 만든다.
 
 - **Step 1 (수평 연결)** — 새로 들어온 노트를 인접한 기존 노트들과 `## 관련 노트` 백링크로 잇는다.
-- **Step 2 (수직 연결)** — 저장소 전체를 관통하는 새 아이디어를 `wiki/cross-border/`에 종합 노트로 쓴다.
+- **Step 2 (수직 연결)** — 저장소 전체를 관통하는 새 아이디어를 `wiki/`에 cross-border 종합 노트로 쓴다(평탄 배치, `type: idea`).
 
 `/connect`는 기본적으로 **Step 1 → Step 2 순서로 둘 다** 실행한다.
 범위를 좁히려면 `/connect step1`(수평 연결만) 또는 `/connect step2`(새 합성 노트만)로 호출한다.
@@ -64,7 +64,7 @@ description: "흩어진 노트 사이에 의미 있는 위키링크를 엮어 �
    - 같은 밸류체인의 전/후방(예: 메모리 ↔ CSP ↔ 전력),
    - 동일 섹터 경쟁/대체재, 공급-수요 관계,
    - 같은 지정학·매크로 테마에 노출된 자산.
-   기업 노트는 `wiki/cov/_sector-map.md`가 후보를 빠르게 좁히는 인덱스다.
+   기업 노트는 `wiki/sector-map.md`가, raw 전체는 `wiki/raw-map.md`가 후보를 빠르게 좁히는 인덱스다.
 3. 노트 끝에 아래 형식으로 섹션을 **추가(append)** 한다(있으면 합치고, 헤딩을 중복 생성하지 않는다).
    **링크마다 한 줄씩, 왜 그 노트가 주제 이해에 도움이 되는지 1~2문장 설명을 붙인다**(링크만 나열 금지):
 
@@ -88,7 +88,7 @@ description: "흩어진 노트 사이에 의미 있는 위키링크를 엮어 �
 
 > Read the content of the file, and based on that get a HIGH LEVEL IDEA. Proceed to write a new note for
 > that high level idea, and make relevant connections and backlinks from the existing notes. Save the notes
-> in the wiki/cross-border/ and update the filetree in schema/CLAUDE.md and README.md. Also update the wiki-map.
+> in the wiki/ folder (flat) and update the wiki-map.
 
 ### 2-1. 저장소 전체에서 새 아이디어를 찾는다
 
@@ -101,10 +101,10 @@ description: "흩어진 노트 사이에 의미 있는 위키링크를 엮어 �
 
 ### 2-2. 노트를 쓴다
 
-- 저장 위치: `wiki/cross-border/<읽기 쉬운 한국어 제목>.md`.
+- 저장 위치: `wiki/<읽기 쉬운 한국어 제목>.md` (평탄 배치, frontmatter `type: idea`).
 - frontmatter는 최소로: `type: concept`(개념 종합) / `updated: <오늘 날짜>`.
 - 구성: 맨 위에 **High-level idea**를 한 문단으로 요약하고, 이어 2~4개 섹션으로 논지를 전개한다.
-- **모든 핵심 진술은 출처 노트로 위키링크**한다. 사실의 근거는 `raw/`로, 사례 기업은 `wiki/cov/`로,
+- **모든 핵심 진술은 출처 노트로 위키링크**한다. 사실의 근거는 `raw/`로, 사례 기업은 `raw/cov/`의 overview 노트로,
   개념은 `wiki/geopolitics/` 등으로 잇는다(`schema/CLAUDE.md` §3.4).
 - 본문 아래에 `## 관련 노트` 섹션을 둔다. 단, **이 노트의 주제를 이해하는 데 가장 도움이 되는 노트만
   3~5개**로 추리고, **링크마다 1~2문장 설명**을 붙인다(Step 1과 동일한 형식). 다른 cross-border 노트로
@@ -114,7 +114,7 @@ description: "흩어진 노트 사이에 의미 있는 위키링크를 엮어 �
 
 1. **wiki-map** — `wiki/wiki-map.md`의 `cross-border` 섹션에 새 노트를 **직접** 한 줄 링크로
    추가하고 `updated`를 갱신한다.
-2. **파일트리** — `wiki/cross-border/`가 처음 생겼거나 구조가 바뀌면 `schema/CLAUDE.md`와 `README.md`의
+2. **파일트리** — `wiki/` 구조가 바뀌면 `schema/CLAUDE.md`와 `README.md`의
    파일 트리에 모두 반영한다.
 3. **메모리** — memory.md `## cross-border 아이디어`에 새 노트 제목과 한 줄 논지를 기록한다.
 

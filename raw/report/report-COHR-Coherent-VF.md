@@ -1,8 +1,8 @@
 ---
-type: research
+type: report
 date: 2026-12-06
 updated: 2026-06-24
-tag:
+tags:
   - ai
   - semiconductor
 ---

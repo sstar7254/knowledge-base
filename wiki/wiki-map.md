@@ -11,6 +11,9 @@ tags:
 
 > 도메인 분류는 `wiki/`의 하위 폴더와 일치시킨다. 새 도메인 폴더를 만들면 여기에도 섹션을 추가하고, `schema/CLAUDE.md`·`README.md`의 트리도 함께 갱신한다.
 
+## raw 카탈로그
+
+- [[raw-map]] : `raw/` 전체(208개) 카탈로그 — 파일명·태그·1줄 요약. wiki 작성 전 raw 탐색의 진입점.
 
 ## stock-market
 
