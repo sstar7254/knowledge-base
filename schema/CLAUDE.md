@@ -26,6 +26,7 @@
   | `raw/research/` | research | `research-` |
   | `raw/report/` | report | `report-` |
   | `raw/note/` | note | 대분류 prefix (`book-`, `strategic-`, `logis-` 등) |
+  | `raw/qa/` | qa | **없음 — 파일명 = 질문 그대로** |
 
   - 폴더는 **형식(type)** 만 나눈다. 주제(토픽) 분류는 폴더가 아니라 frontmatter `tags`가 담당한다 — 노트 하나가 여러 주제에 걸치므로 토픽 폴더는 만들지 않는다.
   - 위키링크는 파일명 기준으로 해소되므로 폴더 이동은 링크에 영향을 주지 않는다. 파일명(prefix 포함)이 원천이고 폴더는 파생이다.
@@ -34,12 +35,31 @@
 - `raw/` 전체의 카탈로그는 [[raw-map]](`wiki/raw-map.md`)이 담당한다. raw에 노트가 추가·개명되면 카탈로그도 함께 갱신한다(§3, §4).
 
 ### raw 파일 헤더 규칙
-- 각 파일의 헤더는 파일의 내용(type)에 따라 다르게 적용한다. 파일의 분류: news-scrap(뉴스 스크랩-하나의 출처에서 여러 주제를 요약), overview(기업분석), research(자료 종합), report(단일 자료 요약), note(그외). 이는 frontmatter `type`에도 똑같이 적용된다.
+- 각 파일의 헤더는 파일의 내용(type)에 따라 다르게 적용한다. 파일의 분류: news-scrap(뉴스 스크랩-하나의 출처에서 여러 주제를 요약), overview(기업분석), research(자료 종합), report(단일 자료 요약), note(그외), qa(질문-답변 노트). 이는 frontmatter `type`에도 똑같이 적용된다.
    1. **news-scrap** 헤더 형식: "news-yymmdd-[제목 또는 키워드]"
    2. **overview** 헤더 형식: "cov-[Ticker]-[Company Name]"
    3. **research** 헤더 형식: "research-[field(optional)]-[topic]"
    4. **report** 헤더 형식: "report-[제목]"
    5. **note** 헤더 형식: "[대분류(book, strategic-thinking 등 자유롭게 신설 가능)]-[제목]
+   6. **qa** 헤더 형식: 질문 문장 그대로 (prefix 없음, 예: "물류 스타트업은 어떤 문제를 풀고 어떤 비즈니스 모델을 갖는가")
+
+### qa — 질문-답변 노트 (사람의 생각이 원본인 raw)
+
+qa는 **사용자의 질문과 그에 대한 자기 답(3~5문장)이 곧 원본**인 노트다. 외부 소스 요약이 아니라
+사람의 생각을 불변 원본으로 보존한다. 아웃풋의 최소 단위이며, 마찰 없이 쓰는 것이 최우선이다.
+
+- **파일명 = 질문 그대로.** 본문은 다듬지 않은 구어체 그대로 허용한다.
+- **본문 없이 제목만 있어도 완결된 기록으로 유효하다**("이 시점에 이게 궁금했다"는 기록).
+  비어 있는 본문을 LLM이 채워넣지 않는다 — 나중에 자연스럽게 떠오르면 사람이 채운다(망각 = 2차 필터).
+- 출처 병기 의무 없음(선택).
+- tags: 아래 공유 태그 리스트를 그대로 쓴다. 관심분야 매핑 — 공급망→`supply-chain`,
+  지정학→`geopolitics/<대상>`, 스타트업→`vc`, 금융→`finance`.
+- **예외 규칙**: qa 노트에 한해 LLM이 ① frontmatter ② 문서 말미 `## 관련 노트` 섹션의 추가·갱신까지
+  허용한다(§2 첫머리의 "본문 수정 금지"의 유일한 예외). **질문·답 본문 자체는 여전히 불변이다.**
+- 캡쳐 흐름: 사람은 `inbox/`(형식 자유)나 채팅에 제목+3~5문장만 던진다. `/inbox` 스킬이 frontmatter
+  부여 → `raw/qa/` 저장 → [[raw-map]] 갱신 → `## 관련 노트` 부착을 대신한다.
+- 책(장기 독서)은 기존 `raw/note/book-<제목>.md` 노트를 허브로 두고, 읽다가 파생된 qa 노트를
+  그 안에서 위키링크로 연결한다(사람이 book 노트를 갱신하는 것은 원래 허용 영역).
 
 ### raw 노트의 frontmatter 규칙
 
@@ -47,7 +67,7 @@ frontmatter는 아래 **4개 필드만** 둔다(type / date / updated / tags). `
 
 ```yaml
 ---
-type: news-scrap | overview | research | report | note
+type: news-scrap | overview | research | report | note | qa
 date: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags:
