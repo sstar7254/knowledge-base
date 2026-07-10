@@ -208,7 +208,16 @@ tags:
 - [[book-미국은 왜 전쟁을 멈추지 못하는가]] #defense #geopolitics/us — 미국은 왜 전쟁을 멈추지 못하는가
 - [[book-벤처기업을 위한 벤처캐피탈 투자계약서 해설서]] #finance #vc — I. 기업의 자금 조달과 벤처캐피탈 투자계약서
 - [[book-스타트업 투자유치전략]] #vc #finance — 스타트업의 장기적 목표는 단순한 생존이 아니라, 고객에게 제대로 된 가치를 주면서 크게 성장하는 것. 시장 선점을 위해서는 이미 이익이 나고 있는 상태에서도 고객
-- [[book-지리의 힘-1-중국]] #geopolitics/china — 『지리의 힘』 1장 「중국」
+- [[book-지리의힘-01-중국]] #geopolitics/china — 『지리의 힘』 1장 「중국」 지도·보조자료 (서고동저 지형·후 라인·완충지대·열도선·대운하)
+- [[book-지리의힘-02-미국]] #geopolitics/us — 『지리의 힘』 2장 「미국」 (로키·애팔래치아·가항수로·루이지애나 구입·파나마/이리 운하)
+- [[book-지리의힘-03-서유럽]] #geopolitics/europe — 『지리의 힘』 3장 「서유럽」 (북유럽 대평원·라인강·알프스/피레네·블루 바나나·영국 해협)
+- [[book-지리의힘-04-러시아]] #geopolitics/russia — 『지리의 힘』 4장 「러시아」 (평원의 약점·우랄·볼가강·부동항·크림·볼가돈 운하)
+- [[book-지리의힘-05-한국일본]] #geopolitics/korea #geopolitics/japan — 『지리의 힘』 5장 「한국과 일본」 (반도 경유지·태백산맥·38선·자원 빈국 일본·태평양 벨트)
+- [[book-지리의힘-06-라틴아메리카]] #geopolitics/latin-america — 『지리의 힘』 6장 「라틴 아메리카」 (안데스·아마존·니카라과 운하·브라질 대단애·팜파스)
+- [[book-지리의힘-07-아프리카]] #geopolitics/africa — 『지리의 힘』 7장 「아프리카」 (사하라·항행불가 강·베를린회의 국경·나일 물분쟁·중국 항만)
+- [[book-지리의힘-08-중동]] #geopolitics/middle-east — 『지리의 힘』 8장 「중동」 (사이크스-피코 국경·티그리스유프라테스·자그로스·쿠르드족)
+- [[book-지리의힘-09-인도파키스탄]] #geopolitics/india — 『지리의 힘』 9장 「인도와 파키스탄」 (히말라야·인더스갠지스 평원·카슈미르·인더스강 물 조약)
+- [[book-지리의힘-10-북극]] #geopolitics/arctic — 『지리의 힘』 10장 「북극」 (녹는 해빙·북극항로·자원 22%·8개국 각축·러중 진출)
 - [[logis-Augment-research]] #supply-chain/logistics #ai — Augment — 참고자료 다이제스트
 - [[logis-Dexory-research]] #supply-chain/logistics #robotics — Dexory — 참고자료 다이제스트
 - [[logis-FleetWorks-research]] #supply-chain/logistics — FleetWorks — 참고자료 다이제스트
