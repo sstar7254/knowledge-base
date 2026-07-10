@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-10
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
 > (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
 
-## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (53)
+## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (55)
 
 - [[news-250626-한국경제]] #ai — AI 패권전쟁, 핵융합으로 승부날 것
 - [[news-250627-한국경제]] #ai #finance — 성동-마포 ‘한강벨트’ 규제지역으로 묶는다
@@ -68,6 +68,8 @@ tags:
 - [[news-260623-Built to bend: How AI-first supply chains adapt when disruption hits]] #supply-chain #ai — AI-first 공급망의 유연성: 붕괴 상황에서 계획-실행을 잇는 적응형 운영
 - [[news-260623-Kraft Heinz merges procurement and supply chain units]] #supply-chain #strategy — Kraft Heinz, 조달과 공급망 조직을 단일 부서로 통합
 - [[news-260623-Manufacturers balance costs, inventory amid uncertain rate environment]] #supply-chain #macro — 제조업체들, 금리 불확실성 속 비용·재고 균형 전략
+- [[news-260707-Last-mile delivery success begins before the driver arrives]] #supply-chain/logistics #ecommerce — 라스트마일 성패는 상류(재고 배치·창고 실행·반품 데이터)에서 결정된다
+- [[news-260709-Amazon Shipping looks to snag FedEx, UPS customers with low pricing]] #supply-chain/logistics #ecommerce — Amazon Shipping, 저서차지·저가 공세로 FedEx·UPS 고객 유인
 
 ## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (78)
 
