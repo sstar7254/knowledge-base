@@ -244,3 +244,7 @@ tags:
 - [[strategic-thinking-2-7-에너지의 관점에서 재구성한 세계질서 (1)]] #macro #esg #geopolitics/middle-east — 에너지 패권으로 본 세계질서 1부 (강의 노트)
 - [[strategic-thinking-2-8-에너지의 관점에서 재구성한 세계질서 (2)]] #geopolitics/middle-east #energy #geopolitics/us — 에너지 패권으로 본 세계질서 2부 (강의 노트)
 - [[strategic-thinking-2-9-물질과 상품의 관점에서 본 세계질서]] #geopolitics — 원자재·상품 교역의 관점에서 본 세계질서 (강의 노트)
+
+## qa/ — 질문-답변 노트 (파일명 = 질문; /inbox 스킬이 정규화) (1)
+
+- [[그리스는 어떻게 디폴트에서 회복했나]] #macro #finance — 대주제: 2001년 유로 가입이 값싼 신용·절하수단 상실을 심고→2009 통계조작 폭로로 디폴트→내부 평가절하로 2018 졸업·2023 투자등급 회복
