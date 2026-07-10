@@ -74,6 +74,9 @@ tags:
 
 > 📌 **책과 연결**: 마샬은 2010년대 그리스 재정위기를 단순한 재정 방만이 아니라 **지리적 조건의 결과**로도 읽는다. 산이 많고 평야·자원이 부족해 강한 제조업 기반을 갖기 어려운 나라가, 북유럽(독일)과 같은 통화(유로)를 쓰게 되면서 구조적 격차가 위기로 터졌다는 시각이다. '이념적 분열(긴축 대 성장)'과 '지리적 분열(북부 대 남부)'이 겹친다는 것이 이 절의 제목이다.
 
+🔎 **리서치**
+- [[raw/qa/그리스는 어떻게 디폴트에서 회복했나.md]]: 2001년 유로 가입이 값싼 신용·절하수단 상실을 심고→2009 통계조작 폭로로 디폴트→내부 평가절하로 2018 졸업·2023 투자등급 회복
+
 🗺️ **지도 보기**
 - [Wikipedia — Geography of Greece(지형도)](https://en.wikipedia.org/wiki/Geography_of_Greece)
 - [Maps of World — Geography of Greece](https://www.mapsofworld.com/greece/geography.html)
