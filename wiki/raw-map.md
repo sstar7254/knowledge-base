@@ -65,7 +65,7 @@ tags:
 - [[news-260324-케빈 워시 차기 연준 의장 지명]] #macro #geopolitics/us — The Fed’s Most Awkward Leadership Transition Is Coming
 - [[news-260324-호르무즈 해협 폐쇄에 영향을 받을 자원]] #supply-chain #energy — 호르무즈 해협 폐쇄에 영향을 받을 자원
 - [[news-260623-Amazon tests Full Facility Load Balancing to auto-reassign warehouse workers]] #supply-chain/logistics #ai — 아마존, 창고 간 인력 자동 재배치(Full Facility Load Balancing) 실험
-- [[news-260623-Built to bend: How AI-first supply chains adapt when disruption hits]] #supply-chain #ai — AI-first 공급망의 유연성: 붕괴 상황에서 계획-실행을 잇는 적응형 운영
+- [[news-260623-Built to bend-How AI-first supply chains adapt when disruption hits]] #supply-chain #ai — AI-first 공급망의 유연성: 붕괴 상황에서 계획-실행을 잇는 적응형 운영
 - [[news-260623-Kraft Heinz merges procurement and supply chain units]] #supply-chain #strategy — Kraft Heinz, 조달과 공급망 조직을 단일 부서로 통합
 - [[news-260623-Manufacturers balance costs, inventory amid uncertain rate environment]] #supply-chain #macro — 제조업체들, 금리 불확실성 속 비용·재고 균형 전략
 
