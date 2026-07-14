@@ -32,6 +32,7 @@ tags:
 
 - [[ME-energy]] : 호르무즈 해협과 에너지 산업
 - [[middle-east-history]] : 중동 분쟁의 역사
+- [[prisoners-of-geography-map]] : 『지리의 힘』(팀 마샬) 챕터별 지도·보조자료 노트 인덱스 + 공통 지리개념(평원·가항하천·부동항·완충지대·인구·운하) 종합
 
 ## logistics
 
