@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-10
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
 > (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
 
-## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (53)
+## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (58)
 
 - [[news-250626-한국경제]] #ai — AI 패권전쟁, 핵융합으로 승부날 것
 - [[news-250627-한국경제]] #ai #finance — 성동-마포 ‘한강벨트’ 규제지역으로 묶는다
@@ -65,9 +65,14 @@ tags:
 - [[news-260324-케빈 워시 차기 연준 의장 지명]] #macro #geopolitics/us — The Fed’s Most Awkward Leadership Transition Is Coming
 - [[news-260324-호르무즈 해협 폐쇄에 영향을 받을 자원]] #supply-chain #energy — 호르무즈 해협 폐쇄에 영향을 받을 자원
 - [[news-260623-Amazon tests Full Facility Load Balancing to auto-reassign warehouse workers]] #supply-chain/logistics #ai — 아마존, 창고 간 인력 자동 재배치(Full Facility Load Balancing) 실험
-- [[news-260623-Built to bend: How AI-first supply chains adapt when disruption hits]] #supply-chain #ai — AI-first 공급망의 유연성: 붕괴 상황에서 계획-실행을 잇는 적응형 운영
+- [[news-260623-Built to bend-How AI-first supply chains adapt when disruption hits]] #supply-chain #ai — AI-first 공급망의 유연성: 붕괴 상황에서 계획-실행을 잇는 적응형 운영
 - [[news-260623-Kraft Heinz merges procurement and supply chain units]] #supply-chain #strategy — Kraft Heinz, 조달과 공급망 조직을 단일 부서로 통합
 - [[news-260623-Manufacturers balance costs, inventory amid uncertain rate environment]] #supply-chain #macro — 제조업체들, 금리 불확실성 속 비용·재고 균형 전략
+- [[news-260707-Last-mile delivery success begins before the driver arrives]] #supply-chain/logistics #ecommerce — 라스트마일 성패는 상류(재고 배치·창고 실행·반품 데이터)에서 결정된다
+- [[news-260709-Amazon Shipping looks to snag FedEx, UPS customers with low pricing]] #supply-chain/logistics #ecommerce — Amazon Shipping, 저서차지·저가 공세로 FedEx·UPS 고객 유인
+- [[news-260714-PepsiCo improves sustainable sourcing, delays emissions reporting]] #supply-chain #esg — PepsiCo, 목표 완화 뒤 지속가능 조달 70% 개선·Scope 3 공개는 지연
+- [[news-260714-When companies in a supply chain work on different timelines]] #supply-chain #strategy — 밸류체인의 '시계 속도' 불일치와 clock-speed 동기화(가시성·유연성·역량) — HBR
+- [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 
 ## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (78)
 
