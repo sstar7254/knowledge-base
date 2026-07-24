@@ -13,7 +13,7 @@ tags:
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
 > (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
 
-## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (57)
+## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (58)
 
 - [[news-250626-한국경제]] #ai — AI 패권전쟁, 핵융합으로 승부날 것
 - [[news-250627-한국경제]] #ai #finance — 성동-마포 ‘한강벨트’ 규제지역으로 묶는다
@@ -72,6 +72,7 @@ tags:
 - [[news-260709-Amazon Shipping looks to snag FedEx, UPS customers with low pricing]] #supply-chain/logistics #ecommerce — Amazon Shipping, 저서차지·저가 공세로 FedEx·UPS 고객 유인
 - [[news-260714-PepsiCo improves sustainable sourcing, delays emissions reporting]] #supply-chain #esg — PepsiCo, 목표 완화 뒤 지속가능 조달 70% 개선·Scope 3 공개는 지연
 - [[news-260714-When companies in a supply chain work on different timelines]] #supply-chain #strategy — 밸류체인의 '시계 속도' 불일치와 clock-speed 동기화(가시성·유연성·역량) — HBR
+- [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 
 ## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (78)
 
