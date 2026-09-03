@@ -1,14 +1,14 @@
 ---
 type: index
 date: 2026-07-06
-updated: 2026-09-02
+updated: 2026-09-03
 tags:
 ---
 
 # raw-map
 
 `raw/` 전체의 카탈로그. LLM이 wiki를 쓰기 전에 **이 파일을 먼저 읽어** 관련 raw 노트를 찾고,
-필요한 파일만 연다(208개 전체를 훑지 않는다). 한 줄 형식: 파일명 위키링크 · 태그 · 1줄 요약.
+필요한 파일만 연다(234개 전체를 훑지 않는다). 한 줄 형식: 파일명 위키링크 · 태그 · 1줄 요약.
 
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
 > (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
@@ -218,6 +218,22 @@ tags:
 
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
 - [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — 달러 연동 스테이블코인 USDC를 발행하고 관리하는 블록체인 핀테크 기업.
+
+## research/ — research — 자료 종합 (13)
+
+- [[research-AI 소프트웨어-클라우드 산업]] #ai #semiconductor — AI 소프트웨어·클라우드 산업의 구조와 시장 자료 종합.
+- [[research-AVGO-2Q26-earnings]] #finance #semiconductor #ai — Broadcom FY26 Q3(CY2Q26) 실적 — AI 반도체 $16.7B(+221% YoY), Q4 가이던스는 컨센서스 하회.
+- [[research-COIN-2Q25 Earnings]] #finance — Coinbase 2Q25 실적 — 거래량 급감에도 스테이블코인 등 수익 다각화 진전.
+- [[research-Energy Industry]] #energy — 에너지 산업의 기본 구조와 밸류체인 학습 자료 종합.
+- [[research-JOBY-2Q25 earnings]] #evtol #finance — Joby Aviation 2Q25 실적과 FAA 인증·파트너십 진행 상황.
+- [[research-JOBY-PEST analysis & Catalyst]] #evtol #strategy — Joby Aviation의 PEST 분석과 촉매 정리.
+- [[research-LEU-2Q25 Earnings]] #energy — Centrus Energy 2Q25 실적 — HALEU 공급 역량과 DOE 계약 기반 백로그.
+- [[research-Stargate Project]] #ai #semiconductor — 오픈AI·소프트뱅크·오라클 주도 스타게이트 합작법인 발표 정리.
+- [[research-Tariff]] #macro — 2025년 4월 이후 관세가 건설 산업과 Procore에 미친 영향.
+- [[research-deepseek]] #ai #semiconductor — 딥시크 충격과 미국 증시 급락에 대한 해설 자료 정리.
+- [[research-semicon-value-chain]] #ai #semiconductor — 반도체 밸류체인 단계별 분류와 미국·한국 주요 상장기업.
+- [[research-우주 데이터 센터]] #ai #semiconductor — 우주 데이터센터 구상과 관련 논의 자료 정리.
+- [[research-정유석유화학 산업]] #shipbuilding — 정유·석유화학 산업 구조와 지정학 사건이 유가·업황에 미친 영향.
 
 ## report/ — report — 단일 자료 요약 (33)
 
