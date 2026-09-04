@@ -75,7 +75,7 @@ tags:
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 - [[news-260901-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play (Forbes, Gerui Wang) — 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics 성격 혼동).
 
-## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (80)
+## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (81)
 
 ### AI · 반도체
 
@@ -95,6 +95,7 @@ tags:
 
 #### ai (AI 반도체·하드웨어)
 
+- [[cov-AMD-Advanced Micro Devices]] : x86 CPU·AI 가속기 팹리스 — 2026 Q2 기준 커버리지(데이터센터 매출 58.2%·영업이익 적자→31.3% 전환, 서버 CPU 출하 점유율 34.5%, GAAP 영업이익률 17.3% vs 엔비디아 66.2%, 오픈AI·메타 워런트 3.2억 주=희석 19.6%·앤스로픽 $5B 투자, 구매약정 $30.3B, P/S는 엔비디아와 같은데 P/E는 4배). (+semiconductor)
 - [[cov-NVDA-NVIDIA]] : AI 가속기·랙·네트워킹 — FY27 Q2 기준 커버리지(세그먼트 재편 DC/Edge, DC가 매출 92.5%, GAAP 영업이익률 66.2%, 매출총이익률 75.0%→FY27 4Q 71-72% 안내, 부외 공급약정 $279B·보증의무 $108.5B, 고객집중 상위4곳 61%, 중국 매출 0 가정, 경쟁사·목표주가). (+semiconductor)
 - [[cov-DELL-Dell Technologies]] : AI 서버·인프라 하드웨어 — FY27 Q2 기준 커버리지(제품별 매출비중, AI 서버 34.9%·백로그 $95B, 매출총이익률 20%대 저마진 구조, IDC 서버 점유율 1위, 경쟁사·목표주가). (+strategy)
 - [[cov-AVGO-Broadcom]] : AI 네트워킹·맞춤형 ASIC — FY26 Q3 기준 커버리지(세그먼트 설명·제품별 매출비중, AI가 매출 56%·마진 희석·고객 집중과 AI XPV 자금조달·경쟁사 비교·목표주가) + 밸류파인더 #55 요약 블록. (+semiconductor)

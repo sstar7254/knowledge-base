@@ -27,7 +27,7 @@ tags:
 | **L5** 인프라·클라우드 | 연산 임대 | [[cov-AMZN-Amazon]] · [[cov-MSFT-Microsoft]] · [[cov-GOOG-Alphabet]] | 오라클 · **코어위브**(CRWV) · **네비우스**(NBIS) · IREN · 애플라이드디지털 / 람다 · 크루소(IPO 준비) |
 | **L4** 시스템·랙 | 칩을 묶어 배송 | [[cov-DELL-Dell Technologies]] · [[cov-178320-서진시스템]] | 폭스콘 · 콴타 · 위스트론 · 위윈 · 슈퍼마이크로 · HPE / 냉각: 버티브 · nVent · 아세텍 |
 | **L3** 인터커넥트·네트워킹 | 칩끼리 잇기 | [[cov-ANET-Arista Networks]] · [[cov-ALAB-Astera Labs]] · [[cov-AVGO-Broadcom]] | 마벨 · 크레도 · 코히어런트 · 루멘텀 · 시에나 |
-| **L2** 연산 실리콘 | 연산 | [[cov-NVDA-NVIDIA]] · [[cov-AVGO-Broadcom]] · [[cov-INTC-Intel]] · [[cov-IONQ-IonQ]] | AMD · Arm · 퀄컴 · 마벨 · **세레브라스**(2026.5 상장) / 삼바노바 · 텐스토렌트 · 리벨리온 · 퓨리오사AI |
+| **L2** 연산 실리콘 | 연산 | [[cov-NVDA-NVIDIA]] · [[cov-AMD-Advanced Micro Devices]] · [[cov-AVGO-Broadcom]] · [[cov-INTC-Intel]] · [[cov-IONQ-IonQ]] | Arm · 퀄컴 · 마벨 · **세레브라스**(2026.5 상장) / 삼바노바 · 텐스토렌트 · 리벨리온 · 퓨리오사AI |
 | **L1** 파운드리·HBM·소재·후공정 | 만들기 | [[cov-058470-리노공업]] · [[cov-061970-LB세미콘]] · [[cov-170920-엘티씨]] | **TSMC · ASML · SK하이닉스 · 삼성전자 · 마이크론** · 어플라이드머티리얼즈 · 램리서치 · 도쿄일렉트론 · KLA |
 | *(밖)* 전력·설비 | 층 전체의 전제 | [[cov-267260-HD현대일렉트릭]] · [[cov-SMR-Nuscale Power]] · [[cov-LEU-Centrus Energy]] · [[cov-083650-비에이치아이]] · [[cov-MP-MP Materials]] | 이튼 · GE 버노바 · 슈나이더 · 컨스텔레이션 에너지 · 비스트라 |
 
