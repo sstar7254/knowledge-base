@@ -31,14 +31,28 @@ FY26 Q3 반도체 매출 중 AI 반도체가 $16.7B으로 부문의 80.1%다(자
 
 반도체는 일회성 판매지만 실질은 설계 수탁에 가깝다. 하이퍼스케일러와 XPU를 공동 설계하고 다년에 걸쳐 물량을 인도하는 구조여서, 개별 칩 판매가 아니라 프로그램 단위 수주로 움직인다. 인프라 소프트웨어는 VMware의 영구 라이선스를 구독으로 전환하는 작업이 진행 중이며, 이 전환이 FY25 소프트웨어 매출 +26% 성장의 주된 이유다[^10k25]. 고객 집중도는 높다. FY25와 FY24 각각 유통 채널을 통한 매출이 전체의 48%, 상위 5개 최종 고객이 전 채널 합산으로 약 40%를 차지했다[^10k25]. 매출 인식과 현금 회수의 간극은 새로운 축이 생겼다. 2026년 6월 브로드컴은 Apollo, Blackstone과 AI XPV 플랫폼을 세워 초기 $35B 트랜치로 Anthropic 등의 연산 용량 배치를 지원하는데, 이 구조에서 브로드컴이 실리콘 소유권을 유지하고 고객은 용량을 임차한다[^apollo].
 
-### 2.3 핵심 경쟁력과 해자
+### 2.3 주요 제품과 특징
+
+**XPU(맞춤형 AI 가속기)** — XPU는 특정 고객의 AI 워크로드에만 최적화해 설계한 전용 가속기다. GPU가 여러 연산을 두루 처리하는 범용 칩이라면, XPU는 그 고객의 모델 구조와 연산 패턴에 맞춰 불필요한 회로를 걷어낸 전용 칩이라 같은 전력으로 더 많은 추론을 돌린다. 브로드컴은 이 칩을 자기 브랜드로 팔지 않고 고객과 공동 설계해 공급하며, 구글의 Ironwood TPU와 TPU v8i가 대표 사례다[^call]. 브로드컴 XPU의 기술적 차별점은 패키징에 있다. 3.5D XDSiP는 3D 실리콘 적층과 2.5D 패키징을 결합한 방식으로, 6,000mm² 이상의 실리콘과 최대 12개 HBM 스택을 하나의 패키지에 담는다. 선도 제품은 컴퓨트 다이 4개, I/O 다이 1개, HBM 6개를 TSMC의 CoWoS 위에 얹은 F2F(Face-to-Face) 구성이며, 기존 F2B 방식 대비 인터커넥트 밀도와 전력 효율이 개선된다[^xdsip]. FY26 Q3에 XPU는 AI 반도체 매출의 73%를 차지했고 출하량은 전년 대비 3.5배 이상 늘었다[^call].
+
+**Tomahawk(이더넷 스위치 칩)** — 스위치는 한 데이터센터 안에서 가속기끼리 주고받는 트래픽을 중계하는 칩으로, 학습 중 GPU·XPU가 서로를 기다리지 않게 하는 것이 역할이다. 현행 주력인 Tomahawk 6는 단일 칩 102.4Tbps로, 200Gbps 512포트 또는 100Gbps 1,024포트를 지원하고, 스케일업으로 512개 XPU를, 2단 스케일아웃 구성에서 200Gbps 링크로 10만 개 이상의 XPU를 묶는다. 100G·200G SerDes와 co-packaged optics(CPO) 중에서 고를 수 있고, CPO를 내장한 파생 모델이 Tomahawk 6 - Davisson이다. Ultra Ethernet Consortium 규격을 준수하며 rail-only, rail-optimized, torus 등 여러 토폴로지를 지원한다[^th6].
+
+**Jericho(라우터 칩)** — 라우터는 지리적으로 떨어진 데이터센터들을 하나의 클러스터처럼 묶는 칩이다. 부지와 전력의 한계로 AI 인프라가 여러 사이트에 흩어지면서 중요해진 계층이다. Jericho4는 3nm 공정에 51.2Tbps 용량, 200G PAM4 SerDes를 쓰고, HBM 기반 딥 버퍼로 순간적인 트래픽 폭주를 패킷 손실 없이 흡수한다. 3.2Tbps HyperPort를 지원하고 최대 100km 거리에서도 무손실 RoCE를 유지해, 100만 개 이상의 XPU를 여러 데이터센터에 걸쳐 연결하는 것을 목표로 한다. 역시 UEC 규격을 따르며 현재 출하 중이다[^jer4].
+
+**VMware Cloud Foundation(VCF)** — 인프라 소프트웨어 부문의 중심 제품으로, 데이터센터·엣지·서비스 제공자 환경을 하나의 운영 모델로 묶는 프라이빗 클라우드 플랫폼이다. 전통 애플리케이션과 컨테이너, AI 워크로드를 같은 플랫폼에서 돌리는 것이 판매 논리이며, 공용 클라우드의 확장성과 온프레미스의 통제권·TCO를 함께 제공한다는 포지셔닝이다[^vcf]. 9.0 정식 출시 이후 2026년 5월 9.1로 프로덕션 AI 대응을 보강했다[^vcf91]. 영구 라이선스를 구독으로 전환하는 작업이 FY25 소프트웨어 매출 +26% 성장의 주된 동인이었다[^10k25]. 이 밖에 인프라 소프트웨어는 프라이빗 클라우드, 메인프레임, 사이버보안, 엔터프라이즈 소프트웨어, FC SAN 관리의 다섯 포트폴리오로 구성된다 ⚠️(회사 자료 기준, 2차 요약으로 확인).
+
+**비AI 반도체** — 브로드밴드, 무선, 서버·스토리지 연결, 산업용 제품군이 남아 있다. FY26 Q3 기준 반도체 매출 $20,839M에서 AI $16.7B을 빼면 약 $4.1B으로 부문의 20% 수준이며(자체 계산)[^8k26q3][^call], 성장 서사에서는 사실상 배경으로 밀렸다.
+
+세 하드웨어 제품군을 관통하는 공통 특징은 세 가지다. 첫째, 모두 개방형 표준인 이더넷과 UEC 규격 위에 서 있어 고객이 특정 벤더의 독자 규격에 묶이지 않는다[^th6][^jer4]. 둘째, 그럼에도 XPU는 공동 설계라는 성격 때문에 프로그램 단위로는 교체가 어렵다. 개방형 표준을 팔면서 실질적 전환비용은 확보하는 구조다. 셋째, SerDes, 패키징, 네트워킹 IP를 모두 자체 보유해 XPU와 스위치와 라우터를 한 벤더가 정합적으로 묶어 공급할 수 있다[^xdsip][^call].
+
+### 2.4 핵심 경쟁력과 해자
 
 - **전환비용(강함, 유효)** — XPU는 고객 워크로드에 맞춰 공동 설계되므로 세대 중간 교체가 사실상 불가능하다. 검증 수치: FY26 Q3 XPU 출하량이 전년 대비 3.5배 이상 늘며 AI 매출의 73%를 차지했고, 경영진은 FY27 물량에 대해 공급을 이미 확보했다고 밝혔다[^call]. 반대 증거: 하이퍼스케일러의 자체 설계 내재화가 진행 중이며, 10-K도 고객 자체 개발을 리스크로 적시한다[^10k25].
 - **무형자산과 IP 스택(강함, 유효)** — 네트워킹, 고속 인터페이스, 패키징 IP를 자체 보유해 XPU와 스위치를 한 벤더가 묶어 공급한다. 검증 수치: AI 매출 중 네트워킹이 27%를 차지하며, 경영진은 네트워킹이 XPU와 비슷한 속도로 성장할 것으로 전망했다[^call].
 - **원가 우위와 규모(약화 중)** — 검증 수치는 오히려 반대 방향이다. non-GAAP 매출총이익률이 FY25 78.6% → FY26 Q1 77.0% → Q2 77.1% → Q3 74.9% → Q4 가이던스 약 73%로 4개 분기 연속 하락 경로에 있다[^8k25q4][^8k26q1][^8k26q2][^8k26q3][^call]. 메모리를 얹어 파는 XPU 믹스가 커질수록 마진이 희석되는 구조이므로, 이 항목은 현재 해자라기보다 압력이다. 다만 매출 레버리지로 non-GAAP 영업이익률은 Q3 67.9%, Q4 가이던스 약 66%로 방어된다[^8k26q3][^call].
 - **이더넷 스위치 실리콘 점유율** — 시장에서 70% 이상으로 인용되나, 이번 세션에서 조사기관의 머천트 실리콘 기준 점유율 자료로는 확인하지 못했다. Dell'Oro의 2Q26 자료는 스위치 시스템 벤더 순위(Celestica, NVIDIA, Arista, Cisco)를 다루며 칩 점유율이 아니다[^delloro]. 따라서 이 수치는 **(확인 필요)** 로 남긴다.
 
-### 2.4 최근 실적과 재무 상태
+### 2.5 최근 실적과 재무 상태
 
 | 분기 | 매출 | non-GAAP GM | non-GAAP 영업이익률 | non-GAAP 희석 EPS | FCF |
 |---|---|---|---|---|---|
@@ -124,6 +138,11 @@ Bernstein과 TD Cowen 두 건만 원문 기사로 확인했고, 나머지 네 �
 [^10k25]: SEC EDGAR, Broadcom Inc. Form 10-K FY2025(2025-11-02 종료), 2025-12-18. https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm (접속: 2026-09-04)
 [^call]: Investing.com, "Earnings call transcript: Broadcom tops Q3 2026 estimates as AI sales surge"(FY26 Q3 컨퍼런스콜 전사), 2026-09-02. https://www.investing.com/news/transcripts/earnings-call-transcript-broadcom-tops-q3-2026-estimates-as-ai-sales-surge-93CH-4886849 (접속: 2026-09-04)
 [^apollo]: Apollo Global Management, "Apollo Leads $35 Billion Capital Solution for Broadcom AI XPV Platform in Partnership with Blackstone and Leading Global Banks", 2026-06-09. https://ir.apollo.com/news-events/press-releases/detail/629/apollo-leads-35-billion-capital-solution-for-broadcom-ai (접속: 2026-09-04)
+[^th6]: Broadcom Inc., "Broadcom Ships Tomahawk 6: World's First 102.4 Tbps Switch" 및 "Broadcom Announces Tomahawk 6 - Davisson" 보도자료. https://investors.broadcom.com/news-releases/news-release-details/broadcom-ships-tomahawk-6-worlds-first-1024-tbps-switch (접속: 2026-09-04)
+[^jer4]: Broadcom Jericho4 제품 발표 관련 보도(51.2Tbps, 3nm, HBM 딥 버퍼, 3.2Tbps HyperPort, 100km RoCE). https://www.servethehome.com/broadcom-jericho4-51-2tbps-ai-router-chip-now-shipping-with-3-2tbps-hyperports/ (접속: 2026-09-04)
+[^xdsip]: Broadcom Inc., "Broadcom Delivers Industry's First 3.5D F2F Technology for AI XPUs" 보도자료. https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-industrys-first-35d-f2f-technology-ai-xpus (접속: 2026-09-04)
+[^vcf]: Broadcom Inc., "Broadcom Delivers the Modern Private Cloud with VMware Cloud Foundation 9.0" 보도자료. https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-modern-private-cloud-vmware-cloud-foundation (접속: 2026-09-04)
+[^vcf91]: Broadcom, "VCF 9.1: The Secure, Cost-Effective Private Cloud Platform for Production AI", 2026-05-05. https://blogs.vmware.com/cloud-foundation/2026/05/05/vcf-9-1-secure-cost-effective-private-cloud-platform-for-production-ai/ (접속: 2026-09-04)
 [^delloro]: Dell'Oro Group, "AI Back-End Networks Switch Sales Surpass Front-End Networks for the First Time in 2Q 2026", 2026. https://www.delloro.com/news/ai-back-end-networks-switch-sales-surpass-front-end-networks-for-the-first-time-in-2q2026/ (접속: 2026-09-04)
 [^mrvl]: Marvell Technology, "Marvell Technology, Inc. Reports First Quarter of Fiscal Year 2027 Financial Results". https://investor.marvell.com/news-events/press-releases/detail/1023/marvell-technology-inc-reports-first-quarter-of-fiscal-year-2027-financial-results (접속: 2026-09-04)
 [^anet]: Arista Networks, "Arista Networks, Inc. Reports Second Quarter 2026 Financial Results", 2026-08-04. https://www.arista.com/en/company/news/press-release/24401-pr-20260804 (접속: 2026-09-04)
