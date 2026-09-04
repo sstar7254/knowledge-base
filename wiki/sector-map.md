@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-06-26
-updated: 2026-06-26
+updated: 2026-09-04
 tags:
 ---
 
@@ -29,6 +29,7 @@ tags:
 
 ### ai (AI 반도체·하드웨어)
 
+- [[cov-NVDA-NVIDIA]] : AI 가속기·랙 시스템 — 데이터센터 GPU와 NVLink·이더넷 네트워킹을 랙 단위로 파는 AI 인프라 1위 기업. (+semiconductor)
 - [[cov-AVGO-Broadcom]] : 통신/네트워크 반도체 — 데이터센터 및 유무선 통신용 칩과 인프라 소프트웨어 개발. (+semiconductor)
 - [[cov-ANET-Arista Networks]] : 클라우드 네트워킹 — 대규모 데이터센터 및 AI 환경을 위한 고성능 네트워크 스위치 제공. (+semiconductor)
 - [[cov-ALAB-Astera Labs]] : 반도체 팹리스 — AI 및 클라우드 인프라용 데이터 연결 및 병목 해소 솔루션 제공. (+semiconductor)
