@@ -8,7 +8,7 @@ tags:
 # raw-map
 
 `raw/` 전체의 카탈로그. LLM이 wiki를 쓰기 전에 **이 파일을 먼저 읽어** 관련 raw 노트를 찾고,
-필요한 파일만 연다(234개 전체를 훑지 않는다). 한 줄 형식: 파일명 위키링크 · 태그 · 1줄 요약.
+필요한 파일만 연다(233개 전체를 훑지 않는다). 한 줄 형식: 파일명 위키링크 · 태그 · 1줄 요약.
 
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
 > (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
@@ -219,10 +219,9 @@ tags:
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
 - [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — 달러 연동 스테이블코인 USDC를 발행하고 관리하는 블록체인 핀테크 기업.
 
-## research/ — research — 자료 종합 (13)
+## research/ — research — 자료 종합 (12)
 
 - [[research-AI 소프트웨어-클라우드 산업]] #ai #semiconductor — AI 소프트웨어·클라우드 산업의 구조와 시장 자료 종합.
-- [[research-AVGO-2Q26-earnings]] #finance #semiconductor #ai — Broadcom FY26 Q3(CY2Q26) 실적 — AI 반도체 $16.7B(+221% YoY), Q4 가이던스는 컨센서스 하회.
 - [[research-COIN-2Q25 Earnings]] #finance — Coinbase 2Q25 실적 — 거래량 급감에도 스테이블코인 등 수익 다각화 진전.
 - [[research-Energy Industry]] #energy — 에너지 산업의 기본 구조와 밸류체인 학습 자료 종합.
 - [[research-JOBY-2Q25 earnings]] #evtol #finance — Joby Aviation 2Q25 실적과 FAA 인증·파트너십 진행 상황.
@@ -271,7 +270,7 @@ tags:
 - [[report-주가 상승이 기업에 미치는 영향]] #macro — 주가 상승이 기업 경영(자금조달·이미지·M&A)에 미치는 영향 정리
 - [[report-테슬라는 배출권 판매 회사]] #shipbuilding — 테슬라는 배출권 판매 회사?
 
-## note/ — note — 그 외 (대분류: book / strategic-thinking / logis) (32)
+## note/ — note — 그 외 (대분류: book / strategic-thinking / logis) (41)
 
 - [[book-린스프린트 초기 스타트업 플레이북]] #vc — 스타트업이란 무엇인가?
 - [[book-먼저 온 미래]] #ai — 먼저 온 미래 - 장강명
