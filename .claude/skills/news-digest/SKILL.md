@@ -1,6 +1,6 @@
 ---
 name: news-digest
-description: "사용자가 제공한 공급망(supply-chain) 기사를 충실히 요약하고, 핵심 takeaway 3개와 '왜?'를 파고든 원인 사슬을 웹 검색으로 심층 리서치하여 raw/에 단일 노트로 저장합니다. 산출물은 /sc-letter가 원인 사슬 기반 글을 쓸 때의 원료가 됩니다."
+description: "사용자가 제공한 공급망(supply-chain) 기사를 충실히 요약하고, 핵심 takeaway 3개와 '왜?'를 파고든 원인 사슬을 웹 검색으로 심층 리서치하여 raw/에 단일 노트로 저장한다. 산출물은 /sc-letter가 원인 사슬 기반 글을 쓸 때의 원료가 된다."
 ---
 
 # News Digest — 기사 요약 + 심층 리서치 스킬

@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-07-06
-updated: 2026-09-03
+updated: 2026-09-04
 tags:
 ---
 
@@ -74,7 +74,7 @@ tags:
 - [[news-260714-When companies in a supply chain work on different timelines]] #supply-chain #strategy — 밸류체인의 '시계 속도' 불일치와 clock-speed 동기화(가시성·유연성·역량) — HBR
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 
-## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (78)
+## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (79)
 
 ### AI · 반도체
 
@@ -94,7 +94,8 @@ tags:
 
 #### ai (AI 반도체·하드웨어)
 
-- [[cov-AVGO-Broadcom]] : 통신/네트워크 반도체 — 데이터센터 및 유무선 통신용 칩과 인프라 소프트웨어 개발. (+semiconductor)
+- [[cov-DELL-Dell Technologies]] : AI 서버·인프라 하드웨어 — FY27 Q2 기준 커버리지(제품별 매출비중, AI 서버 34.9%·백로그 $95B, 매출총이익률 20%대 저마진 구조, IDC 서버 점유율 1위, 경쟁사·목표주가). (+strategy)
+- [[cov-AVGO-Broadcom]] : AI 네트워킹·맞춤형 ASIC — FY26 Q3 기준 커버리지(세그먼트 설명·제품별 매출비중, AI가 매출 56%·마진 희석·고객 집중과 AI XPV 자금조달·경쟁사 비교·목표주가) + 밸류파인더 #55 요약 블록. (+semiconductor)
 - [[cov-ANET-Arista Networks]] : 클라우드 네트워킹 — 대규모 데이터센터 및 AI 환경을 위한 고성능 네트워크 스위치 제공. (+semiconductor)
 - [[cov-ALAB-Astera Labs]] : 반도체 팹리스 — AI 및 클라우드 인프라용 데이터 연결 및 병목 해소 솔루션 제공. (+semiconductor)
 - [[cov-INTC-Intel]] : 종합 반도체(IDM) — PC 및 서버용 마이크로프로세서를 설계하고 자체 파운드리를 운영하는 기업. (+semiconductor)
@@ -219,8 +220,10 @@ tags:
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
 - [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — 달러 연동 스테이블코인 USDC를 발행하고 관리하는 블록체인 핀테크 기업.
 
-## research/ — research — 자료 종합 (12)
+## research/ — research — 자료 종합 (14)
 
+- [[research-DELL-FY27Q2-earnings]] #finance #ai — 델 FY27 Q2(달력 2Q26) 실적 — AI 서버 수주 $60.9B·백로그 $95B, 연간 매출 가이던스 $167B→$192B 상향, 매출총이익률 20.9%의 저마진 고회전 구조.
+- [[research-AVGO-FY26Q3-earnings]] #finance #semiconductor #ai — 브로드컴 FY26 Q3(달력 2Q26) 실적 — AI 반도체 $16.7B(+221% YoY)로 컨센서스 상회했으나 Q4 가이던스 미달·매출총이익률 희석.
 - [[research-AI 소프트웨어-클라우드 산업]] #ai #semiconductor — AI 소프트웨어·클라우드 산업의 구조와 시장 자료 종합.
 - [[research-COIN-2Q25 Earnings]] #finance — Coinbase 2Q25 실적 — 거래량 급감에도 스테이블코인 등 수익 다각화 진전.
 - [[research-Energy Industry]] #energy — 에너지 산업의 기본 구조와 밸류체인 학습 자료 종합.
@@ -314,8 +317,9 @@ tags:
 - [[strategic-thinking-2-8-에너지의 관점에서 재구성한 세계질서 (2)]] #geopolitics/middle-east #energy #geopolitics/us — 에너지 패권으로 본 세계질서 2부 (강의 노트)
 - [[strategic-thinking-2-9-물질과 상품의 관점에서 본 세계질서]] #geopolitics — 원자재·상품 교역의 관점에서 본 세계질서 (강의 노트)
 
-## qa/ — 질문-답변 노트 (파일명 = 질문; /inbox 스킬이 정규화) (11)
+## qa/ — 질문-답변 노트 (파일명 = 질문; /inbox 스킬이 정규화) (12)
 
+- [[프론티어 AI 랩과 벤더 파이낸싱은 무엇이고 브로드컴 실적에서 왜 등장했는가]] #ai #finance #semiconductor — 프론티어 AI 랩 = 최첨단 범용모델을 직접 훈련하는 조직(OpenAI·Anthropic)으로 하이퍼스케일러와 달리 자체 현금창출력이 부족; 벤더 파이낸싱 = 판매자가 고객 자금을 대주고 자사 제품을 사게 하는 구조(1990s 루슨트·노텔 전례). 브로드컴은 직접 대출 대신 Apollo·Blackstone과 AI XPV 플랫폼(초기 350억 달러, 2028년까지 20GW+)을 세워 우회.
 - [[그리스는 어떻게 디폴트에서 회복했나]] #macro #finance — 대주제: 2001년 유로 가입이 값싼 신용·절하수단 상실을 심고→2009 통계조작 폭로로 디폴트→내부 평가절하로 2018 졸업·2023 투자등급 회복
 - [[일본의 잃어버린 20년은 어떻게 아베노믹스와 다카이치노믹스로 이어졌나]] #macro #geopolitics/japan #finance — 대주제: 엔고·저금리·버블 붕괴가 은행 부실과 디플레이션으로 심화되고, 아베노믹스의 기대 전환을 거쳐 다카이치노믹스의 국가주도 투자로 이동
 - [[네이버는 왜 도착보장을 넘어 직접 물류 사업에 진출하나]] #retail #supply-chain/logistics #strategy — 대주제: 한경 단독('전국 직배송·네이버친구 직고용')과 네이버 공식 부인을 병기 — 본질은 에셋헤비 전환이 아니라 N배송 직계약·수도권 신선식품 거점으로 배송 통제력을 강화하는 것
