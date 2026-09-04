@@ -94,7 +94,7 @@ tags:
 
 #### ai (AI 반도체·하드웨어)
 
-- [[cov-AVGO-Broadcom]] : AI 네트워킹·맞춤형 ASIC — 밸류파인더 이슈분석/기업분석 #55 요약 블록(이더넷 스위치 Tomahawk·라우터 Jericho, ASIC, VMware, FY 3Q25 리뷰·주주환원). (+semiconductor)
+- [[cov-AVGO-Broadcom]] : AI 네트워킹·맞춤형 ASIC — FY26 Q3 기준 커버리지(AI가 매출 56%·마진 희석·고객 집중과 AI XPV 자금조달·경쟁사 비교·목표주가) + 밸류파인더 #55 요약 블록. (+semiconductor)
 - [[cov-ANET-Arista Networks]] : 클라우드 네트워킹 — 대규모 데이터센터 및 AI 환경을 위한 고성능 네트워크 스위치 제공. (+semiconductor)
 - [[cov-ALAB-Astera Labs]] : 반도체 팹리스 — AI 및 클라우드 인프라용 데이터 연결 및 병목 해소 솔루션 제공. (+semiconductor)
 - [[cov-INTC-Intel]] : 종합 반도체(IDM) — PC 및 서버용 마이크로프로세서를 설계하고 자체 파운드리를 운영하는 기업. (+semiconductor)
