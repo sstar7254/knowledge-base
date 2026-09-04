@@ -95,7 +95,7 @@ tags:
 #### ai (AI 반도체·하드웨어)
 
 - [[cov-DELL-Dell Technologies]] : AI 서버·인프라 하드웨어 — FY27 Q2 기준 커버리지(제품별 매출비중, AI 서버 34.9%·백로그 $95B, 매출총이익률 20%대 저마진 구조, IDC 서버 점유율 1위, 경쟁사·목표주가). (+strategy)
-- [[cov-AVGO-Broadcom]] : AI 네트워킹·맞춤형 ASIC — FY26 Q3 기준 커버리지(AI가 매출 56%·마진 희석·고객 집중과 AI XPV 자금조달·경쟁사 비교·목표주가) + 밸류파인더 #55 요약 블록. (+semiconductor)
+- [[cov-AVGO-Broadcom]] : AI 네트워킹·맞춤형 ASIC — FY26 Q3 기준 커버리지(세그먼트 설명·제품별 매출비중, AI가 매출 56%·마진 희석·고객 집중과 AI XPV 자금조달·경쟁사 비교·목표주가) + 밸류파인더 #55 요약 블록. (+semiconductor)
 - [[cov-ANET-Arista Networks]] : 클라우드 네트워킹 — 대규모 데이터센터 및 AI 환경을 위한 고성능 네트워크 스위치 제공. (+semiconductor)
 - [[cov-ALAB-Astera Labs]] : 반도체 팹리스 — AI 및 클라우드 인프라용 데이터 연결 및 병목 해소 솔루션 제공. (+semiconductor)
 - [[cov-INTC-Intel]] : 종합 반도체(IDM) — PC 및 서버용 마이크로프로세서를 설계하고 자체 파운드리를 운영하는 기업. (+semiconductor)
