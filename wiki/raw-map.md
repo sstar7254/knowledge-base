@@ -13,7 +13,7 @@ tags:
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
 > (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
 
-## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (58)
+## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (59)
 
 - [[news-250626-한국경제]] #ai — AI 패권전쟁, 핵융합으로 승부날 것
 - [[news-250627-한국경제]] #ai #finance — 성동-마포 ‘한강벨트’ 규제지역으로 묶는다
@@ -73,6 +73,7 @@ tags:
 - [[news-260714-PepsiCo improves sustainable sourcing, delays emissions reporting]] #supply-chain #esg — PepsiCo, 목표 완화 뒤 지속가능 조달 70% 개선·Scope 3 공개는 지연
 - [[news-260714-When companies in a supply chain work on different timelines]] #supply-chain #strategy — 밸류체인의 '시계 속도' 불일치와 clock-speed 동기화(가시성·유연성·역량) — HBR
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
+- [[news-260901-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play (Forbes, Gerui Wang) — 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics 성격 혼동).
 
 ## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (80)
 
@@ -221,10 +222,9 @@ tags:
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
 - [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — 달러 연동 스테이블코인 USDC를 발행하고 관리하는 블록체인 핀테크 기업.
 
-## research/ — research — 자료 종합 (15)
+## research/ — research — 자료 종합 (14)
 
 - [[research-DELL-FY27Q2-earnings]] #finance #ai — 델 FY27 Q2(달력 2Q26) 실적 — AI 서버 수주 $60.9B·백로그 $95B, 연간 매출 가이던스 $167B→$192B 상향, 매출총이익률 20.9%의 저마진 고회전 구조.
-- [[research-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Forbes(Gerui Wang, 2026-09-01) 기고 다이제스트 + /news-digest 심층 리서치. 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics의 성격 혼동).
 - [[research-AVGO-FY26Q3-earnings]] #finance #semiconductor #ai — 브로드컴 FY26 Q3(달력 2Q26) 실적 — AI 반도체 $16.7B(+221% YoY)로 컨센서스 상회했으나 Q4 가이던스 미달·매출총이익률 희석.
 - [[research-AI 소프트웨어-클라우드 산업]] #ai #semiconductor — AI 소프트웨어·클라우드 산업의 구조와 시장 자료 종합.
 - [[research-COIN-2Q25 Earnings]] #finance — Coinbase 2Q25 실적 — 거래량 급감에도 스테이블코인 등 수익 다각화 진전.
