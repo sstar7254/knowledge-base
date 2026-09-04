@@ -221,11 +221,10 @@ tags:
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
 - [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — 달러 연동 스테이블코인 USDC를 발행하고 관리하는 블록체인 핀테크 기업.
 
-## research/ — research — 자료 종합 (16)
+## research/ — research — 자료 종합 (15)
 
 - [[research-DELL-FY27Q2-earnings]] #finance #ai — 델 FY27 Q2(달력 2Q26) 실적 — AI 서버 수주 $60.9B·백로그 $95B, 연간 매출 가이던스 $167B→$192B 상향, 매출총이익률 20.9%의 저마진 고회전 구조.
-- [[research-NVDA-GTC 2026 하드웨어 전략]] #ai #semiconductor — Constellation Research의 GTC 2026 리뷰 정리 — Vera Rubin 플랫폼(Vera CPU 88코어·Rubin GPU·Groq 3 LPU)과 랙 5종, DSX AI Factory 모듈 4종, 2027년까지 AI 수요 1조 달러 전망, 황의 "수직 통합이면서 수평 개방"·"추론 변곡점" 발언. Mellanox·그록 인수 자산이 현행 제품군의 뿌리임을 명시.
-- [[research-NVDA-허깅페이스 인수와 수직통합]] #ai #semiconductor #strategy — Forbes(Gerui Wang) 기고 정리 — 인수를 애플리케이션 층 확보이자 고객의 자체 칩(오픈AI·구글 TPU·앤스로픽·딥시크)에 대한 방어로 규정하고, 엔비디아는 위로·AI 랩은 아래로 움직이는 수렴 명제를 제시. 스타트업이 '사실상 기능 팀'이 될 위험과 에너지 함의도 다룸. 정리자 주로 계약 체결 시점과 OpenAI Jalapeño '3.6배'(속도 아닌 지연시간) 보정.
+- [[research-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Forbes(Gerui Wang, 2026-09-01) 기고 다이제스트 + /news-digest 심층 리서치. 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics의 성격 혼동).
 - [[research-AVGO-FY26Q3-earnings]] #finance #semiconductor #ai — 브로드컴 FY26 Q3(달력 2Q26) 실적 — AI 반도체 $16.7B(+221% YoY)로 컨센서스 상회했으나 Q4 가이던스 미달·매출총이익률 희석.
 - [[research-AI 소프트웨어-클라우드 산업]] #ai #semiconductor — AI 소프트웨어·클라우드 산업의 구조와 시장 자료 종합.
 - [[research-COIN-2Q25 Earnings]] #finance — Coinbase 2Q25 실적 — 거래량 급감에도 스테이블코인 등 수익 다각화 진전.
