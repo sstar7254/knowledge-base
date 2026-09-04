@@ -219,8 +219,9 @@ tags:
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
 - [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — 달러 연동 스테이블코인 USDC를 발행하고 관리하는 블록체인 핀테크 기업.
 
-## research/ — research — 자료 종합 (13)
+## research/ — research — 자료 종합 (14)
 
+- [[research-DELL-FY27Q2-earnings]] #finance #ai — 델 FY27 Q2(달력 2Q26) 실적 — AI 서버 수주 $60.9B·백로그 $95B, 연간 매출 가이던스 $167B→$192B 상향, 매출총이익률 20.9%의 저마진 고회전 구조.
 - [[research-AVGO-FY26Q3-earnings]] #finance #semiconductor #ai — 브로드컴 FY26 Q3(달력 2Q26) 실적 — AI 반도체 $16.7B(+221% YoY)로 컨센서스 상회했으나 Q4 가이던스 미달·매출총이익률 희석.
 - [[research-AI 소프트웨어-클라우드 산업]] #ai #semiconductor — AI 소프트웨어·클라우드 산업의 구조와 시장 자료 종합.
 - [[research-COIN-2Q25 Earnings]] #finance — Coinbase 2Q25 실적 — 거래량 급감에도 스테이블코인 등 수익 다각화 진전.
