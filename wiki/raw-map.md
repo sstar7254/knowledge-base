@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-07-06
-updated: 2026-09-04
+updated: 2026-09-08
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
 > (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
 
-## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (58)
+## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (59)
 
 - [[news-250626-한국경제]] #ai — AI 패권전쟁, 핵융합으로 승부날 것
 - [[news-250627-한국경제]] #ai #finance — 성동-마포 ‘한강벨트’ 규제지역으로 묶는다
@@ -73,8 +73,9 @@ tags:
 - [[news-260714-PepsiCo improves sustainable sourcing, delays emissions reporting]] #supply-chain #esg — PepsiCo, 목표 완화 뒤 지속가능 조달 70% 개선·Scope 3 공개는 지연
 - [[news-260714-When companies in a supply chain work on different timelines]] #supply-chain #strategy — 밸류체인의 '시계 속도' 불일치와 clock-speed 동기화(가시성·유연성·역량) — HBR
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
+- [[news-260901-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play (Forbes, Gerui Wang) — 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics 성격 혼동).
 
-## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (79)
+## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (81)
 
 ### AI · 반도체
 
@@ -94,6 +95,8 @@ tags:
 
 #### ai (AI 반도체·하드웨어)
 
+- [[cov-AMD-Advanced Micro Devices]] : x86 CPU·AI 가속기 팹리스 — 2026 Q2 기준 커버리지(데이터센터 매출 58.2%·영업이익 적자→31.3% 전환, 서버 CPU 출하 점유율 34.5%, GAAP 영업이익률 17.3% vs 엔비디아 66.2%, 오픈AI·메타 워런트 3.2억 주=희석 19.6%·앤스로픽 $5B 투자, 구매약정 $30.3B, P/S는 엔비디아와 같은데 P/E는 4배). (+semiconductor)
+- [[cov-NVDA-NVIDIA]] : AI 가속기·랙·네트워킹 — FY27 Q2 기준 커버리지(세그먼트 재편 DC/Edge, DC가 매출 92.5%, GAAP 영업이익률 66.2%, 매출총이익률 75.0%→FY27 4Q 71-72% 안내, 부외 공급약정 $279B·보증의무 $108.5B, 고객집중 상위4곳 61%, 중국 매출 0 가정, 경쟁사·목표주가). (+semiconductor)
 - [[cov-DELL-Dell Technologies]] : AI 서버·인프라 하드웨어 — FY27 Q2 기준 커버리지(제품별 매출비중, AI 서버 34.9%·백로그 $95B, 매출총이익률 20%대 저마진 구조, IDC 서버 점유율 1위, 경쟁사·목표주가). (+strategy)
 - [[cov-AVGO-Broadcom]] : AI 네트워킹·맞춤형 ASIC — FY26 Q3 기준 커버리지(세그먼트 설명·제품별 매출비중, AI가 매출 56%·마진 희석·고객 집중과 AI XPV 자금조달·경쟁사 비교·목표주가) + 밸류파인더 #55 요약 블록. (+semiconductor)
 - [[cov-ANET-Arista Networks]] : 클라우드 네트워킹 — 대규모 데이터센터 및 AI 환경을 위한 고성능 네트워크 스위치 제공. (+semiconductor)
@@ -237,7 +240,7 @@ tags:
 - [[research-우주 데이터 센터]] #ai #semiconductor — 우주 데이터센터 구상과 관련 논의 자료 정리.
 - [[research-정유석유화학 산업]] #shipbuilding — 정유·석유화학 산업 구조와 지정학 사건이 유가·업황에 미친 영향.
 
-## report/ — report — 단일 자료 요약 (33)
+## report/ — report — 단일 자료 요약 (37)
 
 - [[report-2024년 하반기 전망 시리즈 12 방위산업 follow or lead]] #defense — ‘24년 상반기 국내 방산업종 내 주가 차별화는 ‘24년 연간 실적 성장에 대한 기대치 및 추가 수출 기대감
 - [[report-3Q24 유안타 리서치 이슈 & 테마 - 5K is OK]] #cosmetics — K-Beauty 등 3Q24 유안타 이슈·테마 리포트 요약
@@ -272,6 +275,10 @@ tags:
 - [[report-정치는 우경화, 시장은 우하향]] #macro — 지난주, EU 중앙은행이 기준금리를 인하했음에도 유럽 증시는 물론 국채 가격과 유로화 가치가 모두 크게 떨어졌어요. 금리를 인하하면 시장에 돈이 풀리며 경기가 부
 - [[report-주가 상승이 기업에 미치는 영향]] #macro — 주가 상승이 기업 경영(자금조달·이미지·M&A)에 미치는 영향 정리
 - [[report-테슬라는 배출권 판매 회사]] #shipbuilding — 테슬라는 배출권 판매 회사?
+- [[report-Why Nvidia's Hugging Face deal is about much more than chips]] #ai #semiconductor #strategy — CNBC(2026-09-04). 실명 애널리스트 3인: Gil Luria(D.A. Davidson) 저지 가치·MS의 깃허브 75억달러 인수 비유, Naveen Chhabra(Forrester) 수요 레이더(주류 언론보다 몇 주 앞선 모델·데이터셋 채택 가시성), Ian Fogg(CCS Insight) 기존 전략의 연장. 황 젠슨 "엔비디아 사업의 절반이 오픈모델에 달려 있다".
+- [[report-Nvidia Hugging Face Acquisition Both a Wise Offensive and Defensive Move]] #ai #semiconductor #finance — 모닝스타 Brian Colello(2026-09-04). 적정가치 $310·Wide moat·Very High 불확실성 유지, 거래를 실적에 "immaterial"로 규정. 공격=Nemotron 홍보 채널+오픈소스 접근성, 방어=앤스로픽·오픈AI 자체칩 전환 시나리오 대비. 리스크는 저울을 자기 쪽으로 기울이면 다른 LLM 개발사가 이탈.
+- [[report-Nvidia's Hugging Face Deal Is a Hedge against Broadcom's Custom Silicon Threat]] #ai #semiconductor #strategy — Reuters BreakingViews 논평 재인용(2026-09-06). "전략적 보험증권" 규정 — 어떤 칩이 모델을 돌리든 개발자 접점은 남는다. 브로드컴 AI칩 FY27 $115B→FY28 $230B, Macquarie의 구글향 점유율 95%→65% 전망, Needham Buy $300. ⚠️재인용 다수.
+- [[report-Nvidia's Hugging Face Deal Raises a Bigger Question About Its AI Moat Now]] #ai #semiconductor #strategy — Investing.com Jeffrey Neal Johnson(2026-09-04). 최대 $1B 잔류 보상이 "가장 중요한 항목" — 사는 것은 플랫폼이 아니라 사람이고 리텐션 실패가 곧 자산 소멸. "실리콘만으로는 지속적 독점이 보장되지 않는다", 생태계 포획·AI 기반 운영체제로의 전환.
 
 ## note/ — note — 그 외 (대분류: book / strategic-thinking / logis) (41)
 
@@ -317,7 +324,7 @@ tags:
 - [[strategic-thinking-2-8-에너지의 관점에서 재구성한 세계질서 (2)]] #geopolitics/middle-east #energy #geopolitics/us — 에너지 패권으로 본 세계질서 2부 (강의 노트)
 - [[strategic-thinking-2-9-물질과 상품의 관점에서 본 세계질서]] #geopolitics — 원자재·상품 교역의 관점에서 본 세계질서 (강의 노트)
 
-## qa/ — 질문-답변 노트 (파일명 = 질문; /inbox 스킬이 정규화) (12)
+## qa/ — 질문-답변 노트 (파일명 = 질문; /inbox 스킬이 정규화) (13)
 
 - [[프론티어 AI 랩과 벤더 파이낸싱은 무엇이고 브로드컴 실적에서 왜 등장했는가]] #ai #finance #semiconductor — 프론티어 AI 랩 = 최첨단 범용모델을 직접 훈련하는 조직(OpenAI·Anthropic)으로 하이퍼스케일러와 달리 자체 현금창출력이 부족; 벤더 파이낸싱 = 판매자가 고객 자금을 대주고 자사 제품을 사게 하는 구조(1990s 루슨트·노텔 전례). 브로드컴은 직접 대출 대신 Apollo·Blackstone과 AI XPV 플랫폼(초기 350억 달러, 2028년까지 20GW+)을 세워 우회.
 - [[그리스는 어떻게 디폴트에서 회복했나]] #macro #finance — 대주제: 2001년 유로 가입이 값싼 신용·절하수단 상실을 심고→2009 통계조작 폭로로 디폴트→내부 평가절하로 2018 졸업·2023 투자등급 회복
@@ -331,3 +338,4 @@ tags:
 - [[성장은 왜 물가를 올릴 수밖에 없고 그것을 설명하는 식은 피셔 방정식인가]] #macro #finance — 성장이 아니라 '공급 능력을 앞지르는 수요'가 물가를 올린다(demand-pull·필립스 곡선·기대 인플레). 잠재성장률 안의 생산성 주도 성장은 오히려 디스인플레적(1990s 미국). 성장-물가 식은 교환방정식 MV=PY이고, 피셔 방정식 i=r+π는 금리-물가 식으로 서로 다르다
 - [[비둘기파로 기대됐던 케빈 워시는 왜 매파로 돌아섰나]] #macro #finance #geopolitics/us — 대주제: (1) 워시의 매파화는 전향이 아니라 원래 이력(2010 QE2 반대)+PCE 3.7% 고착+7월 FOMC 9-3 인상반대표가 겹친 결과 (2) 재무부 바이백(8/19, 회당 20→40억 달러)은 금융여건을 완화시켜 오히려 연준의 인상 명분이 됨 — 재정우위 논쟁 (3) 트럼프가 매파 워시를 고른 이유 = 'QT-for-Cuts' 논리+해셋에 없던 시장 신뢰+로더가(家) 인연, 그러나 4%대 물가가 '인하' 쪽 다리를 부러뜨림
 - [[일본의 미 국채 매도와 엔캐리 청산은 미국 금리에 실제로 얼마나 영향을 주나]] #macro #geopolitics/japan #finance — 대주제: (1) 2026.7.31 미일 공동 엔 매수 개입(1998년 이후 첫)의 실질 목적은 일본이 개입 자금 마련용으로 미 국채(보유 1조 1,167억 달러, 2026.6)를 투매하는 것을 막는 것 — FIMA 레포로 조달 경로를 갈아끼움 (2) 엔캐리는 청산 완료가 아니라 재생성 중 — 개입이 오히려 더 좋은 환율을 제공해 8월 2주간 해외자산 5조 엔 순매수
+- [[엔비디아는 왜 허깅페이스를 129억 달러에 인수했고 그 딜은 엔비디아의 다른 행보들과 어떻게 이어지는가]] #ai #semiconductor #strategy — 대주제 2개: ① 허깅페이스는 2016년 챗봇에서 피벗한 'AI의 깃허브'(개발자 1,800만·모델 300만·ARR 1.5억달러)이고, 엔비디아는 ARR 80배인 129.3억달러(주주 119억+리텐션 10억, 2027 상반기 클로징)를 위치값으로 지불 — 논리는 '오픈모델이 쓰일수록 GPU가 팔린다'+오픈웨이트 무게중심의 중국 이동(Qwen 20.45억 다운로드) ② 그록 200억·미디어텍 35억·인텔 50억·오픈AI/앤스로픽 400억과 같은 문법(칩 밖 인접 레이어 장악)이며, 중국 DC매출 0·추론 전환·커스텀ASIC 압박이 배경. 최대 리스크는 Arm 400억 무산의 재현(중립성)
