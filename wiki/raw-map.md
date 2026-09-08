@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-07-06
-updated: 2026-09-04
+updated: 2026-09-08
 tags:
 ---
 
@@ -240,7 +240,7 @@ tags:
 - [[research-우주 데이터 센터]] #ai #semiconductor — 우주 데이터센터 구상과 관련 논의 자료 정리.
 - [[research-정유석유화학 산업]] #shipbuilding — 정유·석유화학 산업 구조와 지정학 사건이 유가·업황에 미친 영향.
 
-## report/ — report — 단일 자료 요약 (33)
+## report/ — report — 단일 자료 요약 (37)
 
 - [[report-2024년 하반기 전망 시리즈 12 방위산업 follow or lead]] #defense — ‘24년 상반기 국내 방산업종 내 주가 차별화는 ‘24년 연간 실적 성장에 대한 기대치 및 추가 수출 기대감
 - [[report-3Q24 유안타 리서치 이슈 & 테마 - 5K is OK]] #cosmetics — K-Beauty 등 3Q24 유안타 이슈·테마 리포트 요약
@@ -275,6 +275,10 @@ tags:
 - [[report-정치는 우경화, 시장은 우하향]] #macro — 지난주, EU 중앙은행이 기준금리를 인하했음에도 유럽 증시는 물론 국채 가격과 유로화 가치가 모두 크게 떨어졌어요. 금리를 인하하면 시장에 돈이 풀리며 경기가 부
 - [[report-주가 상승이 기업에 미치는 영향]] #macro — 주가 상승이 기업 경영(자금조달·이미지·M&A)에 미치는 영향 정리
 - [[report-테슬라는 배출권 판매 회사]] #shipbuilding — 테슬라는 배출권 판매 회사?
+- [[report-Why Nvidia's Hugging Face deal is about much more than chips]] #ai #semiconductor #strategy — CNBC(2026-09-04). 실명 애널리스트 3인: Gil Luria(D.A. Davidson) 저지 가치·MS의 깃허브 75억달러 인수 비유, Naveen Chhabra(Forrester) 수요 레이더(주류 언론보다 몇 주 앞선 모델·데이터셋 채택 가시성), Ian Fogg(CCS Insight) 기존 전략의 연장. 황 젠슨 "엔비디아 사업의 절반이 오픈모델에 달려 있다".
+- [[report-Nvidia Hugging Face Acquisition Both a Wise Offensive and Defensive Move]] #ai #semiconductor #finance — 모닝스타 Brian Colello(2026-09-04). 적정가치 $310·Wide moat·Very High 불확실성 유지, 거래를 실적에 "immaterial"로 규정. 공격=Nemotron 홍보 채널+오픈소스 접근성, 방어=앤스로픽·오픈AI 자체칩 전환 시나리오 대비. 리스크는 저울을 자기 쪽으로 기울이면 다른 LLM 개발사가 이탈.
+- [[report-Nvidia's Hugging Face Deal Is a Hedge against Broadcom's Custom Silicon Threat]] #ai #semiconductor #strategy — Reuters BreakingViews 논평 재인용(2026-09-06). "전략적 보험증권" 규정 — 어떤 칩이 모델을 돌리든 개발자 접점은 남는다. 브로드컴 AI칩 FY27 $115B→FY28 $230B, Macquarie의 구글향 점유율 95%→65% 전망, Needham Buy $300. ⚠️재인용 다수.
+- [[report-Nvidia's Hugging Face Deal Raises a Bigger Question About Its AI Moat Now]] #ai #semiconductor #strategy — Investing.com Jeffrey Neal Johnson(2026-09-04). 최대 $1B 잔류 보상이 "가장 중요한 항목" — 사는 것은 플랫폼이 아니라 사람이고 리텐션 실패가 곧 자산 소멸. "실리콘만으로는 지속적 독점이 보장되지 않는다", 생태계 포획·AI 기반 운영체제로의 전환.
 
 ## note/ — note — 그 외 (대분류: book / strategic-thinking / logis) (41)
 
