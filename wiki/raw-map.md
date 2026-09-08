@@ -8,7 +8,7 @@ tags:
 # raw-map
 
 `raw/` 전체의 카탈로그. LLM이 wiki를 쓰기 전에 **이 파일을 먼저 읽어** 관련 raw 노트를 찾고,
-필요한 파일만 연다(233개 전체를 훑지 않는다). 한 줄 형식: 파일명 위키링크 · 태그 · 1줄 요약.
+필요한 파일만 연다(234개 전체를 훑지 않는다). 한 줄 형식: 파일명 위키링크 · 태그 · 1줄 요약.
 
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
 > (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
@@ -75,7 +75,7 @@ tags:
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 - [[news-260901-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play (Forbes, Gerui Wang) — 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics 성격 혼동).
 
-## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (81)
+## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (82)
 
 ### AI · 반도체
 
@@ -150,6 +150,10 @@ tags:
 - [[cov-CVNA-Carvana]] : 중고차 이커머스 — 온라인 플랫폼과 대형 자동차 자판기를 통한 중고차 판매.
 - [[cov-UBER-Uber]] : 모빌리티 플랫폼 — 글로벌 차량 공유 플랫폼이자 음식 배달(Uber Eats) 및 화물 운송 서비스 제공. (+retail, +ai)
 - [[cov-XPEV-Xpeng]] : 전기차 — 자체 자율주행 기술(XNGP)을 결합한 스마트 전기차를 생산하는 중국 기업.
+
+### electronics
+
+- [[cov-066570-LG전자]] : 종합 전자 — 생활가전(HS)·TV/디스플레이(MS)·전장(VS)·냉난방공조(ES) 4개 사업본부 체제의 글로벌 가전·전장 기업. (+automotive, +robotics)
 
 ### shipbuilding
 

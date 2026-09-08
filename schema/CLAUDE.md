@@ -119,7 +119,7 @@ tags:
   - **strategy**
   - **geopolitics/\<국가·지역\>** — china, japan, us, middle-east 등 지정학적 메인 대상 (대상이 불명확하면 `geopolitics`)
   - **supply-chain**, **supply-chain/logistics**
-  - 섹터 키워드(필요시 사용·확장): **ai**, **semiconductor**, **robotics**, **energy**, **shipbuilding**, **defense**, **cosmetics**, **retail**, **pharma**, **entertainment**, **esg**, **demographics**, **evtol**
+  - 섹터 키워드(필요시 사용·확장): **ai**, **semiconductor**, **robotics**, **electronics**, **energy**, **shipbuilding**, **defense**, **cosmetics**, **retail**, **pharma**, **entertainment**, **esg**, **demographics**, **evtol**
 
 ### LLM이 리서치를 raw에 저장할 때 (source-digest 원칙)
 
