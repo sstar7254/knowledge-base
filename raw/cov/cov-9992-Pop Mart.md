@@ -5,50 +5,32 @@ updated: 2025-07-01
 tags:
   - entertainment
 ---
-
 ### F/U
 
 - 25-07-02 한국경제
-    
     MZ 지갑 여는 캐릭터… 팝마트 시총 60조
-    
     글로벌 브랜드 라이선스 시장은 ‘24년 3521억 달러 → ‘33년 5339억 달러
-    
     팝마트의 시가총액은 미국의 최대 완구 업체 해즈브로 (14조원)을 앞섰다
-    
     MZ세대의 캐릭터 선호 양상 변화
-    
     과거에는 캐릭터의 성격과 서사가 중요 - 백설공주 등
-    
     최근에는 외모상 직관적으로 느껴지는 귀여움이 핵심 경쟁력 - 라부부 등
-    
     역사적으로 불황 때 캐릭터 산업이 큰 폭으로 성장 (미키마우스-대공황, 디즈니 황금기-1930년대)
-    
 
 ### 자료
 
 - **[Who is the Kidult Consumer?](https://www.trendbible.com/who-is-the-kidult-consumer/#:~:text=In%20response%20to%20a%20period,which%20respond%20to%20this%20mindset.)**
-    
     **In response to a period of uncertainty and crisis fatigue, many adults are choosing joy and prioritising play as a means of escapism.** No longer bound to a niche or fringe concept, the Kidults are a growing cohort of adults looking for fun and playful activities, hobbies and passions centred around embracing their inner child. Enter the new era of ‘Kidult’ consumers.
     
 
 - **[The Kidult Trend: Why Adults are Rediscovering the Magic of Toys](https://sago.com/en/resources/blog/the-kidult-trend-why-adults-are-rediscovering-the-magic-of-toys/)**
-    
     In a world filled with adult responsibilities and the pursuit of success, a fascinating trend has emerged – adults are embracing their inner child and diving back into the world of play.
-    
     The digital era makes reconnecting with nostalgic passions easier than ever. Online marketplaces, social media groups, and digital platforms have given rise to communities centered around vintage toys, classic games, and retro pop culture. It’s a testament to the enduring love and desire to rediscover the magic of childhood.
-    
     Toys aren’t just objects – they are time capsules that embody memories of carefree days and the excitement of discovery.
-    
     Toys, especially those connected to shared cultural touchstones, foster connections and enhance social bonding among adults who share similar experiences and memories.
-    
 
 - 키덜트
-    
     이전에 ‘키덜트’는 어른스럽지 못한 취미를 가진, 부정적인 의미를 내포하고 있었음. 그러나 2014년 ‘욜로’와 함께 의미가 변화하기 시작.
-    
     애니메이션 IP와 결합한 제품이 많이 등장하고 있음
-    
 
 ---
 
@@ -89,17 +71,3 @@ tags:
 이에 팝마트의 실적은 고공행진을 이어가고 있습니다. ‘24년 상반기 기준 팝마트는 싱가포르, 인도네시아, 미국, 영국, 프랑스 등 30여개 국에 지점을 냈으며, 전 세계 총 480여개 지점으로 대표적인 완구 기업 레고(LEGO)의 1,031개 지점 중 절반 수준까지 도달했습니다. ‘22년까지만 해도 내수 시장의 성장률이 둔화되며 다소 우려를 만들었던 팝마트의 매출은 해외 진출을 통해 다시 한 번 폭발적인 성장을 보여주었습니다. ‘24년 3분기 해외 매출액 증가율은 440%로, 총 매출액은 전년 대비 120% 증가하였고 2024년 연간 100억 위안 (약 1조 9,400억원) 이상의 매출이 가능할 것으로 예상됩니다.
 
 팝마트는 향후 수년에 걸쳐 테마파크, 애니메이션, 게임 산업 등으로 사업을 확장할 것을 밝혔는데요. 팝마트가 중국을 넘어 해외에서 더 높은 인기를 끌며 제 2의 레고가 될 수 있을지 관심을 가져볼 필요가 있겠습니다.
-
----
-
-## 기업 분석
-
-### 기업 개요
-
-### 3Q24 Review
-
-### 매출 트렌드
-
-### 기업 지표
-
-### 주주 환원
