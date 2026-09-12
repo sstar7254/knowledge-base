@@ -14,13 +14,9 @@ tags:
 
 미국에서 BNPL이 활성화되고 있는 이유는 **신용카드 할부 서비스가 보편화되어있지 않기 때문**
 
-![[AFRM_Affirm Holdings-1.png|image 47.png]]
-
 AFRM BNPL은 간단한 신원 및 신용 확인만으로 가입/사용 가능
 
 대출 상환 옵션은 A) 2주마다 4회 (총 8회) 무이자 분할 할부, B) 최대 48개월까지 연장 가능한 월별 할부 (거래 금액과 고객의 신용 기록 등에 따라 최대 36%까지 이자율 차등 적용)
-
-![[AFRM_Affirm Holdings VF54-1.png|image 1 31.png]]
 
 최소 결제 가격 $50, 최대 $30,000
 
@@ -34,20 +30,13 @@ Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 
 
 - **Revenue Analysis**
     
-    ![[AFRM_Affirm Holdings VF54-3.png|image 2 23.png]]
-    
     - **Merchant Network**
         
         온오프라인 가맹점으로부터 결제가 발생할 때마다 수취하는 결제 수수료
         
         이자율이 높고 대출 기간이 길수록(BNPL) AFRM의 매출 기여도 높음 → 낮은 merchant fee
         
-        ![[AFRM_Affirm Holdings VF54-4.png|image 3 20.png]]
-        
-        Core 0% Long(12개월 이상 무이자 할부) includes loans with term lengths greater than 12 months and 0% APR; Core 0% Short(3~12개월 무이자 할부) includes loans with term lengths at least three months long but less than or equal to 12 months and 0% APR; Core IB(BNPL) includes loans with interest; Pay in X (formerly known as Pay in 4) includes loans with one to four 0% APR installments
-        
-        ![[AFRM_Affirm Holdings VF54-5.png|image 4 16.png]]
-        
+        Core 0% Long(12개월 이상 무이자 할부) includes loans with term lengths greater than 12 months and 0% APR; Core 0% Short(3~12개월 무이자 할부) includes loans with term lengths at least three months long but less than or equal to 12 months and 0% APR; Core IB(BNPL) includes loans with interest; Pay in X (formerly known as Pay in 4) includes loans with one to four 0% APR installments        
     
     - **Card Network**
         
@@ -66,9 +55,7 @@ Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 
         `**⇒ Affrim은 왜 무이자 BNPL 거래를 지원하지? 수익원이 뭐지? strategy?**`
         
         `무이자 BNPL 거래의 수수료가 더 높은가?`
-        
-        ![[AFRM_Affirm Holdings VF54-6.png|image 5 12.png]]
-        
+               
         결제를 온라인 뿐 아니라 오프라인에서도 활성화 `→ What does it mean, Why important`
         
         Affirm 가맹점이 아닌 상점에서 BNPL을 사용하고 싶을 경우 일회용 가상 VISA 카드 발급을 통해 BNPL 결제 가능. 이를 통해 해당 온라인 몰에서 수취하는 결제 수수료도 카드 매출에 포함
@@ -95,10 +82,6 @@ Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 
     
 
 - **How to fund**
-    
-    ![[AFRM_Affirm Holdings VF54-7.png|image 6 10.png]]
-    
-    ![[AFRM_Affirm Holdings VF54-8.png|image 7 8.png]]
     
     1. On Balance Sheet (Non-Securitized) includes Loans Pledged as Collateral in warehouse financing vehicles or held by Affirm and consolidated on Affirm’s balance sheet  
     2. On Balance Sheet (Securitized) includes Loans Pledged as Collateral in securitizations and consolidated on Affirm’s balance sheet  
@@ -131,11 +114,7 @@ Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 
         
         악화된 연체율의 ABS는 판매 불가, 리볼빙 종료 후 조기 상환
         
-        ![[AFRM_Affirm Holdings VF54-9.png|image 8 7.png]]
-        
         연체율은 코로나 지원금으로 아웃라이어인 2021년 제외 안정적으로 유지
-        
-        ![[AFRM_Affirm Holdings VF54-10.png|image 9 7.png]]
         
         경쟁사 대비 낮은 연체율 지속
         
@@ -166,11 +145,6 @@ Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 
         - Off Balance Sheet (securitized)
             
             Static ABS - 발행 시점에 고정된 대출채권을 넘기고 자금 유치. 계약 이후 대출이 추가 편입되지 않는 일반적 ABS
-            
-        
-    
-    ![[AFRM_Affirm Holdings VF54-2.png|image 10 6.png]]
-    
 
 - **Transaction Cost - BNPL 사업 수익성**
     

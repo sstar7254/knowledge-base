@@ -143,8 +143,6 @@ FY27 Q2 발표 다음 날인 2026-09-02에 목표주가 상향이 집중됐다. 
 
 목표주가 범위는 $575-735, 중간값은 $617.5이며 2026-09-02 종가 $492.20 대비 괴리율은 +25.5%다(자체 계산)[^px]. 강세와 약세가 갈리는 지점은 백로그의 해석이다. 상향 측은 $95B 백로그와 $25B 가이던스 상향을 근거로 FY28까지의 이익 궤적을 다시 그렸고, 신중한 측은 매출총이익률 20% 사업에서 매출 배수를 얼마나 줄 수 있는지를 문제 삼는다.
 
-## 각주
-
 [^8kq2]: SEC EDGAR, Dell Technologies Inc. Form 8-K Exhibit 99.1(FY27 Q2), 2026-09-01. https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000039/exhibit991earnings8kq2fy27.htm (접속: 2026-09-04)
 [^8kq1]: SEC EDGAR, Dell Technologies Inc. Form 8-K Exhibit 99.1(FY27 Q1), 2026-05-28. https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000021/exhibit991earnings8kq1fy27.htm (접속: 2026-09-04)
 [^8kfy26]: SEC EDGAR, Dell Technologies Inc. Form 8-K Exhibit 99.1(FY26 Q4 및 연간), 2026-02-26. https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000003/exhibit991earnings8kq4fy26.htm (접속: 2026-09-04)

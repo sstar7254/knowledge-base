@@ -18,18 +18,18 @@ tags:
 
 ## 1. 층별 배치표
 
-| 층 | 이 층이 파는 것 | 커버리지 있음 | **미커버 주요 기업** |
-| --- | --- | --- | --- |
-| **L9** 애플리케이션·에이전트 | 최종 문제 해결 | [[cov-012510-더존비즈온]] · [[cov-PCOR-Procore Technologies]] · [[cov-DUOL-Doulingo]] · [[cov-RXRX-Recursion Pharmaceuticals]] · [[cov-DNA-Ginko Bioworks]] · [[cov-ISRG-Intuitive Surgical]] · [[cov-UBER-Uber]] · [[cov-XPEV-Xpeng]] · [[cov-CVNA-Carvana]] · [[cov-042000-카페24]] | 세일즈포스 · 서비스나우 · 어도비 · 인튜이트 · 앱러빈 (사실상 무한, 대표만) |
-| **L8** 모델 유통·개발자 허브 | 모델을 찾고 받는 관문 | **없음** | **순수 상장 대상 없음.** ModelScope(알리바바 내부) · Kaggle·깃허브(구글·MS 내부) · 리플리케이트 · 모달(비상장) |
-| **L7** 모델 가중치 | 모델 자체 | [[cov-META-Meta Platforms]] · [[cov-GOOG-Alphabet]] / 데이터: [[cov-RDDT-Reddit]] | **앤스로픽**(2026.6.1 비밀 상장신청) · **오픈AI**(2027 상장 목표) · xAI · 미스트랄 · 알리바바(Qwen) · 딥시크 |
-| **L6** 개발 SW·런타임 | 칩을 쓰게 만드는 층 | [[cov-DDOG-Datadog]] · [[cov-NET-Cloudflare]] | 스노우플레이크 · 팔란티어 · 몽고DB · 컨플루언트 / 데이터브릭스 · 애니스케일(비상장) |
-| **L5** 인프라·클라우드 | 연산 임대 | [[cov-AMZN-Amazon]] · [[cov-MSFT-Microsoft]] · [[cov-GOOG-Alphabet]] | 오라클 · **코어위브**(CRWV) · **네비우스**(NBIS) · IREN · 애플라이드디지털 / 람다 · 크루소(IPO 준비) |
-| **L4** 시스템·랙 | 칩을 묶어 배송 | [[cov-DELL-Dell Technologies]] · [[cov-178320-서진시스템]] | 폭스콘 · 콴타 · 위스트론 · 위윈 · 슈퍼마이크로 · HPE / 냉각: 버티브 · nVent · 아세텍 |
-| **L3** 인터커넥트·네트워킹 | 칩끼리 잇기 | [[cov-ANET-Arista Networks]] · [[cov-ALAB-Astera Labs]] · [[cov-AVGO-Broadcom]] | 마벨 · 크레도 · 코히어런트 · 루멘텀 · 시에나 |
-| **L2** 연산 실리콘 | 연산 | [[cov-NVDA-NVIDIA]] · [[cov-AMD-Advanced Micro Devices]] · [[cov-AVGO-Broadcom]] · [[cov-INTC-Intel]] · [[cov-IONQ-IonQ]] | Arm · 퀄컴 · 마벨 · **세레브라스**(2026.5 상장) / 삼바노바 · 텐스토렌트 · 리벨리온 · 퓨리오사AI |
-| **L1** 파운드리·HBM·소재·후공정 | 만들기 | [[cov-058470-리노공업]] · [[cov-061970-LB세미콘]] · [[cov-170920-엘티씨]] | **TSMC · ASML · SK하이닉스 · 삼성전자 · 마이크론** · 어플라이드머티리얼즈 · 램리서치 · 도쿄일렉트론 · KLA |
-| *(밖)* 전력·설비 | 층 전체의 전제 | [[cov-267260-HD현대일렉트릭]] · [[cov-SMR-Nuscale Power]] · [[cov-LEU-Centrus Energy]] · [[cov-083650-비에이치아이]] · [[cov-CAT-Caterpillar]] · [[cov-MP-MP Materials]] | 이튼 · GE 버노바 · 슈나이더 · 컨스텔레이션 에너지 · 비스트라 |
+| 층                      | 이 층이 파는 것    | 커버리지 있음                                                                                                                   | **미커버 주요 기업**                                                                     |
+| ---------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **L9** 애플리케이션·에이전트     | 최종 문제 해결     | 다수                                                                                                                        | 세일즈포스 · 서비스나우 · 어도비 · 인튜이트 · 앱러빈 (사실상 무한, 대표만)                                    |
+| **L8** 모델 유통·개발자 허브    | 모델을 찾고 받는 관문 | **없음**                                                                                                                    | **순수 상장 대상 없음.** ModelScope(알리바바 내부) · Kaggle·깃허브(구글·MS 내부) · 리플리케이트 · 모달(비상장)    |
+| **L7** 모델 가중치          | 모델 자체        | [[cov-META-Meta Platforms]] · [[cov-GOOG-Alphabet]] / 데이터: [[cov-RDDT-Reddit]]                                            | **앤스로픽**(2026.6.1 비밀 상장신청) · **오픈AI**(2027 상장 목표) · xAI · 미스트랄 · 알리바바(Qwen) · 딥시크 |
+| **L6** 개발 SW·런타임       | 칩을 쓰게 만드는 층  | [[cov-DDOG-Datadog]] · [[cov-NET-Cloudflare]]                                                                             | 스노우플레이크 · 팔란티어 · 몽고DB · 컨플루언트 / 데이터브릭스 · 애니스케일(비상장)                               |
+| **L5** 인프라·클라우드        | 연산 임대        | [[cov-AMZN-Amazon]] · [[cov-MSFT-Microsoft]] · [[cov-GOOG-Alphabet]]                                                      | 오라클 · **코어위브**(CRWV) · **네비우스**(NBIS) · IREN · 애플라이드디지털 / 람다 · 크루소(IPO 준비)        |
+| **L4** 시스템·랙           | 칩을 묶어 배송     | [[cov-DELL-Dell Technologies]] · [[cov-178320-서진시스템]]                                                                     | 폭스콘 · 콴타 · 위스트론 · 위윈 · 슈퍼마이크로 · HPE / 냉각: 버티브 · nVent · 아세텍                       |
+| **L3** 인터커넥트·네트워킹      | 칩끼리 잇기       | [[cov-ANET-Arista Networks]] · [[cov-ALAB-Astera Labs]] · [[cov-AVGO-Broadcom]]                                           | 마벨 · 크레도 · 코히어런트 · 루멘텀 · 시에나                                                      |
+| **L2** 연산 실리콘          | 연산           | [[cov-NVDA-NVIDIA]] · [[cov-AMD-Advanced Micro Devices]] · [[cov-AVGO-Broadcom]] · [[cov-INTC-Intel]] · [[cov-IONQ-IonQ]] | Arm · 퀄컴 · 마벨 · **세레브라스**(2026.5 상장) / 삼바노바 · 텐스토렌트 · 리벨리온 · 퓨리오사AI               |
+| **L1** 파운드리·HBM·소재·후공정 | 만들기          | [[cov-058470-리노공업]] · [[cov-061970-LB세미콘]] · [[cov-170920-엘티씨]]                                                           | **TSMC · ASML · SK하이닉스 · 삼성전자 · 마이크론** · 어플라이드머티리얼즈 · 램리서치 · 도쿄일렉트론 · KLA         |
+| *(밖)* 전력·설비            | 층 전체의 전제     | [[cov-267260-HD현대일렉트릭]] · [[cov-SMR-Nuscale Power]] · [[cov-083650-비에이치아이]]                                               | 이튼 · GE 버노바 · 슈나이더 · 컨스텔레이션 에너지 · 비스트라                                            |
 
 [[cov-GOOG-Alphabet]]과 [[cov-AVGO-Broadcom]]은 두 층에 걸쳐 있다. 이것이 우연이 아니라는 점을 아래에서 다룬다. 미커버 열에서 **굵게** 표시한 곳은 그 층의 병목을 실제로 쥐고 있거나, 최근 12개월 사이에 투자 가능한 대상이 된 기업이다.
 
@@ -135,9 +135,16 @@ CUDA가 20년 걸려 만든 층이고, 엔비디아가 칩보다 이 층을 더 
 
 ---
 
-## 출처
+## 관련 노트
 
-이 노트의 사실 진술 중 저장소 raw 노트로 추적되지 않는 것(주로 미커버 기업의 최신 상장·점유율 현황)의 출처. 검색일 2026-09-04.
+- [[cov-NVDA-NVIDIA]] — 이 층 구분을 만들어낸 회사의 커버리지 개시 노트. 층별 마진 구조를 이야기할 때 기준점이 되는 숫자(FY27 2분기 GAAP 영업이익률 66.2%, 매출총이익률 75.0%)와, 그 이익률이 상류 메모리 원가에 눌리는 메커니즘이 여기 있다.
+- [[엔비디아는 왜 허깅페이스를 129억 달러에 인수했고 그 딜은 엔비디아의 다른 행보들과 어떻게 이어지는가]] — 이 노트가 쓰는 L1-L9 층 구분의 정의가 나온 원 노트. 각 층이 무엇을 뜻하는지, 그리고 엔비디아 한 회사가 그 층들을 어떤 순서로 삼켜왔는지가 여기 있다.
+- [[semiconductor-industry-map]] — 반도체 밸류체인을 팹리스·파운드리·IDM·EDA/IP·장비·소재·OSAT로 나눈 지형도. 이 노트의 L1-L2를 훨씬 세밀하게 쪼개 보고 싶을 때 이어서 읽는다.
+- [[AI 전력 슈퍼사이클과 에너지 안보]] — 표 맨 아래 "밖" 행이 왜 사실상 L5의 전제인지를 전력·원자재·지정학까지 밀고 간 노트. 이 지형도가 다루지 않는 물리적 제약을 담당한다.
+- [[네오클라우드란 무엇이고 엔비디아는 왜 람다 같은 네오클라우드에 얽혀 있는가]] — L5가 어떻게 자본 구조로 굴러가는지, 그리고 엔비디아가 고객·투자자·리스 제공자로 동시에 얽히는 방식을 해부한 노트. 층 사이의 자본 관계를 읽는 데 필요하다.
+- [[sector-map]] — 커버리지 기업 전체의 섹터별 인덱스. 이 노트가 AI 밸류체인이라는 한 축으로만 잘라낸 것을 원래의 섹터 분류로 되돌려 볼 때 쓴다.
+
+---
 
 [^hbm-q2]: Seoul Economic Daily, "Samsung Doubles HBM Market Share to 33%, Narrowing Gap With SK hynix" (2026-09-03) — https://en.sedaily.com/finance/2026/09/03/samsung-doubles-hbm-market-share-to-33-percent-narrowing
 [^hbm-alt]: Astute Group, "SK hynix holds 62% of HBM, Micron overtakes Samsung, 2026 battle pivots to HBM4" — https://www.astutegroup.com/news/general/sk-hynix-holds-62-of-hbm-micron-overtakes-samsung-2026-battle-pivots-to-hbm4/
@@ -148,12 +155,3 @@ CUDA가 20년 걸려 만든 층이고, 엔비디아가 칩보다 이 층을 더 
 [^neocloud]: Data Center Dynamics, "Neocloud results Q2 2026: CoreWeave, Nebius, Cerebras" — https://www.datacenterdynamics.com/en/news/neocloud-results-q2-2026-coreweave-nebius-cerebras/
 [^labs-ipo]: CNBC, "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees" (2026-08-19) — https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html
 [^hf-alt]: Northflank, "7 best Hugging Face alternatives in 2026" — https://northflank.com/blog/huggingface-alternatives
-
-## 관련 노트
-
-- [[cov-NVDA-NVIDIA]] — 이 층 구분을 만들어낸 회사의 커버리지 개시 노트. 층별 마진 구조를 이야기할 때 기준점이 되는 숫자(FY27 2분기 GAAP 영업이익률 66.2%, 매출총이익률 75.0%)와, 그 이익률이 상류 메모리 원가에 눌리는 메커니즘이 여기 있다.
-- [[엔비디아는 왜 허깅페이스를 129억 달러에 인수했고 그 딜은 엔비디아의 다른 행보들과 어떻게 이어지는가]] — 이 노트가 쓰는 L1-L9 층 구분의 정의가 나온 원 노트. 각 층이 무엇을 뜻하는지, 그리고 엔비디아 한 회사가 그 층들을 어떤 순서로 삼켜왔는지가 여기 있다.
-- [[semiconductor-industry-map]] — 반도체 밸류체인을 팹리스·파운드리·IDM·EDA/IP·장비·소재·OSAT로 나눈 지형도. 이 노트의 L1-L2를 훨씬 세밀하게 쪼개 보고 싶을 때 이어서 읽는다.
-- [[AI 전력 슈퍼사이클과 에너지 안보]] — 표 맨 아래 "밖" 행이 왜 사실상 L5의 전제인지를 전력·원자재·지정학까지 밀고 간 노트. 이 지형도가 다루지 않는 물리적 제약을 담당한다.
-- [[네오클라우드란 무엇이고 엔비디아는 왜 람다 같은 네오클라우드에 얽혀 있는가]] — L5가 어떻게 자본 구조로 굴러가는지, 그리고 엔비디아가 고객·투자자·리스 제공자로 동시에 얽히는 방식을 해부한 노트. 층 사이의 자본 관계를 읽는 데 필요하다.
-- [[sector-map]] — 커버리지 기업 전체의 섹터별 인덱스. 이 노트가 AI 밸류체인이라는 한 축으로만 잘라낸 것을 원래의 섹터 분류로 되돌려 볼 때 쓴다.

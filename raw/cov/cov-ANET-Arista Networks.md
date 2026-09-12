@@ -21,34 +21,21 @@ Rosenblatt 증권에서 '매도'보고서 발행
 
 ---
 
-회사 기초 스터디 - **Arista Networks : 나 혼자만 레벨업!**
-
-[https://contents.premium.naver.com/barbarian/stockideas/contents/230321202816598an](https://contents.premium.naver.com/barbarian/stockideas/contents/230321202816598an)
-
-RFS 보고서 참고
-
----
-
 **1. 일단은 높은 밸류에이션**
 
 12개월 선행 PER 40x는 역사적으로 도달해본 적 없는 수준
 
 **2. 보수적인 AI 매출 가이던스**
 
-![[ANET_Arista Networks-3.png|image 8.png]]
 
 이번 AI 투자 사이클에서 많은 AI 밸류체인들이 역사적으로 본 적 없는 높은 밸류에이션 부여
 
 **강한 PER re-rating이 나오는 다른 기업들 대비 상대적으로 AI향 매출 규모가 크지 않음**
-
-![[ANET_Arista Networks-1.png|image 1 3.png]]
 
 **Arista가 공식적으로 제시한 '25 AI 매출 가이던스는 7.5억달러 = 10% 수준**
 
 **3. AI사업 매출 추정**
 
 현재 실적 컨센 기준 '25 PER은 32x
-
-![[ANET_Arista Networks-2.png|image 2 4.png]]
 
 Arista의 AI사업은 현재의 가이던스를 무리 없이 상회하여 관련 가이던스와 컨센서스가 상향 조정될 것. 실적 추정치 상승, 선행PER 하락으로 주가가 상승하는 패턴 예상

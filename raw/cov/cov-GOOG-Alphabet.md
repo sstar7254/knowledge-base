@@ -260,8 +260,6 @@ _Alphabet Inc.(NASDAQ: GOOGL)는 Google, YouTube, Google Cloud 등을 포함한 
 
 > AI와 클라우드, 광고 전 부문 호조로 매출과 EPS가 컨센서스를 크게 상회했으나, 데이터센터·서버 투자로 CapEx가 급증하며 비용 부담 우려가 부각된 분기.
 
-![[GOOG_Alphabet-1.png|image 49.png]]
-
 ### 실적 요약
 
 **매출**: 964억 달러 (+14% YoY)

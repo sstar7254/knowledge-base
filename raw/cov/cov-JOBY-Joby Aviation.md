@@ -18,9 +18,6 @@ UAM 상용화가 지연되다 보니 UAM 제조사의 적자는 눈덩이처럼 
 [[research-JOBY-PEST analysis & Catalyst]]
 
 ## STUDY
-
-![[JOBY_Joby Aviation-1.png]]
-
 ### UAM - Urban Air Mobility, 도심항공교통
 1. UAM 상용화가 다가오면서 관련 시장이 확대되고 있다.
 2. UAM 상용화 (’20년 이후) = **eVTOL(Electric Verticla Take Off and Landing) 기술의 개발**
@@ -33,9 +30,6 @@ UAM 상용화가 지연되다 보니 UAM 제조사의 적자는 눈덩이처럼 
 2. Archer Aviation - Midnight: ‘25년 내 아부다비에서 상업 운영 계획. “Laucn Edition” 프로그램을 통해 FFA 인증 이전 eVTOL 하공기를 상용화하고자 함. 아부다비 항공청(Abu Dhabi Aviation, ADA)은 해당 프로그램의 첫 번째 고객으로, Midnight 항공기를 배치하여 조종사 훈련, 비행 운영 등 다양한 분야에서 협력할 예정. 스텔란티스와 협력하여 대량 생산 준비 중.
 3. Volocopter - VoloCity: ‘25년 상반기 EASA 인증 후 파리와 싱가포르를 대상으로 상업화에 돌입할 계획. 독일에서 응급의료 서비스 테스트 계획. 프랑스의 Jet Systems Hélicoptères Services와 파트너십을 체결. ‘24년 12월 지급 불능 절차를 신청하며, 높은 수준의 기술적 성숙도를 갖춤에도 “시장 진입을 위한 마지막 단계를 밟기 위해서는 추가 자금이 필요함”을 인정. 지급 불능 절차가 진행되는 동안에도 사업 운영은 정상적으로 이루어지고 있음. Volocopter는 지난 해 파리 올림픽에서 첫 상용화를 선보일 예정이었으나 엔진 인증 지연과 규제적 문제(EASA 인증 실패)로 무산.
 4. Ehang - EH216-S: 무인 eVTOL 인증, 상하이 시범운생 완료. 태국CAAT (Civil Aviation Authority of Thailand) 의 인증을 받으며 ‘25년 내 시범운영 및 상업화 진행 목표.
-![[JOBY_Joby Aviation-5.jpg]]
-![[JOBY_Joby Aviation-4.jpg]]
-
 ### 한국의 **K-UAM 프로젝트**
 한국형 도심항공교통 실증사업 K-UAM Grand Challenge
 ‘23년 8월 시작, SKT, 한국공항공사, 한화시스템
@@ -45,9 +39,6 @@ UAM 상용화가 지연되다 보니 UAM 제조사의 적자는 눈덩이처럼 
 ‘25년부터 2단계 실증 (GC-2) 시작 예정
 SKT, 조비에 1억달러 투자 ⇒ 항공사가 아닌 대기업들이 UAM을 목표로 삼고 있다
 eVTOL 개발 실패, 기체 확보 난항으로 상용화 지연 - 미 FAA 인증 어려움, 투자 축소 분위기 장기화
-
-## 이슈 분석
-
 ### 2025년 UAM 산업에 집중해야 하는 이유
 Concept: UAM, AAM
 
@@ -61,10 +52,8 @@ UAM은 기체의 개발, 제조, 항행인프라 구축, 관제시스템 등을 
 
 **UAM의 3대 구성 요소: eVTOL, Vertiport, UATM**
 1. eVTOL: 활주로 건설이 불가능한 도심에서 이착륙이 가능해야 함. 저소음, low emission → 전기 항공기 주목
-![[JOBY_Joby Aviation-3.png]]
 
 2. Vertiport(Verticla+Port): eVTOL의 이착륙과 승객의 탑승, 충전 및 정비 기능을 하는 장소
-![[JOBY_Joby Aviation-2.png]]
 
 3. UATM (Urban Air Traffic Management, 도심항공교통관리): UAM이 구체화되면서 비행체의 안전한 운항과 효율적인 공역 관리를 위해 하늘길을 세 구역으로 분할하는데, 가장 낮은 고도(~150m)에서는 드론 등 소형 무인비행체가 운영되고 중간고도(300~600m)에서는 UAM이 운항되며 그 이상의 고도(~18km)에서는 기존 항공기가 운용된다.
 

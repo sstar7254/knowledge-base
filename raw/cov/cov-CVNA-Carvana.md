@@ -14,8 +14,6 @@ tags:
 
 Though supply is recovering for some models, demand is now under pressure bcz of purchasing power depressions drvien by inflationary tendencies. Consquently, dealers are losing pricing power: the avg. price of a used car in the US increased by 25% btw 20-22, has fallen after the peak in 2022. Demand and supply are affected by - high int rate → higher cost of financing → decrease auto finance comp’s margin
 
-![[CVNA_Carvana-1.png|image 40.png]]
-
 95% of consumers start search online, 70% use third-party website to compare prices
 
 #### Used Cars Market Trends: Price Shifts & Consumer Behavior in 2025 (Mar-25)
@@ -52,7 +50,6 @@ Financing accessibility is critical in the used car market.
 		Geopolitical factors, such as trade agreements, tariffs, and fuel price fluctuations, can indirectly impact used car prices.
 
 - Used car price
-	![[CVNA_Carvana VF30-1.png]]
 	Financing a used car in 2025 comes with a major challenge: **high interest rates.** The average used car loan rate is still hovering around **14% APR**, making it tougher for buyers to afford monthly payments. Even those with excellent credit are struggling to find rates below 7% APR, even when financing through credit unions and local banks.
 	
 	Unfortunately, relief isn’t on the horizon. The Federal Reserve has signaled that future interest **[rate cuts are on hold](https://www.npr.org/2025/02/11/nx-s1-5293438/federal-reserve-fomc-jerome-powell-interest-rates-inflation)** due to persistent inflation. That means used car loan rates are likely to remain elevated for the next several months.

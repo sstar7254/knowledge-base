@@ -6,12 +6,6 @@ tags:
   - ai/software
   - building
 ---
-
-- What to show? How to show in the slide?
-    
-    - should not be overwhelming - don’t try to overwhelm people
-    
-
 ### Concepts
 
 - Vertical Vs. Horizontal SaaS
@@ -25,8 +19,8 @@ tags:
 
 [[research-Tariff|PCOR_Tariff Impact Research]]
 
-1. **Value Proposition (Reason to use Procore-customers are satisfied with the service and keep using it)**
-    
+#### Value Proposition (Reason to use Procore-customers are satisfied with the service and keep using it)
+
 > [!important]
 > 
 > - _Top Left Quadrant: **description on** **data connection** **(text box) - narrative**_
@@ -61,62 +55,61 @@ tags:
 >     
 >     - _==**Why procore is better than autodesk?**==_
 >     
-    
-    **From GCs to SCs and Owners, end-to-end solution;** ==**Connection of data + AI**==
-    
-    > _The connection of data will improve AI capability, resulting into productivity._
-    > 
-    > _→ incentive to use (high retention rate) & capture new customers_
-    
-    - How wide does PCOR’s service offer? compare with competitors (or, why customers should use PCOR - not other platforms)
-    
-    Procore is sector-agnostic within the construction industry, helping various stakeholders across the entire construction life cycle, aiming to modernize the project management process.
-    
-    As a cloud-native, unified platform, **Procore seamlessly shares data across its ecosystem**, providing a significant competitive advantage over top competitors _==(reflected in 63% win-rate against top-3 competitors and 86% win-rate in Green Field opportunity)==_
-    
-    Procore offers the most connected, unified platform for the construction industry, with dedicated hubs for owners, GCs, and SCs.
-    
-    Its technology stack efficiently accesses and utilizes niche data points from thousands of drawings, documents, and fields within the Procore platform. **Given the industry’s challenges with data retrieval, Procore positions itself as a compelling ROI proposition for its customers.**
-    
-    The company is increasingly focused on passive data collection, enabling users to capture data from the field using media capture, robotic scanning, location tracking, and drone capture to automate form-filling processes. PCOR is partnering with wearable tech companies to achieve this.
-    
-    - _**~95% High retention rate** ==**(vs. comp.)**==_
-        
-        - switching cost is high: same for competitors - not a competitiveness if PCOR has much higher retention rate than others. **Or, focusing on why customers transit to PCOR despite of high switching cost.** → Customer feedback
-        
-    
-    - **Procore’s “Era of AI”**
-        
-        1) Copilot, 2) Agents and Automation, and 3) Insights and Benchmarks
-        
-        **Problems**: Due to the labor shortage, the industry is short 342K new workers on top of normal hiring to meet demand in 2024. / ~18% of project time is spent looking for data and information.
-        
-        **Benefit:** saving time for field staff, ==seamlessly transmitted information is important.== _==(→ specify)==_
-        
-    
-    - **Customer Feedback**
-        
-        [https://www.g2.com/compare/autodesk-construction-cloud-vs-procore](https://www.g2.com/compare/autodesk-construction-cloud-vs-procore)
-        
-        - Collaborating holistically, rather than in silos, is of paramount importance to users. They desire seamless access to information and data, ensuring that every foreman and project participant can easily retrieve the necessary insights.
-            
-            One customer expressed a strong preference for transitioning from Trimble to Procore for BIM, aiming to **consolidate all project elements in a single platform.**
-            
-        
-        - Autodesk - AutoCAD와 함께 디자인 기능이 유용. Collarborated, Sharing Project 등 협력 프로젝트에서 강점
-        
-        - Procore - Comprehensive, Data integrated,
-        
-    
-    - Enterprise momentum on display. Procore now counts 2,333 customers contributing  
-        $100K+ in ARR (+16% y/y) and 86 customers contributing $1M+ in ARR (+39% y/y).  
-        Encouragingly during Q4, PCOR signed more than 130 6- or 7-figure deals, including **two Mag 7 deals: one 7-figure land and one 6-figure expansion tied to data center growth.**
-    
 
-2. **GTM Shift - international market, enterprise-focused strategy**
-    
-    show just how they change GTM (hard to show the impact)
-    
+**From GCs to SCs and Owners, end-to-end solution;** ==**Connection of data + AI**==
+
+> _The connection of data will improve AI capability, resulting into productivity._
+> 
+> _→ incentive to use (high retention rate) & capture new customers_
+
+- How wide does PCOR’s service offer? compare with competitors (or, why customers should use PCOR - not other platforms)
+
+Procore is sector-agnostic within the construction industry, helping various stakeholders across the entire construction life cycle, aiming to modernize the project management process.
+
+As a cloud-native, unified platform, **Procore seamlessly shares data across its ecosystem**, providing a significant competitive advantage over top competitors _==(reflected in 63% win-rate against top-3 competitors and 86% win-rate in Green Field opportunity)==_
+
+Procore offers the most connected, unified platform for the construction industry, with dedicated hubs for owners, GCs, and SCs.
+
+Its technology stack efficiently accesses and utilizes niche data points from thousands of drawings, documents, and fields within the Procore platform. **Given the industry’s challenges with data retrieval, Procore positions itself as a compelling ROI proposition for its customers.**
+
+The company is increasingly focused on passive data collection, enabling users to capture data from the field using media capture, robotic scanning, location tracking, and drone capture to automate form-filling processes. PCOR is partnering with wearable tech companies to achieve this.
+
+- _**~95% High retention rate** ==**(vs. comp.)**==_
+	
+	- switching cost is high: same for competitors - not a competitiveness if PCOR has much higher retention rate than others. **Or, focusing on why customers transit to PCOR despite of high switching cost.** → Customer feedback
+	
+
+- **Procore’s “Era of AI”**
+	
+	1) Copilot, 2) Agents and Automation, and 3) Insights and Benchmarks
+	
+	**Problems**: Due to the labor shortage, the industry is short 342K new workers on top of normal hiring to meet demand in 2024. / ~18% of project time is spent looking for data and information.
+	
+	**Benefit:** saving time for field staff, ==seamlessly transmitted information is important.== _==(→ specify)==_
+	
+
+- **Customer Feedback**
+	
+	[https://www.g2.com/compare/autodesk-construction-cloud-vs-procore](https://www.g2.com/compare/autodesk-construction-cloud-vs-procore)
+	
+	- Collaborating holistically, rather than in silos, is of paramount importance to users. They desire seamless access to information and data, ensuring that every foreman and project participant can easily retrieve the necessary insights.
+		
+		One customer expressed a strong preference for transitioning from Trimble to Procore for BIM, aiming to **consolidate all project elements in a single platform.**
+		
+	
+	- Autodesk - AutoCAD와 함께 디자인 기능이 유용. Collarborated, Sharing Project 등 협력 프로젝트에서 강점
+	
+	- Procore - Comprehensive, Data integrated,
+	
+
+- Enterprise momentum on display. Procore now counts 2,333 customers contributing  
+	$100K+ in ARR (+16% y/y) and 86 customers contributing $1M+ in ARR (+39% y/y).  
+	Encouragingly during Q4, PCOR signed more than 130 6- or 7-figure deals, including **two Mag 7 deals: one 7-figure land and one 6-figure expansion tied to data center growth.**
+
+
+#### **GTM Shift - international market, enterprise-focused strategy**
+	show just how they change GTM (hard to show the impact)
+
 > [!important]
 > 
 > - _Top Left Quadrant: **description of GTM Transition -** **how & impact (text box)**_
@@ -126,79 +119,61 @@ tags:
 > - _Bottom Left Quadrant: **forecast of int’l growth and US → model**_
 > 
 > - _Bottom Right Quadrant: **Case Study-Swarmed account (Enterprise)**_
-    
-    - **[[cov-PCOR-Procore Technologies]] - New customers from international**
-        
-        - **as-is**
-            
-            - main) Canada, UK, Australia, New Zealand +@
-                
-                **[Canadian infrastructure](https://constructionlinks.ca/news/procore-canadian-construction-trends-and-opportunities-to-watch-for-in-2025/)** in 2025 emphasizes digital transformation and government-funded projects, with Procore enabling contractors to manage backlogs efficiently
-                
-            
-            - The enterprise focus extends to international markets, with Procore reporting 32% year-over-year growth in international revenue (33% on a constant currency basis) in Q1 2024
-            
-            - **Untapped Potential with a Growing User Market**: Procore has a great deal of white space with 12% market share in the U.S. and 2% internationally with the construction market projected to grow to $15T by 2030. With 52% of its deals coming from greenfield opportunities (clients transitioning from manual processes), Procore is positioned to drive digital transformation in an industry that remains under-digitized.
-            
-        
-        - **How?**
-            
-            - **Market leader,** construction is done the same way = enter → grow easily
-            
-            - Procore is **building reseller and distribution partnerships** both in the U.S. and globally (2Q24 Earnings)
-            
-            - High win rate
-                
-                - Procore is widely perceived to be the best solution on the market, the company does not see any of its top three competitors in more than half its deals, and had a 63% combined win rate against its top three competitors for FY22-FY24 YTD as of September 30th.
-                
-            
-        
-        - **Impact**
-            
-            - _==larger multiple in international market (TD Cowen) → re-rating==_
-            
-        
-    
-    - **Enterprise-focused strategy (upmarket/US) - Expansion**
-        
-        - **as-is**
-            
-            - SMB market remains challenged by macro headwinds, while **enterprise expansion (volume/product adoption) is strong.** (4Q23 Earnings)
-            
-            - While the vast majority of our customer count is concentrated down market, the vast majority of our dollars are bookings dollars in **ARR comes from mid and up market.** (4Q23 Earnings)
-            
-            - Procore positions itself as a **premium product** commanding a premium price, with no significant changes in win rates against competitors (1Q24 Earnings)
-            
-        
-        - **How?**
-            
-            - [[cov-PCOR-Procore Technologies]]
-            
-            - CFO Howard Fu **c**larified that **Procore’s enterprise focus began in late 2023**, aligning resources with observed strength in upmarket demand. This shift is expected to **drive stronger bookings in the second half of 2024** (1Q24 Earnings)
-                
-                - _==How did they focus on enterprise? (What’s the strategy?)==_
-                
-            
-            - GTM transition underway; Heightened disruption in 1H25. New territories and comp  
-                plans were distributed at sales kickoff last month. Disruption around these changes is expected to be most severe during 1H25 as generalists + technical reps get comfortable working together. **Management expects to be "fully operational" by 2H25 and well positioned for a strong 2026, but has embedded additional conservatism into guidance.**
-            
-        
-        - **Impact**
-            
-            - Enterprise traction - mixing → higher ACV & ARR
-            
-        
-        - **Example**
-        
-    
 
+- New customers from international**
+	
+	- **as-is**
+		- main) Canada, UK, Australia, New Zealand +@
+			**[Canadian infrastructure](https://constructionlinks.ca/news/procore-canadian-construction-trends-and-opportunities-to-watch-for-in-2025/)** in 2025 emphasizes digital transformation and government-funded projects, with Procore enabling contractors to manage backlogs efficiently
+		- The enterprise focus extends to international markets, with Procore reporting 32% year-over-year growth in international revenue (33% on a constant currency basis) in Q1 2024
+		- **Untapped Potential with a Growing User Market**: Procore has a great deal of white space with 12% market share in the U.S. and 2% internationally with the construction market projected to grow to $15T by 2030. With 52% of its deals coming from greenfield opportunities (clients transitioning from manual processes), Procore is positioned to drive digital transformation in an industry that remains under-digitized.
+		
+	- **How?**
+		
+		- **Market leader,** construction is done the same way = enter → grow easily
+		
+		- Procore is **building reseller and distribution partnerships** both in the U.S. and globally (2Q24 Earnings)
+		
+		- High win rate
+			
+			- Procore is widely perceived to be the best solution on the market, the company does not see any of its top three competitors in more than half its deals, and had a 63% combined win rate against its top three competitors for FY22-FY24 YTD as of September 30th.
+	
+	- **Impact**
+		- _==larger multiple in international market (TD Cowen) → re-rating==_
+		
+- **Enterprise-focused strategy (upmarket/US) - Expansion**
+	
+	- **as-is**
+		
+		- SMB market remains challenged by macro headwinds, while **enterprise expansion (volume/product adoption) is strong.** (4Q23 Earnings)
+		
+		- While the vast majority of our customer count is concentrated down market, the vast majority of our dollars are bookings dollars in **ARR comes from mid and up market.** (4Q23 Earnings)
+		
+		- Procore positions itself as a **premium product** commanding a premium price, with no significant changes in win rates against competitors (1Q24 Earnings)
+		
+	
+	- **How?**
+		
+		- CFO Howard Fu **c**larified that **Procore’s enterprise focus began in late 2023**, aligning resources with observed strength in upmarket demand. This shift is expected to **drive stronger bookings in the second half of 2024** (1Q24 Earnings)
+			
+			- _==How did they focus on enterprise? (What’s the strategy?)==_
+			
+		
+		- GTM transition underway; Heightened disruption in 1H25. New territories and comp  
+			plans were distributed at sales kickoff last month. Disruption around these changes is expected to be most severe during 1H25 as generalists + technical reps get comfortable working together. **Management expects to be "fully operational" by 2H25 and well positioned for a strong 2026, but has embedded additional conservatism into guidance.**
+		
+	
+	- **Impact**
+		
+		- Enterprise traction - mixing → higher ACV & ARR
+		
+	
+	- **Example**
 ---
 
 ### Industry Overview (Construction w/ DT)
 
 - **complex & dynamic**
-    
-    ![[PCOR_Procore Technologies-7.png|image 35.png]]
     
     - custom business
     
@@ -232,12 +207,7 @@ tags:
     
 
 - **cyclical**
-    
-    ![[PCOR_Procore Technologies-2.png|image 1 24.png]]
-    
-    ![[PCOR_Procore Technologies-5.png|image 2 18.png]]
-    
-    ==declining macro → Construction spend still grew==
+	==declining macro → Construction spend still grew==
     
     _==what happened at the reflection point?==_
     
@@ -246,7 +216,6 @@ tags:
     Trump wants lower interest rate (vs. Fed stopped interest rate cuts)
     
     ==non-residential construction is crucial (PCOR’s main field)==
-    
 
 - **lack of digitization**
     
@@ -263,10 +232,6 @@ tags:
 
 - address a range of evolving needs throughout a project’s lifecycle, including bidding, scheduling, building information modeling (BIM), labor tracking, financial management, etc.
 
-![[PCOR_Procore Technologies-6.png|image 3 15.png]]
-
-![[PCOR_Procore Technologies-8.png|image 4 13.png]]
-
 Aug 24 - missed 3Q guidance. Nov 24 - surge due to option activity
 
 ### Business Model (10-K)
@@ -278,8 +243,6 @@ Aug 24 - missed 3Q guidance. Nov 24 - surge due to option activity
 - **Data**: assess construction risk faster and more accurately than traditional methods
 
 ### Product Overview - construction platform
-
-![[PCOR_Procore Technologies-9.png|image 5 9.png]]
 
 Procore Investor Day 2023
 
@@ -346,8 +309,6 @@ Procore Investor Day 2023
 
 ### Markets
 
-![[PCOR_Procore Technologies-10.png|image 6 8.png]]
-
 - **Construction segments**
     
     - Residential - 50%
@@ -412,19 +373,13 @@ Procore Investor Day 2023
 
 - ==**New logo acquisition**== in both the U.S. and International
     
-    ![[PCOR_Procore Technologies-11.png|image 7 7.png]]
-    
     logo capture in US improved from <2% in 2023 to <12% in 2024
     
     high win rate - 86% (vs. 63% of competitors)
     
-    ![[PCOR_Procore Technologies-12.png|image 8 6.png]]
-    
 
 - Expand existing customers by **upselling & cross-selling**
-    
-    ![[PCOR_Procore Technologies-13.png|image 9 6.png]]
-    
+        
     > _the other key to increased volume is also acknowledging that the majority of our customers do projects in many verticals, being different project types or different industries._
     > 
     > _So another key tenet of the go-to-market transformation is making sure that we have specialists that understand those areas, whether that's civil and infrastructure, data centers, renewables and energy, manufacturing type buildings, et cetera._
@@ -433,9 +388,7 @@ Procore Investor Day 2023
 - Optimize product development, resulting in GTM execution cycles
 
 - ==**Swarmed account**==
-    
-    ![[PCOR_Procore Technologies-3.png|image 10 5.png]]
-    
+   
     > _It's actually a focused amount of people at the right time at the right place that are there for that moment and then continue to execute on those account plans._
     
 
@@ -444,18 +397,6 @@ Procore Investor Day 2023
 - **cRPO (current RPO)** - best leading indicator
     
     - Procore’s pricing model (upfront volume commitments) acts as a _forward indicator_ of industry sentiment. (4Q23 Earnings)
-    
-
-- **I/S**
-    
-    ![[PCOR_Procore Technologies-4.png|image 11 5.png]]
-    
-    high Sales & Marketing Cost
-    
-    ![[PCOR_Procore Technologies-14.png]]
-    
-    OPM improving
-    
 
 - unlimited user model - volume-based subscription (one yr / multi yr) pricing for a fixed fee
     

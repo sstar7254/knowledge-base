@@ -15,11 +15,6 @@ tags:
     
     - 미국 상장사 뿐 아니라 미국 주식에 1억달러 이상 투자를 한 기관에게도 마감일 기준 45일 안에 포트폴리오를 보고받고 있음
     
-    - [https://whalewisdom.com/filer/national-pension-service](https://whalewisdom.com/filer/national-pension-service)
-        
-        ![[AMZN_Amazon-5.png|image 45.png]]
-        
-    
     - 국민연금은 25년 2분기 넷플릭스와 **아마존**, 테슬라 순으로 비중이 많이 늘어남
     
     - 비중이 줄어든 종목은 유나이티드 헬스케어, 일라이 릴리 등
@@ -37,34 +32,8 @@ tags:
         - ==기금 운용에서 수익성만큼 안정성을 중시.==
         
         - 1988~2023년 누적 수익률은 각각 국내 주식 6.53%, 해외 주식 11.04%, 국내 채권 3.61%, 해외 채권 4.02%, 대체투자 9.28%로 해외주식과 대체투자가 다른 자산군에 비해 높음. 국민연금이 해외 투자 비중을 늘리고 있는 이유. 지역적으로는 북미에 65%가량 투자
-        
-        ![[AMZN_Amazon-1.png|image 1 29.png]]
-        
-        ![[AMZN_Amazon-2.png|image 2 22.png]]
-        
     
     - 넷플릭스와 아마존 등 안정적 현금 창출력을 갖춘 대형주 비중을 상향한 것으로 보임.
-    
-
-- 13F에서도 갈리는 아마존에 대한 투자 의견
-    
-    - Coatue Management (테크 중심 투자사, AUM 695억 달러)
-        
-        ![[AMZN_Amazon-3.png|image 3 19.png]]
-        
-    
-    - Tiger Global Management (테크 중심 투자사, AUM 695억 달러)
-        
-        ![[AMZN_Amazon-4.png|image 4 15.png]]
-        
-    
-    - 퍼싱 스퀘어 캐피탈 (빌 애크먼, AUM 137억 달러)
-        
-        ![[AMZN_Amazon-6.png|image 5 11.png]]
-        
-        - 퍼싱스퀘어가 아마존을 9.31% 신규 매수하며 주가 +2.9%
-        
-    
 
 - CATALYST
     
@@ -116,9 +85,6 @@ tags:
         
         - The introduction of **DeepFleet**, a generative AI model **optimizing robot movement by 10%**, is a game-changer. By reducing congestion and energy usage, DeepFleet is projected to cut operational costs by $16 billion annually by 2032. Meanwhile, AI-powered delivery maps and eyeglasses for drivers are streamlining last-mile logistics, further enhancing margins.
         
-    
-
----
 
 ##  2Q25 Earnings
 
