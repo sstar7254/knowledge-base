@@ -6,6 +6,7 @@
 *.mdb
 .smart-env/
 .claude/settings.local.json
+.omc/
 
 # Google Drive sync state for the desktop app (not the .gdoc pointers,
 # which are kept as raw source references)
