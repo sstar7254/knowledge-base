@@ -3,7 +3,7 @@ type: overview
 date: 2024-11-29
 updated: 2025-01-09
 tags:
-  - bio-pharma
+  - pharma
   - robotics
 ---
 
@@ -58,8 +58,6 @@ AI소프트웨어가 탑재된 의료도구는 조기검진 가능성을 높임
 수술로봇 시장은 진입장벽이 높은 산업으로 시장을 선점한 기업이 지배력을 유지할 가능성이 크다
 
 높은 전환비용, 브랜드 신뢰문제, FDA 승인 등으로 진입장벽이 높음 → 선점효과 큼
-
-![[ISRG_Intuitive Surgical-1.png|image 24.png]]
 
 - 높은 전환비용
 

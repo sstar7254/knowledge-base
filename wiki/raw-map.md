@@ -2,17 +2,17 @@
 type: index
 date: 2026-07-06
 
-updated: 2026-09-12
+updated: 2026-09-13
 tags:
 ---
 
 # raw-map
 
 `raw/` 전체의 카탈로그. LLM이 wiki를 쓰기 전에 **이 파일을 먼저 읽어** 관련 raw 노트를 찾고,
-필요한 파일만 연다(233개 전체를 훑지 않는다). 한 줄 형식: 파일명 위키링크 · 태그 · 1줄 요약.
+필요한 파일만 연다(235개 전체를 훑지 않는다). 한 줄 형식: 파일명 위키링크 · 태그 · 1줄 요약.
 
 > **유지 규칙**: `raw/`에 노트가 추가·개명되면 이 카탈로그의 해당 섹션도 함께 갱신한다
-> (`schema/CLAUDE.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
+> (`schema/AGENT.md` §4 작업 흐름 참고). 섹션은 `raw/` 하위 폴더(= frontmatter `type`)와 1:1.
 
 ## news/ — news-scrap — 뉴스 스크랩 (하나의 출처에서 여러 주제 요약; 요약란은 첫 기사 헤드라인) (59)
 
@@ -69,30 +69,26 @@ tags:
 - [[news-260623-Built to bend-How AI-first supply chains adapt when disruption hits]] #supply-chain #ai — AI-first 공급망의 유연성: 붕괴 상황에서 계획-실행을 잇는 적응형 운영
 - [[news-260623-Kraft Heinz merges procurement and supply chain units]] #supply-chain #strategy — Kraft Heinz, 조달과 공급망 조직을 단일 부서로 통합
 - [[news-260623-Manufacturers balance costs, inventory amid uncertain rate environment]] #supply-chain #macro — 제조업체들, 금리 불확실성 속 비용·재고 균형 전략
-- [[news-260707-Last-mile delivery success begins before the driver arrives]] #supply-chain/logistics #ecommerce — 라스트마일 성패는 상류(재고 배치·창고 실행·반품 데이터)에서 결정된다
-- [[news-260709-Amazon Shipping looks to snag FedEx, UPS customers with low pricing]] #supply-chain/logistics #ecommerce — Amazon Shipping, 저서차지·저가 공세로 FedEx·UPS 고객 유인
+- [[news-260707-Last-mile delivery success begins before the driver arrives]] #supply-chain/logistics #retail — 라스트마일 성패는 상류(재고 배치·창고 실행·반품 데이터)에서 결정된다
+- [[news-260709-Amazon Shipping looks to snag FedEx, UPS customers with low pricing]] #supply-chain/logistics #retail — Amazon Shipping, 저서차지·저가 공세로 FedEx·UPS 고객 유인
 - [[news-260714-PepsiCo improves sustainable sourcing, delays emissions reporting]] #supply-chain #esg — PepsiCo, 목표 완화 뒤 지속가능 조달 70% 개선·Scope 3 공개는 지연
 - [[news-260714-When companies in a supply chain work on different timelines]] #supply-chain #strategy — 밸류체인의 '시계 속도' 불일치와 clock-speed 동기화(가시성·유연성·역량) — HBR
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 - [[news-260901-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play (Forbes, Gerui Wang) — 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics 성격 혼동).
 
-## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (81)
+## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (67)
 
 ### AI · 반도체
 
-#### ai/cloud
+#### ai (AI 클라우드·소프트웨어·하드웨어)
 
 - [[cov-AMZN-Amazon]] : 이커머스 및 클라우드 — 세계 최대 전자상거래 플랫폼이자 AWS를 통한 클라우드 컴퓨팅 선두주자. (+retail)
 - [[cov-GOOG-Alphabet]] : 검색 엔진 및 IT 서비스 — 구글 검색, 유튜브, 구글 클라우드를 운영하는 글로벌 빅테크 기업. (+semiconductor)
 - [[cov-META-Meta Platforms]] : 소셜 미디어 — 페이스북, 인스타그램 등을 운영하며 디지털 광고 시장 점유 및 메타버스 생태계 구축.
 
-#### ai/software
-
 - [[cov-012510-더존비즈온]] : 기업용 소프트웨어 — 세무·회계, ERP와 함께 AI 기반 디지털 워크플로우 솔루션 제공.
 - [[cov-NET-Cloudflare]] : 웹 보안 및 CDN — 웹사이트 보안, 콘텐츠 전송 네트워크 및 엣지 컴퓨팅 서비스 제공.
-- [[cov-PCOR-Procore Technologies]] : 건설 SaaS — 건설 프로젝트 관리·협업을 지원하는 클라우드 플랫폼 제공. (+building)
-
-#### ai (AI 반도체·하드웨어)
+- [[cov-PCOR-Procore Technologies]] : 건설 SaaS — 건설 프로젝트 관리·협업을 지원하는 클라우드 플랫폼 제공. (+construction)
 
 - [[cov-AMD-Advanced Micro Devices]] : x86 CPU·AI 가속기 팹리스 — 2026 Q2 기준 커버리지(데이터센터 매출 58.2%·영업이익 적자→31.3% 전환, 서버 CPU 출하 점유율 34.5%, GAAP 영업이익률 17.3% vs 엔비디아 66.2%, 오픈AI·메타 워런트 3.2억 주=희석 19.6%·앤스로픽 $5B 투자, 구매약정 $30.3B, P/S는 엔비디아와 같은데 P/E는 4배). (+semiconductor)
 - [[cov-NVDA-NVIDIA]] : AI 가속기·랙·네트워킹 — FY27 Q2 기준 커버리지(세그먼트 재편 DC/Edge, DC가 매출 92.5%, GAAP 영업이익률 66.2%, 매출총이익률 75.0%→FY27 4Q 71-72% 안내, 부외 공급약정 $279B·보증의무 $108.5B, 고객집중 상위4곳 61%, 중국 매출 0 가정, 경쟁사·목표주가). (+semiconductor)
@@ -109,22 +105,16 @@ tags:
 
 ### energy
 
-#### energy
-
 - [[cov-267260-HD현대일렉트릭]] : 전력 기기 — 변압기, 차단기 등 송배전 인프라 구축에 필요한 핵심 전력기기 제조.
 - [[cov-MP-MP Materials]] : 희토류 채굴/정제 — 서반구 최대 희토류 광산 운영 및 네오디뮴 영구자석 원료 생산.
 - [[cov-OXY-Occidental Petroleum]] : 석유 및 가스 — 셰일 오일 탐사·생산과 함께 탄소 직접 포집(DAC) 기술을 선도하는 에너지 기업.
 - [[cov-GOLD-Barrick Gold]] : 금/구리 채굴 — 캐나다에 본사를 둔 세계 최대 규모의 금 채굴 및 생산 기업. (+macro)
 - [[cov-178320-서진시스템]] : 통신/ESS 부품 — 통신 장비, 에너지저장장치(ESS), 전기차 부품용 알루미늄 케이스 생산.
 
-#### energy/smr
-
 - [[cov-LEU-Centrus Energy]] : 우라늄 농축 — 미국 원전 산업과 핵 안보를 위한 상업용 농축 우라늄 공급.
 - [[cov-SMR-Nuscale Power]] : 소형모듈원전(SMR) — 미국 원자력규제위원회(NRC)의 설계 인증을 받은 SMR 선도 기업.
 
-#### energy/lng
-
-- [[cov-083650-비에이치아이]] : 발전 기자재 — 화력 및 원자력 발전소용 보일러와 배열회수보일러(HRSG) 설계 및 제조. (+energy/smr)
+- [[cov-083650-비에이치아이]] : 발전 기자재 — 화력 및 원자력 발전소용 보일러와 배열회수보일러(HRSG) 설계 및 제조.
 
 ### defense
 
@@ -149,23 +139,19 @@ tags:
 
 - [[cov-033500-동성화인텍]] : 조선 기자재 — LNG 운반선 화물창에 들어가는 초저온 보냉재 주력 생산.
 
-### building
+### construction
 
 - [[cov-CAT-Caterpillar]] : 중장비 및 건설 기계 — 건설·광산 장비 및 산업용 가스터빈/엔진을 제조하는 글로벌 1위 기업.
 
 ### cosmetics
 
-#### cosmetics
-
 - [[cov-EOLS-Evolus]] : 메디컬 에스테틱 — 보툴리눔 톡신 '주보(Jeuveau)'의 글로벌 시장 판매.
 - [[cov-ULTA-Ulta Beauty]] : 화장품 리테일 — 다양한 가격대의 화장품과 살롱 뷰티 서비스를 제공하는 미국 최대 뷰티 소매점.
 - [[cov-비상장-더파운더즈]] : 화장품(스킨케어) — 아누아(Anua) 브랜드를 중심으로 글로벌 스킨케어 시장에서 성장 중인 뷰티 스타트업.
 
-#### cosmetics/oem-odm
-
 - [[cov-241710-코스메카코리아]] : 화장품 ODM/OEM — 국내외 기초 및 색조 화장품 개발 및 위탁 생산.
 
-### bio-pharma
+### pharma
 
 - [[cov-NVO-Novo Nordisk]] : 제약 — 당뇨병 치료제 및 비만 치료제(위고비, 오젬픽) 시장을 주도하는 글로벌 제약사.
 - [[cov-ISRG-Intuitive Surgical]] : 의료 로봇 — 다빈치 수술 로봇 시스템을 통해 전 세계 최소 침습 수술 시장 독점. (+robotics)
@@ -199,13 +185,9 @@ tags:
 
 ### finance
 
-#### finance
-
 - [[cov-448280-에코아이]] : 탄소배출권 컨설팅 — 온실가스 감축 사업을 기획하고 탄소배출권 획득 및 거래를 중개하는 전문 기업.
 - [[cov-AFRM-Affirm Holdings]] : 핀테크(BNPL) — 소비자가 할부로 상품을 구매할 수 있도록 지원하는 선구매 후결제(BNPL) 서비스 제공사.
 - [[cov-BRO-Brown & Brown]] : 보험 중개 — 중견 및 중소기업을 대상으로 상업용 보험 및 리스크 관리 솔루션을 중개하는 금융사.
-
-#### finance/crypto
 
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
 - [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — 달러 연동 스테이블코인 USDC를 발행하고 관리하는 블록체인 핀테크 기업.
@@ -225,11 +207,10 @@ tags:
 - [[research-deepseek]] #ai #semiconductor — 딥시크 충격과 미국 증시 급락에 대한 해설 자료 정리.
 - [[research-semicon-value-chain]] #ai #semiconductor — 반도체 밸류체인 단계별 분류와 미국·한국 주요 상장기업.
 - [[research-우주 데이터 센터]] #ai #semiconductor — 우주 데이터센터 구상과 관련 논의 자료 정리.
-- [[research-정유석유화학 산업]] #shipbuilding — 정유·석유화학 산업 구조와 지정학 사건이 유가·업황에 미친 영향.
+- [[research-정유석유화학 산업]] #energy — 정유·석유화학 산업 구조와 지정학 사건이 유가·업황에 미친 영향.
 
-## report/ — report — 단일 자료 요약 (37)
+## report/ — report — 단일 자료 요약 (34)
 
-- [[report-2024년 하반기 전망 시리즈 12 방위산업 follow or lead]] #defense — ‘24년 상반기 국내 방산업종 내 주가 차별화는 ‘24년 연간 실적 성장에 대한 기대치 및 추가 수출 기대감
 - [[report-3Q24 유안타 리서치 이슈 & 테마 - 5K is OK]] #cosmetics — K-Beauty 등 3Q24 유안타 이슈·테마 리포트 요약
 - [[report-AI 데이터센터향 구리 수요 예측]] #ai #semiconductor — 데이터센터 구리 수요와 구리 초과수요의 가격 효과
 - [[report-COHR-Coherent-VF]] #ai #semiconductor — 광학 산업의 조용한 지배자, Coherent
@@ -250,7 +231,6 @@ tags:
 - [[report-북중러 관계]] #macro — 북중러 관계는 공고한 동맹관계라기보다 철저히 자국의 이익을 위해 서로를 이용하는 관계. 즉, 각국이 직면한 제재를 무력화하기 위해 서로 연대하는 관계
 - [[report-비만치료제, 끝나지 않은 테마]] #pharma — 2023년 글로벌 제약업계를 관통한 키워드는 비만치료제다. 다수의 비만약이 1) 다른 질병의 적응증 확대, 2) 체중감량 효과를 제고하는 다중작용 치료제, 3)
 - [[report-스타트업 액셀러레이터의 투자결정요인에 대한 연구 (2020, 허주연)]] #vc — 미국 액셀러레이터 기업의 스타트업 평가요인 및 국내 창업초기기업 지원 사업 평가지표 분석
-- [[report-시리아 정부 붕괴! 불안한 중동 정세는 어떻게 될까]] #macro — 시리아는 이스라엘과 서쪽 국경을 맞대고 있으며, 1~4차 중동전쟁에서 이스라엘에게 모두 패배
 - [[report-엔비디아가 제시한 2025년 ai 트렌드]] #ai #semiconductor — 전 세계 산업계는 거대 언어 모델(large language model, LLM)을 구축하고 맞춤화해 이 방대한 데이터를 활용하고 있다. 산업 전반에서 이러한 A
 - [[report-오픈이노베이션 실무가이드]] #vc #finance — 01. 헨리 체스브로가 바꾼 혁신의 정의: '열린 기술경쟁'의 시작
 - [[report-올바른 주간전략보고- 투자의 생각 (8월 19일~8월 23일)]] #macro — 컨퍼런스 콜 1 - 월마트
@@ -260,8 +240,7 @@ tags:
 - [[report-이스라엘은 왜 전쟁을 진행하는가 이란-하마스, 헤즈볼라, 이란, 미국의 연결고리]] #macro — 이스라엘의 최종 목표 : 하마스, 헤즈볼라, 이란을 처리하자
 - [[report-전력 미국주식 테마 리얼리티 체크]] #energy — 전력 관련 테마 업데이트
 - [[report-정치는 우경화, 시장은 우하향]] #macro — 지난주, EU 중앙은행이 기준금리를 인하했음에도 유럽 증시는 물론 국채 가격과 유로화 가치가 모두 크게 떨어졌어요. 금리를 인하하면 시장에 돈이 풀리며 경기가 부
-- [[report-주가 상승이 기업에 미치는 영향]] #macro — 주가 상승이 기업 경영(자금조달·이미지·M&A)에 미치는 영향 정리
-- [[report-테슬라는 배출권 판매 회사]] #shipbuilding — 테슬라는 배출권 판매 회사?
+- [[report-테슬라는 배출권 판매 회사]] #esg #automotive — 테슬라는 배출권 판매 회사?
 - [[report-Why Nvidia's Hugging Face deal is about much more than chips]] #ai #semiconductor #strategy — CNBC(2026-09-04). 실명 애널리스트 3인: Gil Luria(D.A. Davidson) 저지 가치·MS의 깃허브 75억달러 인수 비유, Naveen Chhabra(Forrester) 수요 레이더(주류 언론보다 몇 주 앞선 모델·데이터셋 채택 가시성), Ian Fogg(CCS Insight) 기존 전략의 연장. 황 젠슨 "엔비디아 사업의 절반이 오픈모델에 달려 있다".
 - [[report-Nvidia Hugging Face Acquisition Both a Wise Offensive and Defensive Move]] #ai #semiconductor #finance — 모닝스타 Brian Colello(2026-09-04). 적정가치 $310·Wide moat·Very High 불확실성 유지, 거래를 실적에 "immaterial"로 규정. 공격=Nemotron 홍보 채널+오픈소스 접근성, 방어=앤스로픽·오픈AI 자체칩 전환 시나리오 대비. 리스크는 저울을 자기 쪽으로 기울이면 다른 LLM 개발사가 이탈.
 - [[report-Nvidia's Hugging Face Deal Is a Hedge against Broadcom's Custom Silicon Threat]] #ai #semiconductor #strategy — Reuters BreakingViews 논평 재인용(2026-09-06). "전략적 보험증권" 규정 — 어떤 칩이 모델을 돌리든 개발자 접점은 남는다. 브로드컴 AI칩 FY27 $115B→FY28 $230B, Macquarie의 구글향 점유율 95%→65% 전망, Needham Buy $300. ⚠️재인용 다수.

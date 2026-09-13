@@ -3,8 +3,8 @@ type: overview
 date: 2025-01-28
 updated: 2025-04-01
 tags:
-  - ai/software
-  - building
+  - ai
+  - construction
 ---
 ### Concepts
 
@@ -38,8 +38,6 @@ tags:
 >     
 > 
 > - _Top Right Quadrant: ==**customer LTV**==_
->     
->     ![[PCOR_Procore Technologies-1.jpg]]
 >     
 > 
 > - _Bottom Left Quadrant: **~63% (comp.) / ~86% High win rate**_

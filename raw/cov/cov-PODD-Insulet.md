@@ -3,7 +3,7 @@ type: overview
 date: 2025-05-16
 updated: 2025-05-17
 tags:
-  - bio-pharma
+  - pharma
 ---
 
 ## 자료
@@ -78,15 +78,11 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
 	
 	Metformin, GLP-1, SGLT-2i, 인슐린 등이 사용
 	
-	![[PODD_Insulet VF39-2.png|image 42.png]]
-	
 	- Metformin: 표준 치료제 - 저혈당 부작용 X, 당화혈생소 감소 효과 높음, 저렴한 가격
 	
 	- SGLT-2i: 소변으로 배출되는 당 증가, Metformin과 병용
 	
 	- GLP-1: 인슐린 분비를 증가시켜 혈당 감소, 체중 감량에 효과적
-	
-	![[PODD_Insulet VF39-1.png|image 1 28.png]]
 	
 	**고위험 당뇨 환자의 경우 CGM과 인슐린 펌프를 사용한 Intensive Insulin Therapy 동반** → 인슐렛의 타겟 시장
 	

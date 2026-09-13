@@ -3,7 +3,7 @@ type: overview
 date: 2025-06-21
 updated: 2026-09-09
 tags:
-  - finance/crypto
+  - finance
 ---
 
 ## GENIUS 법안과 스테이블 코인의 시대 (2025.06.21)
