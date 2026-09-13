@@ -15,4 +15,4 @@ Andrej Karpathy의 패턴을 따르는 개인 *second brain*. 3계층으로 구�
 캡쳐 입구는 채팅이다 — `/inbox`(빠른) 또는 `/inbox-deep`(심화)에 질문 메모를 직접 던지면 qa 노트로
 정규화된다. 읽은 뒤 자기 언어로 소화하고 싶으면 `/inbox-digest`.
 
-자세한 운영 규칙은 [`schema/CLAUDE.md`](AGENT.md)를 참고한다.
+자세한 운영 규칙은 [`schema/AGENT.md`](AGENT.md)를 참고한다.
