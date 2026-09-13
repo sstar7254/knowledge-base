@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-06-24
-updated: 2026-09-08
+updated: 2026-09-13
 tags:
 ---
 
@@ -9,15 +9,14 @@ tags:
 
 `wiki/`의 map을 가로지르는 허브 인덱스. 새로운 주제로 리서치를 진행하면 (/research 스킬 이용) 관련 자료를 이용해 map를 구성한 후 아래에 추가한다.
 
-> 도메인 분류는 `wiki/`의 하위 폴더와 일치시킨다. 새 도메인 폴더를 만들면 여기에도 섹션을 추가하고, `schema/CLAUDE.md`·`README.md`의 트리도 함께 갱신한다.
+> 도메인 분류는 `wiki/`의 하위 폴더와 일치시킨다. 새 도메인 폴더를 만들면 여기에도 섹션을 추가하고, `schema/AGENT.md`·`README.md`의 트리도 함께 갱신한다.
 
 ## raw 카탈로그
 
-- [[raw-map]] : `raw/` 전체(208개) 카탈로그 — 파일명·태그·1줄 요약. wiki 작성 전 raw 탐색의 진입점.
+- [[raw-map]] : `raw/` 전체(238개) 카탈로그 — 파일명·태그·1줄 요약. wiki 작성 전 raw 탐색의 진입점.
 
 ## stock-market
 
-- [[sector-map]] : 전체 커버리지 기업(cov) 인덱스 — 현행 태그 기준 섹터별 분류
 - [[semiconductor-industry-map]] : 반도체 밸류체인 분류(팹리스·파운드리·IDM·EDA/IP·장비·소재·OSAT)와 단계별 주요 상장기업(미국·한국)
 
 ## cross-border
