@@ -124,8 +124,6 @@ Google, Microsoft & IonQ (Azure Quantum 플랫폼 개발), Amazon, IBM, Intel �
 
 구글이 제시한 양자 컴퓨터 상용화의 6단계 로드맵
 
-![[IONQ_IonQ-1.png|image 1 20.png]]
-
 
 ### 초대형 떡밥, 구글 양자 컴퓨터 1편: 이슈 완벽하게 이해하기 & 2편: 독일군이 알려주는 양자 컴퓨터 수혜주 (미주사 2024-12)
 

@@ -39,8 +39,6 @@ tags:
 > 
 > - _Top Right Quadrant: ==**customer LTV**==_
 >     
->     ![[PCOR_Procore Technologies-1.jpg]]
->     
 > 
 > - _Bottom Left Quadrant: **~63% (comp.) / ~86% High win rate**_
 > 

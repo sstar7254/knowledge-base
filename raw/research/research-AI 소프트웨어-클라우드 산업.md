@@ -56,8 +56,6 @@ tags:
     - GDPR 등 각종 규제를 준수하는 기능을 내장한 솔루션이 요구됩니다.
     
 
-![[AI 소프트웨어 - 클라우드 산업-1.png|image 2.png]]
-
 ---
 
 ### Salesforce (CRM.US)

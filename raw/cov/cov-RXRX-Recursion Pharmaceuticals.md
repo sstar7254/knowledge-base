@@ -26,9 +26,6 @@ tags:
 
 향후 18개월 내 로슈, 사노피 등과 공동으로 개발중인 10개의 종양/면역분야 신약후보물질에 대한 임삼 결과 발표 예정. 임상 성공 시 24개월 내 2억 달러 가량의 마일스톤 수령 가능
 
-![[RXRX_Recursion Pharmaceuticals-1.png|image 23.png]]
-![[RXRX_Recursion Pharmaceuticals-2.png|image 1 16.png]]
-
 ### 📝 NVIDIA가 선택한 ai 신약 개발 업체 (삼성증권, 24.06.27)
 
 이미지 인식 AI 차별성: Recursion은 AI를 활용하여 전통적인 방식보다 훨씬 광범위한 후보 물질을 테스트한 뒤 잠재력이 높은 물질을 빠르게 도출하여 신약 개발 기간을 단축하고자 함. 질병 및 약물에 대한 세포의 변화된 다양한 특성을 1,000개 이상 파악하는 이미지 AI 기반 Pheno-map 및 Transcripto-map을 구축. 2023년 NVIDIA와 협력(5천만 달러 투자 확보)하여 BioHive-2 슈퍼컴퓨터(504 NVIDIA H100’s, Top 500 슈퍼 컴퓨터 중 35위) 운영 중.
@@ -37,8 +34,6 @@ tags:
     - 20억 개 세포 이미지와 수억개의 특성을 학습시킨 phenom-1 파운데이션 모델, 생성형 ai lowe와 접목한 sw
     - wet labs - 직접 생성한 수십억개의 세포 이미지 데이터 보유
     - ‘24년부터 자체 개발중인 파이프라인 임상 결과로 차별적인 ai 기술력 입증 가능. 고객사 추가 확보를 통해 선순환 구조로 실적 개선에 긍정적
-
-![[RXRX_Recursion Pharmaceuticals-3.png|image 2 13.png]]
 
 ---
 
