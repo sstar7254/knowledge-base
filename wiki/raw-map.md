@@ -76,7 +76,7 @@ tags:
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 - [[news-260901-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play (Forbes, Gerui Wang) — 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics 성격 혼동).
 
-## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (68)
+## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (69)
 
 ### AI · 반도체
 
@@ -182,6 +182,7 @@ tags:
 - [[cov-SG-Sweetgreen]] : 패스트 캐주얼 — 샐러드 위주의 건강식 메뉴 판매 및 매장 자동화 추진 레스토랑 체인.
 - [[cov-PM-Philip Morris]] : 담배 제조 — 말보로 등 전통 연초 및 아이코스(IQOS) 같은 궐련형 전자담배 생산.
 - [[cov-TMUS-T-Mobile]] : 통신 서비스 — 미국 내 5G 네트워크 커버리지를 선도하는 주요 무선 통신 사업자.
+- [[cov-OTLY-Oatly]] : 귀리 기반 대체유 — 세계 최초의 오트 밀크 전문 기업으로, 식물성 유제품 대체재를 개발·판매. (+esg)
 - [[cov-GRMN-Garmin]] : GPS/웨어러블 — 군용 GPS 기술을 기반으로 프리미엄 스포츠·아웃도어 웨어러블과 항공·해양 항법 장비를 만드는 기업. (+aerospace)
 
 ### finance
