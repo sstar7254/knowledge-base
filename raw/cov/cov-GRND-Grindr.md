@@ -1,12 +1,113 @@
 ---
 type: overview
 date: 2025-05-24
-updated: 2025-05-24
+updated: 2026-09-13
 tags:
   - entertainment
 ---
 
-## STUDY
+## 늘어나는 LGBTQ 인구와 Grindr (2025.05.24)
+
+> 출처: [40. Grindr(GRND)](https://docs.google.com/document/d/1ymAZUn-6IsDLcO05a3T4NxPJ-qtU9lXZq0vPcybrQ14/edit)
+
+### 미국 Gen Z는 자신을 정의하는 중
+
+**미국 사회는 성적 지향과 성 정체성 인식에서 중요한 변화를 겪고 있다.** Gallup 조사에 따르면 미국 성인의 **약 9.3%가 자신을 LGBTQ+로 식별**하는데, 조사를 처음 시작한 12년 대비 **두 배 이상 증가**한 수치다.
+
+| 세대 | 출생 연도 | LGBTQ+ 자기 인식 비율 |
+| --- | --- | --- |
+| **Gen Z** | 1997-2006 | **23.1%** (5명 중 1명) |
+| 밀레니얼 | 1981-1996 | 14.2% |
+| X세대 | 1965-1980 | 그 이하 |
+
+**LGBTQ**는 레즈비언(Lesbian), 게이(Gay), 양성애자(Bisexual), 트랜스젠더(Transgender), 퀴어(Queer)의 약어로 성적 지향과 성 정체성의 다양성을 포괄한다. 최근에는 **범성애자(Pansexual), 무성애자(Asexual), 논바이너리(Non-binary)** 등을 포함하는 **LGBTQ+** 로 확장돼 쓰인다.
+
+**세부 구성과 성별 차이도 뚜렷하다.**
+
+- 20년부터 매년 증가 추세
+- **여성이 남성보다 더 많이** LGBTQ로 식별
+- LGBTQ+ 중에서도 **양성애자 비중이 56.3%** 로 가장 크다
+- **Z세대 여성은 28.5%** 로 Z세대 남성의 두 배가 넘는다
+
+**급증의 배경은 네 가지로 정리된다.**
+
+- **사회적 수용도 증가**: 15년 대법원 **동성 결혼 합법 판결**을 시작으로 인식이 개선됐고, **24년에는 67%의 미국인이 동성애를 사회적으로 받아들여야 한다**고 응답
+- **미디어·SNS 내 노출 증가**: 가수 **샘 스미스**가 19년 논 바이너리임을, 배우 **엘리엇 페이지**가 20년 트랜스젠더임을 밝히는 등 커밍아웃 사례가 늘며 대중이 익숙해지는 중
+- **개인의 자기표현 강화**: 정체성을 자유롭게 표현할 수 있는 사회적 분위기 조성
+- **정책·제도 변화**: **17년 미시시피주 동성 부부 입양 금지 철폐, 20년 대법원 고용 차별 금지 판결**
+
+### LGBTQ 시장의 경제적 잠재력
+
+**늘어나는 LGBTQ 인구는 높은 구매력과 독특한 소비 패턴을 바탕으로 중요한 소비자로 부상하고 있다.**
+
+- **연간 구매력 약 1.4조 달러** (21년 기준, Merrill Lynch). **스페인·호주의 GDP와 맞먹는 규모**
+- **중간 가계 소득** (19년, 미국 인구조사국): 동성 결혼 커플 **107,200달러** vs 이성 결혼 커플 96,930달러. 특히 **남성 동성 커플은 123,600달러**로 가장 높다
+- **소득 차이의 배경**: 동성 커플이 **자녀 양육 가능성이 낮아 경력 중단을 겪을 확률이 낮고** 관련 비용도 수반하지 않아 가처분 소득이 많기 때문으로 추측된다. Harvard Business Review는 17년 **게이 남성의 평균 소득이 이성애자 남성을 뛰어넘었다**고 밝힌 바 있다
+
+이 소비력은 **'핑크 이코노미(Pink Economy)'** 라는 단어로 불리며 새로운 시장 기회를 만든다. **LGBTQ 소비자는 자신들의 권리를 지지하는 브랜드에 대한 충성도가 높고 프리미엄 제품·서비스를 선호**해 여행·패션·미용·헬스케어에서 이들을 겨냥한 마케팅이 활발하다.
+
+### LGBTQ 온라인 데이팅 플랫폼의 성장
+
+**오프라인에서 차별과 배제를 경험할 확률이 높은 LGBTQ 커뮤니티는 온라인을 더 안전하고 자기 표현이 가능한 공간으로 인식한다.**
+
+- **The Trevor Project**(미국 LGBTQ 청소년 보호 단체)에 따르면 **LGBTQ 청소년의 42%가 지난 1년간 심각하게 자살을 고민**한 경험이 있으며, **온라인 커뮤니티를 통한 소통이 정신 건강에 긍정적 영향**을 줬다고 응답했다
+- **Pew Research**: **LGBTQ 성인의 절반 이상이 데이팅 앱 사용 경험**이 있으며 이는 **이성애자 대비 약 2배**
+
+그 결과 이 시장은 **엔데믹 이후 이용자가 급감한 일반 데이팅 앱과 다른 궤적**을 그린다. LGBTQ+ 데이팅 앱 시장은 **22년 45억 달러 → 30년 102억 달러(연평균 12.2%)** 성장이 전망된다(Scope Insights). **높은 구매력은 프리미엄 서비스 지불 의향으로 이어져** 수익 모델에도 긍정적이다.
+
+### 게이를 위한 데이팅 앱, Grindr
+
+**Grindr는 LGBTQ 중에서도 동성애자 남성을 타게팅한 플랫폼으로, 온라인 데이팅 앱 시장이 고초를 겪는 와중에도 매 분기 매출 증가를 보여줬다.**
+
+- **24년 MAU 약 1,470만 명, DAU 80만 명 이상**
+- **니치 시장을 공략해 독점적 위치를 선점**했고 커뮤니티 기능까지 소화
+- **네트워크 효과**에 힘입어 **매출의 1%만 마케팅 비용으로 쓰면서도** 꾸준한 사용자 유입과 이용률을 유지
+
+## Grindr (GRND) 기업분석 (2025.05.24)
+
+### 기업 소개
+
+**09년 설립된 세계 최대의 LGBTQ 중심 모바일 소셜 네트워크 플랫폼.** 게이·바이섹슈얼·트랜스젠더·퀴어(GBTQ) 성인을 위한 맞춤 기능을 제공하는 앱 'Grindr'를 운영하며, **22년 SPAC 합병으로 상장**했다. 본사는 미국 캘리포니아주다.
+
+- **사용자** (24년 기준): MAU 약 **1,420만 명**(YoY +7.4%), 유료 구독자 약 **107만 명**(YoY +14.8%)
+- **서비스 범위**: **190개국 이상, 21개 언어**
+- **수익 구조**: 기본 무료 + 프리미엄 유료 구독. **직접 수익**(유저 구독·인앱 구매)과 **간접 수익**(광고)으로 구분되며 **24년 전체 매출의 약 84.7%가 북미·유럽**에서 발생
+- **성장 동력**: 높은 사용자 충성도, 플랫폼 내 활동량, **ARPU의 지속적 개선**. LGBTQ 데이팅 앱 시장에서 독보적 점유율
+
+**주가**는 지난 1년간 **156% 상승**해 52주 최고가에 근접했다. 대부분 견조한 수익 성장과 사용자 기반 확대에 기인하며, **Peer 대비 격차가 뚜렷하다**(같은 기간 Match Group -0.65%, Bumble -50%).
+
+### 1Q25 리뷰
+
+| 지표 | 실적 | 비고 |
+| --- | --- | --- |
+| 매출 | 9,400만 달러 (YoY +25%) | 컨센서스 9,100만 달러 상회 |
+| 순이익 | 2,700만 달러 | **흑자 전환** (전년 동기 900만 달러 손실) |
+| EBITDA 마진 | **43%** | |
+| 유료 사용자 | 120만 명 | YoY +16% |
+| ARPPU | 22.86달러 | YoY +8% |
+| 광고 수익 | | YoY +26% |
+
+**단기 구독 모델의 성장이 매출 확대를 견인**했다. 이를 반영해 **25년 연간 가이던스를 상향**하며 매출 성장률 **26%**, EBITDA 마진 **43%** 를 제시했다.
+
+컨퍼런스 콜에서는 AI 기반 프리미엄 기능 **'A-List'** 출시와 실시간 매칭 기능 **'Right Now'** 확장을 언급하며 사용자 경험 향상을 강조했다.
+
+### 연간·분기별 매출 트렌드
+
+- **매출**: 지난 5개년 **연평균 35% 증가**하며 빠른 외형 성장
+- **23년 순손실**: 기존 부채 조기 상환, 주식 기반 보상 비용 증가
+- **24년 순손실 확대**: **워런트 부채의 공정 가치 평가 손실**과 세금 비용 증가
+- **영업이익률**: 22년 상장 이후 운영 체계 구축 비용으로 하락했다가 개선돼 **현재 약 27%**
+
+### 기업 지표
+
+- **NTM P/E 약 54배**: 역사적 중간값과 유사한 수준. **Match Group 8배, Bumble 6배 대비 높지만** 이는 Grindr의 **독점적 지위와 지속적인 매출 성장·마진 개선 기대**가 반영된 것으로 본다
+- **잉여현금흐름**: 꾸준히 양수를 유지하며 25년 이후 지속 개선 추세
+
+### 주주 환원
+
+**배당은 없다.** 다만 1Q25 실적 발표에서 **5억 달러 규모의 자사주 매입 프로그램**을 승인했고, **27년 3월까지** 진행될 예정이다.
+
+## Research
 ### MUST have LOVE (SMIC)
 
 코로나와 함께 전성기를 맞이한 온라인 데이팅은 엔데믹과 함께 그 역할이 축소되었고, 주가 하락의 원인
@@ -38,17 +139,19 @@ LGBTQ 커뮤니티 내에서 입소문을 타는 유기적 성장 방식
 매출의 1% 수준만 광고비에 지출했음에도 MAU YoY +7.8% 성장
 GRND는 가벼운 관계로 만날 파트너를 찾고 싶은 유저에게 유리
 
-The proportion of American adults who identify as LGBTQ+ has risen to 9.3% of the population, according to a Gallup Poll
-has nearly doubled since 2020 and has jumped from 3.5% since 2012, when it was first measured
-The boost has a lot to do with young people, who have been much more likely than older generations to identify as something other than heterosexual - More than one in five Gen Z adults
-The percentage of young people identifying as LGBTQ+ has increased over the past two years from an average of 18.8% in 2020 through 2022 to an average of 22.7%
-Ten percent of women versus 6% of men are LGBTQ+, and that difference is markedly more striking among younger generations — 31% of women versus 12% of men in Gen Z, and 18% of women versus 9% of men among millennials. The discrepancies may be partly because “dominant notions of masculinity are still intimately tied to being heterosexual,” (Shy Gay)
+> The proportion of American adults who identify as LGBTQ+ has risen to 9.3% of the population, according to a Gallup Poll
+>
+> has nearly doubled since 2020 and has jumped from 3.5% since 2012, when it was first measured
+>
+> The boost has a lot to do with young people, who have been much more likely than older generations to identify as something other than heterosexual - More than one in five Gen Z adults
+>
+> The percentage of young people identifying as LGBTQ+ has increased over the past two years from an average of 18.8% in 2020 through 2022 to an average of 22.7%
+>
+> Ten percent of women versus 6% of men are LGBTQ+, and that difference is markedly more striking among younger generations — 31% of women versus 12% of men in Gen Z, and 18% of women versus 9% of men among millennials. The discrepancies may be partly because “dominant notions of masculinity are still intimately tied to being heterosexual,” (Shy Gay)
+
 GenZ의 LGBTQ 응답률은 Gallop 조사에 편입된 20~23년 사이 연평균 11.9%씩 성장
 
 - **Gay Wave**
 	- **법적 변화**: ‘15년 대법원 동성결혼 합법 판결, ‘17년 미시시피주 동성 부부 입양 금지 철폐, ‘20년 대법원 고용 차별 금지 판결
 	- **기업적 변화**: 영국, 캐나다, 아일랜드는 기업의 40% 이상, 미국 50% 이상이 ESG 관련 공시에서 LGBT 언급. 포츈 500 기업 중 91%가 차별 금지 관련 내규에 성적 지향과 성정체성 언급. 특히 브랜드 이미지가 중요한 B2C 기업 위주
 	- **문화적 변화**: 미디어로 접하는 캐릭터, 연예인 중 LGBTQ가 증가. 릴 나스, 샘 스미스, 엘리엇 페이지 등.
-
-
----
