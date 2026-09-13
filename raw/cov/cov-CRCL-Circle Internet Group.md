@@ -3,7 +3,7 @@ type: overview
 date: 2025-06-29
 updated: 2025-07-13
 tags:
-  - finance/crypto
+  - finance
 ---
 
 ### 자료

@@ -3,7 +3,7 @@ type: overview
 date: 2025-06-15
 updated: 2025-08-08
 tags:
-  - energy/smr
+  - energy
 ---
 
 > [!important]

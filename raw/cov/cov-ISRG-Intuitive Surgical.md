@@ -3,7 +3,7 @@ type: overview
 date: 2024-11-29
 updated: 2025-01-09
 tags:
-  - bio-pharma
+  - pharma
   - robotics
 ---
 

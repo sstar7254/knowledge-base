@@ -113,14 +113,23 @@ tags:
 * date: 최초 작성일. 기존 `study date`/`date`에서 가져오며, 새 노트를 최초로 생성할 때 그 날의 날짜를 기록한다. 메타데이터가 전혀 없으면 비워둔다(임의로 지어내지 않는다).
 * updated: 마지막 수정일(시간 제외). 기존 `Last edited time`/`updated`에서 가져오며, 노트를 업데이트 하는 경우 그 날의 날짜를 기록한다.
 * 출처(매체명·URL·일자)는 frontmatter가 아니라 **본문 최하단**에 `---` 구분선 아래 `출처:` 라인으로 둔다.
-* tags: 본문에서 가장 중요한 키워드 2~3개. 아래 리스트의 태그를 **우선**한다. 필요하면 태그를 추가할 수 있으나, 이 경우 반드시 이 리스트를 함께 업데이트한다.
+* tags: 본문에서 가장 중요한 키워드 2~3개. **아래 리스트에 있는 태그만 쓴다.** 리스트에 없는 주제라면
+  태그를 새로 만들기 전에 기존 대분류로 포섭되는지 먼저 따지고, 정말 새 대분류가 필요할 때만 추가하되
+  **반드시 이 리스트를 함께 업데이트한다.**
+  - **태그는 대분류 한 단계로만 둔다.** `ai/cloud`·`energy/smr`·`finance/crypto`처럼 슬래시로 세분하지
+    않는다 — 세부 주제는 본문과 raw-map 요약이 담당한다. 슬래시가 허용되는 예외는 아래 두 가지뿐이다:
+    `geopolitics/<국가·지역>`(지정학 대상 구분), `supply-chain/logistics`(SCM 안에서 물류를 분리).
   - **macro** — Investment/Macro·Economy·Investment/Bonds 류를 통합
   - **vc** — Startup/* (Startup/VC·Startup/IR 등) 류를 통합
-  - **finance** — Investment/Valuation·Finance/Biz·Finance/Deriv·Finance/RealEstate·fintech 류를 통합
+  - **finance** — Investment/Valuation·Finance/Biz·Finance/Deriv·Finance/RealEstate·핀테크·가상자산 류를 통합
   - **strategy**
   - **geopolitics/\<국가·지역\>** — china, japan, us, middle-east 등 지정학적 메인 대상 (대상이 불명확하면 `geopolitics`)
   - **supply-chain**, **supply-chain/logistics**
-  - 섹터 키워드(필요시 사용·확장): **ai**, **semiconductor**, **robotics**, **energy**, **shipbuilding**, **defense**, **cosmetics**, **retail**, **pharma**, **entertainment**, **esg**, **demographics**, **evtol**
+  - 섹터 키워드: **ai**(클라우드·소프트웨어·AI 하드웨어 포함) · **semiconductor** · **robotics** ·
+    **energy**(원자력·SMR·LNG·ESS·광물 포함) · **shipbuilding** · **defense** · **aerospace** ·
+    **automotive**(전기차 포함) · **construction**(건설·중장비) · **cosmetics**(OEM/ODM 포함) ·
+    **retail**(이커머스·외식·소비재 포함) · **pharma**(바이오·의료기기 포함) · **entertainment** ·
+    **esg** · **demographics** · **evtol**
 
 ### LLM이 리서치를 raw에 저장할 때 (source-digest 원칙)
 

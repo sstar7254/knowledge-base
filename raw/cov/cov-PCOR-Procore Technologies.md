@@ -3,8 +3,8 @@ type: overview
 date: 2025-01-28
 updated: 2025-04-01
 tags:
-  - ai/software
-  - building
+  - ai
+  - construction
 ---
 ### Concepts
 

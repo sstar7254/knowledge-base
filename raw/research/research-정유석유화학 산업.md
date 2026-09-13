@@ -3,7 +3,7 @@ type: research
 date: 2023-10-14
 updated: 2023-10-14
 tags:
-  - shipbuilding
+  - energy
 ---
 
 최근 [[이스라엘-팔레스타인]] 전쟁 등으로 다시 한 번 유가가 변동.

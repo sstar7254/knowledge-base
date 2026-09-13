@@ -3,7 +3,7 @@ type: overview
 date: 2025-02-07
 updated: 2025-02-24
 tags:
-  - automotive/ev
+  - automotive
 ---
 
 ## 자료
