@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-06-24
-updated: 2026-06-24
+updated: 2026-09-13
 tags:
   - semiconductor
   - ai
@@ -21,8 +21,8 @@ tags:
 
 공장 없이 설계만 하고 제조는 파운드리에 위탁. 2026년 AI 가속기 수요가 지형을 주도한다.
 
-- **Nvidia (NVDA)**: AI 학습·추론용 GPU/가속기 1위. AI 반도체 사이클의 심장.
-- **AMD (AMD)**: CPU(EPYC/Ryzen)·GPU로 고성능 컴퓨팅에서 Nvidia·Intel과 정면 경쟁.
+- **[[cov-NVDA-NVIDIA|Nvidia (NVDA)]]**: AI 학습·추론용 GPU/가속기 1위. AI 반도체 사이클의 심장.
+- **[[cov-AMD-Advanced Micro Devices|AMD (AMD)]]**: CPU(EPYC/Ryzen)·GPU로 고성능 컴퓨팅에서 Nvidia·Intel과 정면 경쟁.
 - **Qualcomm (QCOM)**: 모바일 AP(Snapdragon)와 통신 모뎀의 강자.
 - **[[cov-AVGO-Broadcom|Broadcom (AVGO)]]**: 네트워크 칩·맞춤형 AI ASIC·인프라 SW를 묶은 데이터센터 수혜주.
 - **Marvell (MRVL)**: 데이터센터용 맞춤형 실리콘·광통신·스토리지 컨트롤러.
@@ -100,3 +100,5 @@ tags:
 
 - [[research-semicon-value-chain|반도체 밸류체인 참고자료]] — 본 지형도의 기업 로스터·점유율·출처를 담은 소스 다이제스트.
 - [[strategic-thinking-1-4-반도체와 전략산업]] — 반도체가 왜 국가 전략물질이 됐는지의 지정학적 맥락.
+- [[AI 밸류체인 9층 지형도, 커버리지 기업은 어느 층에 서 있나]] — 이 지형도가 나누는 팹리스·파운드리·OSAT가 AI 밸류체인 전체(L1-L9)에서는 맨 앞 두 층에 해당한다. 단계별 마진·해자가 층마다 어떻게 갈리는지 이어서 볼 때 쓴다.
+- [[report-SK하이닉스-SMIC]] — 메모리 IDM과 중국 파운드리를 대비한 자료. 위 3절 IDM 항목의 근거다.
