@@ -85,7 +85,6 @@ tags:
 - [[cov-AMZN-Amazon]] : 이커머스 및 클라우드 — 세계 최대 전자상거래 플랫폼이자 AWS를 통한 클라우드 컴퓨팅 선두주자. (+retail)
 - [[cov-GOOG-Alphabet]] : 검색 엔진 및 IT 서비스 — 구글 검색, 유튜브, 구글 클라우드를 운영하는 글로벌 빅테크 기업. (+semiconductor)
 - [[cov-META-Meta Platforms]] : 소셜 미디어/AI — 초지능 연구소 MSL 설립과 Ray-Ban 스마트 글래스로 AI 하드웨어까지 확장 중인 빅테크.
-
 - [[cov-ORCL-Oracle]] : 데이터베이스/클라우드 — 엔터프라이즈 DB에서 출발해 OCI로 AI 인프라 시장을 공략하는 풀스택 플랫폼 기업.
 - [[cov-TWLO-Twilio]] : 클라우드 커뮤니케이션 — 음성·메시지 API와 고객 데이터 플랫폼을 결합한 CPaaS 및 음성 AI 에이전트 사업자.
 - [[cov-APP-AppLovin]] : 모바일 광고 — AI 광고엔진 AXON을 기반으로 앱 광고 타겟팅과 수익화를 중개하는 애드테크 기업. (+entertainment)
@@ -94,7 +93,6 @@ tags:
 - [[cov-012510-더존비즈온]] : 기업용 소프트웨어 — 세무·회계, ERP와 함께 AI 기반 디지털 워크플로우 솔루션 제공.
 - [[cov-NET-Cloudflare]] : 웹 보안 및 CDN — 웹사이트 보안, 콘텐츠 전송 네트워크 및 엣지 컴퓨팅 서비스 제공.
 - [[cov-PCOR-Procore Technologies]] : 건설 SaaS — 건설 프로젝트 관리·협업을 지원하는 클라우드 플랫폼 제공. (+construction)
-
 - [[cov-AMD-Advanced Micro Devices]] : x86 CPU·AI 가속기 팹리스 — 2026 Q2 기준 커버리지(데이터센터 매출 58.2%·영업이익 적자→31.3% 전환, 서버 CPU 출하 점유율 34.5%, GAAP 영업이익률 17.3% vs 엔비디아 66.2%, 오픈AI·메타 워런트 3.2억 주=희석 19.6%·앤스로픽 $5B 투자, 구매약정 $30.3B, P/S는 엔비디아와 같은데 P/E는 4배). (+semiconductor)
 - [[cov-NVDA-NVIDIA]] : AI 가속기·랙·네트워킹 — FY27 Q2 기준 커버리지(세그먼트 재편 DC/Edge, DC가 매출 92.5%, GAAP 영업이익률 66.2%, 매출총이익률 75.0%→FY27 4Q 71-72% 안내, 부외 공급약정 $279B·보증의무 $108.5B, 고객집중 상위4곳 61%, 중국 매출 0 가정, 경쟁사·목표주가). (+semiconductor)
 - [[cov-DELL-Dell Technologies]] : AI 서버·인프라 하드웨어 — FY27 Q2 기준 커버리지(제품별 매출비중, AI 서버 34.9%·백로그 $95B, 매출총이익률 20%대 저마진 구조, IDC 서버 점유율 1위, 경쟁사·목표주가). (+strategy)
@@ -117,11 +115,9 @@ tags:
 - [[cov-OXY-Occidental Petroleum]] : 석유 및 가스 — 셰일 오일 탐사·생산과 함께 탄소 직접 포집(DAC) 기술을 선도하는 에너지 기업.
 - [[cov-GOLD-Barrick Gold]] : 금/구리 채굴 — 캐나다에 본사를 둔 세계 최대 규모의 금 채굴 및 생산 기업. (+macro)
 - [[cov-178320-서진시스템]] : ESS/통신 부품 — 에너지저장장치(ESS)를 주력으로 통신 장비, 전기차·배터리, 반도체 장비용 케이스 생산. (+semiconductor, +automotive)
-
 - [[cov-LEU-Centrus Energy]] : 우라늄 농축 — AI 전력 수요로 부상한 SMR용 HALEU를 미국에서 유일하게 생산하는 NRC 인가 기업. (+ai)
 - [[cov-SMR-Nuscale Power]] : 소형모듈원전(SMR) — AI 전력 수요와 원자력 행정명령을 배경으로 NRC 설계 인증을 받은 유일한 미국 SMR 기업. (+ai)
 - [[cov-CEG-Constellation Energy]] : 원자력 발전 — 미국 최대 무탄소 발전 사업자로 빅테크와 장기 전력구매계약(PPA) 체결. (+ai)
-
 - [[cov-083650-비에이치아이]] : 발전 기자재 — 화력 및 원자력 발전소용 보일러와 배열회수보일러(HRSG) 설계 및 제조.
 
 ### defense
@@ -155,7 +151,6 @@ tags:
 - [[cov-EOLS-Evolus]] : 메디컬 에스테틱 — 보툴리눔 톡신 '주보(Jeuveau)'의 글로벌 시장 판매.
 - [[cov-ULTA-Ulta Beauty]] : 화장품 리테일 — 다양한 가격대의 화장품과 살롱 뷰티 서비스를 제공하는 미국 최대 뷰티 소매점.
 - [[cov-비상장-더파운더즈]] : 화장품(스킨케어) — 아누아(Anua) 브랜드를 중심으로 글로벌 스킨케어 시장에서 성장 중인 뷰티 스타트업.
-
 - [[cov-241710-코스메카코리아]] : 화장품 ODM/OEM — 국내외 기초 및 색조 화장품 개발 및 위탁 생산.
 
 ### pharma
@@ -196,7 +191,6 @@ tags:
 - [[cov-448280-에코아이]] : 탄소배출권 — 온실가스 감축 사업을 기획해 배출권을 확보하고 거래를 중개하는 전문 기업. (+esg)
 - [[cov-AFRM-Affirm Holdings]] : 핀테크(BNPL) — 소비자가 할부로 상품을 구매할 수 있도록 지원하는 선구매 후결제(BNPL) 서비스 제공사.
 - [[cov-BRO-Brown & Brown]] : 보험 중개 — 중견 및 중소기업을 대상으로 상업용 보험 및 리스크 관리 솔루션을 중개하는 금융사.
-
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
 - [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — USDC 발행사로, 토큰화된 탄소배출권 거래의 결제 인프라로 자리잡는 블록체인 핀테크. (+esg)
 

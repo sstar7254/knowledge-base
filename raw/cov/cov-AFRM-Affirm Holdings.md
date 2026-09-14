@@ -190,115 +190,115 @@ Affirm은 파트너 은행에 $1000+은행 파트너십 수수료를 송금하�
 
 Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 BNPL 서비스 (대출) 제공
 
-- **Revenue Analysis**
-    
-    - **Merchant Network**
-        
-        온오프라인 가맹점으로부터 결제가 발생할 때마다 수취하는 결제 수수료
-        
-        이자율이 높고 대출 기간이 길수록(BNPL) AFRM의 매출 기여도 높음 → 낮은 merchant fee
-        
-        Core 0% Long(12개월 이상 무이자 할부) includes loans with term lengths greater than 12 months and 0% APR; Core 0% Short(3~12개월 무이자 할부) includes loans with term lengths at least three months long but less than or equal to 12 months and 0% APR; Core IB(BNPL) includes loans with interest; Pay in X (formerly known as Pay in 4) includes loans with one to four 0% APR installments        
-    
-    - **Card Network**
-        
-        Affirm의 Debit Card 사용 건당 수취하는 결제 수수료
-        
-        Visa와 제휴하여 자체 Debit Card 발급 - BNPL 할부 결제 가능
-        
-        $100-$1000 거래는 조건 없이 4회로 나눈 무이자 할부 가능
-        
-        일부 조건을 충족하는 거래는 3/6/12개월 무이자 할부 가능
-        
-        거래 후에도 조건 충족 시 결제 24시간 내 일시불 → BNPL 할부 전환 가능
-        
-        VISA 카드 결제를 허용하는 모든 온오프라인 가맹점에서 사용 가능하며 Saving account 저축 가능
-        
-        `**⇒ Affrim은 왜 무이자 BNPL 거래를 지원하지? 수익원이 뭐지? strategy?**`
-        
-        `무이자 BNPL 거래의 수수료가 더 높은가?`
-               
-        결제를 온라인 뿐 아니라 오프라인에서도 활성화 `→ What does it mean, Why important`
-        
-        Affirm 가맹점이 아닌 상점에서 BNPL을 사용하고 싶을 경우 일회용 가상 VISA 카드 발급을 통해 BNPL 결제 가능. 이를 통해 해당 온라인 몰에서 수취하는 결제 수수료도 카드 매출에 포함
+### Revenue Analysis
 
-    - **Interest Income**
-        
-        BNPL 할부 이자 수익
-        
-        이자율은 개인 신용점수, 구매 금액, 경제적 여건, 할부 기간, 프로모션 여부 등에 따라 결정
-        
-        단기 소액은 Soft check, 장기 할부는 hard check
+- **Merchant Network**
+	
+	온오프라인 가맹점으로부터 결제가 발생할 때마다 수취하는 결제 수수료
+	
+	이자율이 높고 대출 기간이 길수록(BNPL) AFRM의 매출 기여도 높음 → 낮은 merchant fee
+	
+	Core 0% Long(12개월 이상 무이자 할부) includes loans with term lengths greater than 12 months and 0% APR; Core 0% Short(3~12개월 무이자 할부) includes loans with term lengths at least three months long but less than or equal to 12 months and 0% APR; Core IB(BNPL) includes loans with interest; Pay in X (formerly known as Pay in 4) includes loans with one to four 0% APR installments        
 
-    - Gain(Loss) on Sales of Loans
-        
-        파트너 은행에서 구입한 대출채권을 third party 투자자 (forward flow)에 팔고 수취하는 이익/손실
+- **Card Network**
+	
+	Affirm의 Debit Card 사용 건당 수취하는 결제 수수료
+	
+	Visa와 제휴하여 자체 Debit Card 발급 - BNPL 할부 결제 가능
+	
+	$100-$1000 거래는 조건 없이 4회로 나눈 무이자 할부 가능
+	
+	일부 조건을 충족하는 거래는 3/6/12개월 무이자 할부 가능
+	
+	거래 후에도 조건 충족 시 결제 24시간 내 일시불 → BNPL 할부 전환 가능
+	
+	VISA 카드 결제를 허용하는 모든 온오프라인 가맹점에서 사용 가능하며 Saving account 저축 가능
+	
+	`**⇒ Affrim은 왜 무이자 BNPL 거래를 지원하지? 수익원이 뭐지? strategy?**`
+	
+	`무이자 BNPL 거래의 수수료가 더 높은가?`
+		   
+	결제를 온라인 뿐 아니라 오프라인에서도 활성화 `→ What does it mean, Why important`
+	
+	Affirm 가맹점이 아닌 상점에서 BNPL을 사용하고 싶을 경우 일회용 가상 VISA 카드 발급을 통해 BNPL 결제 가능. 이를 통해 해당 온라인 몰에서 수취하는 결제 수수료도 카드 매출에 포함
 
-    - Service Income
-        
-        Affirm으로부터 대출채권을 매수한 third party 투자자들에게 loan portfolio 관리에 필요한 컨설팅/관리 서비스 제공으로 수취하는 수수료
+- **Interest Income**
+	
+	BNPL 할부 이자 수익
+	
+	이자율은 개인 신용점수, 구매 금액, 경제적 여건, 할부 기간, 프로모션 여부 등에 따라 결정
+	
+	단기 소액은 Soft check, 장기 할부는 hard check
 
-- **How to fund**
-    
-    1. On Balance Sheet (Non-Securitized) includes Loans Pledged as Collateral in warehouse financing vehicles or held by Affirm and consolidated on Affirm’s balance sheet  
-    2. On Balance Sheet (Securitized) includes Loans Pledged as Collateral in securitizations and consolidated on Affirm’s balance sheet  
-    3. Off Balance Sheet includes Loans Held by Third Parties and not consolidated on Affirm’s balance sheet  
-    4. Off Balance Sheet (Securitized) includes Loans Pledged as Collateral in securitizations and not consolidated on Affirm’s balance sheet  
-    5. Equity Capital Required is the sum of the balance of loans held for investment and loans held for sale, less the balance of funding debt and notes issued by securitization trusts as of the balance sheet date  
-    6. Metrics are unaudited  
-    7. Q2'25 as presented herein was updated to correct the breakout between Off Balance Sheet (non-securitized) and Off Balance Sheet (securitized)
-    
-    - **Warehouse**
-        
-        여신금융기관에 자금을 지원하는 Morgan Stanley, JPM 등 대형 금융기관에 대출채권을 담보로 자금을 조달 (On Balance Sheet-Non Securitized)
-        
-        2025년 3월 기준 계약을 체결한 warehouse 기관들로부터 $5.1B 자금을 조달할 수 있지만 $1.83B만 사용
-        
-        안정적, 언제든 $3B 이상 즉각적으로 조달 가능 but 최대 0.5% 이자 지급/변동금리 적용
+- Gain(Loss) on Sales of Loans
+	
+	파트너 은행에서 구입한 대출채권을 third party 투자자 (forward flow)에 팔고 수취하는 이익/손실
 
-    - **Forward Flow**
-        
-        정해진 기간동안 3자 파트너가 지속적으로 Affirm의 대출채권을 구매하고 신용 리스크 전가 (Off Balance Sheet-non securitized)
-        
-        대출채권을 판매하여 BS에 포함되지 않음
-        
-        Six Street, Liberty Mutual Investment 등이 메인 파트너
-        
-        `자금 조달자에게는` `**연체율 관리만 잘 되면**` `가장 편한 방법`
-        
-        연체율이 악화되어 담보 가치(대출채권)가 일정 기준 밑으로 하락하면 추가 담보 요구 가능(Warehouse) or 계약 해지 가능 (Forward Flow)
-        
-        악화된 연체율의 ABS는 판매 불가, 리볼빙 종료 후 조기 상환
-        
-        연체율은 코로나 지원금으로 아웃라이어인 2021년 제외 안정적으로 유지
-        
-        경쟁사 대비 낮은 연체율 지속
+- Service Income
+	
+	Affirm으로부터 대출채권을 매수한 third party 투자자들에게 loan portfolio 관리에 필요한 컨설팅/관리 서비스 제공으로 수취하는 수수료
 
-    - **ABS**
-        
-        - On Balance Sheet (securitized)
-            
-            대출채권을 모아 증권화하여 판매 - VIE(특수목적법인)을 통해 단기 대출채권을 증권화하여 금융 기관에 판매 (aka Revolving ABS)
-            
-            Affirm BNPL 고객 상당수가 12개월 미만 할부 대출 이용, 일반적 ABS 투자자들은 3년 이상의 만기를 원함 → 만기 불일치 해결을 위해 리볼빙 ABS를 사용
-            
-            Affirm BNPL 서비스 이용 고객이 할부금 입금
-            
-            확보한 현금을 상환에 쓰지 않고 신규 대출채권을 구매 (리볼빙 구조)
-            
-            리볼빙 투자자들은 이 기간 (평균 24개월) 동안 고정 금리 이자만 수취, 24개월 이후 상환 시작
-            
-            단기 자금 유치에 가장 많이 사용
-            
-            리볼빙 ABS로 $1B 조달 - 리볼빙 기간 24개월 & 평균 대출채권 만기 6개월
-            
-            `→ 6개월마다 한 번씩 총 4번 신규 대출 생성 가능`
-            
-            대출채권을 ABS로 묶어 판매했지만 여전히 BS에 포함 - 새로운 채권이 지속적으로 추가되어 자산 양도 불가능
+### How to fund
 
-        - Off Balance Sheet (securitized)
-            
-            Static ABS - 발행 시점에 고정된 대출채권을 넘기고 자금 유치. 계약 이후 대출이 추가 편입되지 않는 일반적 ABS
+1. On Balance Sheet (Non-Securitized) includes Loans Pledged as Collateral in warehouse financing vehicles or held by Affirm and consolidated on Affirm’s balance sheet  
+2. On Balance Sheet (Securitized) includes Loans Pledged as Collateral in securitizations and consolidated on Affirm’s balance sheet  
+3. Off Balance Sheet includes Loans Held by Third Parties and not consolidated on Affirm’s balance sheet  
+4. Off Balance Sheet (Securitized) includes Loans Pledged as Collateral in securitizations and not consolidated on Affirm’s balance sheet  
+5. Equity Capital Required is the sum of the balance of loans held for investment and loans held for sale, less the balance of funding debt and notes issued by securitization trusts as of the balance sheet date  
+6. Metrics are unaudited  
+7. Q2'25 as presented herein was updated to correct the breakout between Off Balance Sheet (non-securitized) and Off Balance Sheet (securitized)
+
+- **Warehouse**
+	
+	여신금융기관에 자금을 지원하는 Morgan Stanley, JPM 등 대형 금융기관에 대출채권을 담보로 자금을 조달 (On Balance Sheet-Non Securitized)
+	
+	2025년 3월 기준 계약을 체결한 warehouse 기관들로부터 $5.1B 자금을 조달할 수 있지만 $1.83B만 사용
+	
+	안정적, 언제든 $3B 이상 즉각적으로 조달 가능 but 최대 0.5% 이자 지급/변동금리 적용
+
+- **Forward Flow**
+	
+	정해진 기간동안 3자 파트너가 지속적으로 Affirm의 대출채권을 구매하고 신용 리스크 전가 (Off Balance Sheet-non securitized)
+	
+	대출채권을 판매하여 BS에 포함되지 않음
+	
+	Six Street, Liberty Mutual Investment 등이 메인 파트너
+	
+	`자금 조달자에게는` `**연체율 관리만 잘 되면**` `가장 편한 방법`
+	
+	연체율이 악화되어 담보 가치(대출채권)가 일정 기준 밑으로 하락하면 추가 담보 요구 가능(Warehouse) or 계약 해지 가능 (Forward Flow)
+	
+	악화된 연체율의 ABS는 판매 불가, 리볼빙 종료 후 조기 상환
+	
+	연체율은 코로나 지원금으로 아웃라이어인 2021년 제외 안정적으로 유지
+	
+	경쟁사 대비 낮은 연체율 지속
+
+- **ABS**
+	
+	- On Balance Sheet (securitized)
+		
+		대출채권을 모아 증권화하여 판매 - VIE(특수목적법인)을 통해 단기 대출채권을 증권화하여 금융 기관에 판매 (aka Revolving ABS)
+		
+		Affirm BNPL 고객 상당수가 12개월 미만 할부 대출 이용, 일반적 ABS 투자자들은 3년 이상의 만기를 원함 → 만기 불일치 해결을 위해 리볼빙 ABS를 사용
+		
+		Affirm BNPL 서비스 이용 고객이 할부금 입금
+		
+		확보한 현금을 상환에 쓰지 않고 신규 대출채권을 구매 (리볼빙 구조)
+		
+		리볼빙 투자자들은 이 기간 (평균 24개월) 동안 고정 금리 이자만 수취, 24개월 이후 상환 시작
+		
+		단기 자금 유치에 가장 많이 사용
+		
+		리볼빙 ABS로 $1B 조달 - 리볼빙 기간 24개월 & 평균 대출채권 만기 6개월
+		
+		`→ 6개월마다 한 번씩 총 4번 신규 대출 생성 가능`
+		
+		대출채권을 ABS로 묶어 판매했지만 여전히 BS에 포함 - 새로운 채권이 지속적으로 추가되어 자산 양도 불가능
+
+	- Off Balance Sheet (securitized)
+		
+		Static ABS - 발행 시점에 고정된 대출채권을 넘기고 자금 유치. 계약 이후 대출이 추가 편입되지 않는 일반적 ABS
 
 - **Transaction Cost - BNPL 사업 수익성**
     
@@ -376,29 +376,29 @@ Affirm은 매입한 대출채권을 바탕으로 자금 유치 → 소비자에 
 
 - `WHY Affirm provide BNPL?`
 
-- **Industry Competition**
-    
-    - Klarna, Affirm, Afterapy, Paypal, Sezzle, Zip 6개 회사 과점 시장
-    
-    - Affirm의 특징
-        
-        - 고객이 한 번 결제할 때 지출하는 평균 금액avg. order volume이 높음
-        
-        - AOV와 연동되는 할부 가능 기간과 할부 가능 금액 한도가 가장 길고 많음
-        
-        - 이자수익 비중 높음
-        
-        ⇒ 이자 기반 사업 모델
-        
-        cf. 타 경쟁사 - 수수료 기반 사업 모델
+### Industry Competition
 
-    - BNLP이 신용카드 결제 시장으로 진출 가능
-        
-        - 2024년 시용카드 결제액 대비 점유율 0.5% → 확장 가능성
+- Klarna, Affirm, Afterapy, Paypal, Sezzle, Zip 6개 회사 과점 시장
 
-    - 이커머스 시장에서 초대형 기업을 제외한 시장에서 도입률 10~15%
-        
-        - 초대형 기업 결제액 중 점유율 1%
+- Affirm의 특징
+	
+	- 고객이 한 번 결제할 때 지출하는 평균 금액avg. order volume이 높음
+	
+	- AOV와 연동되는 할부 가능 기간과 할부 가능 금액 한도가 가장 길고 많음
+	
+	- 이자수익 비중 높음
+	
+	⇒ 이자 기반 사업 모델
+	
+	cf. 타 경쟁사 - 수수료 기반 사업 모델
+
+- BNLP이 신용카드 결제 시장으로 진출 가능
+	
+	- 2024년 시용카드 결제액 대비 점유율 0.5% → 확장 가능성
+
+- 이커머스 시장에서 초대형 기업을 제외한 시장에서 도입률 10~15%
+	
+	- 초대형 기업 결제액 중 점유율 1%
 
 - Investment point
 	- BNPL의 신용카드 대비 우월함

@@ -121,24 +121,22 @@ tags:
 
 ## Research
 
-### 자료
-
-- **[Climate crisis on track to destroy capitalism, warns top insurer (The Guardian)](https://www.theguardian.com/environment/2025/apr/03/climate-crisis-on-track-to-destroy-capitalism-warns-allianz-insurer)**
-    
-> The world is fast approaching temperature levels where insurers will no longer be able to offer cover for many climate risks, said Günther Thallinger, on the board of Allianz SE, one of the world’s biggest insurance companies. He said that without insurance, which is already being pulled in some places, many other financial services become unviable, from mortgages to investments.
+>**[Climate crisis on track to destroy capitalism, warns top insurer (The Guardian)](https://www.theguardian.com/environment/2025/apr/03/climate-crisis-on-track-to-destroy-capitalism-warns-allianz-insurer)**
+>
+>The world is fast approaching temperature levels where insurers will no longer be able to offer cover for many climate risks, said Günther Thallinger, on the board of Allianz SE, one of the world’s biggest insurance companies. He said that without insurance, which is already being pulled in some places, many other financial services become unviable, from mortgages to investments.
 >
 > “The insurance sector is a ==canary in the coalmine== when it comes to climate impacts,” said Janos Pasztor, former UN assistant secretary-general for climate change.
 
-    - 보험사는 **위험을 평가하고, 가격을 책정하며, 손실을 대비하는 역할**을 합니다.
-    
-    - 기후 변화로 인해 **자연재해(산불, 홍수, 태풍 등)가 증가**하면 보험사들은 이를 반영하여 보험료를 인상하거나, 특정 지역에서는 보험 제공을 중단하기도 합니다.
-    
-    - 즉, 보험 산업이 먼저 변화하면 이는 기후 변화로 인해 금융 시스템과 경제에 본격적인 영향을 미칠 것이라는 신호가 될 수 있습니다.
-    
+- 보험사는 **위험을 평가하고, 가격을 책정하며, 손실을 대비하는 역할**을 합니다.
+
+- 기후 변화로 인해 **자연재해(산불, 홍수, 태풍 등)가 증가**하면 보험사들은 이를 반영하여 보험료를 인상하거나, 특정 지역에서는 보험 제공을 중단하기도 합니다.
+
+- 즉, 보험 산업이 먼저 변화하면 이는 기후 변화로 인해 금융 시스템과 경제에 본격적인 영향을 미칠 것이라는 신호가 될 수 있습니다.
+
 > “We are fast approaching temperature levels – 1.5C, 2C, 3C – where insurers will no longer be able to offer coverage for many of these risks,” he said. “The math breaks down: the premiums required exceed what people or companies can pay. This is already happening. Entire regions are becoming uninsurable.”
 
-- **[Insly: Insurance Industry Braces for AI & Climate Disruption](https://insurtechdigital.com/articles/insly-insurance-industry-braces-for-ai-climate-disruption)**
-    
+> **[Insly: Insurance Industry Braces for AI & Climate Disruption](https://insurtechdigital.com/articles/insly-insurance-industry-braces-for-ai-climate-disruption)**
+> 
 > The insurance market faces structural changes in 2025 as climate risks and artificial intelligence reshape traditional business models.
 >
 > “In 2025, one of the dominant trends will be the continuation of a hard insurance market, driven by the rising frequency and intensity of natural disasters,” says Jaime Arias, President at Dynamic Insurance Solutions.

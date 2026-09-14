@@ -136,16 +136,13 @@ tags:
 
 ## Research
 
-
-### 산업 개요
-
-#### Data and analytics in the driver’s seat of the used-car market (Aug-23)
+### Data and analytics in the driver’s seat of the used-car market (Aug-23)
 
 > Though supply is recovering for some models, demand is now under pressure bcz of purchasing power depressions drvien by inflationary tendencies. Consquently, dealers are losing pricing power: the avg. price of a used car in the US increased by 25% btw 20-22, has fallen after the peak in 2022. Demand and supply are affected by - high int rate → higher cost of financing → decrease auto finance comp’s margin
 >
 > 95% of consumers start search online, 70% use third-party website to compare prices
 
-#### Used Cars Market Trends: Price Shifts & Consumer Behavior in 2025 (Mar-25)
+### Used Cars Market Trends: Price Shifts & Consumer Behavior in 2025 (Mar-25)
 
 > In 2025, dealerships expect to sell approximately 38 million used cars, increasing sales by 1%.
 >
@@ -207,8 +204,6 @@ Financing accessibility is critical in the used car market.
 	결론적으로, 미국의 철강 및 알루미늄 관세 부과는 캐나다 자동차 산업과 소비자들에게 잠재적인 영향을 미칠 수 있으며, 신차 가격 상승의 가능성을 높이고 있습니다.
 
 ### 기업 분석
-
-#### 기업 개요
 
 > Carvana Co. is revolutionizing the way people buy and sell used cars in the United States. Founded in 2012 and headquartered in Tempe, Arizona, Carvana has **transformed the traditional car-buying experience into a seamless online journey**. The company’s e-commerce platform empowers customers to browse, research, and purchase vehicles from the comfort of their homes, making car shopping faster, easier, and more transparent.
 >

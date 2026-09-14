@@ -178,81 +178,79 @@ CFO Brian Olsavsky는 *"Q2의 성장률과 Prime Day 성공에 만족한다"*면
 
 ## Research
 
-### 자료
+### 국민연금 아마존 투자 비중 증가
 
-- 국민연금 아마존 투자 비중 증가
-    
-    - 국민연금이 구입한 미국주식 종목은 SEC에서 확인 가능
-    
-    - 미국 상장사 뿐 아니라 미국 주식에 1억달러 이상 투자를 한 기관에게도 마감일 기준 45일 안에 포트폴리오를 보고받고 있음
-    
-    - 국민연금은 25년 2분기 넷플릭스와 **아마존**, 테슬라 순으로 비중이 많이 늘어남
-    
-    - 비중이 줄어든 종목은 유나이티드 헬스케어, 일라이 릴리 등
-    
-    - 최근 유나이티드 헬스케어와 일라이 릴리의 폭락을 피해 매도한 것으로 보임
-    
-    - ==국민연금 수익률? 국민연금의 종목 픽에 집중해야 하는 이유==
-        
-        - ==지난 해 국민연금은 해외주식 연간 수익률 34.32%를 기록, 지난 1분기에는 -1.56%==
-        
-        - ==국민연금은 아마존의 강력한 실적 성장, 마진 확대, AI 및 클라우드 컴퓨팅 분야에서의 선도적 위치를 고려해 아마존 투자 비중을 늘리고 있는 것으로 보임==
-        
-        - ==국민연금은 중기 자산 배분 계획에 따라 5년의 투자 기간을 설정하고 목표 포트폴리오, 수익률, 위험 허용 범위를 제시. 2025-2029 5년간의 목표 수익률 5.4%, 2030년까지 주식 비중을 55%까지 늘릴 계획.==
-        
-        - ==기금 운용에서 수익성만큼 안정성을 중시.==
-        
-        - 1988~2023년 누적 수익률은 각각 국내 주식 6.53%, 해외 주식 11.04%, 국내 채권 3.61%, 해외 채권 4.02%, 대체투자 9.28%로 해외주식과 대체투자가 다른 자산군에 비해 높음. 국민연금이 해외 투자 비중을 늘리고 있는 이유. 지역적으로는 북미에 65%가량 투자
-    
-    - 넷플릭스와 아마존 등 안정적 현금 창출력을 갖춘 대형주 비중을 상향한 것으로 보임.
+- 국민연금이 구입한 미국주식 종목은 SEC에서 확인 가능
 
-- CATALYST
-    
-    - **광고 사업 성장**
-        
-        - 아마존은 올해 광고 사업에서 영역을 크게 늘릴 것에 대한 기대가 큼. AWS도 이번 분기를 저점으로 YoY 기준 가속화될 것으로 예상. 업사이클이 오면 EPS 성장률을 20%~25%로 잡는 기업, CY25 PER 34배, PEG 1.5배
-        
-        - 2024년 562억달러에서 향후 2-3년 내 800-900억 달러 목표
-        
-        - Roku 파트너십으로 미국 최대 CTV 인증 네트워크 구축
-        
-        - AI 기반 고도화된 광고 타겟팅으로 ROAS 개선
+- 미국 상장사 뿐 아니라 미국 주식에 1억달러 이상 투자를 한 기관에게도 마감일 기준 45일 안에 포트폴리오를 보고받고 있음
 
-    - **관세 영향**
-        
-        - 세계 각국으로부터 물건을 수입해 미국 내 판매하는 전자상거래 사업을 영위하고 있는 만큼, 국가별 관세 영향을 받아 물건 가격 상승 및 소비자 심리에 영향을 미칠 수 있음
-        
-        - 아마존의 매출 증가는 전체 미국 내 소비에 대한 지표로써 참조 가능
+- 국민연금은 25년 2분기 넷플릭스와 **아마존**, 테슬라 순으로 비중이 많이 늘어남
 
-    - **AI에 대한 전략적 투자 본격화 & 로봇을 통한 수익성 개선**
-        
-        - 2025년을 기점으로 AI 투자 본격화 - CAPEX 규모 대폭 확대
-        
-        - 2025년 한 해 총 1천억 달러 투입 계획, 상당 부분이 AI 인프라 확중에 짖ㅂ중
-        
-        - AWS의 AI 관련 수요가 급증하는 상황에서 고성능 GPU 클러스터와 데이터센터 확장에 대한 투자가 이루어지고 있음
-        
-        - 펜실베이니아 200억 달러 규모 AI 데이터센터 신축, 노스캐롤라이나 인프라 확장 등 지역별로 분산된 컴퓨팅 인프라 확보
-        
-        - 하드웨어 경쟁력 확보를 위한 자체 반도체 설계 병행 - 고성능 AI 학습용 칩인 Trainium, 추론 전용 칩 Inferentia를 통해 외부 반도체 의존도를 낮추고 있으며, AWS의 AI 서비스에 최적화된 구조로 설계되어 AI 워크로드 처리 효율성 극대화
-        
-        - 파운데이션 모델 및 AI 응용 프로그램 개발을 지원하는 플랫폼인 Bedrock 중심 관리형 LLM 서비스 확대 - LLM활용한 애플리케이션을 빠르게 구축 가능, AWS의 고객 락인 효과 강화, 매출 다변화 수단
-        
-        - Anthropic에 대한 대규모 지분 투자 - 2023년 9월부터 2024년 11월까지 80억 달러를 투입해 Anthropic의 최대주주로 부상
-        
-        - google의 투자액 30억달러를 크게 상회, Anthropic이 아마존의 칩을 기반으로 Claude 모델을 학습 및 배포하도록 유도함으로써 AWS 기반의 전략적 시너지를 동시에 창출. Anthropic은 Physical AI로 진화중이며, 물류/로봇 등 아마존의 실물 자산 기반 사업과 직접적으로 연결되어 있음
-        
-        - 전 세계 물류센터에 100만대 이상의 로봇을 배치. 2024년 6월 발표딘 AI 파운데이션 모델 Deep Fleet는 로봇의 실시간 이동 최적화를 통해 전체 물류 네트워크의 운영 효율성을 10% 향상
-        
-        - 2025년 3월 Nova Act라는 AI 에이전트 공개. 아마존의 음성비서인 Alexa Plus에 통합되어 서비스 차별화 예정.
-        
-        - AWS Summit New York 2025
-        
-        - The key catalysts for AWS's margin expansion are **its AI-driven services and infrastructure innovations.** Amazon Bedrock's integration of cutting-edge models like Anthropic's Claude 3.7 and Meta's Llama 4 has attracted enterprise clients seeking generative AI solutions. Additionally, **AWS Outposts and Amazon SageMaker Unified Studio are expanding the segment's addressable market by enabling hybrid cloud deployments and developer productivity tools.** These offerings not only drive recurring revenue but also lock in clients through ecosystem dependency.
-        
-        - Amazon's **AI and robotics initiatives are transforming its logistics network into a cost-efficient, high-speed machine.** The company has deployed over 1 million robots globally, including Hercules (for heavy lifting), Pegasus (for precision sorting), and Proteus (for autonomous navigation). These robots now handle 75% of customer orders, with the Shreveport, Louisiana fulfillment center operating at ten times the automation density of previous facilities.
-        
-        - The introduction of **DeepFleet**, a generative AI model **optimizing robot movement by 10%**, is a game-changer. By reducing congestion and energy usage, DeepFleet is projected to cut operational costs by $16 billion annually by 2032. Meanwhile, AI-powered delivery maps and eyeglasses for drivers are streamlining last-mile logistics, further enhancing margins.
+- 비중이 줄어든 종목은 유나이티드 헬스케어, 일라이 릴리 등
+
+- 최근 유나이티드 헬스케어와 일라이 릴리의 폭락을 피해 매도한 것으로 보임
+
+- ==국민연금 수익률? 국민연금의 종목 픽에 집중해야 하는 이유==
+	
+	- ==지난 해 국민연금은 해외주식 연간 수익률 34.32%를 기록, 지난 1분기에는 -1.56%==
+	
+	- ==국민연금은 아마존의 강력한 실적 성장, 마진 확대, AI 및 클라우드 컴퓨팅 분야에서의 선도적 위치를 고려해 아마존 투자 비중을 늘리고 있는 것으로 보임==
+	
+	- ==국민연금은 중기 자산 배분 계획에 따라 5년의 투자 기간을 설정하고 목표 포트폴리오, 수익률, 위험 허용 범위를 제시. 2025-2029 5년간의 목표 수익률 5.4%, 2030년까지 주식 비중을 55%까지 늘릴 계획.==
+	
+	- ==기금 운용에서 수익성만큼 안정성을 중시.==
+	
+	- 1988~2023년 누적 수익률은 각각 국내 주식 6.53%, 해외 주식 11.04%, 국내 채권 3.61%, 해외 채권 4.02%, 대체투자 9.28%로 해외주식과 대체투자가 다른 자산군에 비해 높음. 국민연금이 해외 투자 비중을 늘리고 있는 이유. 지역적으로는 북미에 65%가량 투자
+
+- 넷플릭스와 아마존 등 안정적 현금 창출력을 갖춘 대형주 비중을 상향한 것으로 보임.
+
+### CATALYST
+
+- **광고 사업 성장**
+	
+	- 아마존은 올해 광고 사업에서 영역을 크게 늘릴 것에 대한 기대가 큼. AWS도 이번 분기를 저점으로 YoY 기준 가속화될 것으로 예상. 업사이클이 오면 EPS 성장률을 20%~25%로 잡는 기업, CY25 PER 34배, PEG 1.5배
+	
+	- 2024년 562억달러에서 향후 2-3년 내 800-900억 달러 목표
+	
+	- Roku 파트너십으로 미국 최대 CTV 인증 네트워크 구축
+	
+	- AI 기반 고도화된 광고 타겟팅으로 ROAS 개선
+
+- **관세 영향**
+	
+	- 세계 각국으로부터 물건을 수입해 미국 내 판매하는 전자상거래 사업을 영위하고 있는 만큼, 국가별 관세 영향을 받아 물건 가격 상승 및 소비자 심리에 영향을 미칠 수 있음
+	
+	- 아마존의 매출 증가는 전체 미국 내 소비에 대한 지표로써 참조 가능
+
+- **AI에 대한 전략적 투자 본격화 & 로봇을 통한 수익성 개선**
+	
+	- 2025년을 기점으로 AI 투자 본격화 - CAPEX 규모 대폭 확대
+	
+	- 2025년 한 해 총 1천억 달러 투입 계획, 상당 부분이 AI 인프라 확중에 짖ㅂ중
+	
+	- AWS의 AI 관련 수요가 급증하는 상황에서 고성능 GPU 클러스터와 데이터센터 확장에 대한 투자가 이루어지고 있음
+	
+	- 펜실베이니아 200억 달러 규모 AI 데이터센터 신축, 노스캐롤라이나 인프라 확장 등 지역별로 분산된 컴퓨팅 인프라 확보
+	
+	- 하드웨어 경쟁력 확보를 위한 자체 반도체 설계 병행 - 고성능 AI 학습용 칩인 Trainium, 추론 전용 칩 Inferentia를 통해 외부 반도체 의존도를 낮추고 있으며, AWS의 AI 서비스에 최적화된 구조로 설계되어 AI 워크로드 처리 효율성 극대화
+	
+	- 파운데이션 모델 및 AI 응용 프로그램 개발을 지원하는 플랫폼인 Bedrock 중심 관리형 LLM 서비스 확대 - LLM활용한 애플리케이션을 빠르게 구축 가능, AWS의 고객 락인 효과 강화, 매출 다변화 수단
+	
+	- Anthropic에 대한 대규모 지분 투자 - 2023년 9월부터 2024년 11월까지 80억 달러를 투입해 Anthropic의 최대주주로 부상
+	
+	- google의 투자액 30억달러를 크게 상회, Anthropic이 아마존의 칩을 기반으로 Claude 모델을 학습 및 배포하도록 유도함으로써 AWS 기반의 전략적 시너지를 동시에 창출. Anthropic은 Physical AI로 진화중이며, 물류/로봇 등 아마존의 실물 자산 기반 사업과 직접적으로 연결되어 있음
+	
+	- 전 세계 물류센터에 100만대 이상의 로봇을 배치. 2024년 6월 발표딘 AI 파운데이션 모델 Deep Fleet는 로봇의 실시간 이동 최적화를 통해 전체 물류 네트워크의 운영 효율성을 10% 향상
+	
+	- 2025년 3월 Nova Act라는 AI 에이전트 공개. 아마존의 음성비서인 Alexa Plus에 통합되어 서비스 차별화 예정.
+	
+	- AWS Summit New York 2025
+	
+	- The key catalysts for AWS's margin expansion are **its AI-driven services and infrastructure innovations.** Amazon Bedrock's integration of cutting-edge models like Anthropic's Claude 3.7 and Meta's Llama 4 has attracted enterprise clients seeking generative AI solutions. Additionally, **AWS Outposts and Amazon SageMaker Unified Studio are expanding the segment's addressable market by enabling hybrid cloud deployments and developer productivity tools.** These offerings not only drive recurring revenue but also lock in clients through ecosystem dependency.
+	
+	- Amazon's **AI and robotics initiatives are transforming its logistics network into a cost-efficient, high-speed machine.** The company has deployed over 1 million robots globally, including Hercules (for heavy lifting), Pegasus (for precision sorting), and Proteus (for autonomous navigation). These robots now handle 75% of customer orders, with the Shreveport, Louisiana fulfillment center operating at ten times the automation density of previous facilities.
+	
+	- The introduction of **DeepFleet**, a generative AI model **optimizing robot movement by 10%**, is a game-changer. By reducing congestion and energy usage, DeepFleet is projected to cut operational costs by $16 billion annually by 2032. Meanwhile, AI-powered delivery maps and eyeglasses for drivers are streamlining last-mile logistics, further enhancing margins.
 
 ### 2Q25 Earnings
 

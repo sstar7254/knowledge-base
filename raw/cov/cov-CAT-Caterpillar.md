@@ -6,6 +6,7 @@ tags:
   - construction
 ---
 
+## Research
 ### IIJA (Infrastructure Investment and Jobs Act, 인프라 투자 및 일자리법)
 
 - 도로, 철도, 상수도, 전력망 등 사회적 생산기반에 향후 10년간 총 1.2조 달러를 투자하는 법안
