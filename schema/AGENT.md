@@ -126,10 +126,11 @@ tags:
   - **geopolitics/\<국가·지역\>** — china, japan, us, middle-east 등 지정학적 메인 대상 (대상이 불명확하면 `geopolitics`)
   - **supply-chain**, **supply-chain/logistics**
   - 섹터 키워드: **ai**(클라우드·소프트웨어·AI 하드웨어 포함) · **semiconductor** · **robotics** ·
-    **energy**(원자력·SMR·LNG·ESS·광물 포함) · **shipbuilding** · **defense** · **aerospace** ·
-    **automotive**(전기차 포함) · **construction**(건설·중장비) · **cosmetics**(OEM/ODM 포함) ·
+    **electronics**(가전·디스플레이·전자부품 완제품 제조) · **energy**(원자력·SMR·LNG·ESS·광물 포함) ·
+    **shipbuilding** · **defense** · **aerospace** · **automotive**(전기차 포함) ·
+    **construction**(건설·중장비) · **cosmetics**(OEM/ODM 포함) · **trading**(종합상사·원자재 트레이딩) ·
     **retail**(이커머스·외식·소비재 포함) · **pharma**(바이오·의료기기 포함) · **entertainment** ·
-    **esg** · **demographics** · **evtol**
+    **finance** · **esg** · **demographics** · **evtol**
 
 ### LLM이 리서치를 raw에 저장할 때 (source-digest 원칙)
 
