@@ -38,16 +38,9 @@ CCS를 통해 포집한 CO2는 화학적/생물학적 반응을 통해 블루 �
 ### 1. 지속적인 화석 연료, 그 중에서도 셰일 오일의 꾸준한 수요가 있을 것
 
 [[셰일혁명 (Shale Revolution)|셰일 오일]]은 미국 내에서 생산되는 전체 원유량의 70~80%
-![[OXY_Occidental Petroleum-5.png|image 2 9.png]]
 
 ### 2. 차세대 미래 먹거리 CCUS
 
 현재 중요한 에너지 발전수단 중 하나인 석탄 발전에서 탄소를 줄이는 방법은 CCS이다. CCS(Carbon Capture and Storage)는 탄소를 대기 중으로 대량 배출하는 산업시설로부터 탄소를 포집한 후 압축·수송 과정을 거쳐 안전하게 저장하는 일련의 과정 및 기술이다. **DAC(Direct Air Capture)는 이런 CCS의 종류 중 하나로 CCS가 산업시설로부터 탄소를 포집한다면 DAC는 대기 중에서 탄소를 포집하는 기술**이다. CCS가 기존 석탄 발전에서 탈탄소 전략의 핵심이 되는 이유는 파이프라인이 어느정도 구축 되어있기 때문이다. 2023년 기준 CCS시설의 용량은 42.58Mtpa이다. 전 세계 탄소 배출량에서 차지하는 비율이 0.1%에 불과하지만, 추후 2030년까지 CAGR 21.5%가 전망된다.
-
-![[OXY_Occidental Petroleum-3.png|image 4 7.png]]
-
-![[OXY_Occidental Petroleum-6.png|image 5 4.png]]
-
-![[OXY_Occidental Petroleum-4.png|image 6 3.png]]
 
 Direct air capture (DAC) technologies extract CO2 directly from the atmosphere at any location, unlike carbon capture which is generally carried out at the point of emissions, such as a steel plant. The CO2 can be permanently stored in deep geological formations or used for a variety of applications

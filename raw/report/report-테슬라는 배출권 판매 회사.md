@@ -3,7 +3,8 @@ type: report
 date:
 updated:
 tags:
-  - shipbuilding
+  - esg
+  - automotive
 ---
 
 **테슬라는 배출권 판매 회사?**

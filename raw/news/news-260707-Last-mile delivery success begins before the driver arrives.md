@@ -4,7 +4,7 @@ date: 2026-07-07
 updated: 2026-07-07
 tags:
   - supply-chain/logistics
-  - ecommerce
+  - retail
 ---
 
 **개요**

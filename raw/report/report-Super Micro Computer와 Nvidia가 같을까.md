@@ -78,7 +78,7 @@ TSMC 파운드리가 '26년까지 독주하는 것은 기정사실
 
 **미국 테크 업데이트**
 
-[[cov-MSFT-Microsoft|MSFT]]
+MSFT
 
 Copilot으로 어닝 서프라이즈가 발생하는 것이 중요
 

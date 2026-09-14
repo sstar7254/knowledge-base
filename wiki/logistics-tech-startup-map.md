@@ -1,7 +1,7 @@
 ---
 type: index
 date: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-13
 tags:
   - supply-chain/logistics
   - vc
@@ -71,7 +71,7 @@ tags:
 - **정량 ROI로 빠른 가치 증명**: 인보이스 지연 -40%(Augment), 재고정확도 99.9%(Dexory),
   3년 만 흑자·인당 생산성(케이존).
 - **네트워크/얼라이언스 편승**: 네이버 NFA(파스토·테크타카), 초고성장 화주 Shein/Temu(UniUni),
-  Uber Freight·OEM(Waabi).
+  [[cov-UBER-Uber|Uber]] Freight·OEM(Waabi).
 - **AI 에이전트로의 전환**: 룰 기반 → AI 에이전트(케이존), AI 네이티브 운영(Augment·FleetWorks).
 - **무자산/자본효율 확장 vs 자산집약 캐파**: 콜로세움·테크타카(경량) ↔ 파스토(자산) ↔ Dexory·Waabi
   (하드웨어 집약) — 자본 강도에 따라 성장·펀딩 구조가 갈린다.

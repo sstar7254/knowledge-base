@@ -183,8 +183,6 @@ tags:
 
 강세와 약세의 근거가 갈리는 지점은 하나다. **웨드부시 등 강세 측은 FY28 약 70% 성장 안내와 공급 제약이라는 표현을 수요의 강함으로 읽고, 골드만삭스의 Neutral은 같은 기간 매출총이익률이 71-72%까지 내려간다는 점을 들어 이익 성장이 매출 성장을 따라가지 못할 가능성에 무게를 둔다.** 목표주가는 $300으로 같지만 의견이 Buy와 Neutral로 갈리는 것이 그 차이다.
 
-## 6. 각주
-
 [^10k]: NVIDIA Corporation, Form 10-K, FY2026 (fiscal year ended January 25, 2026), SEC EDGAR. https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm (접속: 2026-09-04)
 [^fy26pr]: NVIDIA, "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026", Investor Relations. https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/ (접속: 2026-09-04)
 [^q4cfo]: NVIDIA, Form 8-K, Q4 FY26 CFO Commentary, SEC EDGAR. https://www.sec.gov/Archives/edgar/data/1045810/000104581026000019/q4fy26cfocommentary.htm (접속: 2026-09-04)

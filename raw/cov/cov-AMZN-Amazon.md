@@ -1,132 +1,264 @@
 ---
 type: overview
 date: 2025-08-10
-updated: 2025-08-31
+updated: 2026-09-14
 tags:
-  - ai/cloud
+  - ai
   - retail
 ---
 
-### 자료
+## 국민연금과 빌 애크먼의 BUY 시그널 (2025.08.10)
 
-- 국민연금 아마존 투자 비중 증가
-    
-    - 국민연금이 구입한 미국주식 종목은 SEC에서 확인 가능
-    
-    - 미국 상장사 뿐 아니라 미국 주식에 1억달러 이상 투자를 한 기관에게도 마감일 기준 45일 안에 포트폴리오를 보고받고 있음
-    
-    - [https://whalewisdom.com/filer/national-pension-service](https://whalewisdom.com/filer/national-pension-service)
-        
-        ![[AMZN_Amazon-5.png|image 45.png]]
-        
-    
-    - 국민연금은 25년 2분기 넷플릭스와 **아마존**, 테슬라 순으로 비중이 많이 늘어남
-    
-    - 비중이 줄어든 종목은 유나이티드 헬스케어, 일라이 릴리 등
-    
-    - 최근 유나이티드 헬스케어와 일라이 릴리의 폭락을 피해 매도한 것으로 보임
-    
-    - ==국민연금 수익률? 국민연금의 종목 픽에 집중해야 하는 이유==
-        
-        - ==지난 해 국민연금은 해외주식 연간 수익률 34.32%를 기록, 지난 1분기에는 -1.56%==
-        
-        - ==국민연금은 아마존의 강력한 실적 성장, 마진 확대, AI 및 클라우드 컴퓨팅 분야에서의 선도적 위치를 고려해 아마존 투자 비중을 늘리고 있는 것으로 보임==
-        
-        - ==국민연금은 중기 자산 배분 계획에 따라 5년의 투자 기간을 설정하고 목표 포트폴리오, 수익률, 위험 허용 범위를 제시. 2025-2029 5년간의 목표 수익률 5.4%, 2030년까지 주식 비중을 55%까지 늘릴 계획.==
-        
-        - ==기금 운용에서 수익성만큼 안정성을 중시.==
-        
-        - 1988~2023년 누적 수익률은 각각 국내 주식 6.53%, 해외 주식 11.04%, 국내 채권 3.61%, 해외 채권 4.02%, 대체투자 9.28%로 해외주식과 대체투자가 다른 자산군에 비해 높음. 국민연금이 해외 투자 비중을 늘리고 있는 이유. 지역적으로는 북미에 65%가량 투자
-        
-        ![[AMZN_Amazon-1.png|image 1 29.png]]
-        
-        ![[AMZN_Amazon-2.png|image 2 22.png]]
-        
-    
-    - 넷플릭스와 아마존 등 안정적 현금 창출력을 갖춘 대형주 비중을 상향한 것으로 보임.
-    
+> 출처: [52. Amazon(AMZN)](https://docs.google.com/document/d/1ZTq-OyPuf8YBdIanZvekP0lglxCfvBCfgCDpTVRAxfM/edit)
 
-- 13F에서도 갈리는 아마존에 대한 투자 의견
-    
-    - Coatue Management (테크 중심 투자사, AUM 695억 달러)
-        
-        ![[AMZN_Amazon-3.png|image 3 19.png]]
-        
-    
-    - Tiger Global Management (테크 중심 투자사, AUM 695억 달러)
-        
-        ![[AMZN_Amazon-4.png|image 4 15.png]]
-        
-    
-    - 퍼싱 스퀘어 캐피탈 (빌 애크먼, AUM 137억 달러)
-        
-        ![[AMZN_Amazon-6.png|image 5 11.png]]
-        
-        - 퍼싱스퀘어가 아마존을 9.31% 신규 매수하며 주가 +2.9%
-        
-    
+### 국민연금은 왜 아마존 비중을 늘렸나
 
-- CATALYST
-    
-    - **광고 사업 성장**
-        
-        - 아마존은 올해 광고 사업에서 영역을 크게 늘릴 것에 대한 기대가 큼. AWS도 이번 분기를 저점으로 YoY 기준 가속화될 것으로 예상. 업사이클이 오면 EPS 성장률을 20%~25%로 잡는 기업, CY25 PER 34배, PEG 1.5배
-        
-        - 2024년 562억달러에서 향후 2-3년 내 800-900억 달러 목표
-        
-        - Roku 파트너십으로 미국 최대 CTV 인증 네트워크 구축
-        
-        - AI 기반 고도화된 광고 타겟팅으로 ROAS 개선
-        
-    
-    - **관세 영향**
-        
-        - 세계 각국으로부터 물건을 수입해 미국 내 판매하는 전자상거래 사업을 영위하고 있는 만큼, 국가별 관세 영향을 받아 물건 가격 상승 및 소비자 심리에 영향을 미칠 수 있음
-        
-        - 아마존의 매출 증가는 전체 미국 내 소비에 대한 지표로써 참조 가능
-        
-    
-    - **AI에 대한 전략적 투자 본격화 & 로봇을 통한 수익성 개선**
-        
-        - 2025년을 기점으로 AI 투자 본격화 - CAPEX 규모 대폭 확대
-        
-        - 2025년 한 해 총 1천억 달러 투입 계획, 상당 부분이 AI 인프라 확중에 짖ㅂ중
-        
-        - AWS의 AI 관련 수요가 급증하는 상황에서 고성능 GPU 클러스터와 데이터센터 확장에 대한 투자가 이루어지고 있음
-        
-        - 펜실베이니아 200억 달러 규모 AI 데이터센터 신축, 노스캐롤라이나 인프라 확장 등 지역별로 분산된 컴퓨팅 인프라 확보
-        
-        - 하드웨어 경쟁력 확보를 위한 자체 반도체 설계 병행 - 고성능 AI 학습용 칩인 Trainium, 추론 전용 칩 Inferentia를 통해 외부 반도체 의존도를 낮추고 있으며, AWS의 AI 서비스에 최적화된 구조로 설계되어 AI 워크로드 처리 효율성 극대화
-        
-        - 파운데이션 모델 및 AI 응용 프로그램 개발을 지원하는 플랫폼인 Bedrock 중심 관리형 LLM 서비스 확대 - LLM활용한 애플리케이션을 빠르게 구축 가능, AWS의 고객 락인 효과 강화, 매출 다변화 수단
-        
-        - Anthropic에 대한 대규모 지분 투자 - 2023년 9월부터 2024년 11월까지 80억 달러를 투입해 Anthropic의 최대주주로 부상
-        
-        - google의 투자액 30억달러를 크게 상회, Anthropic이 아마존의 칩을 기반으로 Claude 모델을 학습 및 배포하도록 유도함으로써 AWS 기반의 전략적 시너지를 동시에 창출. Anthropic은 Physical AI로 진화중이며, 물류/로봇 등 아마존의 실물 자산 기반 사업과 직접적으로 연결되어 있음
-        
-        - 전 세계 물류센터에 100만대 이상의 로봇을 배치. 2024년 6월 발표딘 AI 파운데이션 모델 Deep Fleet는 로봇의 실시간 이동 최적화를 통해 전체 물류 네트워크의 운영 효율성을 10% 향상
-        
-        - 2025년 3월 Nova Act라는 AI 에이전트 공개. 아마존의 음성비서인 Alexa Plus에 통합되어 서비스 차별화 예정.
-        
-        - AWS Summit New York 2025
-        
-        - The key catalysts for AWS's margin expansion are **its AI-driven services and infrastructure innovations.** Amazon Bedrock's integration of cutting-edge models like Anthropic's Claude 3.7 and Meta's Llama 4 has attracted enterprise clients seeking generative AI solutions. Additionally, **AWS Outposts and Amazon SageMaker Unified Studio are expanding the segment's addressable market by enabling hybrid cloud deployments and developer productivity tools.** These offerings not only drive recurring revenue but also lock in clients through ecosystem dependency.
-        
-        - Amazon's **AI and robotics initiatives are transforming its logistics network into a cost-efficient, high-speed machine.** The company has deployed over 1 million robots globally, including Hercules (for heavy lifting), Pegasus (for precision sorting), and Proteus (for autonomous navigation). These robots now handle 75% of customer orders, with the Shreveport, Louisiana fulfillment center operating at ten times the automation density of previous facilities.
-        
-        - The introduction of **DeepFleet**, a generative AI model **optimizing robot movement by 10%**, is a game-changer. By reducing congestion and energy usage, DeepFleet is projected to cut operational costs by $16 billion annually by 2032. Meanwhile, AI-powered delivery maps and eyeglasses for drivers are streamlining last-mile logistics, further enhancing margins.
-        
-    
+**왜 국민연금의 선택을 봐야 하나**: 해외주식 운용 성과 때문이다.
 
----
+| 기간 | 수익률 |
+| --- | --- |
+| 지난해 해외주식 | **+34.32%** |
+| 지난 1분기 (시장 조정) | -1.56% |
+| 1988-2023년 해외주식 누적 연평균 | **11.04%** |
+| 같은 기간 국내주식 | 6.53% |
 
-##  2Q25 Earnings
+이 트랙 레코드가 국민연금이 **전체 자산의 약 65%를 북미에 투자**하며 해외 비중을 늘리는 이유를 설명한다.
+
+**2Q25 공시에서 드러난 방향** (SEC는 미국 주식에 1억 달러 이상 투자하는 기관의 포트폴리오를 분기마다 보고받는다)
+
+- **비중 확대**: 넷플릭스 > **아마존** > 테슬라 순
+- **비중 축소**: 유나이티드 헬스케어, 일라이 릴리 등 헬스케어
+- **패턴**: 최근 주가 하락을 겪은 종목을 선제적으로 매도하고 **안정적 현금 창출력을 갖춘 대형 기술주**로 이동
+
+**아마존을 고른 근거로 리포트가 꼽는 세 가지**: 견고한 실적 성장세, 수익성 개선을 통한 마진 확대, **AI 및 클라우드(AWS) 분야의 선도적 위치**.
+
+이는 국민연금의 **'2025-2029 중기 자산 배분 계획'**과도 맞물린다. 향후 5년간 목표 수익률 **5.4%**, 주식 비중을 **2030년까지 55%**로 확대. 수익성만큼 '안정성'을 중시하는 원칙 아래 검증된 우량 성장주 중심으로 포트폴리오를 강화하겠다는 뜻이다.
+
+### 헤지펀드는 엇갈린다
+
+| 펀드 | 움직임 |
+| --- | --- |
+| **코튜 매니지먼트** | 아마존 비중 **-2.9% 축소** |
+| **퍼싱 스퀘어 캐피탈** (빌 애크먼) | 펀드 내 **9.31%** 비중으로 **신규 매수** |
+
+가치 투자를 지향하는 빌 애크먼이 대규모로 신규 진입했다는 사실 자체가 신호로 작용했다. 매수 소식이 전해지자 **아마존 주가는 하루 만에 2.9% 상승**했다.
+
+### AWS는 선두를 지킬 수 있을까
+
+**시장 지위** (Synergy Research Group, 4Q24 기준 글로벌 클라우드 인프라)
+
+| 사업자 | 점유율 |
+| --- | --- |
+| **AWS** | 30% |
+| Microsoft Azure | 21% |
+| Google Cloud | 12% |
+
+**AWS를 선택하는 이유**
+
+- **보안과 신뢰성**: 데이터 암호화, 접근 제어, 위협 탐지 등을 제공해 민감 정보를 다루는 기업의 신뢰를 받는다
+- **서비스 폭**: 경쟁사보다 훨씬 많은 **200개 이상의 서비스**로 거의 모든 워크로드를 지원
+- **안정성 프리미엄**: 서비스 중단이 치명적인 기업일수록 **경쟁사 대비 높은 비용을 기꺼이 지불**한다
+- **생태계 효과**: AWS 인프라 위에 사용자 친화적 솔루션을 얹는 **SaaS 기업들이 대거 등장**하며 네트워크 효과를 공고히 했다
+
+**그런데 2Q25 성장률이 문제가 됐다**
+
+| 사업자 | 2Q25 성장률 (YoY) |
+| --- | --- |
+| **AWS** | **+17.5%** |
+| Microsoft Azure | +39% |
+| Google Cloud | +32% |
+
+**CEO Andy Jassy의 해명**: AWS가 *"지속적인 공급 제약을 맞닥뜨린 상태이며, 전력 문제가 몇 분기 더 지속될 것"*이고 *"현재 수요가 역량을 초과하고 있어 더 많은 매출이 필요한 상황"*이라고 강조했다.
+
+- **백로그**: **1,950억 달러** 규모로, AWS 분기 매출 300억 달러를 크게 상회
+- **연간 AWS 매출 1,230억 달러**는 여전히 초기 단계라는 입장
+
+**수요 문제가 아니라 공급 문제라는 해석**: 생성형 AI 등장으로 GPU 등 고성능 컴퓨팅 수요가 폭발했고, 데이터센터 건설, 서버·네트워크 장비 조달, 특히 **AI 칩 공급망 문제**로 인프라 확장이 수요를 못 따라간다. BCG 등은 이것이 AWS만의 문제가 아니라 마이크로소프트와 구글도 직면한 문제라고 지적한다. 성장률 둔화를 **AI 투자에 따른 자연스러운 성장통**으로 볼 수 있다는 견해다.
+
+### AI 투자의 세 갈래
+
+**1. CAPEX**: 2025년 한 해 **총 1천억 달러** 투입 계획. 상당 부분이 AI 인프라 확충에 집중되며, 특히 고성능 GPU 클러스터와 데이터센터 확장에 쓰인다.
+
+**2. 자체 반도체와 파트너십**
+
+- **Trainium**(고성능 AI 학습용 칩), **Inferentia**(추론 전용 칩)를 자체 설계해 외부 반도체 의존도를 낮추고 AWS와의 연동성을 높였다
+- **Anthropic에 2023년부터 단계적으로 총 80억 달러 투자**. Claude 모델의 훈련·배포에 AWS 칩과 데이터센터 인프라를 활용해 **AI 고객 풀 확장과 인프라 사용량 증대** 효과를 노린다
+
+**3. 물류 AI (Deep Fleet)**
+
+- 전 세계 물류센터에 **100만 대 이상의 로봇** 배치. Hercules(운송), Pegasus(분류), Proteus(자동운행) 등이 **고객 주문의 75% 이상**을 처리
+- **Deep Fleet**은 로봇 이동 경로를 **10%까지 최적화**해 병목과 에너지 사용량을 줄인다
+- **2032년까지 매년 160억 달러의 운영 비용 절감** 기대
+
+### 아직 한 발 남았다: 광고 사업
+
+현재 아마존 사업 부문 중 **가장 높은 성장률**을 보이는 곳이 광고다.
+
+| 시점 | 광고 매출 |
+| --- | --- |
+| 2024년 | 560억 달러 |
+| 향후 2-3년 목표 | **800-900억 달러** |
+
+**경쟁 우위 4가지**
+
+- **독점적 플랫폼 지위**: 자사 이커머스 플랫폼에서 실질적 독점 지위를 가져 **광고 영업이익률 50% 이상**으로 추정
+- **구매 데이터 기반 타겟팅**: 타사와 달리 **실제 구매 데이터**로 타겟팅해 광고 효과가 월등하다
+- **AI 기반 혁신**: 고도화된 타겟팅으로 ROAS 개선
+- **CTV 시장 선점**: 아래 참조
+
+**Prime Video와 CTV**
+
+- Morgan Stanley는 Prime Video가 **2027년까지 유튜브를 제치고 미국 CTV 광고 1위**를 달성할 가능성을 제시
+- 유튜브 대비 높은 광고 비용에도 **브랜드 안전성** 때문에 수요가 높다
+- 최근 **Roku와 파트너십**을 맺어 미국 최대 CTV 네트워크에 독점적으로 접근할 권한을 확보
+
+리포트는 광고 사업이 **향후 3-5년간 가장 중요한 성장 동력**이 되며, **AWS를 넘어서는 차세대 수익 기둥**으로 부상할 가능성까지 점친다.
+
+## Amazon.com (AMZN) 기업분석 (2025.08.10)
+
+### 기업 개요
+
+**1994년 제프 베이조스가 시애틀 차고에서 창업, 1997년 나스닥 상장을 계기로 온라인 서점에서 글로벌 테크 플랫폼으로 진화.** 현재 전 세계 **150만 명의 직원**과 20여 개국에서 사업을 전개한다.
+
+**2025년 예상 매출 구성** (총 약 **$7,080억**)
+
+| 부문 | 비중 |
+| --- | --- |
+| 북미 | 60% |
+| 국제 | 21% |
+| AWS | 19% |
+
+- **이커머스**: 미국 전자상거래 점유율 **42%**. 홈&키친, 뷰티, 헬스, 패션, 유아, 반려동물 등 생활 밀착형 카테고리가 빠르게 성장
+- **포지션**: 2025년 전 세계 매출 기준 **기업 순위 3위**. 테무·쉬인 등 신규 경쟁에도 확장성과 브랜드 신뢰도로 독보적 위치 유지
+
+**AWS 상세**
+
+- 서버리스, 머신러닝, AI, 데이터 분석, IoT, 보안 등 **200여 종의 서비스를 32개 리전**에 제공
+- 전 세계 100만여 고객과 **포춘 500 기업 대부분**이 활용
+- 영업이익률 **33% 내외**, 클라우드·AI 시장 점유율 **31%**
+- 혁신 플랫폼: 자체 칩(Trainium, Inferentia), **Bedrock, SageMaker, Lambda**
+
+> ⚠️ 리포트가 AWS 연 매출을 두 군데서 다르게 적었다. 본문 앞에서는 Jassy 발언을 인용해 **1,230억 달러**라 했고, 기업 개요에서는 **3,090억 달러**라 했다. 전체 매출 $7,080억의 19%는 약 1,345억 달러이므로 **3,090억 달러 쪽이 오류**로 보인다.
+
+**주가**: 2-4월 관세 정책으로 타격을 받아 하락했다가, 1Q25 긍정적 실적 발표로 추세를 전환한 뒤 **AI 혁신 제품 출시와 애널리스트 목표가 상향**이 이어지며 강세가 지속되는 중이다.
+
+### 2Q25 리뷰
+
+**컨센서스는 상회했지만 주가는 빠졌다.**
+
+| 지표 | 2Q25 | 컨센서스 | 결과 |
+| --- | --- | --- | --- |
+| 매출 | $1,677억 (YoY +13.3%) | | 상회 |
+| EPS | $1.68 | | 상회 |
+| 북미 | $1,001억 | $971억 | **+3%** |
+| 국제 | $368억 | $344억 | **+7%** |
+| **AWS 영업이익** | **$102억** | $109억 | **-6.4%** |
+| AWS 영업마진 | 32.9% | | 하회 |
+
+**시간외 거래에서 7% 하락**했다. 원인은 두 가지, **AWS 마진 부진**과 **컨센서스를 다소 하회한 Q3 가이던스**다.
+
+CFO Brian Olsavsky는 *"Q2의 성장률과 Prime Day 성공에 만족한다"*면서도 *"관세와 거시경제적 불확실성을 감안한 신중한 전망"*이라고 설명했다.
+
+### 매출 트렌드
+
+- **지난 5년간 연평균 13% 성장**. 전자상거래, AWS, 광고의 복합적 성장으로 두 자릿수를 안정적으로 달성
+- **수익성**: 팬데믹 이후 소비 패턴 변화와 원가 상승으로 **이커머스 부문이 적자 전환**하며 악화 → 2024년 **물류 구조 혁신, AI 비용 효율화, 광고·AWS 등 고마진 사업 성장**으로 **OPM 10% 달성**
+
+### 기업 지표
+
+- **NTM P/E 33배**로 역사적 저점에 가깝다. 관세 등 매크로 불확실성으로 주가가 하락한 뒤 **실적 추정 전망치가 지속 상향**되고 있기 때문이다
+- **잉여현금흐름**: 2024년까지 지속 상승했으나 **2025년 대규모 AI CAPEX**로 다소 감소
+
+### 주주 환원
+
+**배당 없음, 자사주 매입 중심.** 2025년 기준 아마존은 **미국 빅테크(시총 1조 달러 이상) 중 유일하게 배당금을 지급하지 않는 회사**다.
+
+- 알파벳과 메타가 최근 배당에 나서며 **아마존의 정책 변경 가능성**에 대한 시장 기대가 커졌고, 현금흐름 증가로 '1-2년 내 배당 개시' 관측도 나온다. 다만 **공식적인 배당 계획은 없다**
+- **자사주 매입**: 2022년 100억 달러 한도 프로그램 이후 **추가 발표 없음**. 현재 AI와 광고 사업 재투자에 집중하고 있기 때문으로 판단된다
+
+## Research
+
+### 국민연금 아마존 투자 비중 증가
+
+- 국민연금이 구입한 미국주식 종목은 SEC에서 확인 가능
+
+- 미국 상장사 뿐 아니라 미국 주식에 1억달러 이상 투자를 한 기관에게도 마감일 기준 45일 안에 포트폴리오를 보고받고 있음
+
+- 국민연금은 25년 2분기 넷플릭스와 **아마존**, 테슬라 순으로 비중이 많이 늘어남
+
+- 비중이 줄어든 종목은 유나이티드 헬스케어, 일라이 릴리 등
+
+- 최근 유나이티드 헬스케어와 일라이 릴리의 폭락을 피해 매도한 것으로 보임
+
+- ==국민연금 수익률? 국민연금의 종목 픽에 집중해야 하는 이유==
+	
+	- ==지난 해 국민연금은 해외주식 연간 수익률 34.32%를 기록, 지난 1분기에는 -1.56%==
+	
+	- ==국민연금은 아마존의 강력한 실적 성장, 마진 확대, AI 및 클라우드 컴퓨팅 분야에서의 선도적 위치를 고려해 아마존 투자 비중을 늘리고 있는 것으로 보임==
+	
+	- ==국민연금은 중기 자산 배분 계획에 따라 5년의 투자 기간을 설정하고 목표 포트폴리오, 수익률, 위험 허용 범위를 제시. 2025-2029 5년간의 목표 수익률 5.4%, 2030년까지 주식 비중을 55%까지 늘릴 계획.==
+	
+	- ==기금 운용에서 수익성만큼 안정성을 중시.==
+	
+	- 1988~2023년 누적 수익률은 각각 국내 주식 6.53%, 해외 주식 11.04%, 국내 채권 3.61%, 해외 채권 4.02%, 대체투자 9.28%로 해외주식과 대체투자가 다른 자산군에 비해 높음. 국민연금이 해외 투자 비중을 늘리고 있는 이유. 지역적으로는 북미에 65%가량 투자
+
+- 넷플릭스와 아마존 등 안정적 현금 창출력을 갖춘 대형주 비중을 상향한 것으로 보임.
+
+### CATALYST
+
+- **광고 사업 성장**
+	
+	- 아마존은 올해 광고 사업에서 영역을 크게 늘릴 것에 대한 기대가 큼. AWS도 이번 분기를 저점으로 YoY 기준 가속화될 것으로 예상. 업사이클이 오면 EPS 성장률을 20%~25%로 잡는 기업, CY25 PER 34배, PEG 1.5배
+	
+	- 2024년 562억달러에서 향후 2-3년 내 800-900억 달러 목표
+	
+	- Roku 파트너십으로 미국 최대 CTV 인증 네트워크 구축
+	
+	- AI 기반 고도화된 광고 타겟팅으로 ROAS 개선
+
+- **관세 영향**
+	
+	- 세계 각국으로부터 물건을 수입해 미국 내 판매하는 전자상거래 사업을 영위하고 있는 만큼, 국가별 관세 영향을 받아 물건 가격 상승 및 소비자 심리에 영향을 미칠 수 있음
+	
+	- 아마존의 매출 증가는 전체 미국 내 소비에 대한 지표로써 참조 가능
+
+- **AI에 대한 전략적 투자 본격화 & 로봇을 통한 수익성 개선**
+	
+	- 2025년을 기점으로 AI 투자 본격화 - CAPEX 규모 대폭 확대
+	
+	- 2025년 한 해 총 1천억 달러 투입 계획, 상당 부분이 AI 인프라 확중에 짖ㅂ중
+	
+	- AWS의 AI 관련 수요가 급증하는 상황에서 고성능 GPU 클러스터와 데이터센터 확장에 대한 투자가 이루어지고 있음
+	
+	- 펜실베이니아 200억 달러 규모 AI 데이터센터 신축, 노스캐롤라이나 인프라 확장 등 지역별로 분산된 컴퓨팅 인프라 확보
+	
+	- 하드웨어 경쟁력 확보를 위한 자체 반도체 설계 병행 - 고성능 AI 학습용 칩인 Trainium, 추론 전용 칩 Inferentia를 통해 외부 반도체 의존도를 낮추고 있으며, AWS의 AI 서비스에 최적화된 구조로 설계되어 AI 워크로드 처리 효율성 극대화
+	
+	- 파운데이션 모델 및 AI 응용 프로그램 개발을 지원하는 플랫폼인 Bedrock 중심 관리형 LLM 서비스 확대 - LLM활용한 애플리케이션을 빠르게 구축 가능, AWS의 고객 락인 효과 강화, 매출 다변화 수단
+	
+	- Anthropic에 대한 대규모 지분 투자 - 2023년 9월부터 2024년 11월까지 80억 달러를 투입해 Anthropic의 최대주주로 부상
+	
+	- google의 투자액 30억달러를 크게 상회, Anthropic이 아마존의 칩을 기반으로 Claude 모델을 학습 및 배포하도록 유도함으로써 AWS 기반의 전략적 시너지를 동시에 창출. Anthropic은 Physical AI로 진화중이며, 물류/로봇 등 아마존의 실물 자산 기반 사업과 직접적으로 연결되어 있음
+	
+	- 전 세계 물류센터에 100만대 이상의 로봇을 배치. 2024년 6월 발표딘 AI 파운데이션 모델 Deep Fleet는 로봇의 실시간 이동 최적화를 통해 전체 물류 네트워크의 운영 효율성을 10% 향상
+	
+	- 2025년 3월 Nova Act라는 AI 에이전트 공개. 아마존의 음성비서인 Alexa Plus에 통합되어 서비스 차별화 예정.
+	
+	- AWS Summit New York 2025
+	
+	- The key catalysts for AWS's margin expansion are **its AI-driven services and infrastructure innovations.** Amazon Bedrock's integration of cutting-edge models like Anthropic's Claude 3.7 and Meta's Llama 4 has attracted enterprise clients seeking generative AI solutions. Additionally, **AWS Outposts and Amazon SageMaker Unified Studio are expanding the segment's addressable market by enabling hybrid cloud deployments and developer productivity tools.** These offerings not only drive recurring revenue but also lock in clients through ecosystem dependency.
+	
+	- Amazon's **AI and robotics initiatives are transforming its logistics network into a cost-efficient, high-speed machine.** The company has deployed over 1 million robots globally, including Hercules (for heavy lifting), Pegasus (for precision sorting), and Proteus (for autonomous navigation). These robots now handle 75% of customer orders, with the Shreveport, Louisiana fulfillment center operating at ten times the automation density of previous facilities.
+	
+	- The introduction of **DeepFleet**, a generative AI model **optimizing robot movement by 10%**, is a game-changer. By reducing congestion and energy usage, DeepFleet is projected to cut operational costs by $16 billion annually by 2032. Meanwhile, AI-powered delivery maps and eyeglasses for drivers are streamlining last-mile logistics, further enhancing margins.
+
+### 2Q25 Earnings
 
 _아마존([Amazon.com](http://amazon.com/), Inc.)은 1994년 제프 베이조스가 미국 시애틀에서 창업한 이후 온라인 서점에서 출발해 세계 최대 전자상거래와 클라우드 컴퓨팅 기업으로 성장한 미국의 다국적 기술 플랫폼이다. 온라인 리테일, 서드파티 판매자, 광고, 프라임 구독, 디지털 콘텐츠, AWS(아마존 웹 서비스) 등 다양한 사업 포트폴리오를 갖추고 있으며, AI 및 로봇 물류, 헬스케어, 오프라인 매장으로 영역을 확장하고 있다. 2025년 기준 약 $7,080억 매출, 2억2천만 프라임 회원, 42% 미국 이커머스 점유율을 기반으로 혁신적인 기술 투자와 글로벌 현지화 전략으로 지속적인 성장세를 이어가고 있다._
 
 > Amazon은 Q2 2025에서 매출 $1,677억(+13.3%), EPS $1.68로 컨센서스를 크게 상회하는 호실적을 기록했으나, AWS 마진 부진과 Q3 가이던스 하한선으로 주가는 시간외 거래에서 7% 하락했다.
 
-### 실적 요약
+#### 실적 요약
 
 - 총 매출: $1,677억 (YoY +13.3%, 컨센서스 $1,621억 대비 $56억 초과)
     - AWS: $309억 매출(17.5% 증가), 영업이익 $102억
@@ -157,7 +289,7 @@ Amazon은 **모든 주요 지표에서 컨센서스를 상회**하는 압도적
 
 CFO Brian Olsavsky는 "Q2의 성장률과 Prime Day 성공에 만족한다"며 "==관세와 거시경제적 불확실성을 감안한 신중한 전망=="이라고 설명했다.
 
-### 컨퍼런스콜 요약
+#### 컨퍼런스콜 요약
 
 _CEO Andy Jassy 핵심 발언:_
 
@@ -191,7 +323,7 @@ _Q&A 세션 주요 내용:_
 
 **시장 분위기**: ==Microsoft와 Google의 클라우드 부문이 더 높은 성장률을 기록한 가운데, Amazon이 AI 경쟁에서 뒤처지고 있다는 우려가 확산==되었다. 특히 "AWS가 경쟁사들보다 AI 성장 공유분을 제대로 확보하지 못하고 있다"는 우려가 부각되었다.
 
-### 투자포인트 및 리스크
+#### 투자포인트 및 리스크
 
 **기대효과 (Positive Catalysts):**
 - **강력한 기본 실적**: 매출과 이익 모든 부문에서 컨센서스를 크게 상회하며 Amazon의 견고한 사업 기반을 재확인

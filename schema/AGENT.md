@@ -28,6 +28,7 @@
   | `raw/note/` | note | 대분류 prefix (`book-`, `strategic-`, `logis-` 등) |
   | `raw/qa/` | qa | **없음 — 파일명 = 질문 그대로** |
 
+
   - 폴더는 **형식(type)** 만 나눈다. 주제(토픽) 분류는 폴더가 아니라 frontmatter `tags`가 담당한다 — 노트 하나가 여러 주제에 걸치므로 토픽 폴더는 만들지 않는다.
   - 위키링크는 파일명 기준으로 해소되므로 폴더 이동은 링크에 영향을 주지 않는다. 파일명(prefix 포함)이 원천이고 폴더는 파생이다.
   - `raw/news/`가 300개를 넘으면 `raw/news/YYYY/` 연도 하위 분할을 도입할 수 있다(파일명의 yymmdd로 결정론적 분류).
@@ -112,14 +113,23 @@ tags:
 * date: 최초 작성일. 기존 `study date`/`date`에서 가져오며, 새 노트를 최초로 생성할 때 그 날의 날짜를 기록한다. 메타데이터가 전혀 없으면 비워둔다(임의로 지어내지 않는다).
 * updated: 마지막 수정일(시간 제외). 기존 `Last edited time`/`updated`에서 가져오며, 노트를 업데이트 하는 경우 그 날의 날짜를 기록한다.
 * 출처(매체명·URL·일자)는 frontmatter가 아니라 **본문 최하단**에 `---` 구분선 아래 `출처:` 라인으로 둔다.
-* tags: 본문에서 가장 중요한 키워드 2~3개. 아래 리스트의 태그를 **우선**한다. 필요하면 태그를 추가할 수 있으나, 이 경우 반드시 이 리스트를 함께 업데이트한다.
+* tags: 본문에서 가장 중요한 키워드 2~3개. **아래 리스트에 있는 태그만 쓴다.** 리스트에 없는 주제라면
+  태그를 새로 만들기 전에 기존 대분류로 포섭되는지 먼저 따지고, 정말 새 대분류가 필요할 때만 추가하되
+  **반드시 이 리스트를 함께 업데이트한다.**
+  - **태그는 대분류 한 단계로만 둔다.** `ai/cloud`·`energy/smr`·`finance/crypto`처럼 슬래시로 세분하지
+    않는다 — 세부 주제는 본문과 raw-map 요약이 담당한다. 슬래시가 허용되는 예외는 아래 두 가지뿐이다:
+    `geopolitics/<국가·지역>`(지정학 대상 구분), `supply-chain/logistics`(SCM 안에서 물류를 분리).
   - **macro** — Investment/Macro·Economy·Investment/Bonds 류를 통합
   - **vc** — Startup/* (Startup/VC·Startup/IR 등) 류를 통합
-  - **finance** — Investment/Valuation·Finance/Biz·Finance/Deriv·Finance/RealEstate·fintech 류를 통합
+  - **finance** — Investment/Valuation·Finance/Biz·Finance/Deriv·Finance/RealEstate·핀테크·가상자산 류를 통합
   - **strategy**
   - **geopolitics/\<국가·지역\>** — china, japan, us, middle-east 등 지정학적 메인 대상 (대상이 불명확하면 `geopolitics`)
   - **supply-chain**, **supply-chain/logistics**
-  - 섹터 키워드(필요시 사용·확장): **ai**, **semiconductor**, **automotive**, **robotics**, **electronics**, **energy**, **shipbuilding**, **defense**, **cosmetics**, **retail**, **pharma**, **entertainment**, **esg**, **demographics**, **evtol**
+  - 섹터 키워드: **ai**(클라우드·소프트웨어·AI 하드웨어 포함) · **semiconductor** · **robotics** ·
+    **energy**(원자력·SMR·LNG·ESS·광물 포함) · **shipbuilding** · **defense** · **aerospace** ·
+    **automotive**(전기차 포함) · **construction**(건설·중장비) · **cosmetics**(OEM/ODM 포함) ·
+    **retail**(이커머스·외식·소비재 포함) · **pharma**(바이오·의료기기 포함) · **entertainment** ·
+    **esg** · **demographics** · **evtol**
 
 ### LLM이 리서치를 raw에 저장할 때 (source-digest 원칙)
 
@@ -168,7 +178,7 @@ tags:
 
 사용자의 요청이 들어오면 아래 8단계를 **순서대로 빠짐없이** 따른다. 
 
-1. **운영 규칙 로드** — 이 `schema/CLAUDE.md`를 먼저 읽어 구조·명명·쓰기 규칙을 확인한다.
+1. **운영 규칙 로드** — 이 `schema/AGENT.md`를 먼저 읽어 구조·명명·쓰기 규칙을 확인한다.
 2. **기존 자료 검색** — 먼저 [[raw-map]] 카탈로그에서 관련 노트를 찾고, 필요시 `raw/`를 제목·태그·본문으로 검색한다.
 3. **계획 수립** — 관련 자료가 있으면 그것을 기반으로, 이미 있는 것과 부족한 것을 구분한 계획을 세운다.
 4. **요청 수행** — 계획에 따라 관련 자료를 링크하고, 부족한 자료는 웹검색을 통해 사용자 요청을 수행한다.
@@ -181,7 +191,7 @@ tags:
 
 - raw 원본 본문은 읽기만 한다. 기존 raw 파일의 본문 수정·삭제·이동은 사람이 결정한다(§2).
 - raw 자료의 구조가 정말로 바뀌어야 한다면(분류 변경 등) 먼저 사람에게 확인한다.
-- 분류 규칙 자체가 바뀌면 이 `schema/CLAUDE.md`를 함께 업데이트한다.
+- 분류 규칙 자체가 바뀌면 이 `schema/AGENT.md`를 함께 업데이트한다.
 
 ## 5. 제외 대상 (`.gitignore`)
 
@@ -197,3 +207,5 @@ tags:
 
 - **범위는 물결표(`~`)가 아니라 붙임표(`-`)로 표기한다** (예: `18-24개월`, `24-48시간`, `2026-35년`). Obsidian 등 일부 렌더러에서 한 줄에 `~`가 둘 이상 있으면 그 사이가 취소선(`~~취소선~~`)으로 렌더링되는 문제를 막기 위함이다.
 - '대략'의 의미가 필요하면 `~` 대신 '약'을 쓴다 (예: `약 7조 달러`).
+- 엠 대쉬는 사용하지 않는다.
+- 마크다운 주석은 노트의 최하단에 작성한다.

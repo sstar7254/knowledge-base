@@ -51,8 +51,6 @@ AI 서비스를 위해 필요한 데이터센터의 전력 소비는 5년 간 4�
 
 MSFT, AMZN, GOOG, META 등 빅테크의 CAPEX 예상치는 계속해서 증가
 
-![[Energy Industry Study Project-2.png|image 46.png]]
-
 
 5. **정치적 이득**
 
@@ -81,8 +79,6 @@ MSFT, AMZN, GOOG, META 등 빅테크의 CAPEX 예상치는 계속해서 증가
 캘리포니아는 신재생 에너지 발전 비중이 늘어나면서 전력 수급 불균형 심화
 
 신재생 에너지의 ‘불규칙성’
-
-![[Energy Industry Study Project-1.png|image 1 30.png]]
 
 가격 안정을 위해 천연가스 생산 증대 필요
 

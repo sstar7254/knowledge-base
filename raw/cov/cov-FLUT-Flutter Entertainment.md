@@ -6,7 +6,7 @@ tags:
   - entertainment
 ---
 
-## STUDY
+## Research
 ### 스포츠 도박에 열광하는 미국
 
 슈퍼볼 전세계 1억명 이상 시청
