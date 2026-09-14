@@ -76,7 +76,7 @@ tags:
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 - [[news-260901-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play (Forbes, Gerui Wang) — 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics 성격 혼동).
 
-## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (69)
+## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (75)
 
 ### AI · 반도체
 
@@ -86,6 +86,9 @@ tags:
 - [[cov-GOOG-Alphabet]] : 검색 엔진 및 IT 서비스 — 구글 검색, 유튜브, 구글 클라우드를 운영하는 글로벌 빅테크 기업. (+semiconductor)
 - [[cov-META-Meta Platforms]] : 소셜 미디어 — 페이스북, 인스타그램 등을 운영하며 디지털 광고 시장 점유 및 메타버스 생태계 구축.
 
+- [[cov-ORCL-Oracle]] : 데이터베이스/클라우드 — 엔터프라이즈 DB에서 출발해 OCI로 AI 인프라 시장을 공략하는 풀스택 플랫폼 기업.
+- [[cov-TWLO-Twilio]] : 클라우드 커뮤니케이션 — 음성·메시지 API와 고객 데이터 플랫폼을 결합한 CPaaS 및 음성 AI 에이전트 사업자.
+- [[cov-APP-AppLovin]] : 모바일 광고 — AI 광고엔진 AXON을 기반으로 앱 광고 타겟팅과 수익화를 중개하는 애드테크 기업. (+entertainment)
 - [[cov-012510-더존비즈온]] : 기업용 소프트웨어 — 세무·회계, ERP와 함께 AI 기반 디지털 워크플로우 솔루션 제공.
 - [[cov-NET-Cloudflare]] : 웹 보안 및 CDN — 웹사이트 보안, 콘텐츠 전송 네트워크 및 엣지 컴퓨팅 서비스 제공.
 - [[cov-PCOR-Procore Technologies]] : 건설 SaaS — 건설 프로젝트 관리·협업을 지원하는 클라우드 플랫폼 제공. (+construction)
@@ -102,6 +105,8 @@ tags:
 #### semiconductor (반도체 공급망)
 
 - [[cov-058470-리노공업]] : 반도체 테스트 부품 — 반도체 검사용 핀과 소켓을 제조하는 글로벌 기업.
+- [[cov-LITE-Lumentum Holdings]] : 광통신 부품 — AI 데이터센터용 EML 레이저와 광 회로 스위치(OCS)를 공급하는 포토닉스 기업. (+ai)
+- [[cov-COHR-Coherent]] : 광통신 부품 — 소재(InP·SiC)부터 고속 광 트랜시버까지 수직 통합한 포토닉스 기업. (+ai)
 
 ### energy
 
@@ -113,6 +118,7 @@ tags:
 
 - [[cov-LEU-Centrus Energy]] : 우라늄 농축 — 미국 원전 산업과 핵 안보를 위한 상업용 농축 우라늄 공급.
 - [[cov-SMR-Nuscale Power]] : 소형모듈원전(SMR) — 미국 원자력규제위원회(NRC)의 설계 인증을 받은 SMR 선도 기업.
+- [[cov-CEG-Constellation Energy]] : 원자력 발전 — 미국 최대 무탄소 발전 사업자로 빅테크와 장기 전력구매계약(PPA) 체결. (+ai)
 
 - [[cov-083650-비에이치아이]] : 발전 기자재 — 화력 및 원자력 발전소용 보일러와 배열회수보일러(HRSG) 설계 및 제조.
 
