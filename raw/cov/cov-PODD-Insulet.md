@@ -1,23 +1,120 @@
 ---
 type: overview
 date: 2025-05-16
-updated: 2025-05-17
+updated: 2026-09-13
 tags:
   - pharma
 ---
 
-## 자료
+## 당뇨병 관리의 게임 체인저, Insulet (2025.05.16)
 
-### Omnipod 5 (자동 인슐린 투여 시스템)
+> 출처: [39. Insulet(PODD)](https://docs.google.com/document/d/1-qFE-3IQ0ytxNpd8pKDC11CzosbsapG-KuwNH3wXcN4/edit)
+
+### GLP-1의 등장과 당뇨 치료제 시장
+
+**23년 GLP-1 등장 이후 비만치료제 시장이 큰 주목을 받았고, 그 반대편에 타격을 입은 기업들이 있었다.** GLP-1의 체중 감량과 혈당 감소 효과를 필요로 하는 환자를 대상으로 제품·서비스를 제공하던 곳들이다.
+
+- **인슐린 펌프**: Insulet, Tandem
+- **연속 혈당 측정기**: Dexcom
+- **우려의 내용**: 기존 인슐린 펌프 사용자가 **약물로 전환할 가능성**이 크다는 것. 실제로 Insulet 경영진은 **2Q23 실적 발표에서 신규 사용자 성장률이 예상보다 낮을 것이라는 보수적 가이던스**를 내놓기도 했다
+
+### 우려는 시기상조, GLP-1과 인슐린
+
+**Insulet은 견조한 실적으로 이 우려를 불식시켰다. 이유는 타깃 시장이 다르기 때문이다.**
+
+| 구분 | 제1형 당뇨 | 제2형 당뇨 |
+| --- | --- | --- |
+| 원인 | **자가면역질환**, 인슐린 생성 자체가 불가능 | 후천적 요인으로 **인슐린 저항성**이 높아져 분비되는데도 조절 불가 |
+| 환자 비중 | 약 10% | **약 90%** |
+| 치료 | **인슐린 직접 투여** | 다양한 약물로 혈당 관리 + 생활 습관 개선 |
+| 겨냥하는 쪽 | **인슐린 처방(Insulet)** | **GLP-1** |
+
+전 세계 당뇨병 환자는 **약 4억 명**으로 추산된다.
+
+**경계 지점에 기회가 있다.** 제2형 당뇨병은 2-3개월 평균 혈당을 반영하는 **당화혈색소(HbA1c)** 수치에 따라 전당뇨·당뇨·고위험 당뇨로 구분되는데, **고위험 환자는 여러 약물과 함께 인슐린 투여를 병행**하기도 한다. 인슐린 펌프 기업들이 이 환자군으로 시장을 확장하려는 이유다. 리포트는 **GLP-1이 비만 인구를 줄이더라도 고위험 당뇨군 환자 수까지 영향을 미치기에는 이른 시점**이며, 장기적으로 시장 축소 우려는 점차 작아지고 있다고 판단한다.
+
+### 새로운 생태계를 만들고 있는 '인공췌장'
+
+**치료 방식의 진화 경로**
+
+- **MDI(다회 인슐린 주사 요법)**: 매일 혈당을 재고 그에 맞춰 직접 주사. **채혈의 불편함과 단발적 추적**으로 꾸준한 관리가 어려웠다
+- **CGM(연속 혈당 측정기)**: 실시간 측정과 기민한 대응이 가능해짐
+- **AID(자동 인슐린 주사 시스템)**: CGM으로 자동 인식한 혈당에 따라 인슐린을 주입하는 **일종의 인공 췌장**. 혈당이 목표 범위에 머무는 비중을 나타내는 **TIR(Time in Range)** 지표에서 유의미한 개선 효과
+
+**이 웨어러블 AID 시장의 개화를 선도한 기기가 Insulet의 Omnipod**이며, 시장은 **30년까지 연평균 20% 이상 성장**할 전망이다.
+
+**다만 전환은 아직 절반도 오지 않았다.** AID 기기의 제1형 당뇨병 시장 점유율은 **40%대**이고 **60%는 여전히 MDI**를 쓴다. **기기 가격, 오작동 가능성, 사용자 교육 부족**이 이유다. Insulet은 지속적인 제품 업그레이드와 소프트웨어 고도화로 미사용 환자층의 전환을 유도하고 있다.
+
+**Omnipod 5가 바꾼 것**
+
+- **세계 최초의 튜브리스 AID 기기**. 시판 중인 **Dexcom G6/G7**과 연결돼 포도당 수치에 따라 **5분마다 인슐린을 자동 조절**
+- 기존 펌프의 문제였던 **튜브, 복잡한 설정, 불편한 착용감**을 **몸에 붙이는 단일 Pod**으로 해결
+- 수동·반자동이던 기존 펌프 기능을 **완전 자동 조절로 전환**
+
+**임상에서도 확인됐다** (24년 6월 발표). 3개월 이상 인슐린 요법을 받고 있는 **18-75세 제2형 당뇨병 환자 305명** 대상 연구다.
+
+- **평균 당화혈색소 8.2% → 7.4%**
+- **9.0% 이상 고위험군에서는 평균 2.1%p 감소**로 효과가 더 두드러짐
+- **고혈당 지속 시간과 하루 평균 인슐린 사용량 감소**, 동시에 **저혈당 발생 시간은 늘지 않아 안전성도 입증**
+
+**이 성과가 시장 확장의 전환점이 됐다.** 24년 8월 미국 FDA는 **SmartAdjust 기술 사용 대상을 기존 2세 이상 제1형에서 18세 이상 제2형 당뇨병 환자까지 확대 승인**했다. 주 고객층인 제1형을 넘어 **훨씬 더 큰 제2형 시장으로 진입할 수 있는 전환점**이자, Omnipod 플랫폼의 시장 확장성과 기술 경쟁력을 공식적으로 인정받은 사례로 평가된다.
+
+## Insulet (PODD) 기업분석 (2025.05.16)
+
+### 기업 소개
+
+**2000년 설립, 미국 매사추세츠주 액턴 본사의 당뇨병 관리용 인슐린 펌프 전문기업.**
+
+- **핵심 제품 Omnipod**: 기존 튜브형 펌프의 불편함을 해결한 **최초의 웨어러블 자동 인슐린 전달 시스템**. Dexcom G6/G7 같은 CGM과 연동돼 인슐린을 자동 조절하는 **세계 최초의 튜브리스 자동화 시스템**
+- **기능**: 스마트폰 앱으로 실시간 제어, **Insulet SmartAdjust**로 여러 CGM과 연동해 혈당 데이터를 실시간 분석하고 주입을 자동 조절
+- **인증**: 최근 미국 FDA와 유럽 CE 인증 획득으로 글로벌 확대 중
+- **매출** (24년): 약 **21억 달러**, **98% 이상이 Omnipod 제품군**. 미국 약 75%, 국제(유럽·캐나다·호주 등) 25%
+- **점유율**: 인슐린 펌프 시장 **약 13%**. **튜브리스 분야에서는 Medtronic·Tandem 대비 독보적**
+- **주가**: 지난 1년간 약 **73% 상승**. 24년 8월 **FDA 제2형 확대 승인** 이후 가파르게 올랐고 3Q24 실적 호조가 뒷받침. **1Q25 실적도 예상치를 상회하며 발표 이후 21% 급등해 52주 최고가 경신**
+
+### 1Q25 리뷰
+
+| 지표 | 실적 | 비고 |
+| --- | --- | --- |
+| 매출 | 5.69억 달러 (YoY +28.8%) | 컨센서스 5.53억 달러 상회 |
+| 미국 Omnipod 매출 | 4억 달러 | YoY +26.4% |
+| 국제 매출 | 1.52억 달러 | YoY +32.2% |
+| 영업이익 | 8,880만 달러 | 전년 대비 크게 증가 |
+| EPS | 0.50달러 | 컨센서스 0.43-0.47달러 상회 |
+| 순이익 | 3,540만 달러 | 전년 5,150만 달러에서 감소 |
+
+⚠️ **순이익 감소는 전환사채 조기상환에 따른 일회성 비용 3,950만 달러** 때문이다.
+
+**확장도 이어졌다.** 1분기에 호주·벨기에·캐나다·스위스 등 **9개국에서 Omnipod 5를 출시해 총 14개국**에서 사용 가능해졌다. **미국 내 신규 고객 중 제2형 당뇨병 환자 비중이 30%를 넘어서며** 제2형 시장 확대도 진행 중이다.
+
+### 연간·분기별 매출 트렌드
+
+- **매출**: 꾸준한 성장세
+- **23년부터**: 매출 확대와 함께 **공급망 효율화, Omnipod 5 같은 고마진 제품 믹스**로 순이익이 빠르게 증가
+- **22년**: 일부 품목의 **자발적 리콜 조치**로 비용이 발생해 영업이익률 하락. 제품 믹스 개선과 운영 효율성 증대로 23년부터 회복
+
+### 기업 지표
+
+- **NTM P/E 72배**: **역사적 저점**에 위치해 밸류에이션 부담은 다소 적다. 실적 성장이 이어지는데도 **GLP-1으로 인한 제2형 시장 축소 우려**가 반영된 것으로 보인다
+- **잉여현금흐름**: 24년부터 개선 추이. 다만 **동종 업계 대비 R&D 지출이 높아** 다소 낮게 유지
+
+### 주주 환원
+
+**배당은 없고, 최근 1.25억 달러 규모의 자사주 매입 프로그램을 승인했다.** 이 프로그램은 **26년 말까지** 지속될 예정이다.
+
+## Research
+
+### 자료
+
+#### Omnipod 5 (자동 인슐린 투여 시스템)
 
 FDA는 27일(현지시각) 인슐렛의 **'Insulet SmartAdjust'** 기술을 기존 2세 이상의 1형 당뇨병 환자에서 18세 이상의 2형 당뇨병 환자로 확대 승인
 
 - Omnipod Vs Insulet SmartAdjust
 
-Omnipod provides continuous insulin delivery through **a wearable, tubeless, waterproof* insulin pump** called a Pod, with no multiple daily injections.
-
-**Using SmartAdjust™ technology, the Pod and [compatible CGM](https://www.omnipod.com/what-is-omnipod/what-is-pod-therapy/what-is-a-cgm) are in constant communication, enabling automatic insulin adjustments to help improve time in range**. And, you can control it all from your fingertips with the Omnipod 5 App on a compatible smartphone.
-
+> Omnipod provides continuous insulin delivery through **a wearable, tubeless, waterproof* insulin pump** called a Pod, with no multiple daily injections.
+>
+> **Using SmartAdjust™ technology, the Pod and [compatible CGM](https://www.omnipod.com/what-is-omnipod/what-is-pod-therapy/what-is-a-cgm) are in constant communication, enabling automatic insulin adjustments to help improve time in range**. And, you can control it all from your fingertips with the Omnipod 5 App on a compatible smartphone.
 
 기존 시판중인 연속혈당측정기(Dexcom G6/G7)와 연결되어 **사용자 포도당 수치에 따라 5분마다 인슐린을 자동 조절**. 탄수화물 섭취 시 탄수화물 양을 입력하면 CGM 값과 환자 혈당 추이 데이터 등에 따라 인슐린을 자동 계산.
 
@@ -25,7 +122,7 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
 
 3개월 이상 현재 인슐린 요법을 받고 있는 18~75세 2형 당뇨병환자 305명을 대상으로 진행한 임상시험에 따르면 환자 평균 당화혈색소(HbA1c)는 8.2%에서 7.4%로 낮아졌으며, 이는 당화혈색소가 높은 사람에게 더욱 잘 나타났다. 실제로 당화혈색소 9.0%이상 환자들의 평균 감소율은 2.1% 였다. 아울러 평균 고혈당 시간 및 일일 인슐린 투여량도 감소했으며 저혈당 시간은 증가하지 않았다.
 
-### 당뇨 & 인슐린 펌프 시장
+#### 당뇨 & 인슐린 펌프 시장
 
 혈당측정기, 인슐린 펌프 등 당뇨 관련 의료기기 시장은 ‘28년까지 연평균 12.7% 성장 예상. 전체 의료기기 시장 성장률 5.2%를 크게 상회. 당뇨 환자가 증가하는 가운데 당뇨는 만성 퇴행성 질병으로 지속적인 관리가 필요해 관련 의료기기 수요 증가. CGM, 웨어러블 자동 인슐린 펌프 등 당뇨 의료기기 진화로 편리성의 제고되고 AI와 결합한 종합적인 당뇨 관리 솔루션 플랫폼 개발이 성장을 뒷받침
 
@@ -45,9 +142,7 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
 	- **CGM(Continuous Glucose Meter, 연속 혈당 측정기)**
 		
 		연속적으로 혈당을 측정해 기민하게 반응할 수 있게 됨
-		
-	
-	
+
 	- **인슐린 펌프 & 패치 (AID, Automated Insulin Delivery, 자동 인슐린 주사 시스템)**: CGM를 통해 자동으로 혈당을 인식하여 인슐린을 주입 (= 인공췌장)
 		
 		인슐렛의 Omnipod이 웨어러블 AID 시장을 선도. ‘30년까지 연 평균 20% 성장 전망.
@@ -63,8 +158,6 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
 		메드트로닉 (52%, 펌프), 탠덤(TNDM, 35%, 펌프), 인슐렛(PODD, 13%, 패치)
 		
 		**⇒ 사용자 경험 개선으로 MDI의 60% 점유율을 가져올 수 있을 것**
-		
-	
 
 - 제 2형 당뇨병: 후천적으로(비만) 인슐린 저항성 발생, 인슐린 분비가 부족 - **GLP-1 타겟 시장**
 	
@@ -93,8 +186,6 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
 	위고비 등 비만치료제의 수요가 늘어나더라도 여전히 업사이드 큼
 	
 	GLP-1이 실제로 비만 인구를 감소시킬 수 있지만 인슐렛이 타겟하는 시장 크기에는 영향이 크지 않을 수 있음
-	
-
 
 - GLP-1의 위협
     
@@ -109,19 +200,14 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
     - 제 1형 당뇨병: 태어날때부터 인슐린 생성 불가능 - **인슐린 타겟 시장**
         
         - Type 1 diabetes is a large **underpenetrated market** that is **not expected to be impacted by GLP-1** therapy
-        
-    
+
     - 제 2형 당뇨병: 후천적으로(비만) 인슐린 저항성이 낮고, 인슐린 분비가 부족 - **GLP-1 타겟 시장**
         
         ⇒ 인슐린이 제 2형 당뇨병으로의 시장 확장을 노리고 있긴 하나, 기존 시장의 성장률을 해칠 정도는 아님
         
         - Type 2 diabetes is a progressive disease that presents gradually, but **leads inevitably to insulin therapy in advanced stages**
-        
-    
 
----
-
-## 이슈 분석
+### 이슈 분석
 
 **당뇨병 관리의 게임체인저**
 
@@ -132,7 +218,6 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
     대체로 GLP-1의 부가적인 효과로 해결될 수 있는 문제들
     
     PODD 또한 GLP-1의 등장으로 기존 인슐린 펌프 사용자가 약물로 전환할 가능성이 높다는 우려가 커지며 주가가 크게 하락.
-    
 
 - **우려는 시기상조, GLP-1과 인슐린**
     
@@ -141,7 +226,6 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
     치료법 비교 (인슐린 투어 vs 식이요법)
     
     GLP-1으로 시장이 작아질 우려는 시기상조. (전당뇨 vs 고위험당뇨)
-    
 
 - **새로운 생태계를 만들고 있는 ‘인공췌장’**
     
@@ -170,9 +254,6 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
     - **RADIANT trial**: MDI 사용자들도 전환 후 혈당 관리 크게 향상.
     
     Medtronic, tandem 등도 유사한 시스템 개발 중인 와중 선발주자로서 수혜
-    
-
-  
 
 - **실적으로 증명한 인슐렛**
     
@@ -183,4 +264,3 @@ Omnipod provides continuous insulin delivery through **a wearable, tubeless, wat
     [해외 시장 확장](https://investors.insulet.com/news/news-details/2025/Insulet-Expands-Omnipod-5-to-Four-More-International-Markets/default.aspx?utm_source=chatgpt.com)
     
     컨콜 경영진 코멘트
-    

@@ -1,9 +1,10 @@
 ---
 type: overview
 date: 2024-11-21
-updated: 2025-01-09
+updated: 2026-09-14
 tags:
   - pharma
+  - ai
 ---
 
 ## RESEARCH
