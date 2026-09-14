@@ -119,17 +119,22 @@ tags:
   - **태그는 대분류 한 단계로만 둔다.** `ai/cloud`·`energy/smr`·`finance/crypto`처럼 슬래시로 세분하지
     않는다 — 세부 주제는 본문과 raw-map 요약이 담당한다. 슬래시가 허용되는 예외는 아래 두 가지뿐이다:
     `geopolitics/<국가·지역>`(지정학 대상 구분), `supply-chain/logistics`(SCM 안에서 물류를 분리).
-  - **macro** — Investment/Macro·Economy·Investment/Bonds 류를 통합
-  - **vc** — Startup/* (Startup/VC·Startup/IR 등) 류를 통합
-  - **finance** — Investment/Valuation·Finance/Biz·Finance/Deriv·Finance/RealEstate·핀테크·가상자산 류를 통합
-  - **strategy**
-  - **geopolitics/\<국가·지역\>** — china, japan, us, middle-east 등 지정학적 메인 대상 (대상이 불명확하면 `geopolitics`)
-  - **supply-chain**, **supply-chain/logistics**
+  - **태그는 두 축으로 나뉜다.** ① 산업을 가리키는 **섹터 키워드**, ② 섹터를 가로지르는 **주제 축**.
+    노트 하나에 보통 섹터 1개 + 주제 1-2개가 붙는다. 한 섹터로만 접히는 주제는 주제 축으로 만들지 않는다.
+  - 주제 축
+    - **macro** — Investment/Macro·Economy·Investment/Bonds 류를 통합. 인구구조 등 장기 구조 변수도 포함
+    - **vc** — Startup/* (Startup/VC·Startup/IR 등) 류를 통합
+    - **finance** — Investment/Valuation·Finance/Biz·Finance/Deriv·Finance/RealEstate·핀테크·가상자산 류를 통합
+    - **strategy**
+    - **esg** — 탄소·배출권·지속가능성. 섹터가 아니라 여러 섹터에 걸친 축이다
+    - **demographics** — 인구구조·세대 변화가 수요나 시장 규모를 직접 설명할 때
+    - **geopolitics/\<국가·지역\>** — china, japan, us, middle-east 등 지정학적 메인 대상 (대상이 불명확하면 `geopolitics`)
+    - **supply-chain**, **supply-chain/logistics**
   - 섹터 키워드: **ai**(클라우드·소프트웨어·AI 하드웨어 포함) · **semiconductor** · **robotics** ·
-    **energy**(원자력·SMR·LNG·ESS·광물 포함) · **shipbuilding** · **defense** · **aerospace** ·
-    **automotive**(전기차 포함) · **construction**(건설·중장비) · **cosmetics**(OEM/ODM 포함) ·
-    **retail**(이커머스·외식·소비재 포함) · **pharma**(바이오·의료기기 포함) · **entertainment** ·
-    **esg** · **demographics** · **evtol**
+    **electronics**(가전·디스플레이·전자부품 완제품 제조) · **energy**(원자력·SMR·LNG·ESS·광물 포함) ·
+    **shipbuilding** · **defense** · **aerospace**(eVTOL·UAM 포함) · **automotive**(전기차 포함) ·
+    **construction**(건설·중장비) · **cosmetics**(OEM/ODM 포함) · **trading**(종합상사·원자재 트레이딩) ·
+    **retail**(이커머스·외식·소비재 포함) · **pharma**(바이오·의료기기 포함) · **entertainment**
 
 ### LLM이 리서치를 raw에 저장할 때 (source-digest 원칙)
 
