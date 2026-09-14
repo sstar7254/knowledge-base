@@ -1,9 +1,9 @@
 ---
 type: research
 date: 2025-08-06
-updated: 2025-08-06
+updated: 2026-09-14
 tags:
-  - evtol
+  - aerospace
   - finance
 ---
 

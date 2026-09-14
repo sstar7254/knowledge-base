@@ -4,7 +4,6 @@ date: 2025-03-21
 updated: 2026-09-14
 tags:
   - aerospace
-  - evtol
   - defense
 ---
 

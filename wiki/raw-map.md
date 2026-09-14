@@ -133,7 +133,7 @@ tags:
 
 - [[cov-BA-Boeing]] : 민항기 제조 — 품질 위기 이후 인도량 회복과 FAA 감사, 신규 수주로 신뢰를 재건 중인 항공기 제조사. (+defense)
 - [[cov-ASTS-AST Spacemobile]] : 저궤도 위성 통신 — 일반 스마트폰과 직접 연결되는 저궤도 위성 기반 우주 광대역 네트워크 구축.
-- [[cov-JOBY-Joby Aviation]] : eVTOL/UAM — FAA 인증 4단계와 Blade 여객사업 인수로 도심 항공 모빌리티 상용화를 추진하는 전기 수직이착륙기 기업. (+evtol, +defense)
+- [[cov-JOBY-Joby Aviation]] : eVTOL/UAM — FAA 인증 4단계와 Blade 여객사업 인수로 도심 항공 모빌리티 상용화를 추진하는 전기 수직이착륙기 기업. (+defense)
 
 ### automotive
 
@@ -210,8 +210,8 @@ tags:
 - [[research-AI 소프트웨어-클라우드 산업]] #ai #semiconductor — AI 소프트웨어·클라우드 산업의 구조와 시장 자료 종합.
 - [[research-COIN-2Q25 Earnings]] #finance — Coinbase 2Q25 실적 — 거래량 급감에도 스테이블코인 등 수익 다각화 진전.
 - [[research-Energy Industry]] #energy — 에너지 산업의 기본 구조와 밸류체인 학습 자료 종합.
-- [[research-JOBY-2Q25 earnings]] #evtol #finance — Joby Aviation 2Q25 실적과 FAA 인증·파트너십 진행 상황.
-- [[research-JOBY-PEST analysis & Catalyst]] #evtol #strategy — Joby Aviation의 PEST 분석과 촉매 정리.
+- [[research-JOBY-2Q25 earnings]] #aerospace #finance — Joby Aviation 2Q25 실적과 FAA 인증·파트너십 진행 상황.
+- [[research-JOBY-PEST analysis & Catalyst]] #aerospace #strategy — Joby Aviation의 PEST 분석과 촉매 정리.
 - [[research-LEU-2Q25 Earnings]] #energy — Centrus Energy 2Q25 실적 — HALEU 공급 역량과 DOE 계약 기반 백로그.
 - [[research-Stargate Project]] #ai #semiconductor — 오픈AI·소프트뱅크·오라클 주도 스타게이트 합작법인 발표 정리.
 - [[research-Tariff]] #macro — 2025년 4월 이후 관세가 건설 산업과 Procore에 미친 영향.
