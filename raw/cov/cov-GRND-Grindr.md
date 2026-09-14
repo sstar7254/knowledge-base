@@ -1,9 +1,10 @@
 ---
 type: overview
 date: 2025-05-24
-updated: 2026-09-13
+updated: 2026-09-14
 tags:
   - entertainment
+  - demographics
 ---
 
 ## 늘어나는 LGBTQ 인구와 Grindr (2025.05.24)

@@ -1,9 +1,10 @@
 ---
 type: overview
 date: 2025-01-03
-updated: 2026-09-13
+updated: 2026-09-14
 tags:
   - entertainment
+  - ai
 ---
 
 ## 글로벌 시대 언어 학습 앱의 성장 (2025.01.03)

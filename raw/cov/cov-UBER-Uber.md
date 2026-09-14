@@ -3,9 +3,9 @@ type: overview
 date: 2025-10-26
 updated: 2026-09-14
 tags:
+  - ai
   - automotive
   - retail
-  - ai
 ---
 
 ## 자율주행의 글로벌 데이터 엔진, Uber (2025.10.26)

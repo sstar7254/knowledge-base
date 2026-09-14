@@ -1,9 +1,10 @@
 ---
 type: overview
 date: 2025-04-11
-updated: 2026-09-13
+updated: 2026-09-14
 tags:
   - automotive
+  - retail
 ---
 
 ## 자동차 공장 리쇼어링과 부품사의 수혜 (2025.04.11)

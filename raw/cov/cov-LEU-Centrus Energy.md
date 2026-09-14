@@ -4,6 +4,7 @@ date: 2025-06-15
 updated: 2026-09-13
 tags:
   - energy
+  - ai
 ---
 
 > [!important]

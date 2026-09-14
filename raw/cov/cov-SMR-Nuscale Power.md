@@ -4,6 +4,7 @@ date: 2025-07-20
 updated: 2026-09-14
 tags:
   - energy
+  - ai
 ---
 
 ## 트럼프發 원자력 르네상스: NuScale Power (2025.07.20)

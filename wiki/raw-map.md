@@ -84,11 +84,13 @@ tags:
 
 - [[cov-AMZN-Amazon]] : 이커머스 및 클라우드 — 세계 최대 전자상거래 플랫폼이자 AWS를 통한 클라우드 컴퓨팅 선두주자. (+retail)
 - [[cov-GOOG-Alphabet]] : 검색 엔진 및 IT 서비스 — 구글 검색, 유튜브, 구글 클라우드를 운영하는 글로벌 빅테크 기업. (+semiconductor)
-- [[cov-META-Meta Platforms]] : 소셜 미디어 — 페이스북, 인스타그램 등을 운영하며 디지털 광고 시장 점유 및 메타버스 생태계 구축.
+- [[cov-META-Meta Platforms]] : 소셜 미디어/AI — 초지능 연구소 MSL 설립과 Ray-Ban 스마트 글래스로 AI 하드웨어까지 확장 중인 빅테크.
 
 - [[cov-ORCL-Oracle]] : 데이터베이스/클라우드 — 엔터프라이즈 DB에서 출발해 OCI로 AI 인프라 시장을 공략하는 풀스택 플랫폼 기업.
 - [[cov-TWLO-Twilio]] : 클라우드 커뮤니케이션 — 음성·메시지 API와 고객 데이터 플랫폼을 결합한 CPaaS 및 음성 AI 에이전트 사업자.
 - [[cov-APP-AppLovin]] : 모바일 광고 — AI 광고엔진 AXON을 기반으로 앱 광고 타겟팅과 수익화를 중개하는 애드테크 기업. (+entertainment)
+- [[cov-TMUS-T-Mobile]] : 통신 인프라 — 5G·FWA·엣지 컴퓨팅을 AI 시대의 디지털 인프라로 확장하는 미국 무선 통신 사업자.
+- [[cov-UBER-Uber]] : 모빌리티 플랫폼 — 실주행 데이터를 AI 학습용으로 수익화하고 자율주행 기술을 플랫폼으로 흡수하는 자본 경량화 전략. (+automotive, +retail)
 - [[cov-012510-더존비즈온]] : 기업용 소프트웨어 — 세무·회계, ERP와 함께 AI 기반 디지털 워크플로우 솔루션 제공.
 - [[cov-NET-Cloudflare]] : 웹 보안 및 CDN — 웹사이트 보안, 콘텐츠 전송 네트워크 및 엣지 컴퓨팅 서비스 제공.
 - [[cov-PCOR-Procore Technologies]] : 건설 SaaS — 건설 프로젝트 관리·협업을 지원하는 클라우드 플랫폼 제공. (+construction)
@@ -111,13 +113,13 @@ tags:
 ### energy
 
 - [[cov-267260-HD현대일렉트릭]] : 전력 기기 — 변압기, 차단기 등 송배전 인프라 구축에 필요한 핵심 전력기기 제조.
-- [[cov-MP-MP Materials]] : 희토류 채굴/정제 — 서반구 최대 희토류 광산 운영 및 네오디뮴 영구자석 원료 생산.
+- [[cov-MP-MP Materials]] : 희토류 채굴/정제 — 중국 수출통제에 맞서 미 국방부 지원으로 채굴부터 영구자석까지 수직 통합. (+geopolitics/china, +supply-chain)
 - [[cov-OXY-Occidental Petroleum]] : 석유 및 가스 — 셰일 오일 탐사·생산과 함께 탄소 직접 포집(DAC) 기술을 선도하는 에너지 기업.
 - [[cov-GOLD-Barrick Gold]] : 금/구리 채굴 — 캐나다에 본사를 둔 세계 최대 규모의 금 채굴 및 생산 기업. (+macro)
-- [[cov-178320-서진시스템]] : 통신/ESS 부품 — 통신 장비, 에너지저장장치(ESS), 전기차 부품용 알루미늄 케이스 생산.
+- [[cov-178320-서진시스템]] : ESS/통신 부품 — 에너지저장장치(ESS)를 주력으로 통신 장비, 전기차·배터리, 반도체 장비용 케이스 생산. (+semiconductor, +automotive)
 
-- [[cov-LEU-Centrus Energy]] : 우라늄 농축 — 미국 원전 산업과 핵 안보를 위한 상업용 농축 우라늄 공급.
-- [[cov-SMR-Nuscale Power]] : 소형모듈원전(SMR) — 미국 원자력규제위원회(NRC)의 설계 인증을 받은 SMR 선도 기업.
+- [[cov-LEU-Centrus Energy]] : 우라늄 농축 — AI 전력 수요로 부상한 SMR용 HALEU를 미국에서 유일하게 생산하는 NRC 인가 기업. (+ai)
+- [[cov-SMR-Nuscale Power]] : 소형모듈원전(SMR) — AI 전력 수요와 원자력 행정명령을 배경으로 NRC 설계 인증을 받은 유일한 미국 SMR 기업. (+ai)
 - [[cov-CEG-Constellation Energy]] : 원자력 발전 — 미국 최대 무탄소 발전 사업자로 빅테크와 장기 전력구매계약(PPA) 체결. (+ai)
 
 - [[cov-083650-비에이치아이]] : 발전 기자재 — 화력 및 원자력 발전소용 보일러와 배열회수보일러(HRSG) 설계 및 제조.
@@ -127,19 +129,18 @@ tags:
 - [[cov-064350-현대로템]] : 철도 및 방산 — K2 흑표 전차 등 지상 무기체계와 철도 차량 제조.
 - [[cov-079550-LIG넥스원]] : 방위 산업 — 정밀 유도 무기, 감시 정찰 및 통신 장비 등 종합 방위체계 생산.
 - [[cov-LMT-Lockheed Martin]] : 방산/우주항공 — F-35 전투기 등 군용 항공기와 첨단 방산/우주 시스템을 개발하는 글로벌 1위 방산 기업.
-- [[cov-BA-Boeing]] : 항공기 제조 — 민간 상업용 항공기 및 우주 장비를 제조하는 글로벌 항공우주 방산 기업. (+aerospace)
 
 ### aerospace
 
+- [[cov-BA-Boeing]] : 민항기 제조 — 품질 위기 이후 인도량 회복과 FAA 감사, 신규 수주로 신뢰를 재건 중인 항공기 제조사. (+defense)
 - [[cov-ASTS-AST Spacemobile]] : 저궤도 위성 통신 — 일반 스마트폰과 직접 연결되는 저궤도 위성 기반 우주 광대역 네트워크 구축.
-- [[cov-JOBY-Joby Aviation]] : UAM/eVTOL — 전기 수직 이착륙기(eVTOL) 개발 및 도심 항공 모빌리티 서비스 상용화 추진.
+- [[cov-JOBY-Joby Aviation]] : eVTOL/UAM — FAA 인증 4단계와 Blade 여객사업 인수로 도심 항공 모빌리티 상용화를 추진하는 전기 수직이착륙기 기업. (+evtol, +defense)
 
 ### automotive
 
-- [[cov-AZO-Autozone]] : 자동차 부품 리테일 — 자동차 교체용 부품과 액세서리를 판매하는 미국 최대 소매 유통망.
-- [[cov-CVNA-Carvana]] : 중고차 이커머스 — 온라인 플랫폼과 대형 자동차 자판기를 통한 중고차 판매.
-- [[cov-UBER-Uber]] : 모빌리티 플랫폼 — 글로벌 차량 공유 플랫폼이자 음식 배달(Uber Eats) 및 화물 운송 서비스 제공. (+retail, +ai)
-- [[cov-XPEV-Xpeng]] : 전기차 — 자체 자율주행 기술(XNGP)을 결합한 스마트 전기차를 생산하는 중국 기업.
+- [[cov-AZO-Autozone]] : 자동차 부품 리테일 — 관세·리쇼어링 국면에서 애프터마켓 수요를 흡수하는 미국 최대 자동차 부품 소매 유통망. (+retail)
+- [[cov-CVNA-Carvana]] : 중고차 이커머스 — 관세로 인한 신차 가격 상승이 중고차 수요로 이어지는 구조의 온라인 중고차 판매 플랫폼. (+retail)
+- [[cov-XPEV-Xpeng]] : 전기차 — 자체 자율주행 기술(XNGP)을 앞세워 중국 전기차 시장에서 약진하는 스마트 EV 제조사. (+ai)
 
 ### shipbuilding
 
@@ -163,7 +164,7 @@ tags:
 - [[cov-ISRG-Intuitive Surgical]] : 의료 로봇 — 다빈치 수술 로봇 시스템을 통해 전 세계 최소 침습 수술 시장 독점. (+robotics)
 - [[cov-PODD-Insulet]] : 의료 기기 — 튜브가 없는 패치형 인슐린 펌프(Omnipod) 개발 및 판매.
 - [[cov-TMDX-TransMedics Group]] : 의료 기기 — 장기 이식 시 기증된 장기를 체외에서 살아있는 상태로 보존하는 시스템 제공.
-- [[cov-RXRX-Recursion Pharmaceuticals]] : AI 신약 개발 — AI 모델과 자동화된 실험 데이터를 활용한 신약 발굴 가속화.
+- [[cov-RXRX-Recursion Pharmaceuticals]] : AI 신약 개발 — 자동화 실험실 데이터와 자체 슈퍼컴퓨터로 신약 후보를 발굴하는 기업. (+ai)
 - [[cov-DNA-Ginko Bioworks]] : 합성 생물학 — 다양한 산업에 필요한 미생물과 단백질을 설계하고 세포를 배양하는 플랫폼.
 
 ### entertainment
@@ -173,32 +174,31 @@ tags:
 - [[cov-RBLX-Roblox]] : 메타버스 게임 플랫폼 — 사용자가 직접 게임을 개발하고 다른 사용자의 게임을 즐길 수 있는 3D 가상 세계 플랫폼.
 - [[cov-FLUT-Flutter Entertainment]] : 스포츠 베팅/게이밍 — 팬듀얼(FanDuel) 등을 소유한 글로벌 1위 온라인 스포츠 베팅 및 i게이밍 기업.
 - [[cov-RDDT-Reddit]] : 온라인 커뮤니티 — 다양한 주제의 서브레딧을 기반으로 정보를 공유하고 소통하는 소셜 플랫폼. (+ai)
-- [[cov-PINS-Pinterest]] : 소셜 미디어/시각 검색 — 이미지 기반의 아이디어 발견 및 상품 탐색을 지원하는 소셜 큐레이션 플랫폼.
-- [[cov-GRND-Grindr]] : 데이팅 앱 — 성소수자(LGBTQ) 커뮤니티를 위한 세계 최대 규모의 소셜 데이팅 및 네트워킹 플랫폼.
-- [[cov-DUOL-Doulingo]] : 에듀테크 — 게임화 요소를 도입해 언어 및 다방면 학습 플랫폼을 제공하는 모바일 앱 서비스.
+- [[cov-PINS-Pinterest]] : 시각 검색/광고 플랫폼 — 쇼핑 의도를 가진 사용자 기반으로 하위 퍼널 전환에 특화된 이미지 중심 광고 플랫폼.
+- [[cov-GRND-Grindr]] : 데이팅 앱 — Gen Z의 LGBTQ 정체화 확산을 배경으로 성장하는 성소수자 대상 소셜 데이팅 플랫폼. (+demographics)
+- [[cov-DUOL-Doulingo]] : 에듀테크 — 게임화와 AI 기반 개인화 학습으로 언어 학습 앱 시장을 과점한 모바일 플랫폼. (+ai)
 - [[cov-9992-Pop Mart]] : 아트 토이 — IP를 활용한 블라인드 박스 피규어 판매로 글로벌 아트 토이 시장 주도.
 - [[cov-034230-파라다이스]] : 카지노 및 복합리조트 — 국내 외국인 전용 카지노 및 5성급 호텔, 복합리조트 운영.
 - [[cov-RCL-Royal Caribbean Cruise]] : 크루즈 여행 — 세계 최대 규모의 프리미엄 크루즈 선박들을 운영하는 글로벌 레저 기업.
 
 ### retail
 
-- [[cov-SE-Sea Ltd]] : 이커머스 및 게임 — 동남아시아 기반의 이커머스(Shopee)와 디지털 엔터테인먼트(Garena) 플랫폼 운영.
+- [[cov-SE-Sea Ltd]] : 동남아 이커머스 — Shopee로 동남아 온라인 쇼핑 1위를 차지한 플랫폼 기업(게임 Garena·핀테크 병행).
 - [[cov-DASH-Doordash]] : 음식 배달 — 미국 시장 점유율 1위의 음식 및 로컬 식료품 배달 플랫폼.
 - [[cov-BROS-Dutch Bros]] : 프랜차이즈 카페 — 드라이브스루 전용 매장을 중심으로 고속 성장 중인 미국 음료 및 커피 브랜드.
 - [[cov-SG-Sweetgreen]] : 패스트 캐주얼 — 샐러드 위주의 건강식 메뉴 판매 및 매장 자동화 추진 레스토랑 체인.
-- [[cov-PM-Philip Morris]] : 담배 제조 — 말보로 등 전통 연초 및 아이코스(IQOS) 같은 궐련형 전자담배 생산.
-- [[cov-TMUS-T-Mobile]] : 통신 서비스 — 미국 내 5G 네트워크 커버리지를 선도하는 주요 무선 통신 사업자.
+- [[cov-PM-Philip Morris]] : 담배/니코틴 — 니코틴 파우치(ZYN)와 아이코스(IQOS)를 앞세워 무연 제품으로 전환 중인 글로벌 담배 기업.
 - [[cov-OTLY-Oatly]] : 귀리 기반 대체유 — 세계 최초의 오트 밀크 전문 기업으로, 식물성 유제품 대체재를 개발·판매. (+esg)
 - [[cov-GRMN-Garmin]] : GPS/웨어러블 — 군용 GPS 기술을 기반으로 프리미엄 스포츠·아웃도어 웨어러블과 항공·해양 항법 장비를 만드는 기업. (+aerospace)
 
 ### finance
 
-- [[cov-448280-에코아이]] : 탄소배출권 컨설팅 — 온실가스 감축 사업을 기획하고 탄소배출권 획득 및 거래를 중개하는 전문 기업.
+- [[cov-448280-에코아이]] : 탄소배출권 — 온실가스 감축 사업을 기획해 배출권을 확보하고 거래를 중개하는 전문 기업. (+esg)
 - [[cov-AFRM-Affirm Holdings]] : 핀테크(BNPL) — 소비자가 할부로 상품을 구매할 수 있도록 지원하는 선구매 후결제(BNPL) 서비스 제공사.
 - [[cov-BRO-Brown & Brown]] : 보험 중개 — 중견 및 중소기업을 대상으로 상업용 보험 및 리스크 관리 솔루션을 중개하는 금융사.
 
 - [[cov-COIN-Coinbase Global]] : 가상자산 거래소 — 암호화폐 거래 플랫폼, 수탁 서비스 및 기관용 블록체인 인프라 제공.
-- [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — 달러 연동 스테이블코인 USDC를 발행하고 관리하는 블록체인 핀테크 기업.
+- [[cov-CRCL-Circle Internet Group]] : 스테이블코인 — USDC 발행사로, 토큰화된 탄소배출권 거래의 결제 인프라로 자리잡는 블록체인 핀테크. (+esg)
 
 ## research/ — research — 자료 종합 (14)
 

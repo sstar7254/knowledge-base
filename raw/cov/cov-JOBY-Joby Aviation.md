@@ -3,8 +3,9 @@ type: overview
 date: 2025-03-21
 updated: 2026-09-14
 tags:
-  - defense
   - aerospace
+  - evtol
+  - defense
 ---
 
 ## UAM 시장의 확대와 시작되는 상용화 (2025.03.21)

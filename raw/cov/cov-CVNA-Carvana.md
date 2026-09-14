@@ -1,9 +1,10 @@
 ---
 type: overview
 date: 2025-03-14
-updated: 2026-09-13
+updated: 2026-09-14
 tags:
   - automotive
+  - retail
 ---
 
 ## 미국 중고차 시장의 아마존, Carvana (2025.03.14)

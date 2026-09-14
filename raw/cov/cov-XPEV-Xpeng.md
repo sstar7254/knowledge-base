@@ -1,9 +1,10 @@
 ---
 type: overview
 date: 2025-02-07
-updated: 2026-09-13
+updated: 2026-09-14
 tags:
   - automotive
+  - ai
 ---
 
 ## 중국 자율주행 전기차의 약진 (2025.02.07)

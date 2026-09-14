@@ -3,8 +3,8 @@ type: overview
 date: 2025-09-14
 updated: 2026-09-14
 tags:
-  - defense
   - aerospace
+  - defense
 ---
 
 ## 보잉은 신뢰를 다시 설계할 수 있을까? (2025.09.14)

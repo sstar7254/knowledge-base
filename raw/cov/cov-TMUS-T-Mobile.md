@@ -1,9 +1,9 @@
 ---
 type: overview
 date: 2025-05-02
-updated: 2026-09-13
+updated: 2026-09-14
 tags:
-  - retail
+  - ai
 ---
 
 ## 데이터 시대의 디지털 인프라와 T-Mobile (2025.05.02)
