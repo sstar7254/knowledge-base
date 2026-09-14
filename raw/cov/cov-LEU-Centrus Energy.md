@@ -1,7 +1,7 @@
 ---
 type: overview
 date: 2025-06-15
-updated: 2026-09-13
+updated: 2026-09-14
 tags:
   - energy
   - ai
