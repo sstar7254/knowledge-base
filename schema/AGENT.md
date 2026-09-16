@@ -40,6 +40,13 @@
    1. **news-scrap** 헤더 형식: "news-yymmdd-[제목 또는 키워드]"
    2. **overview** 헤더 형식: "cov-[Ticker]-[Company Name]"
    3. **research** 헤더 형식: "research-[field(optional)]-[topic]"
+      - 실적 노트: `research-[Ticker]-[FYyyQn 또는 nQyy]-earnings`
+      - 팔로업 노트(`/follow-up` 스킬): 기업 팔로업은 `research-[Ticker]-[yymmdd]-followup-[주제]`,
+        주제 팔로업은 `research-[주제]-[yymmdd]-followup`. 파일명에 **언제·무엇을** 팔로업했는지가
+        드러나야 하므로 날짜와 주제를 모두 넣는다. 기업 팔로업은 cov 노트를 길게 만들지 않기 위해
+        `raw/cov/`가 아니라 여기에 두며, 같은 기업의 실적 노트와 나란히 읽히는 것이 목적이다.
+        팔로업 노트는 날짜별로 새로 만든다(덮어쓰지 않는다. 시계열 이력이 자산이다).
+        기업별 영향 분석 등 가로지르는 해석은 raw가 아니라 `wiki/[theme]-impact-map.md`에 둔다(§3).
    4. **report** 헤더 형식: "report-[제목]"
    5. **note** 헤더 형식: "[대분류(book, strategic-thinking 등 자유롭게 신설 가능)]-[제목]
    6. **qa** 헤더 형식: 질문 문장 그대로 (prefix 없음, 예: "물류 스타트업은 어떤 문제를 풀고 어떤 비즈니스 모델을 갖는가")
