@@ -75,7 +75,7 @@ tags:
 - [[news-260724-US imposes tariffs over forced labor before global duty ends]] #supply-chain #macro #geopolitics/us — 미국, 강제노동 명분 Section 301 관세(10%/12.5%, net of MFN)를 60개국에 부과·IEEPA→122→301 근거 갈아타기
 - [[news-260901-Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play]] #ai #semiconductor #strategy — Why Nvidia's Hugging Face Acquisition Signals AI's Full Ecosystem Play (Forbes, Gerui Wang) — 인수를 애플리케이션 층 확보이자 고객 자체 칩에 대한 방어로 규정하고 '엔비디아는 위로·AI 랩은 아래로'라는 수렴 명제를 제시. 원인 사슬 = 고객 4곳의 추론 칩 이탈(오픈AI Jalapeño·앤스로픽 2026.8.5 실리콘팀·딥시크 2026.7 로이터·구글 TPU) → 추론 마진이 곧 AI 랩 사업 마진(컴퓨트 비용이 매출의 60-75%⚠️) → 팹리스-파운드리 분업 성숙으로 엔비디아 해자가 소프트웨어에만 남음. 정리자 주 4건(계약 체결일·'3.6배'는 처리속도 아닌 지연시간·로보틱스 협력은 2024.11부터 기존·LeRobot과 Pollen Robotics 성격 혼동).
 
-## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (79)
+## cov/ — overview — 기업분석 (cov-[Ticker]-[Company]) (80)
 
 ### AI · 반도체
 
@@ -138,6 +138,7 @@ tags:
 ### automotive
 
 - [[cov-005380-현대자동차]] : 완성차 — 차량(78%)·금융(16%)·기타 3개 영업부문 체제로, 미국 관세 4.1조원 부담이 차량부문 이익을 33% 깎은 2025년을 통과 중인 국내 1위 완성차. (+finance)
+- [[cov-000270-기아]] : 완성차 — 금융부문 없이 차량 손익이 곧 전사 손익인 구조로, 북미 매출 44%에 2026년 관세 3.3-3.5조원을 안고 xEV 비중 35%·HEV 중심으로 마진을 3개 분기 연속 회복 중. (+finance)
 - [[cov-086280-현대글로비스]] : 종합물류 — 물류·해운(PCTC·벌크)·유통(CKD)을 함께 돌리며 매출의 76%를 현대차·기아 등 특수관계자에 의존하는 그룹 물류사. (+supply-chain/logistics)
 - [[cov-AZO-Autozone]] : 자동차 부품 리테일 — 관세·리쇼어링 국면에서 애프터마켓 수요를 흡수하는 미국 최대 자동차 부품 소매 유통망. (+retail)
 - [[cov-CVNA-Carvana]] : 중고차 이커머스 — 관세로 인한 신차 가격 상승이 중고차 수요로 이어지는 구조의 온라인 중고차 판매 플랫폼. (+retail)
