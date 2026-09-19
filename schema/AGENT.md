@@ -39,7 +39,23 @@
 - 각 파일의 헤더는 파일의 내용(type)에 따라 다르게 적용한다. 파일의 분류: news-scrap(뉴스 스크랩-하나의 출처에서 여러 주제를 요약), overview(기업분석), research(자료 종합), report(단일 자료 요약), note(그외), qa(질문-답변 노트). 이는 frontmatter `type`에도 똑같이 적용된다.
    1. **news-scrap** 헤더 형식: "news-yymmdd-[제목 또는 키워드]"
    2. **overview** 헤더 형식: "cov-[Ticker]-[Company Name]"
+      - `[Ticker]`는 미국 상장사는 심볼, 한국 상장사는 종목코드 6자리다.
+      - `raw/cov/`에는 **본문 구조가 다른 두 포맷이 공존한다.** 기업당 파일은 하나이므로
+        새 노트를 만들기 전에 기존 파일이 어느 포맷인지 확인하고, 다른 포맷을 덮어쓰지 않는다.
+        ① **투자 포맷**(`/cov` 스킬): Executive Summary / Company Overview / Industry Overview /
+        Catalyst / Investment Ratings 5단락. 투자 판단이 목적이다.
+        ② **사실 조사 포맷**(`/corp-fact` 스킬): 0-8장(채용공고 / 비즈니스 모델 / 고객과 비용 구조 /
+        경쟁 구도 / 자원 배분 / 과제와 기회 / 부문별 심층 / 그 밖에 확인된 사실 / 확인 실패 항목).
+        취업·채용 준비가 목적이고 DART 사업보고서 원문을 주 근거로 한다. 신뢰도 라벨([확인]/[간접]/[미확인])을
+        모든 사실에 붙이며, 지원자 관점의 해석은 derived이므로 이 노트에 쓰지 않는다(§1).
    3. **research** 헤더 형식: "research-[field(optional)]-[topic]"
+      - 실적 노트: `research-[Ticker]-[FYyyQn 또는 nQyy]-earnings`
+      - 팔로업 노트(`/follow-up` 스킬): 기업 팔로업은 `research-[Ticker]-[yymmdd]-followup-[주제]`,
+        주제 팔로업은 `research-[주제]-[yymmdd]-followup`. 파일명에 **언제·무엇을** 팔로업했는지가
+        드러나야 하므로 날짜와 주제를 모두 넣는다. 기업 팔로업은 cov 노트를 길게 만들지 않기 위해
+        `raw/cov/`가 아니라 여기에 두며, 같은 기업의 실적 노트와 나란히 읽히는 것이 목적이다.
+        팔로업 노트는 날짜별로 새로 만든다(덮어쓰지 않는다. 시계열 이력이 자산이다).
+        기업별 영향 분석 등 가로지르는 해석은 raw가 아니라 `wiki/[theme]-impact-map.md`에 둔다(§3).
    4. **report** 헤더 형식: "report-[제목]"
    5. **note** 헤더 형식: "[대분류(book, strategic-thinking 등 자유롭게 신설 가능)]-[제목]
    6. **qa** 헤더 형식: 질문 문장 그대로 (prefix 없음, 예: "물류 스타트업은 어떤 문제를 풀고 어떤 비즈니스 모델을 갖는가")

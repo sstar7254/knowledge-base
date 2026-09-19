@@ -22,7 +22,7 @@ description: "사용자가 제공한 공급망(supply-chain) 기사를 충실히
 
 ### 2단계 — frontmatter 삽입
 
-`schema/CLAUDE.md`의 raw frontmatter 관습을 따른다.
+`schema/AGENT.md`의 raw frontmatter 관습을 따른다.
 
 ```yaml
 ---
@@ -36,12 +36,12 @@ tags:
 
 - frontmatter는 **4개 필드만** 둔다(type / date / updated / tags). `source`·`author`·`status` 같은 필드는 두지 않는다.
 - `date`/`updated`에는 모두 노트 작성일을 기록한다.
-- `tags`는 본문에서 가장 중요한 키워드 2~3개로, `schema/CLAUDE.md`의 태그 리스트(supply-chain, supply-chain/logistics, macro 등)를 우선한다.
-- **출처(매체명·URL·기자명)는 frontmatter가 아니라 마크다운 각주**로 단다. 본문에는 `[^id]`만 남기고 정의는 노트 최하단에 모은다(`schema/CLAUDE.md` §2의 각주 규칙과 동일). 각주 정의 묶음이 곧 출처 목록이므로 별도 `출처:` 라인이나 `### 출처` 섹션은 두지 않는다.
+- `tags`는 본문에서 가장 중요한 키워드 2~3개로, `schema/AGENT.md`의 태그 리스트(supply-chain, supply-chain/logistics, macro 등)를 우선한다.
+- **출처(매체명·URL·기자명)는 frontmatter가 아니라 마크다운 각주**로 단다. 본문에는 `[^id]`만 남기고 정의는 노트 최하단에 모은다(`schema/AGENT.md` §2의 각주 규칙과 동일). 각주 정의 묶음이 곧 출처 목록이므로 별도 `출처:` 라인이나 `### 출처` 섹션은 두지 않는다.
 
 ### 3단계 — 제목(파일명) 형식 통일
 
-`schema/CLAUDE.md`의 news-scrap 헤더 규칙에 따라 **`raw/news/` 폴더**에 `news-yymmdd-(제목 또는 핵심 키워드).md` 형식으로 저장하고, `wiki/raw-map.md` 카탈로그의 news 섹션에도 한 줄을 추가한다.
+`schema/AGENT.md`의 news-scrap 헤더 규칙에 따라 **`raw/news/` 폴더**에 `news-yymmdd-(제목 또는 핵심 키워드).md` 형식으로 저장하고, `wiki/raw-map.md` 카탈로그의 news 섹션에도 한 줄을 추가한다.
 
 - `yymmdd`: 기사 발행일 기준 6자리(예: 260623).
 - 제목: 기사 원제(영문)를 그대로 쓰거나, 너무 길면 핵심 키워드로 축약한다. 콜론·특수문자는 파일시스템에 문제없는 범위에서 보존한다.
